@@ -279,14 +279,22 @@ def run(output_path, max_items, state_path, send_email=True):
 
     _save_state(state_path, current_items)
 
-    if changes and send_email:
-        subject = f"BAANKNET updates: {len(changes)} changed/new listing(s)"
-        body_sections = ["Detected updates:\n"]
-        for entry in changes[:50]:
-            body_sections.append(_format_item_for_email(entry))
-            body_sections.append("-" * 40 + "\n")
-        if len(changes) > 50:
-            body_sections.append(f"...and {len(changes) - 50} more.\n")
+    if send_email:
+        if changes:
+            subject = f"BAANKNET updates: {len(changes)} changed/new listing(s)"
+            body_sections = ["Detected updates:\n"]
+            for entry in changes[:50]:
+                body_sections.append(_format_item_for_email(entry))
+                body_sections.append("-" * 40 + "\n")
+            if len(changes) > 50:
+                body_sections.append(f"...and {len(changes) - 50} more.\n")
+        else:
+            subject = "BAANKNET scraper: No updates"
+            body_sections = [
+                "No changes detected in property listings.\n",
+                f"Total listings found: {len(results)}\n",
+                f"Scrape timestamp: {__import__('datetime').datetime.utcnow().isoformat()} UTC\n",
+            ]
         _send_email(subject, "\n".join(body_sections))
 
     return results
