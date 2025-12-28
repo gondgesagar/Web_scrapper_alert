@@ -44,6 +44,24 @@ def _collect_date_fields(pairs):
     return date_pairs
 
 
+def _is_maharashtra(item):
+    """Check if item is from Maharashtra state."""
+    if not isinstance(item, dict):
+        return False
+    
+    # Check for state field directly
+    state = item.get("state") or item.get("State") or item.get("stateName")
+    if state and "maharashtra" in str(state).lower():
+        return True
+    
+    # Check in address field
+    address = item.get("address") or item.get("Address") or ""
+    if "maharashtra" in str(address).lower():
+        return True
+    
+    return False
+
+
 def _extract_item_fields(item):
     pairs = _extract_key_value_pairs(item)
 
@@ -75,11 +93,23 @@ def _extract_item_fields(item):
             r"url",
             r"document",
             r"property[_-]?url",
-            r"photos",
         ],
     )
     if link and isinstance(link, str) and link.startswith("Production/"):
-        link = f"https://d14q55p4nerl4m.cloudfront.net/{link}"
+        link = f"https://baanknet.com/property-listing"
+    
+    photos = _find_first_value(
+        pairs,
+        [
+            r"photos",
+            r"images",
+            r"imageurl",
+            r"image[_-]?url",
+        ],
+    )
+    if photos and isinstance(photos, str) and photos.startswith("Production/"):
+        photos = f"https://d14q55p4nerl4m.cloudfront.net/{photos}"
+    
     important_dates = _collect_date_fields(pairs)
 
     return {
@@ -87,6 +117,7 @@ def _extract_item_fields(item):
         "details": details,
         "important_dates": important_dates,
         "link": link,
+        "photos": photos,
     }
 
 
@@ -173,30 +204,58 @@ def _fingerprint_item(item):
 
 
 def _format_item_for_email(item):
+    """Format item as HTML with embedded images and clickable link."""
     raw = item.get("raw") if isinstance(item, dict) else {}
     summary = item.get("details") or ""
     bank = raw.get("bankName") if isinstance(raw, dict) else ""
     price = raw.get("price") if isinstance(raw, dict) else ""
     posted = raw.get("postedOn") if isinstance(raw, dict) else ""
     link = item.get("link") or ""
+    photos = item.get("photos") or ""
     dates = item.get("important_dates") or []
+    
+    # Format dates
     date_lines = []
     for entry in dates:
         key = entry.get("key")
         value = entry.get("value")
-        date_lines.append(f"- {key}: {value}")
-    dates_block = "\n".join(date_lines) if date_lines else "- (none)"
-    return (
-        f"Details: {summary}\n"
-        f"Bank: {bank}\n"
-        f"Price: {price}\n"
-        f"Posted: {posted}\n"
-        f"Link: {link}\n"
-        f"Important dates:\n{dates_block}\n"
-    )
+        date_lines.append(f"<li><strong>{key}</strong>: {value}</li>")
+    dates_html = "<ul>" + "".join(date_lines) + "</ul>" if date_lines else "<p><em>(none)</em></p>"
+    
+    # Build HTML
+    html = f"""
+    <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; border-radius: 5px;">
+        <h3 style="color: #333; margin-top: 0;">{summary}</h3>
+        
+        <p><strong>Bank:</strong> {bank}</p>
+        <p><strong>Price:</strong> {price}</p>
+        <p><strong>Posted:</strong> {posted}</p>
+        
+        <h4>Important Dates:</h4>
+        {dates_html}
+        
+        <p><strong>EMD Cost:</strong> {item.get('emd_cost') or '(not specified)'}</p>
+    """
+    
+    # Add image if available
+    if photos:
+        if isinstance(photos, str):
+            # Handle both single image and list of images
+            image_urls = [photos] if not isinstance(photos, list) else photos
+            for img_url in image_urls[:3]:  # Limit to 3 images per email
+                if isinstance(img_url, str):
+                    html += f'<img src="{img_url}" style="max-width: 100%; height: auto; margin: 10px 0; border-radius: 5px;" alt="Property image">'
+    
+    # Add clickable link
+    if link:
+        html += f'<p><a href="{link}" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; margin-top: 10px;">View Full Listing</a></p>'
+    
+    html += "</div>"
+    
+    return html
 
 
-def _send_email(subject, body):
+def _send_email(subject, body, is_html=True):
     smtp_host = os.getenv("SMTP_HOST")
     smtp_port = os.getenv("SMTP_PORT")
     smtp_user = os.getenv("SMTP_USER")
@@ -212,7 +271,12 @@ def _send_email(subject, body):
     msg["Subject"] = subject
     msg["From"] = email_from
     msg["To"] = email_to
-    msg.set_content(body)
+    
+    if is_html:
+        msg.set_content("This email requires HTML support to display properly.")
+        msg.add_alternative(body, subtype="html")
+    else:
+        msg.set_content(body)
 
     with smtplib.SMTP(smtp_host, int(smtp_port)) as server:
         server.starttls()
@@ -263,6 +327,10 @@ def run(output_path, max_items, state_path, send_email=True):
     changes = []
     for item in items[:max_items]:
         if isinstance(item, dict):
+            # Filter for Maharashtra only
+            if not _is_maharashtra(item):
+                continue
+            
             entry = _extract_item_fields(item)
             entry["raw"] = item
             results.append(entry)
@@ -281,21 +349,26 @@ def run(output_path, max_items, state_path, send_email=True):
 
     if send_email:
         if changes:
-            subject = f"BAANKNET updates: {len(changes)} changed/new listing(s)"
-            body_sections = ["Detected updates:\n"]
+            subject = f"BAANKNET (Maharashtra): {len(changes)} updated listing(s)"
+            body_sections = [
+                '<h2 style="color: #333;">BAANKNET Property Updates - Maharashtra</h2>',
+                '<p style="color: #666;">Detected updates:</p>',
+            ]
             for entry in changes[:50]:
                 body_sections.append(_format_item_for_email(entry))
-                body_sections.append("-" * 40 + "\n")
             if len(changes) > 50:
-                body_sections.append(f"...and {len(changes) - 50} more.\n")
+                body_sections.append(f'<p style="color: #999;"><em>...and {len(changes) - 50} more.</em></p>')
+            body_html = "\n".join(body_sections)
         else:
-            subject = "BAANKNET scraper: No updates"
-            body_sections = [
-                "No changes detected in property listings.\n",
-                f"Total listings found: {len(results)}\n",
-                f"Scrape timestamp: {__import__('datetime').datetime.utcnow().isoformat()} UTC\n",
-            ]
-        _send_email(subject, "\n".join(body_sections))
+            subject = "BAANKNET (Maharashtra): No updates"
+            body_html = f"""
+            <h2 style="color: #333;">BAANKNET Scraper - Maharashtra</h2>
+            <p>No changes detected in property listings.</p>
+            <p><strong>Total listings found:</strong> {len(results)}</p>
+            <p><strong>Scrape timestamp:</strong> {__import__('datetime').datetime.utcnow().isoformat()} UTC</p>
+            <p style="color: #999; font-size: 12px;">This is an automated alert. Next check in 5 minutes.</p>
+            """
+        _send_email(subject, body_html, is_html=True)
 
     return results
 
