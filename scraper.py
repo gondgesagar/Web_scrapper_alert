@@ -6,6 +6,7 @@ import re
 import smtplib
 from email.message import EmailMessage
 from pathlib import Path
+from datetime import datetime, timedelta
 
 TARGET_URL = "https://baanknet.com/property-listing"
 STATE_SCHEMA_VERSION = 1
@@ -60,6 +61,55 @@ def _is_maharashtra(item):
         return True
     
     return False
+
+
+def _extract_auction_date(item):
+    """Extract auction date from item. Returns datetime object or None."""
+    if not isinstance(item, dict):
+        return None
+    
+    # Check various auction date fields
+    auction_keys = [
+        "auctionStartDateTime",
+        "auctionEndDateTime",
+        "auction_start_date",
+        "auction_end_date",
+        "auctionDate",
+        "auction_date",
+    ]
+    
+    for key in auction_keys:
+        date_str = item.get(key)
+        if date_str:
+            try:
+                # Try ISO format first
+                if isinstance(date_str, str):
+                    # Handle ISO format with or without timezone
+                    if "T" in date_str:
+                        date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+                    else:
+                        date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+                    return date_obj
+            except (ValueError, TypeError):
+                continue
+    
+    return None
+
+
+def _is_auction_within_month(item):
+    """Check if item has auction date within the next 1 month or more."""
+    auction_date = _extract_auction_date(item)
+    
+    if not auction_date:
+        return False
+    
+    # Make both aware for comparison
+    now = datetime.now(auction_date.tzinfo) if auction_date.tzinfo else datetime.now()
+    one_month_from_now = now + timedelta(days=30)
+    
+    # Auction should be in the future but not within 1 month
+    # Actually re-reading: "upcoming 1 month or more" means >= 1 month away
+    return auction_date >= one_month_from_now
 
 
 def _extract_item_fields(item):
@@ -324,11 +374,16 @@ def run(output_path, max_items, state_path, send_email=True):
 
     results = []
     current_items = {}
-    changes = []
+    new_auctions = []
+    
     for item in items[:max_items]:
         if isinstance(item, dict):
             # Filter for Maharashtra only
             if not _is_maharashtra(item):
+                continue
+            
+            # Filter for auctions 1 month or more in the future
+            if not _is_auction_within_month(item):
                 continue
             
             entry = _extract_item_fields(item)
@@ -336,9 +391,13 @@ def run(output_path, max_items, state_path, send_email=True):
             results.append(entry)
             entry_id = _item_id(entry)
             fingerprint = _fingerprint_item(entry)
+            
+            # Only track items with upcoming auctions
             current_items[entry_id] = fingerprint
-            if previous_items.get(entry_id) != fingerprint:
-                changes.append(entry)
+            
+            # Check if this is a new auction (not in previous log)
+            if entry_id not in previous_items:
+                new_auctions.append(entry)
         else:
             results.append({"raw": item})
 
@@ -348,23 +407,23 @@ def run(output_path, max_items, state_path, send_email=True):
     _save_state(state_path, current_items)
 
     if send_email:
-        if changes:
-            subject = f"BAANKNET (Maharashtra): {len(changes)} updated listing(s)"
+        if new_auctions:
+            subject = f"BAANKNET (Maharashtra): {len(new_auctions)} new auction(s)"
             body_sections = [
-                '<h2 style="color: #333;">BAANKNET Property Updates - Maharashtra</h2>',
-                '<p style="color: #666;">Detected updates:</p>',
+                '<h2 style="color: #333;">🔔 BAANKNET - New Auctions (Maharashtra)</h2>',
+                '<p style="color: #666;">New property auctions with upcoming dates (1 month or more):</p>',
             ]
-            for entry in changes[:50]:
+            for entry in new_auctions[:50]:
                 body_sections.append(_format_item_for_email(entry))
-            if len(changes) > 50:
-                body_sections.append(f'<p style="color: #999;"><em>...and {len(changes) - 50} more.</em></p>')
+            if len(new_auctions) > 50:
+                body_sections.append(f'<p style="color: #999;"><em>...and {len(new_auctions) - 50} more.</em></p>')
             body_html = "\n".join(body_sections)
         else:
-            subject = "BAANKNET (Maharashtra): No updates"
+            subject = "BAANKNET (Maharashtra): No new auctions"
             body_html = f"""
             <h2 style="color: #333;">BAANKNET Scraper - Maharashtra</h2>
-            <p>No changes detected in property listings.</p>
-            <p><strong>Total listings found:</strong> {len(results)}</p>
+            <p>No new auctions detected.</p>
+            <p><strong>Total listings with upcoming auctions (1+ month):</strong> {len(results)}</p>
             <p><strong>Scrape timestamp:</strong> {__import__('datetime').datetime.utcnow().isoformat()} UTC</p>
             <p style="color: #999; font-size: 12px;">This is an automated alert. Next check in 5 minutes.</p>
             """
