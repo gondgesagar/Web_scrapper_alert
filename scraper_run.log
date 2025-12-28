@@ -8,7 +8,10 @@ Fetched from https://www.eauctionsindia.com/city/mumbai: 0 properties so far
 Fetched from https://www.eauctionsindia.com/city/navi-mumbai: 0 properties so far
 Fetched from https://www.eauctionsindia.com/city/raigad: 0 properties so far
 Fetched from https://www.eauctionsindia.com/city/ratnagiri: 0 properties so far
-Fetched from https://www.eauctionsindia.com/city/bhiwandi: 0 properties so far
+Warning: Failed to fetch https://www.eauctionsindia.com/city/bhiwandi: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://www.eauctionsindia.com/city/bhiwandi", waiting until "networkidle"
+
 Fetched from https://www.eauctionsindia.com/city/latur: 0 properties so far
 eauctionsindia: 0 properties fetched
 No new auctions found; skipping email.
