@@ -1,6 +1,6 @@
 Warning: failed to fetch Maharashtra pincodes: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 Fetching BAANKNET properties...
-BAANKNET: 10 properties fetched
+BAANKNET: 0 properties fetched
 Fetching eauctionsindia properties...
 Fetched from https://www.eauctionsindia.com/city/pune: 0 properties so far
 Fetched from https://www.eauctionsindia.com/city/thane: 0 properties so far
@@ -9,9 +9,12 @@ Fetched from https://www.eauctionsindia.com/city/navi-mumbai: 0 properties so fa
 Fetched from https://www.eauctionsindia.com/city/raigad: 0 properties so far
 Fetched from https://www.eauctionsindia.com/city/ratnagiri: 0 properties so far
 Fetched from https://www.eauctionsindia.com/city/bhiwandi: 0 properties so far
-Fetched from https://www.eauctionsindia.com/city/latur: 0 properties so far
+Warning: Failed to fetch https://www.eauctionsindia.com/city/latur: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://www.eauctionsindia.com/city/latur", waiting until "networkidle"
+
 eauctionsindia: 0 properties fetched
 No new auctions found; skipping email.
-Saved 7 pincodes to cache.
+Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=0
 Wrote 0 items to data/property_listings.json
