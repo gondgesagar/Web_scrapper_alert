@@ -10,7 +10,9 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
+    outputs:
+      new_auctions: ${{ steps.run_scraper.outputs.new_auctions }}
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,6 +30,7 @@ jobs:
           python -m playwright install chromium
       
       - name: Run scraper
+        id: run_scraper
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -35,7 +38,20 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
-        run: python scraper.py
+        run: |
+          set -e
+          # Run scraper and capture logs
+          python scraper.py 2>&1 | tee scraper_run.log
+
+          # Extract NEW_AUCTIONS_COUNT from output, default to 0
+          NEW_COUNT=$(grep -Eo 'NEW_AUCTIONS_COUNT=[0-9]+' scraper_run.log | sed 's/.*=//' || true)
+          if [ -z "$NEW_COUNT" ]; then
+            NEW_COUNT=0
+          fi
+
+          # Expose as step output for job-level outputs
+          echo "new_auctions=$NEW_COUNT" >> "$GITHUB_OUTPUT"
+          echo "New auctions found: $NEW_COUNT"
       
       - name: Commit and push changes
         run: |

@@ -7,9 +7,94 @@ import smtplib
 from email.message import EmailMessage
 from pathlib import Path
 from datetime import datetime, timedelta
+import requests
+
+# In-memory cache for pincode lookups (loaded from/saved to persistent file)
+PINCODE_CACHE = {}
+PINCODE_CACHE_FILE = Path(".state/pincode_cache.json")
 
 TARGET_URL = "https://baanknet.com/property-listing"
 STATE_SCHEMA_VERSION = 1
+
+
+def _load_pincode_cache():
+    """Load persistent pincode cache from file."""
+    global PINCODE_CACHE
+    if PINCODE_CACHE_FILE.exists():
+        try:
+            data = json.loads(PINCODE_CACHE_FILE.read_text(encoding="utf-8"))
+            if isinstance(data, dict):
+                PINCODE_CACHE = data
+                print(f"Loaded {len(PINCODE_CACHE)} cached pincodes.")
+        except Exception as e:
+            print(f"Warning: Could not load pincode cache: {e}")
+            PINCODE_CACHE = {}
+    else:
+        PINCODE_CACHE = {}
+
+
+def _save_pincode_cache():
+    """Save in-memory pincode cache to persistent file."""
+    try:
+        PINCODE_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
+        PINCODE_CACHE_FILE.write_text(
+            json.dumps(PINCODE_CACHE, indent=2, ensure_ascii=True),
+            encoding="utf-8"
+        )
+        print(f"Saved {len(PINCODE_CACHE)} pincodes to cache.")
+    except Exception as e:
+        print(f"Warning: Could not save pincode cache: {e}")
+
+
+# Persisted set of known Maharashtra pincodes (to avoid repeated per-state API calls)
+MAHARASHTRA_PINCODES = set()
+MAHARASHTRA_PINCODES_FILE = Path(".state/maharashtra_pincodes.json")
+
+
+def _load_maharashtra_pincodes():
+    """Load persisted Maharashtra pincodes or fetch from postalpincode API if missing."""
+    global MAHARASHTRA_PINCODES
+    if MAHARASHTRA_PINCODES_FILE.exists():
+        try:
+            data = json.loads(MAHARASHTRA_PINCODES_FILE.read_text(encoding="utf-8"))
+            if isinstance(data, list):
+                MAHARASHTRA_PINCODES = set(str(x) for x in data)
+                print(f"Loaded {len(MAHARASHTRA_PINCODES)} Maharashtra pincodes from cache.")
+                return
+        except Exception as e:
+            print(f"Warning: Could not load Maharashtra pincodes: {e}")
+
+    # Fetch list from API endpoint for Maharashtra
+    try:
+        resp = requests.get("https://api.postalpincode.in/state/Maharashtra", timeout=20)
+        data = resp.json()
+        pincodes = set()
+        if isinstance(data, list):
+            for entry in data:
+                pos = entry.get("PostOffice") or []
+                for po in pos:
+                    p = po.get("Pincode") or po.get("pincode")
+                    if p:
+                        pincodes.add(str(p))
+        MAHARASHTRA_PINCODES = pincodes
+        # persist
+        try:
+            MAHARASHTRA_PINCODES_FILE.parent.mkdir(parents=True, exist_ok=True)
+            MAHARASHTRA_PINCODES_FILE.write_text(json.dumps(sorted(list(MAHARASHTRA_PINCODES))), encoding="utf-8")
+            print(f"Fetched and saved {len(MAHARASHTRA_PINCODES)} Maharashtra pincodes.")
+        except Exception:
+            pass
+    except Exception as e:
+        print(f"Warning: failed to fetch Maharashtra pincodes: {e}")
+
+
+def _save_maharashtra_pincodes():
+    """Save current MAHARASHTRA_PINCODES to disk."""
+    try:
+        MAHARASHTRA_PINCODES_FILE.parent.mkdir(parents=True, exist_ok=True)
+        MAHARASHTRA_PINCODES_FILE.write_text(json.dumps(sorted(list(MAHARASHTRA_PINCODES))), encoding="utf-8")
+    except Exception as e:
+        print(f"Warning: Could not save Maharashtra pincodes: {e}")
 
 
 def _extract_key_value_pairs(obj, prefix=""):
@@ -45,21 +130,106 @@ def _collect_date_fields(pairs):
     return date_pairs
 
 
+def _extract_pincode(item):
+    """Try to extract a 6-digit Indian pincode from item dict or address text."""
+    if not isinstance(item, dict):
+        return None
+
+    # look in top-level keys
+    keys = [
+        "postalCode",
+        "postalcode",
+        "pincode",
+        "pin",
+        "zip",
+        "zipCode",
+        "zipcode",
+        "postal_code",
+    ]
+    for k in keys:
+        v = item.get(k)
+        if v:
+            s = str(v)
+            digits = "".join(ch for ch in s if ch.isdigit())
+            if len(digits) >= 6:
+                return digits[:6]
+
+    # try nested raw fields
+    raw = item.get("raw") if isinstance(item.get("raw"), dict) else item
+    if isinstance(raw, dict):
+        for k in keys:
+            v = raw.get(k)
+            if v:
+                s = str(v)
+                digits = "".join(ch for ch in s if ch.isdigit())
+                if len(digits) >= 6:
+                    return digits[:6]
+
+    # fallback: search address text for 6-digit number
+    addr = item.get("address") or item.get("Address") or (raw.get("address") if isinstance(raw, dict) else "")
+    if addr:
+        m = re.search(r"\b(\d{6})\b", str(addr))
+        if m:
+            return m.group(1)
+
+    return None
+
+
+def _pincode_is_maharashtra(pincode):
+    """Return True if pincode belongs to Maharashtra using postalpincode.in API. Caches results."""
+    if not pincode or not str(pincode).isdigit():
+        return False
+    p = str(pincode)
+    # Fast path: check pre-fetched Maharashtra pincodes
+    if p in MAHARASHTRA_PINCODES:
+        PINCODE_CACHE[p] = True
+        return True
+    if p in PINCODE_CACHE:
+        return PINCODE_CACHE[p]
+    try:
+        resp = requests.get(f"https://api.postalpincode.in/pincode/{p}", timeout=10)
+        data = resp.json()
+        if isinstance(data, list) and data:
+            first = data[0]
+            if first.get("Status") == "Success":
+                post_offices = first.get("PostOffice") or []
+                for po in post_offices:
+                    state = po.get("State") or ""
+                    if "maharashtra" in str(state).lower():
+                        PINCODE_CACHE[p] = True
+                        return True
+    except Exception:
+        pass
+    PINCODE_CACHE[p] = False
+    return False
+
+
 def _is_maharashtra(item):
-    """Check if item is from Maharashtra state."""
+    """Check if item is from Maharashtra using several heuristics: state/stateName/stateID, pincode, or address text."""
     if not isinstance(item, dict):
         return False
-    
-    # Check for state field directly
-    state = item.get("state") or item.get("State") or item.get("stateName")
-    if state and "maharashtra" in str(state).lower():
+
+    # check common state fields
+    state_keys = ["state", "State", "stateName", "statename", "stateID", "state_id", "stateCode"]
+    for k in state_keys:
+        v = item.get(k)
+        if not v and isinstance(item.get("raw"), dict):
+            v = item.get("raw", {}).get(k)
+        if v:
+            s = str(v).lower()
+            if "maharashtra" in s or s.strip().upper() in ("MH", "MAH"):
+                return True
+
+    # check pincode
+    pincode = _extract_pincode(item)
+    if pincode and _pincode_is_maharashtra(pincode):
         return True
-    
-    # Check in address field
-    address = item.get("address") or item.get("Address") or ""
-    if "maharashtra" in str(address).lower():
+
+    # check address text
+    addr = item.get("address") or item.get("Address") or (item.get("raw") or {}).get("address", "")
+    if addr and "maharashtra" in str(addr).lower():
         return True
-    
+
     return False
 
 
@@ -366,6 +536,11 @@ def fetch_with_playwright():
 
 
 def run(output_path, max_items, state_path, send_email=True):
+    # Load persistent pincode cache at start
+    _load_pincode_cache()
+    # Load or fetch Maharashtra pincodes list
+    _load_maharashtra_pincodes()
+    
     payloads = fetch_with_playwright()
     items = _normalize_payloads(payloads)
 
@@ -406,28 +581,31 @@ def run(output_path, max_items, state_path, send_email=True):
 
     _save_state(state_path, current_items)
 
-    if send_email:
-        if new_auctions:
-            subject = f"BAANKNET (Maharashtra): {len(new_auctions)} new auction(s)"
-            body_sections = [
-                '<h2 style="color: #333;">🔔 BAANKNET - New Auctions (Maharashtra)</h2>',
-                '<p style="color: #666;">New property auctions with upcoming dates (1 month or more):</p>',
-            ]
-            for entry in new_auctions[:50]:
-                body_sections.append(_format_item_for_email(entry))
-            if len(new_auctions) > 50:
-                body_sections.append(f'<p style="color: #999;"><em>...and {len(new_auctions) - 50} more.</em></p>')
-            body_html = "\n".join(body_sections)
-        else:
-            subject = "BAANKNET (Maharashtra): No new auctions"
-            body_html = f"""
-            <h2 style="color: #333;">BAANKNET Scraper - Maharashtra</h2>
-            <p>No new auctions detected.</p>
-            <p><strong>Total listings with upcoming auctions (1+ month):</strong> {len(results)}</p>
-            <p><strong>Scrape timestamp:</strong> {__import__('datetime').datetime.utcnow().isoformat()} UTC</p>
-            <p style="color: #999; font-size: 12px;">This is an automated alert. Next check in 5 minutes.</p>
-            """
+    # Only send an email when there are new auctions
+    if send_email and new_auctions:
+        subject = f"BAANKNET (Maharashtra): {len(new_auctions)} new auction(s)"
+        body_sections = [
+            '<h2 style="color: #333;">🔔 BAANKNET - New Auctions (Maharashtra)</h2>',
+            '<p style="color: #666;">New property auctions with upcoming dates (1 month or more):</p>',
+        ]
+        for entry in new_auctions[:50]:
+            body_sections.append(_format_item_for_email(entry))
+        if len(new_auctions) > 50:
+            body_sections.append(f'<p style="color: #999;"><em>...and {len(new_auctions) - 50} more.</em></p>')
+        body_html = "\n".join(body_sections)
         _send_email(subject, body_html, is_html=True)
+    else:
+        print("No new auctions found; skipping email.")
+
+    # Save persistent pincode cache and Maharashtra pincodes before returning
+    _save_pincode_cache()
+    _save_maharashtra_pincodes()
+
+    # Print machine-parsable count for CI workflows
+    try:
+        print(f"NEW_AUCTIONS_COUNT={len(new_auctions)}")
+    except Exception:
+        print("NEW_AUCTIONS_COUNT=0")
 
     return results
 
