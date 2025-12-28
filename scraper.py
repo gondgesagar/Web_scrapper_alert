@@ -14,6 +14,16 @@ PINCODE_CACHE = {}
 PINCODE_CACHE_FILE = Path(".state/pincode_cache.json")
 
 TARGET_URL = "https://baanknet.com/property-listing"
+EAUCTIONSINDIA_CITIES = [
+    "https://www.eauctionsindia.com/city/pune",
+    "https://www.eauctionsindia.com/city/thane",
+    "https://www.eauctionsindia.com/city/mumbai",
+    "https://www.eauctionsindia.com/city/navi-mumbai",
+    "https://www.eauctionsindia.com/city/raigad",
+    "https://www.eauctionsindia.com/city/ratnagiri",
+    "https://www.eauctionsindia.com/city/bhiwandi",
+    "https://www.eauctionsindia.com/city/latur",
+]
 STATE_SCHEMA_VERSION = 1
 
 
@@ -282,6 +292,85 @@ def _is_auction_within_month(item):
     return auction_date >= one_month_from_now
 
 
+def _extract_eauctionsindia_fields(item):
+    """Extract fields from eauctionsindia property item."""
+    # eauctionsindia items come from HTML parsing
+    if not isinstance(item, dict):
+        return None
+    
+    # Try to extract structured data
+    pairs = _extract_key_value_pairs(item)
+    
+    details = item.get("property_name") or item.get("title") or item.get("raw_text", "")[:100] or ""
+    
+    # Try to find auction/bid dates
+    auction_date = None
+    for key in ["auction_date", "bidding_end_date", "e_auction_date"]:
+        if key in item:
+            try:
+                auction_date = _parse_date_string(item[key])
+                if auction_date:
+                    break
+            except Exception:
+                pass
+    
+    # Extract price/reserve price
+    price = item.get("reserve_price") or item.get("upset_price") or item.get("price") or ""
+    
+    # Extract location (city should be in URL)
+    location = item.get("location") or item.get("address") or ""
+    
+    # Property URL
+    link = item.get("property_url") or item.get("url") or ""
+    
+    # Extract auction dates
+    important_dates = []
+    for key in ["auction_date", "bidding_start_date", "bidding_end_date", "e_auction_date"]:
+        if key in item and item[key]:
+            important_dates.append({"key": key, "value": item[key]})
+    
+    return {
+        "emd_cost": item.get("emd") or item.get("emd_amount") or "",
+        "details": str(details)[:200],
+        "important_dates": important_dates,
+        "link": link,
+        "photos": item.get("image_url") or item.get("photos") or "",
+        "source": "eauctionsindia",
+    }
+
+
+def _parse_date_string(date_str):
+    """Try to parse various date string formats."""
+    if not date_str:
+        return None
+    date_str = str(date_str).strip()
+    
+    # Common formats
+    formats = [
+        "%d-%m-%Y",
+        "%d/%m/%Y",
+        "%Y-%m-%d",
+        "%Y/%m/%d",
+        "%d %b %Y",
+        "%d %B %Y",
+    ]
+    
+    for fmt in formats:
+        try:
+            return datetime.strptime(date_str, fmt)
+        except ValueError:
+            pass
+    
+    # Try ISO format with fromisoformat
+    try:
+        if "T" in date_str:
+            return datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+    except (ValueError, TypeError):
+        pass
+    
+    return None
+
+
 def _extract_item_fields(item):
     pairs = _extract_key_value_pairs(item)
 
@@ -535,14 +624,101 @@ def fetch_with_playwright():
     return payloads
 
 
+def fetch_eauctionsindia_with_playwright():
+    """Fetch properties from eauctionsindia.com for multiple Maharashtra cities."""
+    try:
+        from playwright.sync_api import sync_playwright
+    except Exception as exc:
+        raise RuntimeError(
+            "Playwright is required for this target. Install dependencies "
+            "with: pip install -r requirements.txt and "
+            "python -m playwright install chromium"
+        ) from exc
+
+    all_properties = []
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        
+        for city_url in EAUCTIONSINDIA_CITIES:
+            try:
+                page = browser.new_page()
+                page.goto(city_url, wait_until="networkidle", timeout=60000)
+                page.wait_for_timeout(3000)
+                
+                # Try to extract property listings from the page
+                # eauctionsindia typically has property cards in divs/tables
+                properties_html = page.content()
+                
+                # Parse property data from page HTML using regex or BeautifulSoup approach
+                # For now, try to find property data in script tags or data attributes
+                import re as regex_module
+                
+                # Look for property data in window.properties or similar global vars
+                property_data_matches = regex_module.findall(
+                    r'"property":\s*(\{[^}]*\})',
+                    properties_html,
+                    regex_module.DOTALL
+                )
+                
+                if property_data_matches:
+                    for match in property_data_matches[:20]:  # Limit to 20 per city
+                        try:
+                            prop = json.loads(match)
+                            prop["source"] = "eauctionsindia"
+                            prop["city_url"] = city_url
+                            all_properties.append(prop)
+                        except Exception:
+                            pass
+                
+                # Alternative: extract visible property elements
+                try:
+                    # Try to find property listing containers
+                    property_cards = page.query_selector_all(".property-card, .property-item, [data-property-id]")
+                    for card in property_cards[:20]:
+                        try:
+                            prop_text = card.text_content()
+                            # Extract basic info from text
+                            all_properties.append({
+                                "source": "eauctionsindia",
+                                "city_url": city_url,
+                                "raw_text": prop_text,
+                                "html": card.outer_html(),
+                            })
+                        except Exception:
+                            pass
+                except Exception:
+                    pass
+                
+                page.close()
+                print(f"Fetched from {city_url}: {len(all_properties)} properties so far")
+            except Exception as e:
+                print(f"Warning: Failed to fetch {city_url}: {e}")
+                continue
+        
+        browser.close()
+
+    return all_properties
+
+
 def run(output_path, max_items, state_path, send_email=True):
     # Load persistent pincode cache at start
     _load_pincode_cache()
     # Load or fetch Maharashtra pincodes list
     _load_maharashtra_pincodes()
     
-    payloads = fetch_with_playwright()
-    items = _normalize_payloads(payloads)
+    # Fetch from both sources
+    print("Fetching BAANKNET properties...")
+    baanknet_payloads = fetch_with_playwright()
+    baanknet_items = _normalize_payloads(baanknet_payloads)
+    print(f"BAANKNET: {len(baanknet_items)} properties fetched")
+    
+    print("Fetching eauctionsindia properties...")
+    eauctionsindia_items = fetch_eauctionsindia_with_playwright()
+    print(f"eauctionsindia: {len(eauctionsindia_items)} properties fetched")
+    
+    # Combine items from both sources
+    all_items = baanknet_items + eauctionsindia_items
 
     previous_state = _load_state(state_path)
     previous_items = previous_state.get("items", {})
@@ -551,30 +727,41 @@ def run(output_path, max_items, state_path, send_email=True):
     current_items = {}
     new_auctions = []
     
-    for item in items[:max_items]:
-        if isinstance(item, dict):
-            # Filter for Maharashtra only
-            if not _is_maharashtra(item):
-                continue
-            
-            # Filter for auctions 1 month or more in the future
-            if not _is_auction_within_month(item):
-                continue
-            
-            entry = _extract_item_fields(item)
-            entry["raw"] = item
-            results.append(entry)
-            entry_id = _item_id(entry)
-            fingerprint = _fingerprint_item(entry)
-            
-            # Only track items with upcoming auctions
-            current_items[entry_id] = fingerprint
-            
-            # Check if this is a new auction (not in previous log)
-            if entry_id not in previous_items:
-                new_auctions.append(entry)
-        else:
+    for item in all_items[:max_items]:
+        if not isinstance(item, dict):
             results.append({"raw": item})
+            continue
+        
+        # Filter for Maharashtra only
+        if not _is_maharashtra(item):
+            continue
+        
+        # Determine source and extract fields accordingly
+        source = item.get("source", "baanknet")
+        
+        if source == "eauctionsindia":
+            entry = _extract_eauctionsindia_fields(item)
+            if not entry:
+                continue
+        else:
+            entry = _extract_item_fields(item)
+        
+        entry["raw"] = item
+        
+        # Filter for auctions 1 month or more in the future
+        if not _is_auction_within_month(item):
+            continue
+        
+        results.append(entry)
+        entry_id = _item_id(entry)
+        fingerprint = _fingerprint_item(entry)
+        
+        # Only track items with upcoming auctions
+        current_items[entry_id] = fingerprint
+        
+        # Check if this is a new auction (not in previous log)
+        if entry_id not in previous_items:
+            new_auctions.append(entry)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(results, indent=2, ensure_ascii=True), encoding="utf-8")
