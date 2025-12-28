@@ -69,6 +69,8 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update property listings - $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
+            # Pull latest remote changes to avoid non-fast-forward errors
+            git pull --rebase "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" main || true
             # Push using the provided GITHUB_TOKEN for authentication
-            git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:HEAD
+            git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:main
           fi
