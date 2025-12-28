@@ -9,6 +9,9 @@ on:
 
 jobs:
   scrape:
+    # Allow this job to push changes back to the repository
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     outputs:
       new_auctions: ${{ steps.run_scraper.outputs.new_auctions }}
@@ -17,6 +20,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          # keep the auth token available for pushing commits
+          persist-credentials: true
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -54,8 +59,16 @@ jobs:
           echo "New auctions found: $NEW_COUNT"
       
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update property listings - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push)
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update property listings - $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
+            # Push using the provided GITHUB_TOKEN for authentication
+            git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:HEAD
+          fi
