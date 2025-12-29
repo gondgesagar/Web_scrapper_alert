@@ -8,6 +8,8 @@ from email.message import EmailMessage
 from pathlib import Path
 from datetime import datetime, timedelta
 import requests
+import time
+from bs4 import BeautifulSoup
 
 # In-memory cache for pincode lookups (loaded from/saved to persistent file)
 PINCODE_CACHE = {}
@@ -74,28 +76,43 @@ def _load_maharashtra_pincodes():
         except Exception as e:
             print(f"Warning: Could not load Maharashtra pincodes: {e}")
 
-    # Fetch list from API endpoint for Maharashtra
-    try:
-        resp = requests.get("https://api.postalpincode.in/state/Maharashtra", timeout=20)
-        data = resp.json()
-        pincodes = set()
-        if isinstance(data, list):
-            for entry in data:
-                pos = entry.get("PostOffice") or []
-                for po in pos:
-                    p = po.get("Pincode") or po.get("pincode")
-                    if p:
-                        pincodes.add(str(p))
-        MAHARASHTRA_PINCODES = pincodes
-        # persist
+    # Fetch list from API endpoint for Maharashtra with retry logic
+    max_retries = 3
+    for attempt in range(max_retries):
         try:
-            MAHARASHTRA_PINCODES_FILE.parent.mkdir(parents=True, exist_ok=True)
-            MAHARASHTRA_PINCODES_FILE.write_text(json.dumps(sorted(list(MAHARASHTRA_PINCODES))), encoding="utf-8")
-            print(f"Fetched and saved {len(MAHARASHTRA_PINCODES)} Maharashtra pincodes.")
-        except Exception:
-            pass
-    except Exception as e:
-        print(f"Warning: failed to fetch Maharashtra pincodes: {e}")
+            print(f"Fetching Maharashtra pincodes (attempt {attempt + 1}/{max_retries})...")
+            resp = requests.get(
+                "https://api.postalpincode.in/state/Maharashtra",
+                timeout=30,
+                headers={"User-Agent": "Mozilla/5.0"}
+            )
+            data = resp.json()
+            pincodes = set()
+            if isinstance(data, list):
+                for entry in data:
+                    pos = entry.get("PostOffice") or []
+                    for po in pos:
+                        p = po.get("Pincode") or po.get("pincode")
+                        if p:
+                            pincodes.add(str(p))
+            MAHARASHTRA_PINCODES = pincodes
+            # persist
+            try:
+                MAHARASHTRA_PINCODES_FILE.parent.mkdir(parents=True, exist_ok=True)
+                MAHARASHTRA_PINCODES_FILE.write_text(json.dumps(sorted(list(MAHARASHTRA_PINCODES))), encoding="utf-8")
+                print(f"Fetched and saved {len(MAHARASHTRA_PINCODES)} Maharashtra pincodes.")
+            except Exception:
+                pass
+            return  # Success
+        except Exception as e:
+            wait_time = 2 ** attempt  # Exponential backoff: 1s, 2s, 4s
+            if attempt < max_retries - 1:
+                print(f"Warning: failed to fetch Maharashtra pincodes (attempt {attempt + 1}): {e}. Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                print(f"Warning: failed to fetch Maharashtra pincodes after {max_retries} attempts: {e}")
+                # Continue without Maharashtra pincode list (will fall back to address text)
+                MAHARASHTRA_PINCODES = set()
 
 
 def _save_maharashtra_pincodes():
@@ -642,62 +659,88 @@ def fetch_eauctionsindia_with_playwright():
         
         for city_url in EAUCTIONSINDIA_CITIES:
             try:
+                print(f"Scraping {city_url}...")
                 page = browser.new_page()
                 page.goto(city_url, wait_until="networkidle", timeout=60000)
                 page.wait_for_timeout(3000)
                 
-                # Try to extract property listings from the page
-                # eauctionsindia typically has property cards in divs/tables
-                properties_html = page.content()
+                # Get the HTML and parse with BeautifulSoup
+                html_content = page.content()
+                soup = BeautifulSoup(html_content, 'html.parser')
                 
-                # Parse property data from page HTML using regex or BeautifulSoup approach
-                # For now, try to find property data in script tags or data attributes
-                import re as regex_module
+                # Try multiple selectors to find property listings
+                property_cards = []
                 
-                # Look for property data in window.properties or similar global vars
-                property_data_matches = regex_module.findall(
-                    r'"property":\s*(\{[^}]*\})',
-                    properties_html,
-                    regex_module.DOTALL
-                )
+                # Look for common property card containers
+                selectors_to_try = [
+                    'div.property-card',
+                    'div.property-item',
+                    'div[data-property-id]',
+                    'div.auction-item',
+                    'div.listing-card',
+                    'article.property',
+                    'div.col-md-6',  # eauctionsindia uses grid layout
+                    'div.card',
+                ]
                 
-                if property_data_matches:
-                    for match in property_data_matches[:20]:  # Limit to 20 per city
-                        try:
-                            prop = json.loads(match)
-                            prop["source"] = "eauctionsindia"
-                            prop["city_url"] = city_url
+                for selector in selectors_to_try:
+                    if selector.startswith('div['):
+                        property_cards = soup.select(selector)
+                    else:
+                        property_cards = soup.select(selector)
+                    if property_cards:
+                        print(f"  Found {len(property_cards)} cards with selector: {selector}")
+                        break
+                
+                # Extract property data from cards
+                for card in property_cards[:20]:  # Limit to 20 per city
+                    try:
+                        prop = {}
+                        
+                        # Try to extract various fields from card HTML
+                        # Look for title/property name
+                        title_elem = card.find(['h2', 'h3', 'h4', 'span'], class_=re.compile('.*title.*|.*name.*', re.I))
+                        if title_elem:
+                            prop['property_name'] = title_elem.get_text(strip=True)
+                        
+                        # Look for price/reserve price
+                        price_elem = card.find(string=re.compile(r'(?:₹|Rs\.?|Price|Reserve)', re.I))
+                        if price_elem:
+                            prop['price'] = price_elem.get_text(strip=True)
+                        
+                        # Look for auction date
+                        date_elem = card.find(string=re.compile(r'\d{1,2}[/-]\d{1,2}[/-]\d{2,4}'))
+                        if date_elem:
+                            prop['auction_date'] = date_elem.get_text(strip=True)
+                        
+                        # Look for property link
+                        link_elem = card.find('a', href=True)
+                        if link_elem:
+                            prop['property_url'] = link_elem['href']
+                            if not prop['property_url'].startswith('http'):
+                                prop['property_url'] = 'https://www.eauctionsindia.com' + prop['property_url']
+                        
+                        # Try to get all text as fallback
+                        prop['raw_text'] = card.get_text(separator=' ', strip=True)[:300]
+                        
+                        # Only add if we found at least a name or URL
+                        if prop.get('property_name') or prop.get('property_url'):
+                            prop['source'] = 'eauctionsindia'
+                            prop['city_url'] = city_url
                             all_properties.append(prop)
-                        except Exception:
-                            pass
-                
-                # Alternative: extract visible property elements
-                try:
-                    # Try to find property listing containers
-                    property_cards = page.query_selector_all(".property-card, .property-item, [data-property-id]")
-                    for card in property_cards[:20]:
-                        try:
-                            prop_text = card.text_content()
-                            # Extract basic info from text
-                            all_properties.append({
-                                "source": "eauctionsindia",
-                                "city_url": city_url,
-                                "raw_text": prop_text,
-                                "html": card.outer_html(),
-                            })
-                        except Exception:
-                            pass
-                except Exception:
-                    pass
+                    except Exception as e:
+                        print(f"  Error parsing card: {e}")
+                        continue
                 
                 page.close()
-                print(f"Fetched from {city_url}: {len(all_properties)} properties so far")
+                print(f"  Extracted {len(all_properties)} properties so far from {city_url}")
             except Exception as e:
                 print(f"Warning: Failed to fetch {city_url}: {e}")
                 continue
         
         browser.close()
 
+    print(f"Total eauctionsindia properties fetched: {len(all_properties)}")
     return all_properties
 
 
