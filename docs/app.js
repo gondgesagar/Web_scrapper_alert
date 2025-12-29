@@ -87,7 +87,7 @@ const normalizeListing = (item, index) => {
     city: raw.city || item.city || raw.districtname || "",
     state: raw.statename || "",
     bank: raw.bankName || "",
-    type: raw.propertySubType || raw.typeOfAsset || "",
+    type: item.property_type || raw.propertySubType || raw.typeOfAsset || "",
     priceValue,
     priceLabel: formatPrice(priceValue, raw.price),
     postedOn: raw.postedOn || "",

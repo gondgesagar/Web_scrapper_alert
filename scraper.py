@@ -1053,6 +1053,9 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
         else:
             entry["source"] = "baanknet"
 
+        # Add a normalized property type for consistent filtering in the dashboard.
+        entry["property_type"] = _classify_property_type(entry)
+
         # normalize links
         entry["link"] = _normalize_link(entry.get("link"), source=entry.get("source"), city_url=item.get("city_url"))
 
