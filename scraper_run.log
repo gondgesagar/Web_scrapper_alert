@@ -1,7 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 0 properties fetched
+BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 2 cards with selector: div.card
@@ -126,6 +126,6 @@ Scraping https://www.eauctionsindia.com/city/latur...
 Total eauctionsindia properties fetched: 0
 eauctionsindia: 0 properties fetched
 No new auctions found; skipping email.
-Saved 0 pincodes to cache.
+Saved 5 pincodes to cache.
 NEW_AUCTIONS_COUNT=0
 Wrote 0 items to data/property_listings.json
