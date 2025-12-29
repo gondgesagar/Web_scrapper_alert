@@ -57,6 +57,11 @@ jobs:
           # Expose as step output for job-level outputs
           echo "new_auctions=$NEW_COUNT" >> "$GITHUB_OUTPUT"
           echo "New auctions found: $NEW_COUNT"
+
+      - name: Sync dashboard data
+        run: |
+          mkdir -p docs/data
+          cp data/property_listings.json docs/data/property_listings.json
       
       - name: Commit and push changes
         env:

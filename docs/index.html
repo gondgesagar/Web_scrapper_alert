@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Web Scrapper Alerts Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;600;700&family=Space+Grotesk:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-orb orb-1"></div>
+    <div class="bg-orb orb-2"></div>
+    <div class="bg-grid"></div>
+    <main class="container">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Auction Intelligence</p>
+          <h1>Web Scrapper Alerts Dashboard</h1>
+          <p class="subhead">
+            Track scraped property listings in one place. Filter by source, location, bank,
+            price, and more. Data refreshes from `property_listings.json`.
+          </p>
+        </div>
+        <div class="hero-panel">
+          <div class="stat">
+            <span class="stat-label">Total listings</span>
+            <span id="totalCount" class="stat-value">0</span>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Visible now</span>
+            <span id="filteredCount" class="stat-value">0</span>
+          </div>
+          <button id="refreshBtn" class="primary">Refresh data</button>
+          <p class="timestamp">Last fetch: <span id="lastFetch">-</span></p>
+        </div>
+      </header>
+
+      <section class="filters">
+        <div class="filter">
+          <label for="sourceFilter">Source</label>
+          <select id="sourceFilter"></select>
+        </div>
+        <div class="filter">
+          <label for="stateFilter">State</label>
+          <select id="stateFilter"></select>
+        </div>
+        <div class="filter">
+          <label for="cityFilter">City</label>
+          <select id="cityFilter"></select>
+        </div>
+        <div class="filter">
+          <label for="bankFilter">Bank</label>
+          <select id="bankFilter"></select>
+        </div>
+        <div class="filter">
+          <label for="typeFilter">Property type</label>
+          <select id="typeFilter"></select>
+        </div>
+        <div class="filter">
+          <label for="minPrice">Min price</label>
+          <input id="minPrice" type="number" min="0" step="10000" placeholder="0" />
+        </div>
+        <div class="filter">
+          <label for="maxPrice">Max price</label>
+          <input id="maxPrice" type="number" min="0" step="10000" placeholder="50000000" />
+        </div>
+        <div class="filter">
+          <label for="searchInput">Search</label>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Details, address, bank..."
+            autocomplete="off"
+          />
+        </div>
+        <div class="filter checkbox">
+          <label>
+            <input id="photoOnly" type="checkbox" />
+            Has photos only
+          </label>
+        </div>
+        <div class="filter-actions">
+          <button id="clearBtn" class="secondary">Clear filters</button>
+        </div>
+      </section>
+
+      <section class="results">
+        <div class="results-meta">
+          <p class="results-label">Live listings</p>
+          <div id="activeChips" class="chips"></div>
+        </div>
+        <div id="cards" class="cards"></div>
+        <div id="emptyState" class="empty-state hidden">
+          No listings match those filters. Try widening the search.
+        </div>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

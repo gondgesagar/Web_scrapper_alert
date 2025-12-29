@@ -1027,6 +1027,15 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(results, indent=2, ensure_ascii=True), encoding="utf-8")
+    # Also write a copy into docs/ so a static dashboard served via GitHub Pages can read it
+    try:
+        docs_data_dir = Path("docs") / "data"
+        docs_data_dir.mkdir(parents=True, exist_ok=True)
+        docs_fp = docs_data_dir / output_path.name
+        docs_fp.write_text(json.dumps(results, indent=2, ensure_ascii=True), encoding="utf-8")
+        print(f"Wrote copy of results to {docs_fp}")
+    except Exception as e:
+        print(f"Warning: unable to write docs copy of results: {e}")
 
     _save_state(state_path, current_items)
     print(f"Saved state with {len(current_items)} total tracked items to {state_path}")

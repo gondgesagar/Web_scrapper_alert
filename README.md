@@ -49,7 +49,7 @@ new or changed listings are detected.
 
 ## GitHub Actions
 
-Workflow: `.github/workflows/scrape.yml` runs every 6 hours (0, 6, 12, 18 UTC).
+Workflow: `.github/workflows/scrape.yml` runs every 5 minutes.
 
 To set up GitHub Actions:
 
@@ -63,10 +63,23 @@ To set up GitHub Actions:
    - `EMAIL_FROM`
 
 The workflow will automatically:
-- Run on schedule (every 6 hours)
+- Run on schedule (every 5 minutes)
 - Install dependencies and Playwright
 - Run the scraper
 - Commit changes to `data/property_listings.json` if there are updates
+- Sync `docs/data/property_listings.json` for the dashboard
 - Send email alerts via configured SMTP
 
 You can also manually trigger the workflow from the **Actions** tab.
+
+## Dashboard (GitHub Pages)
+
+The static dashboard lives in `docs/`. To publish it:
+
+1. Go to **Settings > Pages**
+2. Set **Source** to **Deploy from a branch**
+3. Select **Branch: main** and **Folder: /docs**
+
+The dashboard reads data from `docs/data/property_listings.json`. The workflow
+syncs it automatically after each scrape. Use the **Refresh data** button on
+the page to fetch the latest JSON.
