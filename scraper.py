@@ -661,7 +661,12 @@ def fetch_eauctionsindia_with_playwright():
             try:
                 print(f"Scraping {city_url}...")
                 page = browser.new_page()
-                page.goto(city_url, wait_until="networkidle", timeout=60000)
+                # Use DOMContentLoaded to avoid long networkidle waits; then wait for cards
+                try:
+                    page.goto(city_url, wait_until="domcontentloaded", timeout=90000)
+                except Exception:
+                    # fallback to networkidle if domcontentloaded fails
+                    page.goto(city_url, wait_until="networkidle", timeout=90000)
                 page.wait_for_timeout(3000)
                 
                 # Get the HTML and parse with BeautifulSoup
@@ -684,13 +689,24 @@ def fetch_eauctionsindia_with_playwright():
                 ]
                 
                 for selector in selectors_to_try:
-                    if selector.startswith('div['):
-                        property_cards = soup.select(selector)
-                    else:
-                        property_cards = soup.select(selector)
+                    property_cards = soup.select(selector)
                     if property_cards:
                         print(f"  Found {len(property_cards)} cards with selector: {selector}")
                         break
+
+                # If no cards found in initial HTML, try waiting for a common selector then reparse
+                if not property_cards:
+                    try:
+                        page.wait_for_selector('div.card, div.property-card, div.property-item', timeout=5000)
+                        html_content = page.content()
+                        soup = BeautifulSoup(html_content, 'html.parser')
+                        for selector in selectors_to_try:
+                            property_cards = soup.select(selector)
+                            if property_cards:
+                                print(f"  After waiting, found {len(property_cards)} cards with selector: {selector}")
+                                break
+                    except Exception:
+                        pass
                 
                 # Extract property data from cards
                 for card in property_cards[:20]:  # Limit to 20 per city
@@ -723,11 +739,18 @@ def fetch_eauctionsindia_with_playwright():
                         # Try to get all text as fallback
                         prop['raw_text'] = card.get_text(separator=' ', strip=True)[:300]
                         
-                        # Only add if we found at least a name or URL
-                        if prop.get('property_name') or prop.get('property_url'):
+                        # Relaxed: add if we found at least a name, URL, or substantial raw text
+                        if prop.get('property_name') or prop.get('property_url') or (prop.get('raw_text') and len(prop.get('raw_text')) > 30):
                             prop['source'] = 'eauctionsindia'
                             prop['city_url'] = city_url
                             all_properties.append(prop)
+                        else:
+                            # Log skipped card HTML for debugging
+                            try:
+                                snippet = str(card)[:300]
+                                print(f"  Skipped card (no name/url): {snippet}")
+                            except Exception:
+                                pass
                     except Exception as e:
                         print(f"  Error parsing card: {e}")
                         continue
