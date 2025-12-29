@@ -770,173 +770,215 @@ def fetch_eauctionsindia_with_playwright(cities=None):
 
     all_properties = []
 
+    def _auto_scroll(page, rounds=6, pause_ms=800):
+        """Scroll down to trigger lazy-loaded cards."""
+        for _ in range(rounds):
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_timeout(pause_ms)
+
+    def _extract_next_page_urls(soup, base_url):
+        """Find pagination links for additional result pages."""
+        urls = set()
+        for link in soup.select("a[href]"):
+            href = link.get("href") or ""
+            text = (link.get_text(strip=True) or "").lower()
+            if "page=" in href or text in ("next", "older"):
+                if href.startswith("http"):
+                    urls.add(href)
+                elif href.startswith("/"):
+                    urls.add("https://www.eauctionsindia.com" + href)
+                elif href:
+                    urls.add(base_url.rstrip("/") + "/" + href.lstrip("/"))
+        return urls
+
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        
+
         cities_to_scrape = cities or EAUCTIONSINDIA_CITIES
         for city_url in cities_to_scrape:
             try:
                 print(f"Scraping {city_url}...")
-                page = browser.new_page()
-                # Use DOMContentLoaded to avoid long networkidle waits; then wait for cards
-                try:
-                    page.goto(city_url, wait_until="domcontentloaded", timeout=90000)
-                except Exception:
-                    # fallback to networkidle if domcontentloaded fails
-                    page.goto(city_url, wait_until="networkidle", timeout=90000)
-                page.wait_for_timeout(3000)
-                
-                # Remove common ad containers from the DOM to avoid picking up placeholders
-                try:
-                    selectors = [
-                        "div[class*='ezoic']",
-                        "div[class*='ad-']",
-                        "div[id^='ad']",
-                        "ins[data-ad-client]",
-                        "div[class*='advert']",
-                        "span.ezoic-ad",
-                        "div[id^='ezoic']",
-                        "div[id^='ezoic-pub-ad-placeholder']",
-                        "iframe[src*='ads']",
-                        "div[class*='banner']",
-                    ]
-                    sel = ",".join(selectors)
-                    # Remove ad elements, then remove any empty .card containers left behind
-                    page.evaluate(
-                        "(sel) => {\n                            try { document.querySelectorAll(sel).forEach(e => e.remove()); } catch(e) {}\n                            try { document.querySelectorAll('script').forEach(s => { try { var t = s.textContent || ''; var src = s.src || ''; if(/ezstandalone|showAds|ezoic/i.test(t) || /ezoic|ads|doubleclick|googlesyndication|adservice/i.test(src)) s.remove(); } catch(e) {} }); } catch(e) {}\n                            try { document.querySelectorAll('div.card').forEach(c => { if(!c.textContent || c.textContent.trim().length === 0) c.remove(); }); } catch(e) {}\n                        }",
-                        sel,
-                    )
-                except Exception:
-                    # If ad-removal fails, continue with the raw HTML
-                    pass
+                seen_urls = set()
+                queue = [city_url]
 
-                # Get the HTML and parse with BeautifulSoup
-                html_content = page.content()
-                soup = BeautifulSoup(html_content, 'html.parser')
-                
-                # Attempt robust extraction by matching visible text keywords rather than brittle classes.
-                property_cards = []
-                try:
-                    candidate_html_list = page.evaluate("""
-                        () => {
-                            const keywords = ['Auction ID', 'Reserve Price', 'View More', 'eAuction', 'Auction Date'];
-                            const matches = [];
-                            const seen = new Set();
-                            const els = Array.from(document.querySelectorAll('div, article, section, li'));
-                            for (const el of els) {
-                                try {
-                                    const txt = (el.innerText || '').trim();
-                                    if (txt.length < 40) continue;
-                                    let hasKeyword = false;
-                                    for (const kw of keywords) {
-                                        if (txt.indexOf(kw) !== -1) { hasKeyword = true; break; }
-                                    }
-                                    if (hasKeyword) {
-                                        const h = el.outerHTML;
-                                        if (!seen.has(h)) { matches.push(h); seen.add(h); }
-                                    }
-                                } catch(e) {}
-                            }
-                            return matches.slice(0, 50);
-                        }
-                    """)
-                except Exception as e:
-                    print(f"    Error extracting by text-match: {e}")
-                    candidate_html_list = []
+                while queue:
+                    page_url = queue.pop(0)
+                    if page_url in seen_urls:
+                        continue
+                    seen_urls.add(page_url)
 
-                if candidate_html_list:
-                    print(f"  Found {len(candidate_html_list)} candidate card fragments by text-match")
-                    property_cards = [BeautifulSoup(h, 'html.parser').body or BeautifulSoup(h, 'html.parser') for h in candidate_html_list]
-                else:
-                    # Fallback: try class-based selectors
-                    selectors_to_try = [
-                        'div.property-card',
-                        'div.property-item',
-                        'div[data-property-id]',
-                        'div.auction-item',
-                        'div.listing-card',
-                        'article.property',
-                        'div.col-md-6',
-                        'div.card',
-                    ]
-                    for selector in selectors_to_try:
-                        property_cards = soup.select(selector)
-                        if property_cards:
-                            print(f"  Found {len(property_cards)} cards with selector: {selector}")
-                            break
-
-                    # If still no cards found, try waiting briefly then reparsing
-                    if not property_cards:
-                        try:
-                            page.wait_for_selector('div.card, div.property-card, div.property-item', timeout=5000)
-                            html_content = page.content()
-                            soup = BeautifulSoup(html_content, 'html.parser')
-                            for selector in selectors_to_try:
-                                property_cards = soup.select(selector)
-                                if property_cards:
-                                    print(f"  After waiting, found {len(property_cards)} cards with selector: {selector}")
-                                    break
-                        except Exception:
-                            pass
-                
-                # Extract property data from cards
-                for card in property_cards[:20]:  # Limit to 20 per city
+                    page = browser.new_page()
+                    # Use DOMContentLoaded to avoid long networkidle waits; then wait for cards
                     try:
-                        prop = {}
-                        
-                        # Try to extract various fields from card HTML
-                        # Look for title/property name
-                        title_elem = card.find(['h2', 'h3', 'h4', 'span'], class_=re.compile('.*title.*|.*name.*', re.I))
-                        if title_elem:
-                            prop['property_name'] = title_elem.get_text(strip=True)
-                        
-                        # Look for price/reserve price
-                        price_elem = card.find(string=re.compile(r'(?:₹|Rs\.?|Price|Reserve)', re.I))
-                        if price_elem:
-                            prop['price'] = price_elem.get_text(strip=True)
-                        
-                        # Look for auction date
-                        date_elem = card.find(string=re.compile(r'\d{1,2}[/-]\d{1,2}[/-]\d{2,4}'))
-                        if date_elem:
-                            prop['auction_date'] = date_elem.get_text(strip=True)
-                        
-                        # Look for property link
-                        link_elem = card.find('a', href=True)
-                        if link_elem:
-                            prop['property_url'] = link_elem['href']
-                            if not prop['property_url'].startswith('http'):
-                                prop['property_url'] = 'https://www.eauctionsindia.com' + prop['property_url']
-                        
-                        # Try to get all text as fallback
-                        prop['raw_text'] = card.get_text(separator=' ', strip=True)[:300]
-                        
-                        # Relaxed: add if we found at least a name, URL, or substantial raw text
-                        if prop.get('property_name') or prop.get('property_url') or (prop.get('raw_text') and len(prop.get('raw_text')) > 30):
-                            prop['source'] = 'eauctionsindia'
-                            prop['city_url'] = city_url
-                            all_properties.append(prop)
-                        else:
-                            # Log skipped card HTML for debugging
+                        page.goto(page_url, wait_until="domcontentloaded", timeout=90000)
+                    except Exception:
+                        # fallback to networkidle if domcontentloaded fails
+                        page.goto(page_url, wait_until="networkidle", timeout=90000)
+                    page.wait_for_timeout(2000)
+                    _auto_scroll(page, rounds=8, pause_ms=900)
+
+                    # Remove common ad containers from the DOM to avoid picking up placeholders
+                    try:
+                        selectors = [
+                            "div[class*='ezoic']",
+                            "div[class*='ad-']",
+                            "div[id^='ad']",
+                            "ins[data-ad-client]",
+                            "div[class*='advert']",
+                            "span.ezoic-ad",
+                            "div[id^='ezoic']",
+                            "div[id^='ezoic-pub-ad-placeholder']",
+                            "iframe[src*='ads']",
+                            "div[class*='banner']",
+                        ]
+                        sel = ",".join(selectors)
+                        # Remove ad elements, then remove any empty .card containers left behind
+                        page.evaluate(
+                            """(sel) => {
+                            try { document.querySelectorAll(sel).forEach(e => e.remove()); } catch(e) {}
+                            try { document.querySelectorAll('script').forEach(s => { try { var t = s.textContent || ''; var src = s.src || ''; if(/ezstandalone|showAds|ezoic/i.test(t) || /ezoic|ads|doubleclick|googlesyndication|adservice/i.test(src)) s.remove(); } catch(e) {} }); } catch(e) {}
+                            try { document.querySelectorAll('div.card').forEach(c => { if(!c.textContent || c.textContent.trim().length === 0) c.remove(); }); } catch(e) {}
+                        }""",
+                            sel,
+                        )
+                    except Exception:
+                        # If ad-removal fails, continue with the raw HTML
+                        pass
+
+                    # Get the HTML and parse with BeautifulSoup
+                    html_content = page.content()
+                    soup = BeautifulSoup(html_content, "html.parser")
+
+                    # Attempt robust extraction by matching visible text keywords rather than brittle classes.
+                    property_cards = []
+                    try:
+                        candidate_html_list = page.evaluate("""
+                            () => {
+                                const keywords = ['Auction ID', 'Reserve Price', 'View More', 'eAuction', 'Auction Date'];
+                                const matches = [];
+                                const seen = new Set();
+                                const els = Array.from(document.querySelectorAll('div, article, section, li'));
+                                for (const el of els) {
+                                    try {
+                                        const txt = (el.innerText || '').trim();
+                                        if (txt.length < 40) continue;
+                                        let hasKeyword = false;
+                                        for (const kw of keywords) {
+                                            if (txt.indexOf(kw) !== -1) { hasKeyword = true; break; }
+                                        }
+                                        if (hasKeyword) {
+                                            const h = el.outerHTML;
+                                            if (!seen.has(h)) { matches.push(h); seen.add(h); }
+                                        }
+                                    } catch(e) {}
+                                }
+                                return matches;
+                            }
+                        """)
+                    except Exception as e:
+                        print(f"    Error extracting by text-match: {e}")
+                        candidate_html_list = []
+
+                    if candidate_html_list:
+                        print(f"  Found {len(candidate_html_list)} candidate card fragments by text-match")
+                        property_cards = [
+                            BeautifulSoup(h, "html.parser").body or BeautifulSoup(h, "html.parser")
+                            for h in candidate_html_list
+                        ]
+                    else:
+                        # Fallback: try class-based selectors
+                        selectors_to_try = [
+                            "div.property-card",
+                            "div.property-item",
+                            "div[data-property-id]",
+                            "div.auction-item",
+                            "div.listing-card",
+                            "article.property",
+                            "div.col-md-6",
+                            "div.card",
+                        ]
+                        for selector in selectors_to_try:
+                            property_cards = soup.select(selector)
+                            if property_cards:
+                                print(f"  Found {len(property_cards)} cards with selector: {selector}")
+                                break
+
+                        # If still no cards found, try waiting briefly then reparsing
+                        if not property_cards:
                             try:
-                                snippet = str(card)[:300]
-                                print(f"  Skipped card (no name/url): {snippet}")
+                                page.wait_for_selector("div.card, div.property-card, div.property-item", timeout=5000)
+                                html_content = page.content()
+                                soup = BeautifulSoup(html_content, "html.parser")
+                                for selector in selectors_to_try:
+                                    property_cards = soup.select(selector)
+                                    if property_cards:
+                                        print(f"  After waiting, found {len(property_cards)} cards with selector: {selector}")
+                                        break
                             except Exception:
                                 pass
-                    except Exception as e:
-                        print(f"  Error parsing card: {e}")
-                        continue
-                
-                page.close()
-                print(f"  Extracted {len(all_properties)} properties so far from {city_url}")
+
+                    # Extract property data from cards
+                    for card in property_cards:
+                        try:
+                            prop = {}
+
+                            # Try to extract various fields from card HTML
+                            # Look for title/property name
+                            title_elem = card.find(["h2", "h3", "h4", "span"], class_=re.compile(".*title.*|.*name.*", re.I))
+                            if title_elem:
+                                prop["property_name"] = title_elem.get_text(strip=True)
+
+                            # Look for price/reserve price
+                            price_elem = card.find(string=re.compile(r"(?:Rs\.?|Price|Reserve)", re.I))
+                            if price_elem:
+                                prop["price"] = price_elem.get_text(strip=True)
+
+                            # Look for auction date
+                            date_elem = card.find(string=re.compile(r"\d{1,2}[/-]\d{1,2}[/-]\d{2,4}"))
+                            if date_elem:
+                                prop["auction_date"] = date_elem.get_text(strip=True)
+
+                            # Look for property link
+                            link_elem = card.find("a", href=True)
+                            if link_elem:
+                                prop["property_url"] = link_elem["href"]
+                                if not prop["property_url"].startswith("http"):
+                                    prop["property_url"] = "https://www.eauctionsindia.com" + prop["property_url"]
+
+                            # Try to get all text as fallback
+                            prop["raw_text"] = card.get_text(separator=" ", strip=True)[:300]
+
+                            # Relaxed: add if we found at least a name, URL, or substantial raw text
+                            if prop.get("property_name") or prop.get("property_url") or (prop.get("raw_text") and len(prop.get("raw_text")) > 30):
+                                prop["source"] = "eauctionsindia"
+                                prop["city_url"] = city_url
+                                all_properties.append(prop)
+                            else:
+                                # Log skipped card HTML for debugging
+                                try:
+                                    snippet = str(card)[:300]
+                                    print(f"  Skipped card (no name/url): {snippet}")
+                                except Exception:
+                                    pass
+                        except Exception as e:
+                            print(f"  Error parsing card: {e}")
+                            continue
+
+                    next_urls = _extract_next_page_urls(soup, page_url)
+                    for url in next_urls:
+                        if url not in seen_urls and url not in queue:
+                            queue.append(url)
+
+                    page.close()
+                    print(f"  Extracted {len(all_properties)} properties so far from {city_url}")
             except Exception as e:
                 print(f"Warning: Failed to fetch {city_url}: {e}")
                 continue
-        
+
         browser.close()
 
     print(f"Total eauctionsindia properties fetched: {len(all_properties)}")
     return all_properties
-
 
 def run(output_path, max_items, state_path, send_email=True, eauctions_cities=None, property_types=None):
     # Load persistent pincode cache at start
@@ -965,7 +1007,12 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
     current_items = {}
     new_auctions = []
     
-    for item in all_items[:max_items]:
+    if max_items and max_items > 0:
+        items_to_process = all_items[:max_items]
+    else:
+        items_to_process = all_items
+
+    for item in items_to_process:
         if not isinstance(item, dict):
             results.append({"raw": item})
             continue
@@ -1125,8 +1172,8 @@ def main():
     parser.add_argument(
         "--max-items",
         type=int,
-        default=50,
-        help="Maximum number of listing items to process.",
+        default=0,
+        help="Maximum number of listing items to process (0 = no limit).",
     )
     parser.add_argument(
         "--state",
