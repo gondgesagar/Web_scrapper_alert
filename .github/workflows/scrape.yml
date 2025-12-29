@@ -45,8 +45,8 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: |
           set -e
-          # Run scraper and capture logs
-          python scraper.py 2>&1 | tee scraper_run.log
+          # Run scraper and capture logs (filter by property types: plots, land, farm hous, bunglow)
+          python scraper.py --property-types 'plots,land,farm hous,bunglow' 2>&1 | tee scraper_run.log
 
           # Extract NEW_AUCTIONS_COUNT from output, default to 0
           NEW_COUNT=$(grep -Eo 'NEW_AUCTIONS_COUNT=[0-9]+' scraper_run.log | sed 's/.*=//' || true)

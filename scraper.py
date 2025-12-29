@@ -470,6 +470,40 @@ def _classify_property_type(item):
     return "Other"
 
 
+def _normalize_property_type_inputs(raw_list):
+    """Normalize user-provided property-type strings to canonical lower-case keys.
+
+    Accepts values like 'plots', 'land', 'farm hous', 'bunglow' and maps them to
+    canonical keys used by the classifier (lower-case): 'plot', 'land', 'farmhouse', 'bungalow'.
+    """
+    if not raw_list:
+        return set()
+    mapping = {
+        "plots": "plot",
+        "plot": "plot",
+        "land": "land",
+        "farm hous": "farmhouse",
+        "farmhouse": "farmhouse",
+        "farm house": "farmhouse",
+        "farm": "farmhouse",
+        "bunglow": "bungalow",
+        "bungalow": "bungalow",
+        "flat": "flat",
+        "apartment": "flat",
+        "villa": "villa",
+        "bungalow": "bungalow",
+        "commercial": "commercial",
+    }
+    out = set()
+    for v in raw_list:
+        if not v:
+            continue
+        key = str(v).strip().lower()
+        norm = mapping.get(key, key)
+        out.add(norm)
+    return out
+
+
 def _extract_item_fields(item):
     pairs = _extract_key_value_pairs(item)
 
@@ -904,7 +938,7 @@ def fetch_eauctionsindia_with_playwright(cities=None):
     return all_properties
 
 
-def run(output_path, max_items, state_path, send_email=True, eauctions_cities=None):
+def run(output_path, max_items, state_path, send_email=True, eauctions_cities=None, property_types=None):
     # Load persistent pincode cache at start
     _load_pincode_cache()
     # Load or fetch Maharashtra pincodes list
@@ -999,6 +1033,21 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
 
     # Only send an email when there are new auctions
     if send_email and new_auctions:
+        # If property_types filter provided, restrict new_auctions to those types
+        allowed_set = None
+        if property_types:
+            # normalize: accept comma-separated or list and map aliases to canonical keys
+            if isinstance(property_types, str):
+                raw = [p.strip() for p in property_types.split(',') if p.strip()]
+            elif isinstance(property_types, (list, tuple, set)):
+                raw = [str(p).strip() for p in property_types if str(p).strip()]
+            else:
+                raw = []
+            allowed_set = _normalize_property_type_inputs(raw)
+            if allowed_set:
+                before = len(new_auctions)
+                new_auctions = [e for e in new_auctions if _classify_property_type(e).lower() in allowed_set]
+                print(f"Applied property-types filter: {', '.join(raw)} — {len(new_auctions)}/{before} items remain")
         # Classify and group all new auctions by property type across sources/cities
         type_groups = {}
         for e in new_auctions:
@@ -1085,6 +1134,11 @@ def main():
         default=None,
         help="Comma-separated eauctionsindia city URLs (or slugs) to limit scraping (for testing).",
     )
+    parser.add_argument(
+        "--property-types",
+        default=None,
+        help="Comma-separated list of property types to include in email (e.g. Plot,Flat,Villa).",
+    )
     args = parser.parse_args()
 
     output_path = Path(args.output)
@@ -1100,7 +1154,14 @@ def main():
             for c in raw
         ]
 
-    results = run(output_path, args.max_items, state_path, send_email=not args.no_email, eauctions_cities=cities_list)
+    results = run(
+        output_path,
+        args.max_items,
+        state_path,
+        send_email=not args.no_email,
+        eauctions_cities=cities_list,
+        property_types=args.property_types,
+    )
     print(f"Wrote {len(results)} items to {output_path}")
 
 
