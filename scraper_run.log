@@ -1,131 +1,46 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 10 properties fetched
+BAANKNET: 0 properties fetched
 Fetching eauctionsindia properties...
-Scraping https://www.eauctionsindia.com/city/pune...
-  Found 2 cards with selector: div.card
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-104"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(104);
-    });
-</script></div>
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-105"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(105);
-    });
-</script></div>
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/pune
-Scraping https://www.eauctionsindia.com/city/thane...
-  Found 2 cards with selector: div.card
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-104"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(104);
-    });
-</script></div>
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-105"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(105);
-    });
-</script></div>
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/thane
-Scraping https://www.eauctionsindia.com/city/mumbai...
-  Found 2 cards with selector: div.card
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-104"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(104);
-    });
-</script></div>
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-105"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(105);
-    });
-</script></div>
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/mumbai
-Scraping https://www.eauctionsindia.com/city/navi-mumbai...
-  Found 2 cards with selector: div.card
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-104"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(104);
-    });
-</script></div>
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-105"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(105);
-    });
-</script></div>
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/navi-mumbai
-Scraping https://www.eauctionsindia.com/city/raigad...
-  Found 2 cards with selector: div.card
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-104"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(104);
-    });
-</script></div>
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-105"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(105);
-    });
-</script></div>
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/raigad
-Scraping https://www.eauctionsindia.com/city/ratnagiri...
-  Found 2 cards with selector: div.card
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-104"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(104);
-    });
-</script></div>
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-105"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(105);
-    });
-</script></div>
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
-  Found 2 cards with selector: div.card
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-104"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(104);
-    });
-</script></div>
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-105"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(105);
-    });
-</script></div>
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/bhiwandi
+  Found 50 candidate card fragments by text-match
+  Extracted 20 properties so far from https://www.eauctionsindia.com/city/bhiwandi
+Scraping https://www.eauctionsindia.com/city/kolhapur...
+  Found 50 candidate card fragments by text-match
+  Extracted 40 properties so far from https://www.eauctionsindia.com/city/kolhapur
+Scraping https://www.eauctionsindia.com/city/kalyan...
+  Found 50 candidate card fragments by text-match
+  Extracted 60 properties so far from https://www.eauctionsindia.com/city/kalyan
 Scraping https://www.eauctionsindia.com/city/latur...
-  Found 2 cards with selector: div.card
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-104"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(104);
-    });
-</script></div>
-  Skipped card (no name/url): <div class="card"><div id="ezoic-pub-ad-placeholder-105"></div>
-<script>
-    ezstandalone.cmd.push(function() {
-        ezstandalone.showAds(105);
-    });
-</script></div>
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/latur
-Total eauctionsindia properties fetched: 0
-eauctionsindia: 0 properties fetched
-No new auctions found; skipping email.
-Saved 5 pincodes to cache.
-NEW_AUCTIONS_COUNT=0
-Wrote 0 items to data/property_listings.json
+  Found 50 candidate card fragments by text-match
+  Extracted 80 properties so far from https://www.eauctionsindia.com/city/latur
+Scraping https://www.eauctionsindia.com/city/mumbai...
+  Found 50 candidate card fragments by text-match
+  Extracted 100 properties so far from https://www.eauctionsindia.com/city/mumbai
+Scraping https://www.eauctionsindia.com/city/sindhudurg...
+  Found 50 candidate card fragments by text-match
+  Extracted 120 properties so far from https://www.eauctionsindia.com/city/sindhudurg
+Scraping https://www.eauctionsindia.com/city/solapur...
+  Found 50 candidate card fragments by text-match
+  Extracted 140 properties so far from https://www.eauctionsindia.com/city/solapur
+Scraping https://www.eauctionsindia.com/city/thane...
+  Found 50 candidate card fragments by text-match
+  Extracted 160 properties so far from https://www.eauctionsindia.com/city/thane
+Scraping https://www.eauctionsindia.com/city/satara...
+  Found 50 candidate card fragments by text-match
+  Extracted 180 properties so far from https://www.eauctionsindia.com/city/satara
+Scraping https://www.eauctionsindia.com/city/ratnagiri...
+  Found 50 candidate card fragments by text-match
+  Extracted 200 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+Scraping https://www.eauctionsindia.com/city/raigad...
+  Found 50 candidate card fragments by text-match
+  Extracted 220 properties so far from https://www.eauctionsindia.com/city/raigad
+Scraping https://www.eauctionsindia.com/city/pune...
+  Found 50 candidate card fragments by text-match
+  Extracted 240 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 240
+eauctionsindia: 240 properties fetched
+Saved 0 pincodes to cache.
+NEW_AUCTIONS_COUNT=50
+Wrote 50 items to data/property_listings.json
