@@ -1,7 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 0 properties fetched
+BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 73 candidate card fragments by text-match
@@ -31,20 +31,20 @@ Scraping https://www.eauctionsindia.com/city/satara...
   Found 73 candidate card fragments by text-match
   Extracted 648 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
-  Found 112 candidate card fragments by text-match
-  Extracted 760 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Found 73 candidate card fragments by text-match
+  Extracted 721 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
   Found 73 candidate card fragments by text-match
-  Extracted 833 properties so far from https://www.eauctionsindia.com/city/raigad
+  Extracted 794 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
-  Found 112 candidate card fragments by text-match
-  Extracted 945 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 945
-eauctionsindia: 945 properties fetched
-Processing stats: 945 total items, 945 new, -520 duplicates skipped
+  Found 73 candidate card fragments by text-match
+  Extracted 867 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 867
+eauctionsindia: 867 properties fetched
+Processing stats: 871 total items, 871 new, -451 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 425 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 169/945 items remain
-Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=169
-Wrote 945 items to data/property_listings.json
+Saved state with 420 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 171/871 items remain
+Saved 6 pincodes to cache.
+NEW_AUCTIONS_COUNT=171
+Wrote 871 items to data/property_listings.json
