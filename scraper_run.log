@@ -41,6 +41,8 @@ Scraping https://www.eauctionsindia.com/city/pune...
   Extracted 240 properties so far from https://www.eauctionsindia.com/city/pune
 Total eauctionsindia properties fetched: 240
 eauctionsindia: 240 properties fetched
+Processing stats: 50 total items, 50 new, -26 duplicates skipped
+Saved state with 24 total tracked items to .state/state.json
 Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=50
 Wrote 50 items to data/property_listings.json
