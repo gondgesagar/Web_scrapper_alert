@@ -17,14 +17,18 @@ PINCODE_CACHE_FILE = Path(".state/pincode_cache.json")
 
 TARGET_URL = "https://baanknet.com/property-listing"
 EAUCTIONSINDIA_CITIES = [
-    "https://www.eauctionsindia.com/city/pune",
-    "https://www.eauctionsindia.com/city/thane",
-    "https://www.eauctionsindia.com/city/mumbai",
-    "https://www.eauctionsindia.com/city/navi-mumbai",
-    "https://www.eauctionsindia.com/city/raigad",
-    "https://www.eauctionsindia.com/city/ratnagiri",
     "https://www.eauctionsindia.com/city/bhiwandi",
+    "https://www.eauctionsindia.com/city/kolhapur",
+    "https://www.eauctionsindia.com/city/kalyan",
     "https://www.eauctionsindia.com/city/latur",
+    "https://www.eauctionsindia.com/city/mumbai",
+    "https://www.eauctionsindia.com/city/sindhudurg",
+    "https://www.eauctionsindia.com/city/solapur",
+    "https://www.eauctionsindia.com/city/thane",
+    "https://www.eauctionsindia.com/city/satara",
+    "https://www.eauctionsindia.com/city/ratnagiri",
+    "https://www.eauctionsindia.com/city/raigad",
+    "https://www.eauctionsindia.com/city/pune",
 ]
 STATE_SCHEMA_VERSION = 1
 
@@ -322,8 +326,10 @@ def _extract_eauctionsindia_fields(item):
     
     # Try to find auction/bid dates
     auction_date = None
+    auction_date_str = None
     for key in ["auction_date", "bidding_end_date", "e_auction_date"]:
         if key in item:
+            auction_date_str = item[key]
             try:
                 auction_date = _parse_date_string(item[key])
                 if auction_date:
@@ -334,8 +340,11 @@ def _extract_eauctionsindia_fields(item):
     # Extract price/reserve price
     price = item.get("reserve_price") or item.get("upset_price") or item.get("price") or ""
     
-    # Extract location (city should be in URL)
+    # Extract location from raw_text (Pune is in URL, so extract from city_url)
     location = item.get("location") or item.get("address") or ""
+    city_url = item.get("city_url", "")
+    if "pune" in city_url.lower():
+        location = "Pune, Maharashtra" if not location else location
     
     # Property URL
     link = item.get("property_url") or item.get("url") or ""
@@ -353,6 +362,9 @@ def _extract_eauctionsindia_fields(item):
         "link": link,
         "photos": item.get("image_url") or item.get("photos") or "",
         "source": "eauctionsindia",
+        "auction_date": auction_date_str or auction_date,
+        "address": location,
+        "stateName": "Maharashtra",
     }
 
 
@@ -641,7 +653,7 @@ def fetch_with_playwright():
     return payloads
 
 
-def fetch_eauctionsindia_with_playwright():
+def fetch_eauctionsindia_with_playwright(cities=None):
     """Fetch properties from eauctionsindia.com for multiple Maharashtra cities."""
     try:
         from playwright.sync_api import sync_playwright
@@ -657,7 +669,8 @@ def fetch_eauctionsindia_with_playwright():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         
-        for city_url in EAUCTIONSINDIA_CITIES:
+        cities_to_scrape = cities or EAUCTIONSINDIA_CITIES
+        for city_url in cities_to_scrape:
             try:
                 print(f"Scraping {city_url}...")
                 page = browser.new_page()
@@ -669,44 +682,98 @@ def fetch_eauctionsindia_with_playwright():
                     page.goto(city_url, wait_until="networkidle", timeout=90000)
                 page.wait_for_timeout(3000)
                 
+                # Remove common ad containers from the DOM to avoid picking up placeholders
+                try:
+                    selectors = [
+                        "div[class*='ezoic']",
+                        "div[class*='ad-']",
+                        "div[id^='ad']",
+                        "ins[data-ad-client]",
+                        "div[class*='advert']",
+                        "span.ezoic-ad",
+                        "div[id^='ezoic']",
+                        "div[id^='ezoic-pub-ad-placeholder']",
+                        "iframe[src*='ads']",
+                        "div[class*='banner']",
+                    ]
+                    sel = ",".join(selectors)
+                    # Remove ad elements, then remove any empty .card containers left behind
+                    page.evaluate(
+                        "(sel) => {\n                            try { document.querySelectorAll(sel).forEach(e => e.remove()); } catch(e) {}\n                            try { document.querySelectorAll('script').forEach(s => { try { var t = s.textContent || ''; var src = s.src || ''; if(/ezstandalone|showAds|ezoic/i.test(t) || /ezoic|ads|doubleclick|googlesyndication|adservice/i.test(src)) s.remove(); } catch(e) {} }); } catch(e) {}\n                            try { document.querySelectorAll('div.card').forEach(c => { if(!c.textContent || c.textContent.trim().length === 0) c.remove(); }); } catch(e) {}\n                        }",
+                        sel,
+                    )
+                except Exception:
+                    # If ad-removal fails, continue with the raw HTML
+                    pass
+
                 # Get the HTML and parse with BeautifulSoup
                 html_content = page.content()
                 soup = BeautifulSoup(html_content, 'html.parser')
                 
-                # Try multiple selectors to find property listings
+                # Attempt robust extraction by matching visible text keywords rather than brittle classes.
                 property_cards = []
-                
-                # Look for common property card containers
-                selectors_to_try = [
-                    'div.property-card',
-                    'div.property-item',
-                    'div[data-property-id]',
-                    'div.auction-item',
-                    'div.listing-card',
-                    'article.property',
-                    'div.col-md-6',  # eauctionsindia uses grid layout
-                    'div.card',
-                ]
-                
-                for selector in selectors_to_try:
-                    property_cards = soup.select(selector)
-                    if property_cards:
-                        print(f"  Found {len(property_cards)} cards with selector: {selector}")
-                        break
+                try:
+                    candidate_html_list = page.evaluate("""
+                        () => {
+                            const keywords = ['Auction ID', 'Reserve Price', 'View More', 'eAuction', 'Auction Date'];
+                            const matches = [];
+                            const seen = new Set();
+                            const els = Array.from(document.querySelectorAll('div, article, section, li'));
+                            for (const el of els) {
+                                try {
+                                    const txt = (el.innerText || '').trim();
+                                    if (txt.length < 40) continue;
+                                    let hasKeyword = false;
+                                    for (const kw of keywords) {
+                                        if (txt.indexOf(kw) !== -1) { hasKeyword = true; break; }
+                                    }
+                                    if (hasKeyword) {
+                                        const h = el.outerHTML;
+                                        if (!seen.has(h)) { matches.push(h); seen.add(h); }
+                                    }
+                                } catch(e) {}
+                            }
+                            return matches.slice(0, 50);
+                        }
+                    """)
+                except Exception as e:
+                    print(f"    Error extracting by text-match: {e}")
+                    candidate_html_list = []
 
-                # If no cards found in initial HTML, try waiting for a common selector then reparse
-                if not property_cards:
-                    try:
-                        page.wait_for_selector('div.card, div.property-card, div.property-item', timeout=5000)
-                        html_content = page.content()
-                        soup = BeautifulSoup(html_content, 'html.parser')
-                        for selector in selectors_to_try:
-                            property_cards = soup.select(selector)
-                            if property_cards:
-                                print(f"  After waiting, found {len(property_cards)} cards with selector: {selector}")
-                                break
-                    except Exception:
-                        pass
+                if candidate_html_list:
+                    print(f"  Found {len(candidate_html_list)} candidate card fragments by text-match")
+                    property_cards = [BeautifulSoup(h, 'html.parser').body or BeautifulSoup(h, 'html.parser') for h in candidate_html_list]
+                else:
+                    # Fallback: try class-based selectors
+                    selectors_to_try = [
+                        'div.property-card',
+                        'div.property-item',
+                        'div[data-property-id]',
+                        'div.auction-item',
+                        'div.listing-card',
+                        'article.property',
+                        'div.col-md-6',
+                        'div.card',
+                    ]
+                    for selector in selectors_to_try:
+                        property_cards = soup.select(selector)
+                        if property_cards:
+                            print(f"  Found {len(property_cards)} cards with selector: {selector}")
+                            break
+
+                    # If still no cards found, try waiting briefly then reparsing
+                    if not property_cards:
+                        try:
+                            page.wait_for_selector('div.card, div.property-card, div.property-item', timeout=5000)
+                            html_content = page.content()
+                            soup = BeautifulSoup(html_content, 'html.parser')
+                            for selector in selectors_to_try:
+                                property_cards = soup.select(selector)
+                                if property_cards:
+                                    print(f"  After waiting, found {len(property_cards)} cards with selector: {selector}")
+                                    break
+                        except Exception:
+                            pass
                 
                 # Extract property data from cards
                 for card in property_cards[:20]:  # Limit to 20 per city
@@ -767,7 +834,7 @@ def fetch_eauctionsindia_with_playwright():
     return all_properties
 
 
-def run(output_path, max_items, state_path, send_email=True):
+def run(output_path, max_items, state_path, send_email=True, eauctions_cities=None):
     # Load persistent pincode cache at start
     _load_pincode_cache()
     # Load or fetch Maharashtra pincodes list
@@ -780,7 +847,8 @@ def run(output_path, max_items, state_path, send_email=True):
     print(f"BAANKNET: {len(baanknet_items)} properties fetched")
     
     print("Fetching eauctionsindia properties...")
-    eauctionsindia_items = fetch_eauctionsindia_with_playwright()
+    # Pass through optional city list if provided via run caller
+    eauctionsindia_items = fetch_eauctionsindia_with_playwright(cities=eauctions_cities)
     print(f"eauctionsindia: {len(eauctionsindia_items)} properties fetched")
     
     # Combine items from both sources
@@ -798,25 +866,22 @@ def run(output_path, max_items, state_path, send_email=True):
             results.append({"raw": item})
             continue
         
-        # Filter for Maharashtra only
-        if not _is_maharashtra(item):
-            continue
-        
         # Determine source and extract fields accordingly
         source = item.get("source", "baanknet")
         
         if source == "eauctionsindia":
-            entry = _extract_eauctionsindia_fields(item)
-            if not entry:
-                continue
+            # For eauctionsindia, use raw item directly (skip _extract_eauctionsindia_fields filters)
+            entry = {
+                "details": item.get("property_name") or item.get("raw_text", "")[:100] or "",
+                "link": item.get("property_url") or "",
+                "photos": item.get("image_url") or item.get("photos") or "",
+                "important_dates": [{"key": "auction_date", "value": item.get("auction_date")}] if item.get("auction_date") else [],
+                "emd_cost": "",
+            }
         else:
             entry = _extract_item_fields(item)
         
         entry["raw"] = item
-        
-        # Filter for auctions 1 month or more in the future
-        if not _is_auction_within_month(item):
-            continue
         
         results.append(entry)
         entry_id = _item_id(entry)
@@ -886,11 +951,27 @@ def main():
         action="store_true",
         help="Do not send email notifications even if changes are detected.",
     )
+    parser.add_argument(
+        "--cities",
+        default=None,
+        help="Comma-separated eauctionsindia city URLs (or slugs) to limit scraping (for testing).",
+    )
     args = parser.parse_args()
 
     output_path = Path(args.output)
     state_path = Path(args.state)
-    results = run(output_path, args.max_items, state_path, send_email=not args.no_email)
+    # If --cities provided, build a list to pass through to the run() function
+    cities_list = None
+    if args.cities:
+        # Allow either full URLs or city slugs; normalize simple slug input
+        raw = [c.strip() for c in args.cities.split(',') if c.strip()]
+        # If values look like slugs (no https://), convert to full eauctionsindia URLs
+        cities_list = [
+            (c if c.startswith('http') else f'https://www.eauctionsindia.com/city/{c}')
+            for c in raw
+        ]
+
+    results = run(output_path, args.max_items, state_path, send_email=not args.no_email, eauctions_cities=cities_list)
     print(f"Wrote {len(results)} items to {output_path}")
 
 
