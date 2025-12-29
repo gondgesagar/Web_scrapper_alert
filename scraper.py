@@ -981,11 +981,17 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
         # Check if this is a new auction (not in previous log)
         if entry_id not in previous_items:
             new_auctions.append(entry)
+        # else: item already seen before, skip to prevent duplicate email
+
+    # Log deduplication stats
+    duplicates_skipped = len(current_items) - len(new_auctions)
+    print(f"Processing stats: {len(results)} total items, {len(new_auctions)} new, {duplicates_skipped} duplicates skipped")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(results, indent=2, ensure_ascii=True), encoding="utf-8")
 
     _save_state(state_path, current_items)
+    print(f"Saved state with {len(current_items)} total tracked items to {state_path}")
 
     # Only send an email when there are new auctions
     if send_email and new_auctions:
