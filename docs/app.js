@@ -99,6 +99,24 @@ const normalizeListing = (item, index) => {
   };
 };
 
+const dedupeListings = (items) => {
+  const seen = new Set();
+  const output = [];
+  for (const item of items) {
+    const key = [
+      safeText(item.link).toLowerCase(),
+      safeText(item.title).toLowerCase(),
+      safeText(item.priceLabel).toLowerCase(),
+      safeText(item.city).toLowerCase(),
+      safeText(item.source).toLowerCase(),
+    ].join("|");
+    if (seen.has(key)) continue;
+    seen.add(key);
+    output.push(item);
+  }
+  return output;
+};
+
 const dedupe = (values) =>
   [...new Set(values.filter((value) => value && String(value).trim()))].sort(
     (a, b) => safeText(a).localeCompare(safeText(b))
@@ -304,7 +322,7 @@ const loadData = async () => {
   elements.refreshBtn.textContent = "Refreshing...";
   try {
     const data = await fetchJson();
-    listings = (Array.isArray(data) ? data : []).map(normalizeListing);
+    listings = dedupeListings((Array.isArray(data) ? data : []).map(normalizeListing));
     elements.totalCount.textContent = String(listings.length);
     buildFilters();
     applyFilters();
