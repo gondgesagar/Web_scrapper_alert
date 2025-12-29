@@ -400,6 +400,34 @@ def _parse_date_string(date_str):
     return None
 
 
+def _normalize_link(link, source=None, city_url=None):
+    """Ensure links are absolute for known sources."""
+    if not link:
+        return ""
+    if isinstance(link, str) and link.startswith("http"):
+        return link
+    s = str(link)
+    # eauctionsindia relative links
+    if source == "eauctionsindia":
+        if s.startswith("/"):
+            return "https://www.eauctionsindia.com" + s
+        if s.startswith("city"):
+            return "https://www.eauctionsindia.com/" + s
+        # fallback: if city_url provided, join
+        if city_url and s:
+            return city_url.rstrip("/") + "/" + s.lstrip("/")
+        return "https://www.eauctionsindia.com/" + s.lstrip("/")
+    # baanknet
+    if source == "baanknet":
+        if s.startswith("/"):
+            return "https://baanknet.com" + s
+        return "https://baanknet.com/" + s.lstrip("/")
+    # generic fallback
+    if s.startswith("/"):
+        return "https://" + s.lstrip("/")
+    return s
+
+
 def _extract_item_fields(item):
     pairs = _extract_key_value_pairs(item)
 
@@ -881,8 +909,26 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
         else:
             entry = _extract_item_fields(item)
         
+        # Ensure metadata
         entry["raw"] = item
-        
+        # ensure source marker
+        if source == "eauctionsindia":
+            entry["source"] = "eauctionsindia"
+            # derive city name from city_url if available
+            city_url = item.get("city_url") or item.get("city") or ""
+            city_name = ""
+            try:
+                if city_url:
+                    city_name = city_url.rstrip("/").split("/")[-1].replace('-', ' ').title()
+            except Exception:
+                city_name = ""
+            entry["city"] = city_name
+        else:
+            entry["source"] = "baanknet"
+
+        # normalize links
+        entry["link"] = _normalize_link(entry.get("link"), source=entry.get("source"), city_url=item.get("city_url"))
+
         results.append(entry)
         entry_id = _item_id(entry)
         fingerprint = _fingerprint_item(entry)
@@ -901,15 +947,37 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
 
     # Only send an email when there are new auctions
     if send_email and new_auctions:
-        subject = f"BAANKNET (Maharashtra): {len(new_auctions)} new auction(s)"
-        body_sections = [
-            '<h2 style="color: #333;">🔔 BAANKNET - New Auctions (Maharashtra)</h2>',
-            '<p style="color: #666;">New property auctions with upcoming dates (1 month or more):</p>',
-        ]
-        for entry in new_auctions[:50]:
-            body_sections.append(_format_item_for_email(entry))
-        if len(new_auctions) > 50:
-            body_sections.append(f'<p style="color: #999;"><em>...and {len(new_auctions) - 50} more.</em></p>')
+        # Group new auctions by source
+        baanknet_new = [e for e in new_auctions if e.get("source") != "eauctionsindia"]
+        eauctions_new = [e for e in new_auctions if e.get("source") == "eauctionsindia"]
+
+        body_sections = []
+
+        if baanknet_new:
+            body_sections.append('<h2 style="color: #333;">🔔 Update from BAANKNET - New Auctions (Maharashtra)</h2>')
+            for entry in baanknet_new:
+                body_sections.append(_format_item_for_email(entry))
+
+        # Group eauctionsindia by city
+        if eauctions_new:
+            by_city = {}
+            for e in eauctions_new:
+                city = e.get("city") or (e.get("raw") or {}).get("city_url") or "Unknown"
+                by_city.setdefault(city, []).append(e)
+            for city, items in by_city.items():
+                title = city if city and city != "Unknown" else "eauctionsindia"
+                body_sections.append(f'<h2 style="color: #333;">🔔 Update from eauctionsindia - {title}</h2>')
+                for entry in items:
+                    body_sections.append(_format_item_for_email(entry))
+
+        # Subject summarises counts
+        subject_parts = []
+        if baanknet_new:
+            subject_parts.append(f"BAANKNET: {len(baanknet_new)}")
+        if eauctions_new:
+            subject_parts.append(f"eauctionsindia: {len(eauctions_new)}")
+        subject = "New Auctions - " + ", ".join(subject_parts)
+
         body_html = "\n".join(body_sections)
         _send_email(subject, body_html, is_html=True)
     else:
