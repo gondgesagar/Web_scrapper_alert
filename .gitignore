@@ -1,4 +1,6 @@
 .venv/
 data/
+!docs/data/
+!docs/data/**
 .state/
 __pycache__/
