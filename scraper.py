@@ -939,6 +939,10 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
         # Determine source and extract fields accordingly
         source = item.get("source", "baanknet")
         
+        # Filter BAANKNET for Maharashtra only
+        if source != "eauctionsindia" and not _is_maharashtra(item):
+            continue
+        
         if source == "eauctionsindia":
             # For eauctionsindia, use raw item directly (skip _extract_eauctionsindia_fields filters)
             entry = {
