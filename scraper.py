@@ -428,6 +428,48 @@ def _normalize_link(link, source=None, city_url=None):
     return s
 
 
+def _classify_property_type(item):
+    """Classify property into a canonical type string."""
+    text_sources = []
+    if isinstance(item.get("details"), str):
+        text_sources.append(item.get("details"))
+    raw = item.get("raw") or {}
+    if isinstance(raw, dict):
+        text_sources.append(raw.get("summaryDesc") or "")
+        text_sources.append(raw.get("projectName") or "")
+        text_sources.append(raw.get("assetType") or "")
+        text_sources.append(raw.get("propertyType") or "")
+        text_sources.append(raw.get("category") or "")
+        text_sources.append(raw.get("property_name") or "")
+    if isinstance(item.get("link"), str):
+        text_sources.append(item.get("link"))
+    text = " ".join([t for t in text_sources if t]).lower()
+
+    # Priority list and patterns
+    mapping = [
+        (r"\bflat\b|\bapartment\b|\bflat in\b", "Flat"),
+        (r"\bvilla\b", "Villa"),
+        (r"\bbungalow\b|\bbunglow\b", "Bungalow"),
+        (r"\bplot\b|\bplots\b|\bsite\b", "Plot"),
+        (r"\bland\b|\bagricultural\b|\bfarm\b", "Land"),
+        (r"\bshop\b|\bshowroom\b|\bcommercial\b|\boffice\b", "Commercial"),
+        (r"\bwarehouse\b|\bfactory\b|\bindustrial\b", "Industrial"),
+        (r"\bhotel\b|\bguesthouse\b", "Hospitality"),
+    ]
+
+    for pat, label in mapping:
+        if re.search(pat, text, re.I):
+            return label
+
+    # Try to pick common keywords
+    if "residential" in text:
+        return "Residential"
+    if "agri" in text:
+        return "Land"
+
+    return "Other"
+
+
 def _extract_item_fields(item):
     pairs = _extract_key_value_pairs(item)
 
@@ -947,39 +989,48 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
 
     # Only send an email when there are new auctions
     if send_email and new_auctions:
-        # Group new auctions by source
-        baanknet_new = [e for e in new_auctions if e.get("source") != "eauctionsindia"]
-        eauctions_new = [e for e in new_auctions if e.get("source") == "eauctionsindia"]
+        # Classify and group all new auctions by property type across sources/cities
+        type_groups = {}
+        for e in new_auctions:
+            t = _classify_property_type(e)
+            type_groups.setdefault(t, []).append(e)
+
+        # Preferred ordering for types
+        preferred = ["Flat", "Villa", "Bungalow", "Plot", "Land", "Commercial", "Industrial", "Hospitality", "Residential", "Other"]
 
         body_sections = []
+        subject_parts = []
+        total_count = 0
 
-        if baanknet_new:
-            body_sections.append('<h2 style="color: #333;">🔔 Update from BAANKNET - New Auctions (Maharashtra)</h2>')
-            for entry in baanknet_new:
+        for t in preferred:
+            items = type_groups.get(t, [])
+            if not items:
+                continue
+            total_count += len(items)
+            subject_parts.append(f"{t}: {len(items)}")
+            body_sections.append(f'<h2 style="color: #333;">🔔 {t} ({len(items)})</h2>')
+            # Within each type, list items (they may be from different cities)
+            for entry in items:
+                # annotate city/source in the details header
+                city = entry.get("city") or (entry.get("raw") or {}).get("city_url") or ""
+                prefix = ""
+                if entry.get("source"):
+                    prefix += entry.get("source")
+                if city:
+                    if prefix:
+                        prefix += " — "
+                    prefix += city
+                if prefix:
+                    # Prepend a small subheading
+                    body_sections.append(f'<p style="color:#666; font-size:0.95em; margin:6px 0;"><strong>{prefix}</strong></p>')
                 body_sections.append(_format_item_for_email(entry))
 
-        # Group eauctionsindia by city
-        if eauctions_new:
-            by_city = {}
-            for e in eauctions_new:
-                city = e.get("city") or (e.get("raw") or {}).get("city_url") or "Unknown"
-                by_city.setdefault(city, []).append(e)
-            for city, items in by_city.items():
-                title = city if city and city != "Unknown" else "eauctionsindia"
-                body_sections.append(f'<h2 style="color: #333;">🔔 Update from eauctionsindia - {title}</h2>')
-                for entry in items:
-                    body_sections.append(_format_item_for_email(entry))
-
-        # Subject summarises counts
-        subject_parts = []
-        if baanknet_new:
-            subject_parts.append(f"BAANKNET: {len(baanknet_new)}")
-        if eauctions_new:
-            subject_parts.append(f"eauctionsindia: {len(eauctions_new)}")
-        subject = "New Auctions - " + ", ".join(subject_parts)
-
-        body_html = "\n".join(body_sections)
-        _send_email(subject, body_html, is_html=True)
+        if not subject_parts:
+            print("No new auctions found; skipping email.")
+        else:
+            subject = "New Auctions by Type - " + ", ".join(subject_parts)
+            body_html = "\n".join(body_sections)
+            _send_email(subject, body_html, is_html=True)
     else:
         print("No new auctions found; skipping email.")
 
