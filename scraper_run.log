@@ -7,44 +7,44 @@ Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 73 candidate card fragments by text-match
   Extracted 73 properties so far from https://www.eauctionsindia.com/city/bhiwandi
 Scraping https://www.eauctionsindia.com/city/kolhapur...
-  Found 112 candidate card fragments by text-match
-  Extracted 185 properties so far from https://www.eauctionsindia.com/city/kolhapur
+  Found 73 candidate card fragments by text-match
+  Extracted 146 properties so far from https://www.eauctionsindia.com/city/kolhapur
 Scraping https://www.eauctionsindia.com/city/kalyan...
   Found 67 candidate card fragments by text-match
-  Extracted 252 properties so far from https://www.eauctionsindia.com/city/kalyan
+  Extracted 213 properties so far from https://www.eauctionsindia.com/city/kalyan
 Scraping https://www.eauctionsindia.com/city/latur...
   Found 73 candidate card fragments by text-match
-  Extracted 325 properties so far from https://www.eauctionsindia.com/city/latur
+  Extracted 286 properties so far from https://www.eauctionsindia.com/city/latur
 Scraping https://www.eauctionsindia.com/city/mumbai...
   Found 70 candidate card fragments by text-match
-  Extracted 395 properties so far from https://www.eauctionsindia.com/city/mumbai
+  Extracted 356 properties so far from https://www.eauctionsindia.com/city/mumbai
 Scraping https://www.eauctionsindia.com/city/sindhudurg...
   Found 73 candidate card fragments by text-match
-  Extracted 468 properties so far from https://www.eauctionsindia.com/city/sindhudurg
+  Extracted 429 properties so far from https://www.eauctionsindia.com/city/sindhudurg
 Scraping https://www.eauctionsindia.com/city/solapur...
   Found 73 candidate card fragments by text-match
-  Extracted 541 properties so far from https://www.eauctionsindia.com/city/solapur
+  Extracted 502 properties so far from https://www.eauctionsindia.com/city/solapur
 Scraping https://www.eauctionsindia.com/city/thane...
   Found 73 candidate card fragments by text-match
-  Extracted 614 properties so far from https://www.eauctionsindia.com/city/thane
+  Extracted 575 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
   Found 73 candidate card fragments by text-match
-  Extracted 687 properties so far from https://www.eauctionsindia.com/city/satara
+  Extracted 648 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
   Found 73 candidate card fragments by text-match
-  Extracted 760 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Extracted 721 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
   Found 73 candidate card fragments by text-match
-  Extracted 833 properties so far from https://www.eauctionsindia.com/city/raigad
+  Extracted 794 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 73 candidate card fragments by text-match
-  Extracted 906 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 906
-eauctionsindia: 906 properties fetched
-Processing stats: 906 total items, 906 new, -479 duplicates skipped
+  Extracted 867 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 867
+eauctionsindia: 867 properties fetched
+Processing stats: 867 total items, 867 new, -450 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 427 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 146/906 items remain
+Saved state with 417 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 143/867 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=146
-Wrote 906 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=143
+Wrote 867 items to data/property_listings.json
