@@ -1,54 +1,50 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
-Warning: failed to fetch Maharashtra pincodes (attempt 1): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f44b328bb10>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 1s...
-Fetching Maharashtra pincodes (attempt 2/3)...
-Warning: failed to fetch Maharashtra pincodes (attempt 2): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f44b2e99990>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 2s...
-Fetching Maharashtra pincodes (attempt 3/3)...
-Warning: failed to fetch Maharashtra pincodes after 3 attempts: HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f44b2f8f750>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)'))
+Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
 BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
-  Found 119 candidate card fragments by text-match
-  Extracted 119 properties so far from https://www.eauctionsindia.com/city/bhiwandi
+  Found 111 candidate card fragments by text-match
+  Extracted 111 properties so far from https://www.eauctionsindia.com/city/bhiwandi
 Scraping https://www.eauctionsindia.com/city/kolhapur...
-  Found 119 candidate card fragments by text-match
-  Extracted 238 properties so far from https://www.eauctionsindia.com/city/kolhapur
+  Found 73 candidate card fragments by text-match
+  Extracted 184 properties so far from https://www.eauctionsindia.com/city/kolhapur
 Scraping https://www.eauctionsindia.com/city/kalyan...
-  Found 113 candidate card fragments by text-match
-  Extracted 351 properties so far from https://www.eauctionsindia.com/city/kalyan
+  Found 67 candidate card fragments by text-match
+  Extracted 251 properties so far from https://www.eauctionsindia.com/city/kalyan
 Scraping https://www.eauctionsindia.com/city/latur...
-  Found 119 candidate card fragments by text-match
-  Extracted 470 properties so far from https://www.eauctionsindia.com/city/latur
+  Found 73 candidate card fragments by text-match
+  Extracted 324 properties so far from https://www.eauctionsindia.com/city/latur
 Scraping https://www.eauctionsindia.com/city/mumbai...
-  Found 138 candidate card fragments by text-match
-  Extracted 608 properties so far from https://www.eauctionsindia.com/city/mumbai
+  Found 70 candidate card fragments by text-match
+  Extracted 394 properties so far from https://www.eauctionsindia.com/city/mumbai
 Scraping https://www.eauctionsindia.com/city/sindhudurg...
-  Found 119 candidate card fragments by text-match
-  Extracted 727 properties so far from https://www.eauctionsindia.com/city/sindhudurg
+  Found 73 candidate card fragments by text-match
+  Extracted 467 properties so far from https://www.eauctionsindia.com/city/sindhudurg
 Scraping https://www.eauctionsindia.com/city/solapur...
-  Found 119 candidate card fragments by text-match
-  Extracted 846 properties so far from https://www.eauctionsindia.com/city/solapur
+  Found 112 candidate card fragments by text-match
+  Extracted 579 properties so far from https://www.eauctionsindia.com/city/solapur
 Scraping https://www.eauctionsindia.com/city/thane...
-  Found 119 candidate card fragments by text-match
-  Extracted 965 properties so far from https://www.eauctionsindia.com/city/thane
+  Found 73 candidate card fragments by text-match
+  Extracted 652 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
-  Found 119 candidate card fragments by text-match
-  Extracted 1084 properties so far from https://www.eauctionsindia.com/city/satara
+  Found 73 candidate card fragments by text-match
+  Extracted 725 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
-  Found 85 candidate card fragments by text-match
-  Extracted 1169 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Found 82 candidate card fragments by text-match
+  Extracted 807 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
-  Found 110 candidate card fragments by text-match
-  Extracted 1279 properties so far from https://www.eauctionsindia.com/city/raigad
+  Found 73 candidate card fragments by text-match
+  Extracted 880 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
-  Found 119 candidate card fragments by text-match
-  Extracted 1398 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1398
-eauctionsindia: 1398 properties fetched
-Processing stats: 1400 total items, 1400 new, -964 duplicates skipped
+  Found 82 candidate card fragments by text-match
+  Extracted 962 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 962
+eauctionsindia: 962 properties fetched
+Processing stats: 964 total items, 964 new, -524 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 436 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 137/1400 items remain
+Saved state with 440 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 137/964 items remain
 Saved 8 pincodes to cache.
 NEW_AUCTIONS_COUNT=137
-Wrote 1400 items to data/property_listings.json
+Wrote 964 items to data/property_listings.json
