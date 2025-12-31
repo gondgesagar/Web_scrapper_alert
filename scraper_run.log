@@ -1,7 +1,11 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
-Fetched and saved 0 Maharashtra pincodes.
+Warning: failed to fetch Maharashtra pincodes (attempt 1): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7ff49378bb10>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 1s...
+Fetching Maharashtra pincodes (attempt 2/3)...
+Warning: failed to fetch Maharashtra pincodes (attempt 2): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7ff493309c90>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 2s...
+Fetching Maharashtra pincodes (attempt 3/3)...
+Warning: failed to fetch Maharashtra pincodes after 3 attempts: HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7ff493310510>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)'))
 Fetching BAANKNET properties...
-BAANKNET: 0 properties fetched
+BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 73 candidate card fragments by text-match
@@ -22,29 +26,29 @@ Scraping https://www.eauctionsindia.com/city/sindhudurg...
   Found 73 candidate card fragments by text-match
   Extracted 429 properties so far from https://www.eauctionsindia.com/city/sindhudurg
 Scraping https://www.eauctionsindia.com/city/solapur...
-  Found 112 candidate card fragments by text-match
-  Extracted 541 properties so far from https://www.eauctionsindia.com/city/solapur
-Scraping https://www.eauctionsindia.com/city/thane...
-  Found 112 candidate card fragments by text-match
-  Extracted 653 properties so far from https://www.eauctionsindia.com/city/thane
-Scraping https://www.eauctionsindia.com/city/satara...
   Found 73 candidate card fragments by text-match
-  Extracted 726 properties so far from https://www.eauctionsindia.com/city/satara
+  Extracted 502 properties so far from https://www.eauctionsindia.com/city/solapur
+Scraping https://www.eauctionsindia.com/city/thane...
+  Found 73 candidate card fragments by text-match
+  Extracted 575 properties so far from https://www.eauctionsindia.com/city/thane
+Scraping https://www.eauctionsindia.com/city/satara...
+  Found 112 candidate card fragments by text-match
+  Extracted 687 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
   Found 73 candidate card fragments by text-match
-  Extracted 799 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Extracted 760 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
   Found 112 candidate card fragments by text-match
-  Extracted 911 properties so far from https://www.eauctionsindia.com/city/raigad
+  Extracted 872 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 73 candidate card fragments by text-match
-  Extracted 984 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 984
-eauctionsindia: 984 properties fetched
-Processing stats: 984 total items, 984 new, -555 duplicates skipped
+  Extracted 945 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 945
+eauctionsindia: 945 properties fetched
+Processing stats: 947 total items, 947 new, -516 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 429 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 137/984 items remain
-Saved 0 pincodes to cache.
+Saved state with 431 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 137/947 items remain
+Saved 6 pincodes to cache.
 NEW_AUCTIONS_COUNT=137
-Wrote 984 items to data/property_listings.json
+Wrote 947 items to data/property_listings.json
