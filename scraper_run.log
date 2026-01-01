@@ -1,7 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 0 properties fetched
+BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 112 candidate card fragments by text-match
@@ -34,17 +34,17 @@ Scraping https://www.eauctionsindia.com/city/ratnagiri...
   Found 112 candidate card fragments by text-match
   Extracted 1111 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
-  Found 112 candidate card fragments by text-match
-  Extracted 1223 properties so far from https://www.eauctionsindia.com/city/raigad
+  Found 102 candidate card fragments by text-match
+  Extracted 1213 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 112 candidate card fragments by text-match
-  Extracted 1335 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1335
-eauctionsindia: 1335 properties fetched
-Processing stats: 1335 total items, 1335 new, -902 duplicates skipped
+  Extracted 1325 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1325
+eauctionsindia: 1325 properties fetched
+Processing stats: 1331 total items, 1331 new, -890 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 433 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 142/1335 items remain
-Saved 0 pincodes to cache.
+Saved state with 441 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 142/1331 items remain
+Saved 4 pincodes to cache.
 NEW_AUCTIONS_COUNT=142
-Wrote 1335 items to data/property_listings.json
+Wrote 1331 items to data/property_listings.json
