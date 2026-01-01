@@ -37,14 +37,14 @@ Scraping https://www.eauctionsindia.com/city/raigad...
   Found 73 candidate card fragments by text-match
   Extracted 794 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
-  Found 73 candidate card fragments by text-match
-  Extracted 867 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 867
-eauctionsindia: 867 properties fetched
-Processing stats: 867 total items, 867 new, -446 duplicates skipped
+  Found 112 candidate card fragments by text-match
+  Extracted 906 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 906
+eauctionsindia: 906 properties fetched
+Processing stats: 906 total items, 906 new, -476 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 421 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 141/867 items remain
+Saved state with 430 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 141/906 items remain
 Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=141
-Wrote 867 items to data/property_listings.json
+Wrote 906 items to data/property_listings.json
