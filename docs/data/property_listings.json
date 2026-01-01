@@ -1,5 +1,187 @@
 [
   {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "01-01-2026 05:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "11-01-2026 10:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "12-01-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "12-01-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "31-12-2025 08:14:53"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "12-01-2026 10:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/12/18/232285/509133_compressed.jpg",
+    "raw": {
+      "propertyId": "232285",
+      "projectName": null,
+      "price": 9530000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/12/18/232285/509133_compressed.jpg",
+      "postedOn": "31-12-2025",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Punjab National Bank",
+      "summaryDesc": null,
+      "city": "Solapur",
+      "cityID": "5440",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "413001",
+      "bankPropertyId": "PUNBHCW015334TNC53168149",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Property situated in District & Sub District Solapur, Tal \u2013 North Solapur bearing City Survey No. 8338/A/5/2/2 total admeasuring 371.00 Sq. Mtrs out of this Flat No 5 on the 5th floor having its carpet area adm 112.84 sq mtr known as \u201cAnusha Apartment\u201d, situated at Railway Line, Solapur within the limits of Solapur Municipal Corparation belonging to Mrs. Heena Harish Gala",
+      "statename": "Maharashtra",
+      "districtname": "Solapur",
+      "inspectionStartDateTime": "01-01-2026 05:30:00",
+      "inspectionEndDateTime": "11-01-2026 10:30:00",
+      "auctionStartDateTime": "12-01-2026 05:30:00",
+      "auctionEndDateTime": "12-01-2026 10:30:00",
+      "emdStartDateTime": "31-12-2025 08:14:53",
+      "emdEndDateTime": "12-01-2026 10:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No.103, Ground Floor, Sarfaraz Nagar, CTS No.11387/1, Sheet No.14 &19, VIP Flat Owner's Sahakari Gruh Nirman Sanstha, Fazilpura, Taluka & Dist. Aurangabad Adm built up area 900 Sq. Ft.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "23-01-2026 05:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "23-01-2026 07:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "28-01-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "28-01-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "31-12-2025 08:03:51"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "28-01-2026 10:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/12/30/269637/515831_compressed.jpg",
+    "raw": {
+      "propertyId": "269637",
+      "projectName": "VIP Flat Owner's Sahakari Gruh Nirman Sanstha",
+      "price": 2544000.0,
+      "pricePerSeqFit": 6500.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/12/30/269637/515831_compressed.jpg",
+      "postedOn": "31-12-2025",
+      "developerName": "VIP Flat Owner's Sahakari Gruh Nirman Sanstha",
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Flat No.103, Ground Floor, Sarfaraz Nagar, CTS No.11387/1, Sheet No.14 &19, VIP Flat Owner's Sahakari Gruh Nirman Sanstha, Fazilpura, Taluka & Dist. Aurangabad Adm built up area 900 Sq. Ft.",
+      "city": "Chhatrapati Sambhajinagar",
+      "cityID": "4969",
+      "stateID": 21,
+      "localities": "Fazilpura, Taluka & Dist. Aurangabad",
+      "noOfBedRoom": 2,
+      "carpetArea": 850.0,
+      "builtupArea": 900.0,
+      "furnishedStatus": null,
+      "floorNo": 1,
+      "totalNoOfFloors": 4,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "431001",
+      "bankPropertyId": "SBIN001295375",
+      "availablePhotosCount": 9,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No.103, Ground Floor, Sarfaraz Nagar, CTS No.11387/1, Sheet No.14 &19, VIP Flat Owner's Sahakari Gruh Nirman Sanstha, Fazilpura, Taluka & Dist. Aurangabad Adm built up area 900 Sq. Ft. standing in the name of Smt. Rubina Taher Shah & Mr. Taher Raheman Shaha",
+      "statename": "Maharashtra",
+      "districtname": "Chhatrapati Sambhaji Nagar",
+      "inspectionStartDateTime": "23-01-2026 05:30:00",
+      "inspectionEndDateTime": "23-01-2026 07:30:00",
+      "auctionStartDateTime": "28-01-2026 05:30:00",
+      "auctionEndDateTime": "28-01-2026 10:30:00",
+      "emdStartDateTime": "31-12-2025 08:03:51",
+      "emdEndDateTime": "28-01-2026 10:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
     "details": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhask",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -6814,6 +6996,708 @@
     "property_type": "Other"
   },
   {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "Keep on reading How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA e-Auction of residential and commercial sites",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA e-Auction of residential and commercial sites",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
     "details": "Commercial Office 03-02-2026 11:00 AM eAuction Commercial Office in Kudal, Sindhudurg CTS No. 3095, ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -8208,96 +9092,482 @@
     "property_type": "Other"
   },
   {
-    "details": "Flat 28-01-2026 02:00 PM eAuction Flat in Kasabe, Solapur Description of the Immovable Property: All",
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEAR",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "28-01-2026 02:00 PM"
+        "value": "31-01-2026 11:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b917,32,500.00",
-      "auction_date": "28-01-2026 02:00 PM",
+      "price": "eAuction Plot in Barshi, Solapur",
+      "auction_date": "31-01-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 28-01-2026 02:00 PM eAuction Flat in Kasabe, Solapur Description of the Immovable Property: All that piece and parcel of the Flat No. 102 admea... Auction ID :# 655305 Reserve Price : \u20b917,32,500.00 View More House 28-01-2026 02:00 PM eAuction House in Nehru Nagar,, Solapur Description of the Im",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING OLD GAT NO 511/4 ITS NEW GAT NO 517/4 OUT OF... Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More Plot 31-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PAR",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
     "source": "eauctionsindia",
     "city": "Solapur",
-    "property_type": "Flat"
+    "property_type": "Plot"
   },
   {
-    "details": "Flat 28-01-2026 02:00 PM eAuction Flat in Kasabe, Solapur Description of the Immovable Property: All",
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEAR",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "28-01-2026 02:00 PM"
+        "value": "31-01-2026 11:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b917,32,500.00",
-      "auction_date": "28-01-2026 02:00 PM",
+      "price": "eAuction Plot in Barshi, Solapur",
+      "auction_date": "31-01-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 28-01-2026 02:00 PM eAuction Flat in Kasabe, Solapur Description of the Immovable Property: All that piece and parcel of the Flat No. 102 admea... Auction ID :# 655305 Reserve Price : \u20b917,32,500.00 View More House 28-01-2026 02:00 PM eAuction House in Nehru Nagar,, Solapur Description of the Im",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING OLD GAT NO 511/4 ITS NEW GAT NO 517/4 OUT OF... Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More Plot 31-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PAR",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
     "source": "eauctionsindia",
     "city": "Solapur",
-    "property_type": "Flat"
+    "property_type": "Plot"
   },
   {
-    "details": "Flat 28-01-2026 02:00 PM eAuction Flat in Kasabe, Solapur Description of the Immovable Property: All",
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEAR",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "28-01-2026 02:00 PM"
+        "value": "31-01-2026 11:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b917,32,500.00",
-      "auction_date": "28-01-2026 02:00 PM",
+      "price": "eAuction Plot in Barshi, Solapur",
+      "auction_date": "31-01-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 28-01-2026 02:00 PM eAuction Flat in Kasabe, Solapur Description of the Immovable Property: All that piece and parcel of the Flat No. 102 admea... Auction ID :# 655305 Reserve Price : \u20b917,32,500.00 View More House 28-01-2026 02:00 PM eAuction House in Nehru Nagar,, Solapur Description of the Im",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING OLD GAT NO 511/4 ITS NEW GAT NO 517/4 OUT OF... Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More Plot 31-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PAR",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
     "source": "eauctionsindia",
     "city": "Solapur",
-    "property_type": "Flat"
+    "property_type": "Plot"
   },
   {
-    "details": "Flat 28-01-2026 02:00 PM eAuction Flat in Kasabe, Solapur Description of the Immovable Property: All",
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEAR",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "28-01-2026 02:00 PM"
+        "value": "31-01-2026 11:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b917,32,500.00",
-      "auction_date": "28-01-2026 02:00 PM",
+      "price": "eAuction Plot in Barshi, Solapur",
+      "auction_date": "31-01-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 28-01-2026 02:00 PM eAuction Flat in Kasabe, Solapur Description of the Immovable Property: All that piece and parcel of the Flat No. 102 admea... Auction ID :# 655305 Reserve Price : \u20b917,32,500.00 View More House 28-01-2026 02:00 PM eAuction House in Nehru Nagar,, Solapur Description of the Im",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING OLD GAT NO 511/4 ITS NEW GAT NO 517/4 OUT OF... Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More Plot 31-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PAR",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
     "source": "eauctionsindia",
     "city": "Solapur",
-    "property_type": "Flat"
+    "property_type": "Plot"
+  },
+  {
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEAR",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "31-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "eAuction Plot in Barshi, Solapur",
+      "auction_date": "31-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING OLD GAT NO 511/4 ITS NEW GAT NO 517/4 OUT OF... Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEAR",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "31-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "eAuction Plot in Barshi, Solapur",
+      "auction_date": "31-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING OLD GAT NO 511/4 ITS NEW GAT NO 517/4 OUT OF... Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING OLD GAT NO 511/4 ITS ",
+    "link": "https://www.eauctionsindia.com/properties/657729",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "eAuction Plot in Barshi, Solapur",
+      "property_url": "https://www.eauctionsindia.com/properties/657729",
+      "raw_text": "eAuction Plot in Barshi, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING OLD GAT NO 511/4 ITS NEW GAT NO 517/4 OUT OF...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/657729",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b947,57,250.00",
+      "property_url": "https://www.eauctionsindia.com/properties/657729",
+      "raw_text": "Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/657729",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b947,57,250.00",
+      "property_url": "https://www.eauctionsindia.com/properties/657729",
+      "raw_text": "Auction ID :# 657729 Reserve Price : \u20b947,57,250.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PARCEL OF PROPER",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "31-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b916,01,500.00",
+      "auction_date": "31-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING GAT NO 435 OUT OF THAT WEST SIDES PORTION OF... Auction ID :# 657731 Reserve Price : \u20b916,01,500.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PARCEL OF PROPER",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "31-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b916,01,500.00",
+      "auction_date": "31-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING GAT NO 435 OUT OF THAT WEST SIDES PORTION OF... Auction ID :# 657731 Reserve Price : \u20b916,01,500.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING GAT NO 435 OUT",
+    "link": "https://www.eauctionsindia.com/properties/657731",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/657731",
+      "raw_text": "eAuction Plot in North Solapur, Solapur ALL THAT PIECE AND PARCEL OF PROPERTY BEARING GAT NO 435 OUT OF THAT WEST SIDES PORTION OF...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Auction ID :# 657731 Reserve Price : \u20b916,01,500.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/657731",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b916,01,500.00",
+      "property_url": "https://www.eauctionsindia.com/properties/657731",
+      "raw_text": "Auction ID :# 657731 Reserve Price : \u20b916,01,500.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 657731 Reserve Price : \u20b916,01,500.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/657731",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b916,01,500.00",
+      "property_url": "https://www.eauctionsindia.com/properties/657731",
+      "raw_text": "Auction ID :# 657731 Reserve Price : \u20b916,01,500.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Karmala, Solapur THAT PIECE AND PARCEL OF NA OPEN PLOT NO ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "31-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "THAT PIECE AND PARCEL OF NA OPEN PLOT NO 35 EAST SOUTH CORNER TOTAL AREA ADM 450 RSQ MTR O...",
+      "auction_date": "31-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Karmala, Solapur THAT PIECE AND PARCEL OF NA OPEN PLOT NO 35 EAST SOUTH CORNER TOTAL AREA ADM 450 RSQ MTR O... Auction ID :# 657730 Reserve Price : \u20b921,02,140.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Karmala, Solapur THAT PIECE AND PARCEL OF NA OPEN PLOT NO ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "31-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "THAT PIECE AND PARCEL OF NA OPEN PLOT NO 35 EAST SOUTH CORNER TOTAL AREA ADM 450 RSQ MTR O...",
+      "auction_date": "31-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Karmala, Solapur THAT PIECE AND PARCEL OF NA OPEN PLOT NO 35 EAST SOUTH CORNER TOTAL AREA ADM 450 RSQ MTR O... Auction ID :# 657730 Reserve Price : \u20b921,02,140.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "eAuction Plot in Karmala, Solapur THAT PIECE AND PARCEL OF NA OPEN PLOT NO 35 EAST SOUTH CORNER TOTA",
+    "link": "https://www.eauctionsindia.com/properties/657730",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "THAT PIECE AND PARCEL OF NA OPEN PLOT NO 35 EAST SOUTH CORNER TOTAL AREA ADM 450 RSQ MTR O...",
+      "property_url": "https://www.eauctionsindia.com/properties/657730",
+      "raw_text": "eAuction Plot in Karmala, Solapur THAT PIECE AND PARCEL OF NA OPEN PLOT NO 35 EAST SOUTH CORNER TOTAL AREA ADM 450 RSQ MTR O...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Auction ID :# 657730 Reserve Price : \u20b921,02,140.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/657730",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,02,140.00",
+      "property_url": "https://www.eauctionsindia.com/properties/657730",
+      "raw_text": "Auction ID :# 657730 Reserve Price : \u20b921,02,140.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 657730 Reserve Price : \u20b921,02,140.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/657730",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,02,140.00",
+      "property_url": "https://www.eauctionsindia.com/properties/657730",
+      "raw_text": "Auction ID :# 657730 Reserve Price : \u20b921,02,140.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Tal Madha, Solapur ALL THAT PIECEAND PARCEL PROPERTY OF GA",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "31-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b927,36,350.00",
+      "auction_date": "31-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Tal Madha, Solapur ALL THAT PIECEAND PARCEL PROPERTY OF GAT NO123TOTAL ADM AREA 36 SQ MTR OUT OF PLOT, PLDT N... Auction ID :# 657728 Reserve Price : \u20b927,36,350.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Plot 31-01-2026 11:00 AM eAuction Plot in Tal Madha, Solapur ALL THAT PIECEAND PARCEL PROPERTY OF GA",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "31-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b927,36,350.00",
+      "auction_date": "31-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 31-01-2026 11:00 AM eAuction Plot in Tal Madha, Solapur ALL THAT PIECEAND PARCEL PROPERTY OF GAT NO123TOTAL ADM AREA 36 SQ MTR OUT OF PLOT, PLDT N... Auction ID :# 657728 Reserve Price : \u20b927,36,350.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "eAuction Plot in Tal Madha, Solapur ALL THAT PIECEAND PARCEL PROPERTY OF GAT NO123TOTAL ADM AREA 36 ",
+    "link": "https://www.eauctionsindia.com/properties/657728",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/657728",
+      "raw_text": "eAuction Plot in Tal Madha, Solapur ALL THAT PIECEAND PARCEL PROPERTY OF GAT NO123TOTAL ADM AREA 36 SQ MTR OUT OF PLOT, PLDT N...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Auction ID :# 657728 Reserve Price : \u20b927,36,350.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/657728",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b927,36,350.00",
+      "property_url": "https://www.eauctionsindia.com/properties/657728",
+      "raw_text": "Auction ID :# 657728 Reserve Price : \u20b927,36,350.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 657728 Reserve Price : \u20b927,36,350.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/657728",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b927,36,350.00",
+      "property_url": "https://www.eauctionsindia.com/properties/657728",
+      "raw_text": "Auction ID :# 657728 Reserve Price : \u20b927,36,350.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
   },
   {
     "details": "Flat 28-01-2026 02:00 PM eAuction Flat in Kasabe, Solapur Description of the Immovable Property: All",
@@ -8780,102 +10050,6 @@
     "property_type": "Other"
   },
   {
-    "details": "Flat 28-01-2026 11:00 AM eAuction Flat in Majrewadi, Solapur All the part and parcel of property Con",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "28-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b917,17,000.00",
-      "auction_date": "28-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 28-01-2026 11:00 AM eAuction Flat in Majrewadi, Solapur All the part and parcel of property Consisting Flat No. 402, 4th Floor, Plot No. 13, Old S... Auction ID :# 656193 Reserve Price : \u20b917,17,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 28-01-2026 11:00 AM eAuction Flat in Majrewadi, Solapur All the part and parcel of property Con",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "28-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b917,17,000.00",
-      "auction_date": "28-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 28-01-2026 11:00 AM eAuction Flat in Majrewadi, Solapur All the part and parcel of property Consisting Flat No. 402, 4th Floor, Plot No. 13, Old S... Auction ID :# 656193 Reserve Price : \u20b917,17,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Majrewadi, Solapur All the part and parcel of property Consisting Flat No. 402, 4th",
-    "link": "https://www.eauctionsindia.com/properties/656193",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/656193",
-      "raw_text": "eAuction Flat in Majrewadi, Solapur All the part and parcel of property Consisting Flat No. 402, 4th Floor, Plot No. 13, Old S...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 656193 Reserve Price : \u20b917,17,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/656193",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b917,17,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/656193",
-      "raw_text": "Auction ID :# 656193 Reserve Price : \u20b917,17,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 656193 Reserve Price : \u20b917,17,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/656193",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b917,17,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/656193",
-      "raw_text": "Auction ID :# 656193 Reserve Price : \u20b917,17,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
     "details": "Flat 28-01-2026 11:00 AM eAuction Flat in Solapur, Solapur All the part and parcel of property Consi",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -9156,294 +10330,6 @@
       "price": "Reserve Price : \u20b93,52,07,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/656190",
       "raw_text": "Auction ID :# 656190 Reserve Price : \u20b93,52,07,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Plot 27-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur All that piece and parcel of the pr",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "27-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,40,000.00",
-      "auction_date": "27-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 27-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur All that piece and parcel of the property bearing Gat No. 259/1/A out of that Plot No. 44... Auction ID :# 651897 Reserve Price : \u20b92,40,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Plot 27-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur All that piece and parcel of the pr",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "27-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,40,000.00",
-      "auction_date": "27-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 27-01-2026 11:00 AM eAuction Plot in North Solapur, Solapur All that piece and parcel of the property bearing Gat No. 259/1/A out of that Plot No. 44... Auction ID :# 651897 Reserve Price : \u20b92,40,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "eAuction Plot in North Solapur, Solapur All that piece and parcel of the property bearing Gat No. 25",
-    "link": "https://www.eauctionsindia.com/properties/651897",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/651897",
-      "raw_text": "eAuction Plot in North Solapur, Solapur All that piece and parcel of the property bearing Gat No. 259/1/A out of that Plot No. 44...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 651897 Reserve Price : \u20b92,40,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/651897",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,40,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/651897",
-      "raw_text": "Auction ID :# 651897 Reserve Price : \u20b92,40,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 651897 Reserve Price : \u20b92,40,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/651897",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,40,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/651897",
-      "raw_text": "Auction ID :# 651897 Reserve Price : \u20b92,40,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Plot 27-01-2026 11:00 AM eAuction Plot in Pandharpur, Solapur All that piece and parcel of the prope",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "27-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b98,54,000.00",
-      "auction_date": "27-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 27-01-2026 11:00 AM eAuction Plot in Pandharpur, Solapur All that piece and parcel of the property bearing Grampanchayat Milkat No. 37 Ad-measuring... Auction ID :# 651898 Reserve Price : \u20b98,54,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Plot 27-01-2026 11:00 AM eAuction Plot in Pandharpur, Solapur All that piece and parcel of the prope",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "27-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b98,54,000.00",
-      "auction_date": "27-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 27-01-2026 11:00 AM eAuction Plot in Pandharpur, Solapur All that piece and parcel of the property bearing Grampanchayat Milkat No. 37 Ad-measuring... Auction ID :# 651898 Reserve Price : \u20b98,54,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "eAuction Plot in Pandharpur, Solapur All that piece and parcel of the property bearing Grampanchayat",
-    "link": "https://www.eauctionsindia.com/properties/651898",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/651898",
-      "raw_text": "eAuction Plot in Pandharpur, Solapur All that piece and parcel of the property bearing Grampanchayat Milkat No. 37 Ad-measuring...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 651898 Reserve Price : \u20b98,54,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/651898",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b98,54,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/651898",
-      "raw_text": "Auction ID :# 651898 Reserve Price : \u20b98,54,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 651898 Reserve Price : \u20b98,54,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/651898",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b98,54,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/651898",
-      "raw_text": "Auction ID :# 651898 Reserve Price : \u20b98,54,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Land 23-01-2026 02:00 PM eAuction Land in Malshiras, Solapur All that part & parcel of Property at S",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "23-01-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b980,00,000.00",
-      "auction_date": "23-01-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 23-01-2026 02:00 PM eAuction Land in Malshiras, Solapur All that part & parcel of Property at Survey No. 97/2/A/2/G/1/P Admeasuring 197.88 Sq.... Auction ID :# 649790 Reserve Price : \u20b980,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Land"
-  },
-  {
-    "details": "Land 23-01-2026 02:00 PM eAuction Land in Malshiras, Solapur All that part & parcel of Property at S",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "23-01-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b980,00,000.00",
-      "auction_date": "23-01-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 23-01-2026 02:00 PM eAuction Land in Malshiras, Solapur All that part & parcel of Property at Survey No. 97/2/A/2/G/1/P Admeasuring 197.88 Sq.... Auction ID :# 649790 Reserve Price : \u20b980,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Land"
-  },
-  {
-    "details": "eAuction Land in Malshiras, Solapur All that part & parcel of Property at Survey No. 97/2/A/2/G/1/P ",
-    "link": "https://www.eauctionsindia.com/properties/649790",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/649790",
-      "raw_text": "eAuction Land in Malshiras, Solapur All that part & parcel of Property at Survey No. 97/2/A/2/G/1/P Admeasuring 197.88 Sq....",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Land"
-  },
-  {
-    "details": "Auction ID :# 649790 Reserve Price : \u20b980,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/649790",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b980,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/649790",
-      "raw_text": "Auction ID :# 649790 Reserve Price : \u20b980,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 649790 Reserve Price : \u20b980,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/649790",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b980,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/649790",
-      "raw_text": "Auction ID :# 649790 Reserve Price : \u20b980,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -12379,6 +13265,708 @@
     "raw": {
       "price": ". All rights reserved.",
       "raw_text": "Copyright \u00a9 2026 Welcome to eAuctions India . All rights reserved.",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "Keep on reading How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA e-Auction of residential and commercial sites",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA e-Auction of residential and commercial sites",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
