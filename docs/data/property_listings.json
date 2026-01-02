@@ -68,7 +68,7 @@
   },
   {
     "emd_cost": null,
-    "details": "2 BHK flat",
+    "details": "Bungalow no. B-9, Bella Vista Hill City ,Mall Village Shahpur, Dist Thane",
     "important_dates": [
       {
         "key": "isAuctioncreated",
@@ -76,30 +76,97 @@
       }
     ],
     "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/02/268439/517440_compressed.jpg",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/12/31/217761/516417_compressed.jpg",
     "raw": {
-      "propertyId": "268439",
-      "projectName": "SUNTECK WEST WORLD -1",
-      "price": 600000.0,
-      "pricePerSeqFit": 10000.0,
+      "propertyId": "217761",
+      "projectName": null,
+      "price": 4000000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "4",
+      "propertySubType": "Bungalow",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/12/31/217761/516417_compressed.jpg",
+      "postedOn": "02-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of India",
+      "summaryDesc": "Bungalow no. B-9, Bella Vista Hill City ,Mall Village Shahpur, Dist Thane",
+      "city": "Asangaon",
+      "cityID": "5444",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "421601",
+      "bankPropertyId": "BKIDSARM4003",
+      "availablePhotosCount": 23,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Bungalow no. B-9, Bella Vista Hill City ,Mall Village Shahpur, Dist Thane,",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Bungalow"
+  },
+  {
+    "emd_cost": null,
+    "details": "1 BHK flat, built up area 474 sq. ft.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/02/268509/517514_compressed.jpg",
+    "raw": {
+      "propertyId": "268509",
+      "projectName": "MULUND TULIP CHS",
+      "price": 10500000.0,
+      "pricePerSeqFit": 22000.0,
       "propertySubTypeId": "1",
       "propertySubType": "Flat",
       "propertyStatus": null,
       "typeOfAsset": "Immovable",
       "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/02/268439/517440_compressed.jpg",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/02/268509/517514_compressed.jpg",
       "postedOn": "02-01-2026",
       "developerName": null,
       "owenershipType": "Freehold",
       "bankName": "State Bank of India",
-      "summaryDesc": "2 BHK flat",
-      "city": "Vasai Virar",
-      "cityID": "5242",
+      "summaryDesc": "1 BHK flat, built up area 474 sq. ft.",
+      "city": "Mumbai",
+      "cityID": "5109",
       "stateID": 21,
-      "localities": "NAIGAON",
-      "noOfBedRoom": 2,
-      "carpetArea": 547.0,
-      "builtupArea": 602.0,
+      "localities": "Mulund (W)",
+      "noOfBedRoom": 1,
+      "carpetArea": 470.0,
+      "builtupArea": 474.0,
       "furnishedStatus": null,
       "floorNo": null,
       "totalNoOfFloors": null,
@@ -107,9 +174,9 @@
       "amenities": null,
       "isAuctioncreated": false,
       "coordinate": null,
-      "pincode": "401208",
-      "bankPropertyId": "SBIN400039176742",
-      "availablePhotosCount": 10,
+      "pincode": "400080",
+      "bankPropertyId": "SBIN400039902193",
+      "availablePhotosCount": 12,
       "isPhotosAvailable": true,
       "unitOfMeasureId": "1",
       "unitOfMeasure": "sq feet",
@@ -117,9 +184,9 @@
       "isLoanAvailable": null,
       "typeOfAction": "1",
       "isPPVCRequest": true,
-      "address": "Flat No. 806, 8th Floor, \u2018C\u2019 Wing, Sunteck West World I, Building 3, At Tivri Village, Naigaon , Vasai \u2013 401208, Dist : Palghar",
+      "address": "Flat No. 803, 8th floor, C wing \"  Tulip  CHS Ltd. VP Road, Mulund (W), Mumbai - 400080",
       "statename": "Maharashtra",
-      "districtname": "Palghar",
+      "districtname": "Mumbai Suburban",
       "inspectionStartDateTime": null,
       "inspectionEndDateTime": null,
       "auctionStartDateTime": null,
@@ -17414,6 +17481,198 @@
     "property_type": "Other"
   },
   {
+    "details": "Plant & Machinery 04-02-2026 10:30 AM eAuction Plant & Machinery in Satara, Satara Lot-Plant and Mac",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "04-02-2026 10:30 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b92,25,98,000.00",
+      "auction_date": "04-02-2026 10:30 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plant & Machinery 04-02-2026 10:30 AM eAuction Plant & Machinery in Satara, Satara Lot-Plant and Machinery 4. Hypothecated Plant & Machinery lying in the premises of Plo... Auction ID :# 658031 Reserve Price : \u20b92,25,98,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Plant & Machinery 04-02-2026 10:30 AM eAuction Plant & Machinery in Satara, Satara Lot-Plant and Mac",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "04-02-2026 10:30 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b92,25,98,000.00",
+      "auction_date": "04-02-2026 10:30 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plant & Machinery 04-02-2026 10:30 AM eAuction Plant & Machinery in Satara, Satara Lot-Plant and Machinery 4. Hypothecated Plant & Machinery lying in the premises of Plo... Auction ID :# 658031 Reserve Price : \u20b92,25,98,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "eAuction Plant & Machinery in Satara, Satara Lot-Plant and Machinery 4. Hypothecated Plant & Machine",
+    "link": "https://www.eauctionsindia.com/properties/658031",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/658031",
+      "raw_text": "eAuction Plant & Machinery in Satara, Satara Lot-Plant and Machinery 4. Hypothecated Plant & Machinery lying in the premises of Plo...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 658031 Reserve Price : \u20b92,25,98,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/658031",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b92,25,98,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/658031",
+      "raw_text": "Auction ID :# 658031 Reserve Price : \u20b92,25,98,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 658031 Reserve Price : \u20b92,25,98,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/658031",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b92,25,98,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/658031",
+      "raw_text": "Auction ID :# 658031 Reserve Price : \u20b92,25,98,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Land And Building 04-02-2026 10:30 AM eAuction Land And Building in Khandala, Satara Lot: I-Land and",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "04-02-2026 10:30 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,96,93,000.00",
+      "auction_date": "04-02-2026 10:30 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Land And Building 04-02-2026 10:30 AM eAuction Land And Building in Khandala, Satara Lot: I-Land and Building along with Plant and Machinery Hypothecated Plant & Machinery... Auction ID :# 658030 Reserve Price : \u20b914,96,93,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Land"
+  },
+  {
+    "details": "Land And Building 04-02-2026 10:30 AM eAuction Land And Building in Khandala, Satara Lot: I-Land and",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "04-02-2026 10:30 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,96,93,000.00",
+      "auction_date": "04-02-2026 10:30 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Land And Building 04-02-2026 10:30 AM eAuction Land And Building in Khandala, Satara Lot: I-Land and Building along with Plant and Machinery Hypothecated Plant & Machinery... Auction ID :# 658030 Reserve Price : \u20b914,96,93,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Land"
+  },
+  {
+    "details": "eAuction Land And Building in Khandala, Satara Lot: I-Land and Building along with Plant and Machine",
+    "link": "https://www.eauctionsindia.com/properties/658030",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/658030",
+      "raw_text": "eAuction Land And Building in Khandala, Satara Lot: I-Land and Building along with Plant and Machinery Hypothecated Plant & Machinery...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Land"
+  },
+  {
+    "details": "Auction ID :# 658030 Reserve Price : \u20b914,96,93,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/658030",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,96,93,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/658030",
+      "raw_text": "Auction ID :# 658030 Reserve Price : \u20b914,96,93,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 658030 Reserve Price : \u20b914,96,93,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/658030",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,96,93,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/658030",
+      "raw_text": "Auction ID :# 658030 Reserve Price : \u20b914,96,93,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
     "details": "Plot 31-01-2026 10:00 AM eAuction Plot in Khandala, Satara All that piece and parcel situated at vil",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -17598,199 +17857,6 @@
       "price": "Reserve Price : \u20b920,00,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/656643",
       "raw_text": "Auction ID :# 656643 Reserve Price : \u20b920,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 30-01-2026 12:00 PM eAuction Flat in Khandala, Satara Registered mortgage of Gat no.1328, swapn",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-01-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,50,000.00",
-      "auction_date": "30-01-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-01-2026 12:00 PM eAuction Flat in Khandala, Satara Registered mortgage of Gat no.1328, swapnashilp complex\", Ground floor, Shop No.2, ad... Auction ID :# 655169 Reserve Price : \u20b910,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 30-01-2026 12:00 PM eAuction Flat in Khandala, Satara Registered mortgage of Gat no.1328, swapn",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-01-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,50,000.00",
-      "auction_date": "30-01-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-01-2026 12:00 PM eAuction Flat in Khandala, Satara Registered mortgage of Gat no.1328, swapnashilp complex\", Ground floor, Shop No.2, ad... Auction ID :# 655169 Reserve Price : \u20b910,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Khandala, Satara Registered mortgage of Gat no.1328, swapnashilp complex\", Ground f",
-    "link": "https://www.eauctionsindia.com/properties/655169",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/655169",
-      "raw_text": "eAuction Flat in Khandala, Satara Registered mortgage of Gat no.1328, swapnashilp complex\", Ground floor, Shop No.2, ad...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 655169 Reserve Price : \u20b910,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/655169",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/655169",
-      "raw_text": "Auction ID :# 655169 Reserve Price : \u20b910,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 655169 Reserve Price : \u20b910,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/655169",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/655169",
-      "raw_text": "Auction ID :# 655169 Reserve Price : \u20b910,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 30-01-2026 12:00 PM eAuction Flat in Karad, Satara All that piece and parcel of flat no. 101 on",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-01-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "All that piece and parcel of flat no. 101 on ground floor from Darshan Residency construct...",
-      "auction_date": "30-01-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-01-2026 12:00 PM eAuction Flat in Karad, Satara All that piece and parcel of flat no. 101 on ground floor from Darshan Residency construct... Auction ID :# 655200 Reserve Price : \u20b915,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 30-01-2026 12:00 PM eAuction Flat in Karad, Satara All that piece and parcel of flat no. 101 on",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-01-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "All that piece and parcel of flat no. 101 on ground floor from Darshan Residency construct...",
-      "auction_date": "30-01-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-01-2026 12:00 PM eAuction Flat in Karad, Satara All that piece and parcel of flat no. 101 on ground floor from Darshan Residency construct... Auction ID :# 655200 Reserve Price : \u20b915,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Karad, Satara All that piece and parcel of flat no. 101 on ground floor from Darsha",
-    "link": "https://www.eauctionsindia.com/properties/655200",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "All that piece and parcel of flat no. 101 on ground floor from Darshan Residency construct...",
-      "property_url": "https://www.eauctionsindia.com/properties/655200",
-      "raw_text": "eAuction Flat in Karad, Satara All that piece and parcel of flat no. 101 on ground floor from Darshan Residency construct...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 655200 Reserve Price : \u20b915,57,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/655200",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b915,57,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/655200",
-      "raw_text": "Auction ID :# 655200 Reserve Price : \u20b915,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 655200 Reserve Price : \u20b915,57,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/655200",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b915,57,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/655200",
-      "raw_text": "Auction ID :# 655200 Reserve Price : \u20b915,57,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
