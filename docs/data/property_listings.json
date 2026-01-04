@@ -83,9 +83,9 @@
       "auctionEndDateTime": "23-01-2026 10:30:00",
       "emdStartDateTime": "03-01-2026 10:27:00",
       "emdEndDateTime": "23-01-2026 10:30:00",
-      "noOfCarParking": null,
       "drtlocation": null,
-      "roname": null
+      "roname": null,
+      "noOfCarParking": null
     },
     "source": "baanknet",
     "property_type": "Flat"
