@@ -1,11 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
-Warning: failed to fetch Maharashtra pincodes (attempt 1): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7faf2d2275d0>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 1s...
-Fetching Maharashtra pincodes (attempt 2/3)...
-Warning: failed to fetch Maharashtra pincodes (attempt 2): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7faf2d191b50>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 2s...
-Fetching Maharashtra pincodes (attempt 3/3)...
-Warning: failed to fetch Maharashtra pincodes after 3 attempts: HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7faf2d34e710>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)'))
+Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 0 properties fetched
+BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 112 candidate card fragments by text-match
@@ -45,10 +41,10 @@ Scraping https://www.eauctionsindia.com/city/pune...
   Extracted 1335 properties so far from https://www.eauctionsindia.com/city/pune
 Total eauctionsindia properties fetched: 1335
 eauctionsindia: 1335 properties fetched
-Processing stats: 1335 total items, 1335 new, -901 duplicates skipped
+Processing stats: 1337 total items, 1337 new, -901 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 434 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 139/1335 items remain
+Saved state with 436 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 139/1337 items remain
 Traceback (most recent call last):
   File "/home/runner/work/Web_scrapper_alert/Web_scrapper_alert/scraper.py", line 1228, in <module>
     main()
@@ -67,4 +63,4 @@ Traceback (most recent call last):
                    ^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/smtplib.py", line 571, in data
     raise SMTPDataError(code, repl)
-smtplib.SMTPDataError: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 46e09a7af769-7ce478d9f6dsm1482010a34.24 - gsmtp')
+smtplib.SMTPDataError: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 6a1803df08f44-89077235411sm13970406d6.29 - gsmtp')
