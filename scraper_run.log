@@ -31,20 +31,20 @@ Scraping https://www.eauctionsindia.com/city/satara...
   Found 112 candidate card fragments by text-match
   Extracted 999 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
-  Found 102 candidate card fragments by text-match
-  Extracted 1101 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Found 112 candidate card fragments by text-match
+  Extracted 1111 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
   Found 112 candidate card fragments by text-match
-  Extracted 1213 properties so far from https://www.eauctionsindia.com/city/raigad
+  Extracted 1223 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 112 candidate card fragments by text-match
-  Extracted 1325 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1325
-eauctionsindia: 1325 properties fetched
-Processing stats: 1325 total items, 1325 new, -884 duplicates skipped
+  Extracted 1335 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1335
+eauctionsindia: 1335 properties fetched
+Processing stats: 1335 total items, 1335 new, -901 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 441 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 147/1325 items remain
+Saved state with 434 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 139/1335 items remain
 Traceback (most recent call last):
   File "/home/runner/work/Web_scrapper_alert/Web_scrapper_alert/scraper.py", line 1228, in <module>
     main()
@@ -63,4 +63,4 @@ Traceback (most recent call last):
                    ^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/smtplib.py", line 571, in data
     raise SMTPDataError(code, repl)
-smtplib.SMTPDataError: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-4ffa8e4c810sm9107861cf.24 - gsmtp')
+smtplib.SMTPDataError: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-121f248c246sm3919618c88.11 - gsmtp')
