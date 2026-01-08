@@ -25,279 +25,6 @@
       },
       {
         "key": "emdStartDateTime",
-        "value": "08-01-2026 09:50:16"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "27-01-2026 11:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/06/269973/519965_compressed.jpg",
-    "raw": {
-      "propertyId": "269973",
-      "projectName": null,
-      "price": 38500000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/06/269973/519965_compressed.jpg",
-      "postedOn": "08-01-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Baroda",
-      "summaryDesc": null,
-      "city": "Mumbai",
-      "cityID": "5109",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 1066.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North-East",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "400086",
-      "bankPropertyId": "BARB00615470",
-      "availablePhotosCount": 16,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No 506 & 507, 5th floor Palmyra Skyline Oasis C.H.S Ltd, Kirol Road, near Vidya Vihar Railway Station, Mumbai",
-      "statename": "Maharashtra",
-      "districtname": "Mumbai Suburban",
-      "inspectionStartDateTime": "17-01-2026 07:30:00",
-      "inspectionEndDateTime": "17-01-2026 09:30:00",
-      "auctionStartDateTime": "27-01-2026 08:30:00",
-      "auctionEndDateTime": "27-01-2026 12:30:00",
-      "emdStartDateTime": "08-01-2026 09:50:16",
-      "emdEndDateTime": "27-01-2026 11:30:00",
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null
-    },
-    "source": "baanknet",
-    "property_type": "Other"
-  },
-  {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "17-01-2026 07:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "17-01-2026 09:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "27-01-2026 08:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "27-01-2026 12:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "08-01-2026 09:54:44"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "27-01-2026 11:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/06/270197/520006_compressed.jpg",
-    "raw": {
-      "propertyId": "270197",
-      "projectName": null,
-      "price": 35000000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/06/270197/520006_compressed.jpg",
-      "postedOn": "08-01-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Baroda",
-      "summaryDesc": null,
-      "city": "Mumbai",
-      "cityID": "5109",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 962.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North-East",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "400086",
-      "bankPropertyId": "BARB00615472",
-      "availablePhotosCount": 21,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No 501, 5th floor Bldg Tadmor Skyline Oasis CHS Ltd Millar Compound Vidhya Vihar (West) Ghatkopar (West) Mumbai 400086",
-      "statename": "Maharashtra",
-      "districtname": "Mumbai Suburban",
-      "inspectionStartDateTime": "17-01-2026 07:30:00",
-      "inspectionEndDateTime": "17-01-2026 09:30:00",
-      "auctionStartDateTime": "27-01-2026 08:30:00",
-      "auctionEndDateTime": "27-01-2026 12:30:00",
-      "emdStartDateTime": "08-01-2026 09:54:44",
-      "emdEndDateTime": "27-01-2026 11:30:00",
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null
-    },
-    "source": "baanknet",
-    "property_type": "Other"
-  },
-  {
-    "emd_cost": null,
-    "details": "All that pieces and parcels of land situated being and lying at village Rahataghar shere Naka area District Ratnagiri within the limits and also within the jurisdiction of sub- Registrar, Ratnagiri, bearing- \r\nMunicipal House MNo-2848/A/1, 2848/2, & 2848/D, Survey No-59A1A1, H.No-9/1+2/4, admeasuring 166.84 Sq.mt, survey No-59A1A1, H.No-9/1+2+6, admeasuring 17.57 sq.mt, survey No- 59A1A1, H.no-9/1+2+7, admeasuring 25.38 Sq.mt, C.T.S. No-1439B/1,1439/5,1439/6, Shere Naka, Ratnagiri Built up area of Building\r\nMunicipal House No-2848/A/1:41.74 sq.mt\r\nMunicipal House no-2848/2: 39.50 Sq.mt\r\nMunicipal House no-2848/D: 34.61. Sq.mt\r\nTogether with the building and structures constructed to/to be constructed thereon and all the fixtures annexed thereto.",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "08-01-2026 07:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "13-01-2026 11:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "15-01-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "15-01-2026 11:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "08-01-2026 07:00:12"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "15-01-2026 10:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/03/269400/518175_compressed.jpg",
-    "raw": {
-      "propertyId": "269400",
-      "projectName": null,
-      "price": 3400000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "2",
-      "propertySubType": "Individual House",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/03/269400/518175_compressed.jpg",
-      "postedOn": "08-01-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "All that pieces and parcels of land situated being and lying at village Rahataghar shere Naka area District Ratnagiri within the limits and also within the jurisdiction of sub- Registrar, Ratnagiri, bearing- \r\nMunicipal House MNo-2848/A/1, 2848/2, & 2848/D, Survey No-59A1A1, H.No-9/1+2/4, admeasuring 166.84 Sq.mt, survey No-59A1A1, H.No-9/1+2+6, admeasuring 17.57 sq.mt, survey No- 59A1A1, H.no-9/1+2+7, admeasuring 25.38 Sq.mt, C.T.S. No-1439B/1,1439/5,1439/6, Shere Naka, Ratnagiri Built up area of Building\r\nMunicipal House No-2848/A/1:41.74 sq.mt\r\nMunicipal House no-2848/2: 39.50 Sq.mt\r\nMunicipal House no-2848/D: 34.61. Sq.mt\r\nTogether with the building and structures constructed to/to be constructed thereon and all the fixtures annexed thereto.",
-      "city": "Ratnagiri",
-      "cityID": "5355",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 166.84,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "415639",
-      "bankPropertyId": "MAHB0034",
-      "availablePhotosCount": 6,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "2",
-      "unitOfMeasure": "sq meter",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Shere Naka Rahatghar Ratnagiri",
-      "statename": "Maharashtra",
-      "districtname": "Ratnagiri",
-      "inspectionStartDateTime": "08-01-2026 07:30:00",
-      "inspectionEndDateTime": "13-01-2026 11:30:00",
-      "auctionStartDateTime": "15-01-2026 05:30:00",
-      "auctionEndDateTime": "15-01-2026 11:30:00",
-      "emdStartDateTime": "08-01-2026 07:00:12",
-      "emdEndDateTime": "15-01-2026 10:30:00",
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null
-    },
-    "source": "baanknet",
-    "property_type": "Land"
-  },
-  {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "17-01-2026 07:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "17-01-2026 09:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "27-01-2026 08:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "27-01-2026 12:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
         "value": "08-01-2026 09:51:18"
       },
       {
@@ -496,6 +223,346 @@
     },
     "source": "baanknet",
     "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
+    "details": "Carpet Area 393 Sq. Ft and the flat is 1 BHK.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/11/10/259472/479909_compressed.jpg",
+    "raw": {
+      "propertyId": "259472",
+      "projectName": null,
+      "price": 3200000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/11/10/259472/479909_compressed.jpg",
+      "postedOn": "08-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Carpet Area 393 Sq. Ft and the flat is 1 BHK.",
+      "city": "Vasai Virar",
+      "cityID": "5242",
+      "stateID": 21,
+      "localities": "TIVRI NAIGAON (EAST)",
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "401208",
+      "bankPropertyId": "SBIN200033594660",
+      "availablePhotosCount": 24,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "FLAT NO 1704 17TH FLOOR, WING B, BUILDING 3, \"SUNTECK WEST WORLD I, TIVRI NAIGAON(EAST) TALUKA-VASAI DISTRICT -PALGHAR 401208",
+      "statename": "Maharashtra",
+      "districtname": "Palghar",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
+    "details": "All that pieces and parcels of land situated being and lying at village Rahataghar shere Naka area District Ratnagiri within the limits and also within the jurisdiction of sub- Registrar, Ratnagiri, bearing- \r\nMunicipal House MNo-2848/A/1, 2848/2, & 2848/D, Survey No-59A1A1, H.No-9/1+2/4, admeasuring 166.84 Sq.mt, survey No-59A1A1, H.No-9/1+2+6, admeasuring 17.57 sq.mt, survey No- 59A1A1, H.no-9/1+2+7, admeasuring 25.38 Sq.mt, C.T.S. No-1439B/1,1439/5,1439/6, Shere Naka, Ratnagiri Built up area of Building\r\nMunicipal House No-2848/A/1:41.74 sq.mt\r\nMunicipal House no-2848/2: 39.50 Sq.mt\r\nMunicipal House no-2848/D: 34.61. Sq.mt\r\nTogether with the building and structures constructed to/to be constructed thereon and all the fixtures annexed thereto.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "08-01-2026 07:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "13-01-2026 11:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "15-01-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "15-01-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "08-01-2026 07:00:12"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "15-01-2026 10:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/03/269400/518175_compressed.jpg",
+    "raw": {
+      "propertyId": "269400",
+      "projectName": null,
+      "price": 3400000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "2",
+      "propertySubType": "Individual House",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/03/269400/518175_compressed.jpg",
+      "postedOn": "08-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Maharashtra",
+      "summaryDesc": "All that pieces and parcels of land situated being and lying at village Rahataghar shere Naka area District Ratnagiri within the limits and also within the jurisdiction of sub- Registrar, Ratnagiri, bearing- \r\nMunicipal House MNo-2848/A/1, 2848/2, & 2848/D, Survey No-59A1A1, H.No-9/1+2/4, admeasuring 166.84 Sq.mt, survey No-59A1A1, H.No-9/1+2+6, admeasuring 17.57 sq.mt, survey No- 59A1A1, H.no-9/1+2+7, admeasuring 25.38 Sq.mt, C.T.S. No-1439B/1,1439/5,1439/6, Shere Naka, Ratnagiri Built up area of Building\r\nMunicipal House No-2848/A/1:41.74 sq.mt\r\nMunicipal House no-2848/2: 39.50 Sq.mt\r\nMunicipal House no-2848/D: 34.61. Sq.mt\r\nTogether with the building and structures constructed to/to be constructed thereon and all the fixtures annexed thereto.",
+      "city": "Ratnagiri",
+      "cityID": "5355",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 166.84,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "415639",
+      "bankPropertyId": "MAHB0034",
+      "availablePhotosCount": 6,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Shere Naka Rahatghar Ratnagiri",
+      "statename": "Maharashtra",
+      "districtname": "Ratnagiri",
+      "inspectionStartDateTime": "08-01-2026 07:30:00",
+      "inspectionEndDateTime": "13-01-2026 11:30:00",
+      "auctionStartDateTime": "15-01-2026 05:30:00",
+      "auctionEndDateTime": "15-01-2026 11:30:00",
+      "emdStartDateTime": "08-01-2026 07:00:12",
+      "emdEndDateTime": "15-01-2026 10:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Land"
+  },
+  {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "17-01-2026 07:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "17-01-2026 09:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "27-01-2026 08:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "27-01-2026 12:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "08-01-2026 09:50:16"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "27-01-2026 11:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/06/269973/519965_compressed.jpg",
+    "raw": {
+      "propertyId": "269973",
+      "projectName": null,
+      "price": 38500000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/06/269973/519965_compressed.jpg",
+      "postedOn": "08-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Baroda",
+      "summaryDesc": null,
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 1066.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North-East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "400086",
+      "bankPropertyId": "BARB00615470",
+      "availablePhotosCount": 16,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No 506 & 507, 5th floor Palmyra Skyline Oasis C.H.S Ltd, Kirol Road, near Vidya Vihar Railway Station, Mumbai",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": "17-01-2026 07:30:00",
+      "inspectionEndDateTime": "17-01-2026 09:30:00",
+      "auctionStartDateTime": "27-01-2026 08:30:00",
+      "auctionEndDateTime": "27-01-2026 12:30:00",
+      "emdStartDateTime": "08-01-2026 09:50:16",
+      "emdEndDateTime": "27-01-2026 11:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "17-01-2026 07:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "17-01-2026 09:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "27-01-2026 08:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "27-01-2026 12:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "08-01-2026 09:54:44"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "27-01-2026 11:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/06/270197/520006_compressed.jpg",
+    "raw": {
+      "propertyId": "270197",
+      "projectName": null,
+      "price": 35000000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/06/270197/520006_compressed.jpg",
+      "postedOn": "08-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Baroda",
+      "summaryDesc": null,
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 962.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North-East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "400086",
+      "bankPropertyId": "BARB00615472",
+      "availablePhotosCount": 21,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No 501, 5th floor Bldg Tadmor Skyline Oasis CHS Ltd Millar Compound Vidhya Vihar (West) Ghatkopar (West) Mumbai 400086",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": "17-01-2026 07:30:00",
+      "inspectionEndDateTime": "17-01-2026 09:30:00",
+      "auctionStartDateTime": "27-01-2026 08:30:00",
+      "auctionEndDateTime": "27-01-2026 12:30:00",
+      "emdStartDateTime": "08-01-2026 09:54:44",
+      "emdEndDateTime": "27-01-2026 11:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
   },
   {
     "details": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhask",
@@ -10334,130 +10401,130 @@
     "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
     "details": "Vasai RTO E-Auction of Vehicles",
@@ -10496,168 +10563,6 @@
     "property_type": "Commercial"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
-      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
     "details": "BDA to Auction 164 Sites in October 2025",
     "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
     "photos": "",
@@ -10676,16 +10581,142 @@
     "property_type": "Other"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Residential"
+  },
+  {
+    "details": "DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations",
+    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-2025-e-auction-of-177-flats-in-prime-delhi-locations",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-2025-e-auction-of-177-flats-in-prime-delhi-locations",
+      "raw_text": "DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensure",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
@@ -10694,130 +10725,166 @@
     "property_type": "Other"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
-      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Other"
+    "property_type": "Commercial"
+  },
+  {
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
+    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
+      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Commercial"
   },
   {
     "details": "Commercial Office 03-02-2026 11:00 AM eAuction Commercial Office in Kudal, Sindhudurg CTS No. 3095, ",
@@ -25015,130 +25082,130 @@
     "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Residential"
+    "property_type": "Other"
   },
   {
     "details": "Vasai RTO E-Auction of Vehicles",
@@ -25177,168 +25244,6 @@
     "property_type": "Commercial"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
-      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
     "details": "BDA to Auction 164 Sites in October 2025",
     "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
     "photos": "",
@@ -25357,16 +25262,142 @@
     "property_type": "Other"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "BDA to Auction 75 Residential Sites in September 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 75 Residential Sites in September 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-75-residential-sites-in-september-2025",
+      "raw_text": "BDA to Auction 75 Residential Sites in September 2025 BDA to E-auction 75 Residential Sites on 6th September 2025, Check the Details Like Registration, Property Details, Official Notification Eauctions India Undo DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations",
+    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-2025-e-auction-of-177-flats-in-prime-delhi-locations",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-2025-e-auction-of-177-flats-in-prime-delhi-locations",
+      "raw_text": "DDA Premium Housing Scheme 2025: E-Auction of 177 Flats in Prime Delhi Locations eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensure",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
@@ -25375,129 +25406,165 @@
     "property_type": "Other"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Other"
+    "property_type": "Commercial"
   },
   {
-    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
-      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Other"
+    "property_type": "Commercial"
+  },
+  {
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
+    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
+      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Commercial"
   }
 ]
