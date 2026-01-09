@@ -28,23 +28,23 @@ Scraping https://www.eauctionsindia.com/city/thane...
   Found 112 candidate card fragments by text-match
   Extracted 887 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
-  Found 112 candidate card fragments by text-match
-  Extracted 999 properties so far from https://www.eauctionsindia.com/city/satara
+  Found 117 candidate card fragments by text-match
+  Extracted 1004 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
   Found 112 candidate card fragments by text-match
-  Extracted 1111 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Extracted 1116 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
   Found 112 candidate card fragments by text-match
-  Extracted 1223 properties so far from https://www.eauctionsindia.com/city/raigad
+  Extracted 1228 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 112 candidate card fragments by text-match
-  Extracted 1335 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1335
-eauctionsindia: 1335 properties fetched
-Processing stats: 1340 total items, 1340 new, -903 duplicates skipped
+  Extracted 1340 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1340
+eauctionsindia: 1340 properties fetched
+Processing stats: 1345 total items, 1345 new, -898 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 437 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 140/1340 items remain
+Saved state with 447 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 156/1345 items remain
 Saved 5 pincodes to cache.
-NEW_AUCTIONS_COUNT=140
-Wrote 1340 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=156
+Wrote 1345 items to data/property_listings.json
