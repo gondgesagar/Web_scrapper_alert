@@ -1,5 +1,142 @@
 [
   {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/12/221303/522756_compressed.jpg",
+    "raw": {
+      "propertyId": "221303",
+      "projectName": null,
+      "price": 2300000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/12/221303/522756_compressed.jpg",
+      "postedOn": "12-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Indian Bank",
+      "summaryDesc": null,
+      "city": "Matheran",
+      "cityID": "5319",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "410101",
+      "bankPropertyId": "IDIB000SEEMA",
+      "availablePhotosCount": 20,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": null,
+      "isPPVCRequest": true,
+      "address": "Flat no-103, 1st floor of building no 10, A wing, Sai Moreshwar Complex Phase II, survey no 15, Hissa no 2, village Vanjarpada, Taluka Karjat, Dist Raigad 410101  admeasuring 460 sq ft.\r\nBoundaries:-\r\nOn or towards the East- By new construction/ open\r\nOn or towards the West- By Flat  no 104\r\nOn or towards the North- By Lift/ passage/ Flat No. 102 On or towards South- By B Wing.",
+      "statename": "Maharashtra",
+      "districtname": "Raigad",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": "Residential Flat no 102, admeasuring 705 Sq. ft. build up on 1st floor, G wing, Building No. 10, Sai Moreshwar Complex, Phase No. 2, situated on Survey No. 15/2, Village Vanjarpada, Neral East, Taluka -Karjat, District Raigad - 410101",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/09/269916/522049_compressed.jpg",
+    "raw": {
+      "propertyId": "269916",
+      "projectName": null,
+      "price": 2210000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/09/269916/522049_compressed.jpg",
+      "postedOn": "12-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Baroda",
+      "summaryDesc": "Residential Flat no 102, admeasuring 705 Sq. ft. build up on 1st floor, G wing, Building No. 10, Sai Moreshwar Complex, Phase No. 2, situated on Survey No. 15/2, Village Vanjarpada, Neral East, Taluka -Karjat, District Raigad - 410101",
+      "city": "Matheran",
+      "cityID": "5319",
+      "stateID": 21,
+      "localities": "Neral",
+      "noOfBedRoom": null,
+      "carpetArea": 705.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 73.348044,
+        "lat": 19.047684
+      },
+      "pincode": "410101",
+      "bankPropertyId": "BARB04240600003600",
+      "availablePhotosCount": 17,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Residential Flat no 102, admeasuring 705 Sq. ft. build up on 1st floor, G wing, Building No. 10, Sai Moreshwar Complex, Phase No. 2, situated on Survey No. 15/2, Village Vanjarpada, Neral East, Taluka -Karjat, District Raigad - 410 101",
+      "statename": "Maharashtra",
+      "districtname": "Raigad",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
     "details": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhask",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -5482,16 +5619,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Keep on reading Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "Keep on reading How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5500,16 +5637,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5518,16 +5655,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5536,16 +5673,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5554,16 +5691,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5572,16 +5709,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5590,16 +5727,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5608,16 +5745,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5626,16 +5763,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5644,16 +5781,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5662,16 +5799,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5680,16 +5817,16 @@
     "property_type": "Other"
   },
   {
-    "details": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
-      "raw_text": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5698,34 +5835,142 @@
     "property_type": "Other"
   },
   {
-    "details": "ADA Agra Atal Puram Plots Scheme/Yojana & Lottery",
-    "link": "https://www.eauctionsindia.com/blog-details/ada-agra-atal-puram-lottery",
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "ADA Agra Atal Puram Plots Scheme/Yojana & Lottery",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ada-agra-atal-puram-lottery",
-      "raw_text": "ADA Agra Atal Puram Plots Scheme/Yojana & Lottery eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Plot"
+    "property_type": "Residential"
   },
   {
-    "details": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
-    "link": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Vasai RTO E-Auction of Vehicles",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
-      "raw_text": "SEBI E-Auction 2026: Multiple Properties Up for Bidding eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5734,178 +5979,34 @@
     "property_type": "Other"
   },
   {
-    "details": "Kanpur Development Authority (KDA) Flat Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
+    "details": "BDA e-Auction of residential and commercial sites",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
+      "property_name": "BDA e-Auction of residential and commercial sites",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Flat"
+    "property_type": "Commercial"
   },
   {
-    "details": "Kanpur Development Authority (KDA) Flat Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Kanpur Development Authority (KDA) Flat Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Kanpur Development Authority (KDA) Flat Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Kanpur Development Authority (KDA) Flat Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Kanpur Development Authority (KDA) Flat Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Kanpur Development Authority (KDA) Flat Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Kanpur Development Authority (KDA) Flat Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Hassan Urban Development Authority eAuction",
-    "link": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Hassan Urban Development Authority eAuction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
-      "raw_text": "Hassan Urban Development Authority eAuction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5914,16 +6015,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Hassan Urban Development Authority eAuction",
-    "link": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Hassan Urban Development Authority eAuction",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
-      "raw_text": "Hassan Urban Development Authority eAuction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5932,16 +6033,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Hassan Urban Development Authority eAuction",
-    "link": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Hassan Urban Development Authority eAuction",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
-      "raw_text": "Hassan Urban Development Authority eAuction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5950,16 +6051,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Hassan Urban Development Authority eAuction",
-    "link": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Hassan Urban Development Authority eAuction",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
-      "raw_text": "Hassan Urban Development Authority eAuction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5968,16 +6069,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Hassan Urban Development Authority eAuction",
-    "link": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Hassan Urban Development Authority eAuction",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
-      "raw_text": "Hassan Urban Development Authority eAuction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5986,16 +6087,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Hassan Urban Development Authority eAuction",
-    "link": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Hassan Urban Development Authority eAuction",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
-      "raw_text": "Hassan Urban Development Authority eAuction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -6004,16 +6105,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Hassan Urban Development Authority eAuction",
-    "link": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Hassan Urban Development Authority eAuction",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
-      "raw_text": "Hassan Urban Development Authority eAuction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -6022,16 +6123,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Hassan Urban Development Authority eAuction",
-    "link": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Hassan Urban Development Authority eAuction",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
-      "raw_text": "Hassan Urban Development Authority eAuction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -6040,148 +6141,184 @@
     "property_type": "Other"
   },
   {
-    "details": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
+      "property_name": "BDA to Auction 164 Sites in October 2025",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
-      "raw_text": "GIDC Vadodara Region to Auction Commercial & Industrial Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay inform",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
-      "raw_text": "GIDC Vadodara Region to Auction Commercial & Industrial Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay inform",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
-      "raw_text": "GIDC Vadodara Region to Auction Commercial & Industrial Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay inform",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
-      "raw_text": "GIDC Vadodara Region to Auction Commercial & Industrial Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay inform",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
-      "raw_text": "GIDC Vadodara Region to Auction Commercial & Industrial Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay inform",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
-      "raw_text": "GIDC Vadodara Region to Auction Commercial & Industrial Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay inform",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
-      "raw_text": "GIDC Vadodara Region to Auction Commercial & Industrial Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay inform",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
-      "raw_text": "GIDC Vadodara Region to Auction Commercial & Industrial Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay inform",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
     "source": "eauctionsindia",
     "city": "Kalyan",
-    "property_type": "Plot"
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
   },
   {
     "details": "Plot 10-02-2026 11:30 AM eAuction Plot in Latur-, Latur All that piece and parcel of being situated ",
