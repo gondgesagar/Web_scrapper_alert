@@ -1,277 +1,191 @@
 [
   {
-    "emd_cost": null,
-    "details": null,
+    "details": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
     "important_dates": [
       {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "16-01-2026 05:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "16-01-2026 08:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "28-01-2026 06:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "28-01-2026 10:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "13-01-2026 05:31:35"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "28-01-2026 10:30:00"
+        "key": "auction_date",
+        "value": "27-02-2026 12:00 PM"
       }
     ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/07/07/244800/369606_compressed.jpg",
+    "emd_cost": "",
     "raw": {
-      "propertyId": "244800",
-      "projectName": "Ravi Estate Building No A CHSL",
-      "price": 11920000.0,
-      "pricePerSeqFit": 19750.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/07/07/244800/369606_compressed.jpg",
-      "postedOn": "13-01-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": null,
-      "city": "Thane",
-      "cityID": "5464",
-      "stateID": 21,
-      "localities": "Shivai Nagar, Majiwade, Thane West",
-      "noOfBedRoom": null,
-      "carpetArea": 746.0,
-      "builtupArea": 895.0,
-      "furnishedStatus": null,
-      "floorNo": 1,
-      "totalNoOfFloors": 15,
-      "facing": null,
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "400606",
-      "bankPropertyId": "SBIN200012347478",
-      "availablePhotosCount": 13,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No-101, 1st Floor, Building No. \u201cA\u201d, Ravi Estate Co-op Hsg Soc. Ltd., Shivai Nagar, Pokhran Road No.1, Village Majiwade, Thane (West), Dist. Thane 400606",
-      "statename": "Maharashtra",
-      "districtname": "Thane",
-      "inspectionStartDateTime": "16-01-2026 05:30:00",
-      "inspectionEndDateTime": "16-01-2026 08:30:00",
-      "auctionStartDateTime": "28-01-2026 06:30:00",
-      "auctionEndDateTime": "28-01-2026 10:30:00",
-      "emdStartDateTime": "13-01-2026 05:31:35",
-      "emdEndDateTime": "28-01-2026 10:30:00",
-      "noOfCarParking": 1,
-      "drtlocation": null,
-      "roname": null
+      "price": "Reserve Price : \u20b940,00,000.00",
+      "auction_date": "27-02-2026 12:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3BHK) & B- 105 (SERVANT ROOM), PRESIDENCY ESTATE, SIT... Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd F",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
-    "source": "baanknet",
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 12:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b940,00,000.00",
+      "auction_date": "27-02-2026 12:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3BHK) & B- 105 (SERVANT ROOM), PRESIDENCY ESTATE, SIT... Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd F",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 12:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b940,00,000.00",
+      "auction_date": "27-02-2026 12:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3BHK) & B- 105 (SERVANT ROOM), PRESIDENCY ESTATE, SIT... Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd F",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 12:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b940,00,000.00",
+      "auction_date": "27-02-2026 12:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3BHK) & B- 105 (SERVANT ROOM), PRESIDENCY ESTATE, SIT... Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd F",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 12:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b940,00,000.00",
+      "auction_date": "27-02-2026 12:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3BHK) & B- 105 (SERVANT ROOM), PRESIDENCY ESTATE, SIT... Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 12:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b940,00,000.00",
+      "auction_date": "27-02-2026 12:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-02-2026 12:00 PM eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3BHK) & B- 105 (SERVANT ROOM), PRESIDENCY ESTATE, SIT... Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3BHK) & B- 105 (SERVANT RO",
+    "link": "https://www.eauctionsindia.com/properties/667336",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/667336",
+      "raw_text": "eAuction Flat in Bhiwandi Road, Bhiwandi PROPERTY BEARING FLAT NO. B-103 (3BHK) & B- 105 (SERVANT ROOM), PRESIDENCY ESTATE, SIT...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/667336",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b940,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/667336",
+      "raw_text": "Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
     "property_type": "Other"
   },
   {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "17-01-2026 05:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "17-01-2026 08:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "28-01-2026 06:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "28-01-2026 10:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "13-01-2026 05:52:37"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "28-01-2026 10:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/07/09/244829/371391_compressed.jpg",
+    "details": "Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/667336",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
     "raw": {
-      "propertyId": "244829",
-      "projectName": "Mahindra Park CHSL",
-      "price": 13500000.0,
-      "pricePerSeqFit": 22940.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/07/09/244829/371391_compressed.jpg",
-      "postedOn": "13-01-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": null,
-      "city": "Mumbai",
-      "cityID": "5109",
-      "stateID": 21,
-      "localities": "Ghatkopar West",
-      "noOfBedRoom": null,
-      "carpetArea": 672.0,
-      "builtupArea": 785.0,
-      "furnishedStatus": null,
-      "floorNo": 3,
-      "totalNoOfFloors": null,
-      "facing": null,
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "400086",
-      "bankPropertyId": "SBIN200059793287",
-      "availablePhotosCount": 8,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No. 31, 3rd Floor, Building No. 1,  J Wing, \u201cMahindra Park CHS Ltd\u201d, CTS  No -175, Village- Kirol, Taluka  Kurla, Narayan Nagar, LBS Marg, Ghatkopar West, Mumbai- 400086",
-      "statename": "Maharashtra",
-      "districtname": "Mumbai Suburban",
-      "inspectionStartDateTime": "17-01-2026 05:30:00",
-      "inspectionEndDateTime": "17-01-2026 08:30:00",
-      "auctionStartDateTime": "28-01-2026 06:30:00",
-      "auctionEndDateTime": "28-01-2026 10:30:00",
-      "emdStartDateTime": "13-01-2026 05:52:37",
-      "emdEndDateTime": "28-01-2026 10:30:00",
-      "noOfCarParking": 1,
-      "drtlocation": null,
-      "roname": null
+      "price": "Reserve Price : \u20b940,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/667336",
+      "raw_text": "Auction ID :# 667336 Reserve Price : \u20b940,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
-    "source": "baanknet",
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
     "property_type": "Other"
-  },
-  {
-    "details": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhask",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b94,02,591.00",
-      "auction_date": "30-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhaskar Appt S.No 147 H.No.1.4 Plot No.5-9.Area Ad Measuring... Auction ID :# 652825 Reserve Price : \u20b94,02,591.00 View More Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhask",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b94,02,591.00",
-      "auction_date": "30-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhaskar Appt S.No 147 H.No.1.4 Plot No.5-9.Area Ad Measuring... Auction ID :# 652825 Reserve Price : \u20b94,02,591.00 View More Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhask",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b94,02,591.00",
-      "auction_date": "30-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhaskar Appt S.No 147 H.No.1.4 Plot No.5-9.Area Ad Measuring... Auction ID :# 652825 Reserve Price : \u20b94,02,591.00 View More Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhask",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b94,02,591.00",
-      "auction_date": "30-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhaskar Appt S.No 147 H.No.1.4 Plot No.5-9.Area Ad Measuring... Auction ID :# 652825 Reserve Price : \u20b94,02,591.00 View More Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Flat"
   },
   {
     "details": "Flat 30-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Flat No.206 2Nd Floor B Wing Bhask",
@@ -362,102 +276,6 @@
       "price": "Reserve Price : \u20b94,02,591.00",
       "property_url": "https://www.eauctionsindia.com/properties/652825",
       "raw_text": "Auction ID :# 652825 Reserve Price : \u20b94,02,591.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Pr",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "22-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b919,00,000.00",
-      "auction_date": "22-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Property Consisting of Flat No. 609, 6th Floor, built up a... Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Pr",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "22-01-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b919,00,000.00",
-      "auction_date": "22-01-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Property Consisting of Flat No. 609, 6th Floor, built up a... Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Property Consisting of Flat",
-    "link": "https://www.eauctionsindia.com/properties/651855",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/651855",
-      "raw_text": "eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Property Consisting of Flat No. 609, 6th Floor, built up a...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/651855",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b919,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/651855",
-      "raw_text": "Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/651855",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b919,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/651855",
-      "raw_text": "Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -562,21 +380,21 @@
     "property_type": "Other"
   },
   {
-    "details": "Flat 12-01-2026 11:00 AM eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the propert",
+    "details": "Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Pr",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "12-01-2026 11:00 AM"
+        "value": "22-01-2026 11:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b98,00,000.00",
-      "auction_date": "12-01-2026 11:00 AM",
+      "price": "Reserve Price : \u20b919,00,000.00",
+      "auction_date": "22-01-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 12-01-2026 11:00 AM eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the property bearing: Flat No. 408, Floor No. 4, Tower: E1, An... Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
+      "raw_text": "Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Property Consisting of Flat No. 609, 6th Floor, built up a... Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -585,21 +403,21 @@
     "property_type": "Flat"
   },
   {
-    "details": "Flat 12-01-2026 11:00 AM eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the propert",
+    "details": "Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Pr",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "12-01-2026 11:00 AM"
+        "value": "22-01-2026 11:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b98,00,000.00",
-      "auction_date": "12-01-2026 11:00 AM",
+      "price": "Reserve Price : \u20b919,00,000.00",
+      "auction_date": "22-01-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 12-01-2026 11:00 AM eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the property bearing: Flat No. 408, Floor No. 4, Tower: E1, An... Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
+      "raw_text": "Flat 22-01-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Property Consisting of Flat No. 609, 6th Floor, built up a... Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -608,14 +426,14 @@
     "property_type": "Flat"
   },
   {
-    "details": "eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the property bearing: Flat No. 408, ",
-    "link": "https://www.eauctionsindia.com/properties/655191",
+    "details": "eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Property Consisting of Flat",
+    "link": "https://www.eauctionsindia.com/properties/651855",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/655191",
-      "raw_text": "eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the property bearing: Flat No. 408, Floor No. 4, Tower: E1, An...",
+      "property_url": "https://www.eauctionsindia.com/properties/651855",
+      "raw_text": "eAuction Flat in Bhiwandi Road, Bhiwandi Al that piece and parcel of The Property Consisting of Flat No. 609, 6th Floor, built up a...",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -624,15 +442,15 @@
     "property_type": "Flat"
   },
   {
-    "details": "Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/655191",
+    "details": "Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/651855",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b98,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/655191",
-      "raw_text": "Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
+      "price": "Reserve Price : \u20b919,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/651855",
+      "raw_text": "Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -641,15 +459,15 @@
     "property_type": "Other"
   },
   {
-    "details": "Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/655191",
+    "details": "Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/651855",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b98,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/655191",
-      "raw_text": "Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
+      "price": "Reserve Price : \u20b919,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/651855",
+      "raw_text": "Auction ID :# 651855 Reserve Price : \u20b919,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -754,77 +572,77 @@
     "property_type": "Other"
   },
   {
-    "details": "Commercial Property 09-01-2026 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale",
+    "details": "Flat 12-01-2026 11:00 AM eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the propert",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "09-01-2026 11:00 AM"
+        "value": "12-01-2026 11:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b956,00,00,000.00",
-      "auction_date": "09-01-2026 11:00 AM",
+      "price": "Reserve Price : \u20b98,00,000.00",
+      "auction_date": "12-01-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Property 09-01-2026 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale of the Assets of the Supreme Vasai Bhiwandi Tollways Private Limited (Corporate Debto... Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
+      "raw_text": "Flat 12-01-2026 11:00 AM eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the property bearing: Flat No. 408, Floor No. 4, Tower: E1, An... Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
     "source": "eauctionsindia",
     "city": "Bhiwandi",
-    "property_type": "Commercial"
+    "property_type": "Flat"
   },
   {
-    "details": "Commercial Property 09-01-2026 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale",
+    "details": "Flat 12-01-2026 11:00 AM eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the propert",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "09-01-2026 11:00 AM"
+        "value": "12-01-2026 11:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b956,00,00,000.00",
-      "auction_date": "09-01-2026 11:00 AM",
+      "price": "Reserve Price : \u20b98,00,000.00",
+      "auction_date": "12-01-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Property 09-01-2026 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale of the Assets of the Supreme Vasai Bhiwandi Tollways Private Limited (Corporate Debto... Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
+      "raw_text": "Flat 12-01-2026 11:00 AM eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the property bearing: Flat No. 408, Floor No. 4, Tower: E1, An... Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
     "source": "eauctionsindia",
     "city": "Bhiwandi",
-    "property_type": "Commercial"
+    "property_type": "Flat"
   },
   {
-    "details": "eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale of the Assets of the Supreme Vasai Bhiw",
-    "link": "https://www.eauctionsindia.com/properties/641212",
+    "details": "eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the property bearing: Flat No. 408, ",
+    "link": "https://www.eauctionsindia.com/properties/655191",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/641212",
-      "raw_text": "eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale of the Assets of the Supreme Vasai Bhiwandi Tollways Private Limited (Corporate Debto...",
+      "property_url": "https://www.eauctionsindia.com/properties/655191",
+      "raw_text": "eAuction Flat in Pathredi, Bhiwandi All that part and parcel of the property bearing: Flat No. 408, Floor No. 4, Tower: E1, An...",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
     "source": "eauctionsindia",
     "city": "Bhiwandi",
-    "property_type": "Commercial"
+    "property_type": "Flat"
   },
   {
-    "details": "Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/641212",
+    "details": "Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/655191",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b956,00,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/641212",
-      "raw_text": "Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
+      "price": "Reserve Price : \u20b98,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/655191",
+      "raw_text": "Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -833,15 +651,15 @@
     "property_type": "Other"
   },
   {
-    "details": "Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/641212",
+    "details": "Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/655191",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b956,00,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/641212",
-      "raw_text": "Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
+      "price": "Reserve Price : \u20b98,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/655191",
+      "raw_text": "Auction ID :# 655191 Reserve Price : \u20b98,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -938,6 +756,102 @@
       "price": "Reserve Price : \u20b936,54,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/648199",
       "raw_text": "Auction ID :# 648199 Reserve Price : \u20b936,54,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Other"
+  },
+  {
+    "details": "Commercial Property 09-01-2026 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b956,00,00,000.00",
+      "auction_date": "09-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Commercial Property 09-01-2026 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale of the Assets of the Supreme Vasai Bhiwandi Tollways Private Limited (Corporate Debto... Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Commercial Property 09-01-2026 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09-01-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b956,00,00,000.00",
+      "auction_date": "09-01-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Commercial Property 09-01-2026 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale of the Assets of the Supreme Vasai Bhiwandi Tollways Private Limited (Corporate Debto... Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale of the Assets of the Supreme Vasai Bhiw",
+    "link": "https://www.eauctionsindia.com/properties/641212",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/641212",
+      "raw_text": "eAuction Commercial Property in Bhiwandi Road, Bhiwandi Sale of the Assets of the Supreme Vasai Bhiwandi Tollways Private Limited (Corporate Debto...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/641212",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b956,00,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/641212",
+      "raw_text": "Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
+    },
+    "source": "eauctionsindia",
+    "city": "Bhiwandi",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/641212",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b956,00,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/641212",
+      "raw_text": "Auction ID :# 641212 Reserve Price : \u20b956,00,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -1322,102 +1236,6 @@
       "price": "Reserve Price : \u20b922,78,800.00",
       "property_url": "https://www.eauctionsindia.com/properties/616763",
       "raw_text": "Auction ID :# 616763 Reserve Price : \u20b922,78,800.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "Commercial Property 12-12-2025 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Comm",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12-12-2025 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b936,10,000.00",
-      "auction_date": "12-12-2025 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Property 12-12-2025 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Commercial godown Gala bearing gala no 21, Ground Floor, grampanchayat House no 247/20 sur... Auction ID :# 625768 Reserve Price : \u20b936,10,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Commercial Property 12-12-2025 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Comm",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12-12-2025 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b936,10,000.00",
-      "auction_date": "12-12-2025 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Property 12-12-2025 11:00 AM eAuction Commercial Property in Bhiwandi Road, Bhiwandi Commercial godown Gala bearing gala no 21, Ground Floor, grampanchayat House no 247/20 sur... Auction ID :# 625768 Reserve Price : \u20b936,10,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "eAuction Commercial Property in Bhiwandi Road, Bhiwandi Commercial godown Gala bearing gala no 21, G",
-    "link": "https://www.eauctionsindia.com/properties/625768",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/625768",
-      "raw_text": "eAuction Commercial Property in Bhiwandi Road, Bhiwandi Commercial godown Gala bearing gala no 21, Ground Floor, grampanchayat House no 247/20 sur...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Auction ID :# 625768 Reserve Price : \u20b936,10,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/625768",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b936,10,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/625768",
-      "raw_text": "Auction ID :# 625768 Reserve Price : \u20b936,10,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 625768 Reserve Price : \u20b936,10,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/625768",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b936,10,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/625768",
-      "raw_text": "Auction ID :# 625768 Reserve Price : \u20b936,10,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -16924,6 +16742,102 @@
     "property_type": "Other"
   },
   {
+    "details": "Plot 13-02-2026 10:00 AM eAuction Plot in Kondhve, Satara Milkat No. 2405, Gat No.-185/68/2 Village ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "13-02-2026 10:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,97,480.00",
+      "auction_date": "13-02-2026 10:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 13-02-2026 10:00 AM eAuction Plot in Kondhve, Satara Milkat No. 2405, Gat No.-185/68/2 Village Kondve Tal & Dist. Satara Maharashtra-415001 Auction ID :# 668027 Reserve Price : \u20b915,97,480.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Plot 13-02-2026 10:00 AM eAuction Plot in Kondhve, Satara Milkat No. 2405, Gat No.-185/68/2 Village ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "13-02-2026 10:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,97,480.00",
+      "auction_date": "13-02-2026 10:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 13-02-2026 10:00 AM eAuction Plot in Kondhve, Satara Milkat No. 2405, Gat No.-185/68/2 Village Kondve Tal & Dist. Satara Maharashtra-415001 Auction ID :# 668027 Reserve Price : \u20b915,97,480.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Plot"
+  },
+  {
+    "details": "eAuction Plot in Kondhve, Satara Milkat No. 2405, Gat No.-185/68/2 Village Kondve Tal & Dist. Satara",
+    "link": "https://www.eauctionsindia.com/properties/668027",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/668027",
+      "raw_text": "eAuction Plot in Kondhve, Satara Milkat No. 2405, Gat No.-185/68/2 Village Kondve Tal & Dist. Satara Maharashtra-415001",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Auction ID :# 668027 Reserve Price : \u20b915,97,480.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/668027",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,97,480.00",
+      "property_url": "https://www.eauctionsindia.com/properties/668027",
+      "raw_text": "Auction ID :# 668027 Reserve Price : \u20b915,97,480.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 668027 Reserve Price : \u20b915,97,480.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/668027",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,97,480.00",
+      "property_url": "https://www.eauctionsindia.com/properties/668027",
+      "raw_text": "Auction ID :# 668027 Reserve Price : \u20b915,97,480.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
     "details": "Vehicle 10-02-2026 11:00 AM eAuction Vehicle in Haveli, Satara Vehicle Details-Car Registration No-M",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -17780,102 +17694,6 @@
       "price": "Reserve Price : \u20b913,50,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/659833",
       "raw_text": "Auction ID :# 659833 Reserve Price : \u20b913,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 04-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage Flat No. 403, on Third Fl",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "04-02-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,65,000.00",
-      "auction_date": "04-02-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 04-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage Flat No. 403, on Third Floor having super built up area admeasuring 56.... Auction ID :# 659830 Reserve Price : \u20b910,65,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 04-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage Flat No. 403, on Third Fl",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "04-02-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,65,000.00",
-      "auction_date": "04-02-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 04-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage Flat No. 403, on Third Floor having super built up area admeasuring 56.... Auction ID :# 659830 Reserve Price : \u20b910,65,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Karad, Satara Equitable Mortgage Flat No. 403, on Third Floor having super built up",
-    "link": "https://www.eauctionsindia.com/properties/659830",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/659830",
-      "raw_text": "eAuction Flat in Karad, Satara Equitable Mortgage Flat No. 403, on Third Floor having super built up area admeasuring 56....",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 659830 Reserve Price : \u20b910,65,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/659830",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,65,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/659830",
-      "raw_text": "Auction ID :# 659830 Reserve Price : \u20b910,65,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 659830 Reserve Price : \u20b910,65,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/659830",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,65,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/659830",
-      "raw_text": "Auction ID :# 659830 Reserve Price : \u20b910,65,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
