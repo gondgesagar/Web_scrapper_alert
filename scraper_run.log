@@ -1,7 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 10 properties fetched
+BAANKNET: 0 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 112 candidate card fragments by text-match
@@ -41,10 +41,10 @@ Scraping https://www.eauctionsindia.com/city/pune...
   Extracted 1329 properties so far from https://www.eauctionsindia.com/city/pune
 Total eauctionsindia properties fetched: 1329
 eauctionsindia: 1329 properties fetched
-Processing stats: 1331 total items, 1331 new, -896 duplicates skipped
+Processing stats: 1329 total items, 1329 new, -901 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 435 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 268/1331 items remain
-Saved 8 pincodes to cache.
-NEW_AUCTIONS_COUNT=268
-Wrote 1331 items to data/property_listings.json
+Saved state with 428 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 275/1329 items remain
+Saved 0 pincodes to cache.
+NEW_AUCTIONS_COUNT=275
+Wrote 1329 items to data/property_listings.json
