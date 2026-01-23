@@ -1,7 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 0 properties fetched
+BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 103 candidate card fragments by text-match
@@ -13,38 +13,38 @@ Scraping https://www.eauctionsindia.com/city/kalyan...
   Found 97 candidate card fragments by text-match
   Extracted 303 properties so far from https://www.eauctionsindia.com/city/kalyan
 Scraping https://www.eauctionsindia.com/city/latur...
-  Found 103 candidate card fragments by text-match
-  Extracted 406 properties so far from https://www.eauctionsindia.com/city/latur
+  Found 112 candidate card fragments by text-match
+  Extracted 415 properties so far from https://www.eauctionsindia.com/city/latur
 Scraping https://www.eauctionsindia.com/city/mumbai...
   Found 107 candidate card fragments by text-match
-  Extracted 513 properties so far from https://www.eauctionsindia.com/city/mumbai
+  Extracted 522 properties so far from https://www.eauctionsindia.com/city/mumbai
 Scraping https://www.eauctionsindia.com/city/sindhudurg...
   Found 103 candidate card fragments by text-match
-  Extracted 616 properties so far from https://www.eauctionsindia.com/city/sindhudurg
+  Extracted 625 properties so far from https://www.eauctionsindia.com/city/sindhudurg
 Scraping https://www.eauctionsindia.com/city/solapur...
-  Found 103 candidate card fragments by text-match
-  Extracted 719 properties so far from https://www.eauctionsindia.com/city/solapur
-Scraping https://www.eauctionsindia.com/city/thane...
   Found 112 candidate card fragments by text-match
-  Extracted 831 properties so far from https://www.eauctionsindia.com/city/thane
+  Extracted 737 properties so far from https://www.eauctionsindia.com/city/solapur
+Scraping https://www.eauctionsindia.com/city/thane...
+  Found 103 candidate card fragments by text-match
+  Extracted 840 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
-  Found 103 candidate card fragments by text-match
-  Extracted 934 properties so far from https://www.eauctionsindia.com/city/satara
+  Found 112 candidate card fragments by text-match
+  Extracted 952 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
-  Found 103 candidate card fragments by text-match
-  Extracted 1037 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Found 112 candidate card fragments by text-match
+  Extracted 1064 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
   Found 103 candidate card fragments by text-match
-  Extracted 1140 properties so far from https://www.eauctionsindia.com/city/raigad
+  Extracted 1167 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 110 candidate card fragments by text-match
-  Extracted 1250 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1250
-eauctionsindia: 1250 properties fetched
-Processing stats: 1250 total items, 1250 new, -816 duplicates skipped
+  Extracted 1277 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1277
+eauctionsindia: 1277 properties fetched
+Processing stats: 1277 total items, 1277 new, -843 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
 Saved state with 434 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 192/1250 items remain
+Applied property-types filter: plots, land, farm hous, bunglow — 192/1277 items remain
 Traceback (most recent call last):
   File "/home/runner/work/Web_scrapper_alert/Web_scrapper_alert/scraper.py", line 1228, in <module>
     main()
@@ -63,4 +63,4 @@ Traceback (most recent call last):
                    ^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/smtplib.py", line 571, in data
     raise SMTPDataError(code, repl)
-smtplib.SMTPDataError: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 af79cd13be357-8c6e37d11e9sm279979885a.12 - gsmtp')
+smtplib.SMTPDataError: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-502f7f850d9sm26654351cf.27 - gsmtp')
