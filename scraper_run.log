@@ -44,7 +44,7 @@ eauctionsindia: 1335 properties fetched
 Processing stats: 1335 total items, 1335 new, -911 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
 Saved state with 424 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 165/1335 items remain
+Applied property-types filter: plots, land, farm hous, bunglow — 170/1335 items remain
 Traceback (most recent call last):
   File "/home/runner/work/Web_scrapper_alert/Web_scrapper_alert/scraper.py", line 1228, in <module>
     main()
@@ -63,4 +63,4 @@ Traceback (most recent call last):
                    ^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/smtplib.py", line 571, in data
     raise SMTPDataError(code, repl)
-smtplib.SMTPDataError: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-2b73aa03fd0sm10010698eec.23 - gsmtp')
+smtplib.SMTPDataError: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 006d021491bc7-662cb4f29fdsm3884434eaf.8 - gsmtp')
