@@ -83,9 +83,9 @@
       "auctionEndDateTime": "27-02-2026 10:30:00",
       "emdStartDateTime": "25-01-2026 10:15:40",
       "emdEndDateTime": "27-02-2026 10:30:00",
-      "noOfCarParking": null,
       "drtlocation": null,
-      "roname": null
+      "roname": null,
+      "noOfCarParking": null
     },
     "source": "baanknet",
     "property_type": "Flat"
@@ -166,9 +166,282 @@
       "auctionEndDateTime": "23-02-2026 09:30:00",
       "emdStartDateTime": "24-01-2026 11:28:21",
       "emdEndDateTime": "23-02-2026 08:30:00",
-      "noOfCarParking": null,
       "drtlocation": null,
-      "roname": null
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No. 4  & Flat No. 5, Third Floor, Amar Arcade Apartment , situated at S No. 885/A/2/36, Plt No. 36 Rajiv Nagar Nashik, 422009, Admeasuring Total Area 136 47 Sq. Mtr",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "24-02-2026 06:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "24-02-2026 10:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "27-02-2026 06:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "27-02-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "23-01-2026 13:59:11"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "24-02-2026 10:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/23/271904/529818_compressed.jpg",
+    "raw": {
+      "propertyId": "271904",
+      "projectName": "AMAR ARCADE",
+      "price": 5729000.0,
+      "pricePerSeqFit": 3900.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/23/271904/529818_compressed.jpg",
+      "postedOn": "23-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Flat No. 4  & Flat No. 5, Third Floor, Amar Arcade Apartment , situated at S No. 885/A/2/36, Plt No. 36 Rajiv Nagar Nashik, 422009, Admeasuring Total Area 136 47 Sq. Mtr",
+      "city": "Nashik",
+      "cityID": "5205",
+      "stateID": 21,
+      "localities": "rajiv nagar",
+      "noOfBedRoom": 3,
+      "carpetArea": 1300.0,
+      "builtupArea": 1469.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "422009",
+      "bankPropertyId": "SBIN200002957499",
+      "availablePhotosCount": 15,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No. 4  & Flat No. 5, Third Floor, Amar Arcade Apartment , situated at S No. 885/A/2/36, Plt No. 36 Rajiv Nagar Nashik, 422009, Admeasuring Total Area 136 47 Sq. Mtr",
+      "statename": "Maharashtra",
+      "districtname": "Nashik",
+      "inspectionStartDateTime": "24-02-2026 06:30:00",
+      "inspectionEndDateTime": "24-02-2026 10:30:00",
+      "auctionStartDateTime": "27-02-2026 06:30:00",
+      "auctionEndDateTime": "27-02-2026 10:30:00",
+      "emdStartDateTime": "23-01-2026 13:59:11",
+      "emdEndDateTime": "24-02-2026 10:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
+    "details": "NEAR RAILWAY STATION KANJURMARG",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "23-02-2026 06:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "23-02-2026 10:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "27-02-2026 06:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "27-02-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "23-01-2026 14:01:00"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "27-02-2026 10:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/23/257897/529866_compressed.jpg",
+    "raw": {
+      "propertyId": "257897",
+      "projectName": "NEW PARIVARTAN CHSL MMRDA COLONY",
+      "price": 3487500.0,
+      "pricePerSeqFit": 12000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/23/257897/529866_compressed.jpg",
+      "postedOn": "23-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "NEAR RAILWAY STATION KANJURMARG",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": "KANJURMARG WEST",
+      "noOfBedRoom": 1,
+      "carpetArea": 225.0,
+      "builtupArea": 270.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "400078",
+      "bankPropertyId": "SBIN200022781852",
+      "availablePhotosCount": 22,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No. 516 5th Flr New Parivartan CHSL MMRDA Colony Station Road Kanjurmarg West 400078",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": "23-02-2026 06:30:00",
+      "inspectionEndDateTime": "23-02-2026 10:30:00",
+      "auctionStartDateTime": "27-02-2026 06:30:00",
+      "auctionEndDateTime": "27-02-2026 10:30:00",
+      "emdStartDateTime": "23-01-2026 14:01:00",
+      "emdEndDateTime": "27-02-2026 10:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat no.702,Wing \u2013A,7th, Floor, Sea Queen Excellency, area admeasuring 741 sq ft carpet (approx. 1038 sq ft built up are including balcony),Nerul West Navi Mumbai  400706.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "28-01-2026 06:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "28-01-2026 10:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "07-02-2026 06:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "07-02-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "23-01-2026 14:45:51"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "07-02-2026 10:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/08/04/247508/397406_compressed.jpg",
+    "raw": {
+      "propertyId": "247508",
+      "projectName": "SEA QUEEN EXCELLENCY CHSL",
+      "price": 17540000.0,
+      "pricePerSeqFit": 18000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/08/04/247508/397406_compressed.jpg",
+      "postedOn": "23-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Flat no.702,Wing \u2013A,7th, Floor, Sea Queen Excellency, area admeasuring 741 sq ft carpet (approx. 1038 sq ft built up are including balcony),Nerul West Navi Mumbai  400706.",
+      "city": "Navi Mumbai",
+      "cityID": "5461",
+      "stateID": 21,
+      "localities": "NERUL WEST",
+      "noOfBedRoom": 2,
+      "carpetArea": 741.0,
+      "builtupArea": 1038.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "400706",
+      "bankPropertyId": "SBIN85070058875",
+      "availablePhotosCount": 24,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat no.702,Wing \u2013A,7th, Floor, Sea Queen Excellency, area admeasuring 741 sq ft carpet (approx. 1038 sq ft built up are including balcony),Nerul West Navi Mumbai  400706.",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": "28-01-2026 06:30:00",
+      "inspectionEndDateTime": "28-01-2026 10:30:00",
+      "auctionStartDateTime": "07-02-2026 06:30:00",
+      "auctionEndDateTime": "07-02-2026 10:30:00",
+      "emdStartDateTime": "23-01-2026 14:45:51",
+      "emdEndDateTime": "07-02-2026 10:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
     },
     "source": "baanknet",
     "property_type": "Flat"
@@ -2268,21 +2541,21 @@
     "property_type": "Other"
   },
   {
-    "details": "Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piec",
+    "details": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More Land And Build",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "27-02-2026 11:00 AM"
+        "value": "18-03-2026 10:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
       "price": "Reserve Price : \u20b938,00,000.00",
-      "auction_date": "27-02-2026 11:00 AM",
+      "auction_date": "18-03-2026 10:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piece and parcel of Land Admeasuring 193.98 Sq. Mtr Along With Construction There... Auction ID :# 678232 Reserve Price : \u20b938,00,000.00 View More Land 27-02-2026 11:00 AM eAuction Land in Kolhapur, Kolhap",
+      "raw_text": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piece and parcel of Land Admeasuring 193.98 Sq. Mtr Along With Construction There... Auction ID :# 678232 Reserve Pric",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -2291,21 +2564,21 @@
     "property_type": "Land"
   },
   {
-    "details": "Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piec",
+    "details": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More Land And Build",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "27-02-2026 11:00 AM"
+        "value": "18-03-2026 10:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
       "price": "Reserve Price : \u20b938,00,000.00",
-      "auction_date": "27-02-2026 11:00 AM",
+      "auction_date": "18-03-2026 10:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piece and parcel of Land Admeasuring 193.98 Sq. Mtr Along With Construction There... Auction ID :# 678232 Reserve Price : \u20b938,00,000.00 View More Land 27-02-2026 11:00 AM eAuction Land in Kolhapur, Kolhap",
+      "raw_text": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piece and parcel of Land Admeasuring 193.98 Sq. Mtr Along With Construction There... Auction ID :# 678232 Reserve Pric",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -2314,21 +2587,21 @@
     "property_type": "Land"
   },
   {
-    "details": "Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piec",
+    "details": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More Land And Build",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "27-02-2026 11:00 AM"
+        "value": "18-03-2026 10:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
       "price": "Reserve Price : \u20b938,00,000.00",
-      "auction_date": "27-02-2026 11:00 AM",
+      "auction_date": "18-03-2026 10:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piece and parcel of Land Admeasuring 193.98 Sq. Mtr Along With Construction There... Auction ID :# 678232 Reserve Price : \u20b938,00,000.00 View More Land 27-02-2026 11:00 AM eAuction Land in Kolhapur, Kolhap",
+      "raw_text": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piece and parcel of Land Admeasuring 193.98 Sq. Mtr Along With Construction There... Auction ID :# 678232 Reserve Pric",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -2337,27 +2610,71 @@
     "property_type": "Land"
   },
   {
-    "details": "Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piec",
+    "details": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More Land And Build",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "27-02-2026 11:00 AM"
+        "value": "18-03-2026 10:00 AM"
       }
     ],
     "emd_cost": "",
     "raw": {
       "price": "Reserve Price : \u20b938,00,000.00",
-      "auction_date": "27-02-2026 11:00 AM",
+      "auction_date": "18-03-2026 10:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piece and parcel of Land Admeasuring 193.98 Sq. Mtr Along With Construction There... Auction ID :# 678232 Reserve Price : \u20b938,00,000.00 View More Land 27-02-2026 11:00 AM eAuction Land in Kolhapur, Kolhap",
+      "raw_text": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piece and parcel of Land Admeasuring 193.98 Sq. Mtr Along With Construction There... Auction ID :# 678232 Reserve Pric",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
     "source": "eauctionsindia",
     "city": "Kolhapur",
     "property_type": "Land"
+  },
+  {
+    "details": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "18-03-2026 10:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "auction_date": "18-03-2026 10:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "18-03-2026 10:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "auction_date": "18-03-2026 10:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "18-03-2026 10:00 AM eAuction Gold Auctions in Kolhapur Auction ID :# 678995 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
   },
   {
     "details": "Land And Building 27-02-2026 11:00 AM eAuction Land And Building in Kolhapur, Kolhapur All that piec",
@@ -2650,6 +2967,103 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 26-02-2026 11:00 AM eAuction Flat in Karveer, Kolhapur 4)\u00a0Property Bearing Flat No. 302 Having ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "26-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "4)\u00a0Property Bearing Flat No. 302 Having Area 85.50 Sq. Mtrs. (Salable Area) Situated...",
+      "auction_date": "26-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 26-02-2026 11:00 AM eAuction Flat in Karveer, Kolhapur 4)\u00a0Property Bearing Flat No. 302 Having Area 85.50 Sq. Mtrs. (Salable Area) Situated... Auction ID :# 679473 Reserve Price : \u20b922,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 26-02-2026 11:00 AM eAuction Flat in Karveer, Kolhapur 4)\u00a0Property Bearing Flat No. 302 Having ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "26-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "4)\u00a0Property Bearing Flat No. 302 Having Area 85.50 Sq. Mtrs. (Salable Area) Situated...",
+      "auction_date": "26-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 26-02-2026 11:00 AM eAuction Flat in Karveer, Kolhapur 4)\u00a0Property Bearing Flat No. 302 Having Area 85.50 Sq. Mtrs. (Salable Area) Situated... Auction ID :# 679473 Reserve Price : \u20b922,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Karveer, Kolhapur 4)\u00a0Property Bearing Flat No. 302 Having Area 85.50 Sq. Mtrs. (Sal",
+    "link": "https://www.eauctionsindia.com/properties/679473",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "4)\u00a0Property Bearing Flat No. 302 Having Area 85.50 Sq. Mtrs. (Salable Area) Situated...",
+      "property_url": "https://www.eauctionsindia.com/properties/679473",
+      "raw_text": "eAuction Flat in Karveer, Kolhapur 4)\u00a0Property Bearing Flat No. 302 Having Area 85.50 Sq. Mtrs. (Salable Area) Situated...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 679473 Reserve Price : \u20b922,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/679473",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b922,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/679473",
+      "raw_text": "Auction ID :# 679473 Reserve Price : \u20b922,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 679473 Reserve Price : \u20b922,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/679473",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b922,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/679473",
+      "raw_text": "Auction ID :# 679473 Reserve Price : \u20b922,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
     "details": "Plot 26-02-2026 11:00 AM eAuction Plot in Karveer, Kolhapur All The Piece And Parcel Of Bearing Plot",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -2738,6 +3152,102 @@
       "price": "Reserve Price : \u20b935,83,200.00",
       "property_url": "https://www.eauctionsindia.com/properties/673093",
       "raw_text": "Auction ID :# 673093 Reserve Price : \u20b935,83,200.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 26-02-2026 11:00 AM eAuction Flat in Kolhapur, Kolhapur 3)\u00a0Flat No.402, 3rd Floor (Stilt+Gf+3),",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "26-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b922,50,000.00",
+      "auction_date": "26-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 26-02-2026 11:00 AM eAuction Flat in Kolhapur, Kolhapur 3)\u00a0Flat No.402, 3rd Floor (Stilt+Gf+3), Royal Roof Residency. Plot No.2 & 4. R.S.... Auction ID :# 679472 Reserve Price : \u20b922,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 26-02-2026 11:00 AM eAuction Flat in Kolhapur, Kolhapur 3)\u00a0Flat No.402, 3rd Floor (Stilt+Gf+3),",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "26-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b922,50,000.00",
+      "auction_date": "26-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 26-02-2026 11:00 AM eAuction Flat in Kolhapur, Kolhapur 3)\u00a0Flat No.402, 3rd Floor (Stilt+Gf+3), Royal Roof Residency. Plot No.2 & 4. R.S.... Auction ID :# 679472 Reserve Price : \u20b922,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Kolhapur, Kolhapur 3)\u00a0Flat No.402, 3rd Floor (Stilt+Gf+3), Royal Roof Residency. Pl",
+    "link": "https://www.eauctionsindia.com/properties/679472",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/679472",
+      "raw_text": "eAuction Flat in Kolhapur, Kolhapur 3)\u00a0Flat No.402, 3rd Floor (Stilt+Gf+3), Royal Roof Residency. Plot No.2 & 4. R.S....",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 679472 Reserve Price : \u20b922,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/679472",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b922,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/679472",
+      "raw_text": "Auction ID :# 679472 Reserve Price : \u20b922,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 679472 Reserve Price : \u20b922,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/679472",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b922,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/679472",
+      "raw_text": "Auction ID :# 679472 Reserve Price : \u20b922,50,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -3136,198 +3646,6 @@
     "property_type": "Other"
   },
   {
-    "details": "Commercial Shop 24-02-2026 11:00 AM eAuction Commercial Shop in Kolhapur, Kolhapur Description of th",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "24-02-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,24,000.00",
-      "auction_date": "24-02-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Shop 24-02-2026 11:00 AM eAuction Commercial Shop in Kolhapur, Kolhapur Description of the Immovable Property: AAll that piece and parcel of property bearing Shop... Auction ID :# 673783 Reserve Price : \u20b920,24,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Commercial Shop 24-02-2026 11:00 AM eAuction Commercial Shop in Kolhapur, Kolhapur Description of th",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "24-02-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,24,000.00",
-      "auction_date": "24-02-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Shop 24-02-2026 11:00 AM eAuction Commercial Shop in Kolhapur, Kolhapur Description of the Immovable Property: AAll that piece and parcel of property bearing Shop... Auction ID :# 673783 Reserve Price : \u20b920,24,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "eAuction Commercial Shop in Kolhapur, Kolhapur Description of the Immovable Property: AAll that piec",
-    "link": "https://www.eauctionsindia.com/properties/673783",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/673783",
-      "raw_text": "eAuction Commercial Shop in Kolhapur, Kolhapur Description of the Immovable Property: AAll that piece and parcel of property bearing Shop...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Auction ID :# 673783 Reserve Price : \u20b920,24,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/673783",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,24,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/673783",
-      "raw_text": "Auction ID :# 673783 Reserve Price : \u20b920,24,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 673783 Reserve Price : \u20b920,24,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/673783",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,24,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/673783",
-      "raw_text": "Auction ID :# 673783 Reserve Price : \u20b920,24,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Plot 24-02-2026 11:00 AM eAuction Plot in Karveer, Kolhapur Immovable Property ie. All that piece an",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "24-02-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b97,26,57,000.00",
-      "auction_date": "24-02-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 24-02-2026 11:00 AM eAuction Plot in Karveer, Kolhapur Immovable Property ie. All that piece and parcel of Open Plot\u00a0admesuring area 2700 Sq... Auction ID :# 677653 Reserve Price : \u20b97,26,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Plot 24-02-2026 11:00 AM eAuction Plot in Karveer, Kolhapur Immovable Property ie. All that piece an",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "24-02-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b97,26,57,000.00",
-      "auction_date": "24-02-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 24-02-2026 11:00 AM eAuction Plot in Karveer, Kolhapur Immovable Property ie. All that piece and parcel of Open Plot\u00a0admesuring area 2700 Sq... Auction ID :# 677653 Reserve Price : \u20b97,26,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "eAuction Plot in Karveer, Kolhapur Immovable Property ie. All that piece and parcel of Open Plot\u00a0adm",
-    "link": "https://www.eauctionsindia.com/properties/677653",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/677653",
-      "raw_text": "eAuction Plot in Karveer, Kolhapur Immovable Property ie. All that piece and parcel of Open Plot\u00a0admesuring area 2700 Sq...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 677653 Reserve Price : \u20b97,26,57,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/677653",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b97,26,57,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/677653",
-      "raw_text": "Auction ID :# 677653 Reserve Price : \u20b97,26,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 677653 Reserve Price : \u20b97,26,57,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/677653",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b97,26,57,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/677653",
-      "raw_text": "Auction ID :# 677653 Reserve Price : \u20b97,26,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
     "details": "Plot 24-02-2026 11:00 AM eAuction Plot in Karvir, Kolhapur Immovable Property i.e. All that piece an",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -3416,102 +3734,6 @@
       "price": "Reserve Price : \u20b92,45,58,800.00",
       "property_url": "https://www.eauctionsindia.com/properties/677943",
       "raw_text": "Auction ID :# 677943 Reserve Price : \u20b92,45,58,800.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Plot 24-02-2026 11:00 AM eAuction Plot in Karvir, Kolhapur Immovable Property le. All that piece and",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "24-02-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,36,80,800.00",
-      "auction_date": "24-02-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 24-02-2026 11:00 AM eAuction Plot in Karvir, Kolhapur Immovable Property le. All that piece and parcel of Plot No.11 admeasuring and area of 440... Auction ID :# 677942 Reserve Price : \u20b92,36,80,800.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Plot 24-02-2026 11:00 AM eAuction Plot in Karvir, Kolhapur Immovable Property le. All that piece and",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "24-02-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,36,80,800.00",
-      "auction_date": "24-02-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 24-02-2026 11:00 AM eAuction Plot in Karvir, Kolhapur Immovable Property le. All that piece and parcel of Plot No.11 admeasuring and area of 440... Auction ID :# 677942 Reserve Price : \u20b92,36,80,800.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "eAuction Plot in Karvir, Kolhapur Immovable Property le. All that piece and parcel of Plot No.11 adm",
-    "link": "https://www.eauctionsindia.com/properties/677942",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/677942",
-      "raw_text": "eAuction Plot in Karvir, Kolhapur Immovable Property le. All that piece and parcel of Plot No.11 admeasuring and area of 440...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 677942 Reserve Price : \u20b92,36,80,800.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/677942",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,36,80,800.00",
-      "property_url": "https://www.eauctionsindia.com/properties/677942",
-      "raw_text": "Auction ID :# 677942 Reserve Price : \u20b92,36,80,800.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 677942 Reserve Price : \u20b92,36,80,800.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/677942",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,36,80,800.00",
-      "property_url": "https://www.eauctionsindia.com/properties/677942",
-      "raw_text": "Auction ID :# 677942 Reserve Price : \u20b92,36,80,800.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -13989,16 +14211,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "Keep on reading 582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registrat",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "Keep on reading How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14007,16 +14229,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat Eauction",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14025,16 +14247,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat Eauction",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14043,16 +14265,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat Eauction",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14061,16 +14283,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat Eauction",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14079,16 +14301,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat Eauction",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14097,16 +14319,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat Eauction",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14115,16 +14337,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat Eauction",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14133,16 +14355,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat Eauction",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14151,16 +14373,16 @@
     "property_type": "Other"
   },
   {
-    "details": "582 DDA Premium Housing Scheme 2026",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "582 DDA Premium Housing Scheme 2026",
-      "price": "The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-premium-housing-scheme-e-auction-flats-garages",
-      "raw_text": "582 DDA Premium Housing Scheme 2026 The Delhi Development Authority has launched the DDA Premium Housing Scheme 2026 through e-auction, offering 582 HIG, MIG, LIG, JANTA and EHS flats along with car and scooter garages across key Delhi localities. Check reserve prices, EMD, registration dat Eauction",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14169,16 +14391,16 @@
     "property_type": "Other"
   },
   {
-    "details": "BMC Launches Sale of 426 \u201cInclusive Homes\u201d in Mumbai",
-    "link": "https://www.eauctionsindia.com/blog-details/bmc-launches-sale-of-426-inclusive-homes-in-mumbai",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BMC Launches Sale of 426 \u201cInclusive Homes\u201d in Mumbai",
+      "property_name": "How to Buy a Vehicle Through an Auction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bmc-launches-sale-of-426-inclusive-homes-in-mumbai",
-      "raw_text": "BMC Launches Sale of 426 \u201cInclusive Homes\u201d in Mumbai eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14187,16 +14409,16 @@
     "property_type": "Other"
   },
   {
-    "details": "CIDCO Lottery 2025: 22,000 Affordable Homes in Navi Mumbai",
-    "link": "https://www.eauctionsindia.com/blog-details/cidco-lottery-2025-22000-affordable-homes-in-navi-mumbai",
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "CIDCO Lottery 2025: 22,000 Affordable Homes in Navi Mumbai",
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/cidco-lottery-2025-22000-affordable-homes-in-navi-mumbai",
-      "raw_text": "CIDCO Lottery 2025: 22,000 Affordable Homes in Navi Mumbai eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14205,16 +14427,142 @@
     "property_type": "Other"
   },
   {
-    "details": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Vasai RTO E-Auction of Vehicles",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
-      "raw_text": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14223,16 +14571,34 @@
     "property_type": "Other"
   },
   {
-    "details": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
+    "details": "BDA e-Auction of residential and commercial sites",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
+      "property_name": "BDA e-Auction of residential and commercial sites",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
-      "raw_text": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14241,16 +14607,16 @@
     "property_type": "Other"
   },
   {
-    "details": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
-      "raw_text": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14259,16 +14625,16 @@
     "property_type": "Other"
   },
   {
-    "details": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
-      "raw_text": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14277,16 +14643,16 @@
     "property_type": "Other"
   },
   {
-    "details": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
-      "raw_text": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14295,16 +14661,16 @@
     "property_type": "Other"
   },
   {
-    "details": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
-      "raw_text": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14313,16 +14679,16 @@
     "property_type": "Other"
   },
   {
-    "details": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
-      "raw_text": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14331,16 +14697,16 @@
     "property_type": "Other"
   },
   {
-    "details": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
-    "link": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/dda-housing-scheme-2025-327-hig-mig-lig-flats-67-carscooter-garages",
-      "raw_text": "DDA Housing Scheme 2025 : 327 HIG MIG LIG Flats  & 67 Car/Scooter Garages eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14349,16 +14715,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Chennai Corporation to Auction Abandoned Vehicles if Unclaimed in 15 Days",
-    "link": "https://www.eauctionsindia.com/blog-details/chennai-corporation-to-auction-abandoned-vehicles-if-unclaimed-in-15-days",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Chennai Corporation to Auction Abandoned Vehicles if Unclaimed in 15 Days",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/chennai-corporation-to-auction-abandoned-vehicles-if-unclaimed-in-15-days",
-      "raw_text": "Chennai Corporation to Auction Abandoned Vehicles if Unclaimed in 15 Days eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14367,16 +14733,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Rajasthan Housing Board Launches New Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Rajasthan Housing Board Launches New Scheme",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
-      "raw_text": "Rajasthan Housing Board Launches New Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14385,16 +14751,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Rajasthan Housing Board Launches New Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Rajasthan Housing Board Launches New Scheme",
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
-      "raw_text": "Rajasthan Housing Board Launches New Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14403,16 +14769,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Rajasthan Housing Board Launches New Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Rajasthan Housing Board Launches New Scheme",
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
-      "raw_text": "Rajasthan Housing Board Launches New Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14421,16 +14787,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Rajasthan Housing Board Launches New Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Rajasthan Housing Board Launches New Scheme",
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
-      "raw_text": "Rajasthan Housing Board Launches New Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14439,16 +14805,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Rajasthan Housing Board Launches New Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Rajasthan Housing Board Launches New Scheme",
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
-      "raw_text": "Rajasthan Housing Board Launches New Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14457,16 +14823,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Rajasthan Housing Board Launches New Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Rajasthan Housing Board Launches New Scheme",
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
-      "raw_text": "Rajasthan Housing Board Launches New Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14475,16 +14841,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Rajasthan Housing Board Launches New Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Rajasthan Housing Board Launches New Scheme",
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
-      "raw_text": "Rajasthan Housing Board Launches New Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14493,16 +14859,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Rajasthan Housing Board Launches New Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Rajasthan Housing Board Launches New Scheme",
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/rajasthan-housing-board-launches-multiple-housing-schemes",
-      "raw_text": "Rajasthan Housing Board Launches New Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -14511,178 +14877,34 @@
     "property_type": "Other"
   },
   {
-    "details": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "GIDC Vadodara Region to Auction Commercial & Industrial Plots",
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/gidc-vadodara-region-to-auction-commercial-industrial-plots",
-      "raw_text": "GIDC Vadodara Region to Auction Commercial & Industrial Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay inform",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
     "source": "eauctionsindia",
     "city": "Solapur",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
+      "property_name": "BDA to Auction 164 Sites in October 2025",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/telangana-housing-board-auctioning-hyderabad-plots",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-    "link": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/supreme-court-clarifies-borrower-rights-under-sarfaesi-act-redemption-ends-once-auction-notice-is-issued",
-      "raw_text": "Supreme Court Clarifies Borrower Rights Under SARFAESI Act: Redemption Ends Once Auction Notice is Issued eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
@@ -17846,102 +18068,6 @@
     "property_type": "Other"
   },
   {
-    "details": "Flat 24-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage of: All the piece and par",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "24-02-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,90,000.00",
-      "auction_date": "24-02-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 24-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage of: All the piece and parcel of Plot/Land bearing Flat No-103, Ground F... Auction ID :# 677447 Reserve Price : \u20b910,90,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 24-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage of: All the piece and par",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "24-02-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,90,000.00",
-      "auction_date": "24-02-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 24-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage of: All the piece and parcel of Plot/Land bearing Flat No-103, Ground F... Auction ID :# 677447 Reserve Price : \u20b910,90,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Karad, Satara Equitable Mortgage of: All the piece and parcel of Plot/Land bearing ",
-    "link": "https://www.eauctionsindia.com/properties/677447",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/677447",
-      "raw_text": "eAuction Flat in Karad, Satara Equitable Mortgage of: All the piece and parcel of Plot/Land bearing Flat No-103, Ground F...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 677447 Reserve Price : \u20b910,90,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/677447",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,90,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/677447",
-      "raw_text": "Auction ID :# 677447 Reserve Price : \u20b910,90,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 677447 Reserve Price : \u20b910,90,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/677447",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,90,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/677447",
-      "raw_text": "Auction ID :# 677447 Reserve Price : \u20b910,90,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
     "details": "Flat 24-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage of: Flat No. 409, on Fort",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -18030,6 +18156,102 @@
       "price": "Reserve Price : \u20b911,20,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/677442",
       "raw_text": "Auction ID :# 677442 Reserve Price : \u20b911,20,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 24-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage of Flat No.404, on Third ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b911,40,000.00",
+      "auction_date": "24-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 24-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage of Flat No.404, on Third Floor having super built up area admeasuring 6... Auction ID :# 677446 Reserve Price : \u20b911,40,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 24-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage of Flat No.404, on Third ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b911,40,000.00",
+      "auction_date": "24-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 24-02-2026 02:00 PM eAuction Flat in Karad, Satara Equitable Mortgage of Flat No.404, on Third Floor having super built up area admeasuring 6... Auction ID :# 677446 Reserve Price : \u20b911,40,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Karad, Satara Equitable Mortgage of Flat No.404, on Third Floor having super built ",
+    "link": "https://www.eauctionsindia.com/properties/677446",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/677446",
+      "raw_text": "eAuction Flat in Karad, Satara Equitable Mortgage of Flat No.404, on Third Floor having super built up area admeasuring 6...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 677446 Reserve Price : \u20b911,40,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/677446",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b911,40,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/677446",
+      "raw_text": "Auction ID :# 677446 Reserve Price : \u20b911,40,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 677446 Reserve Price : \u20b911,40,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/677446",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b911,40,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/677446",
+      "raw_text": "Auction ID :# 677446 Reserve Price : \u20b911,40,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
