@@ -1,7 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 0 properties fetched
+BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 112 candidate card fragments by text-match
@@ -37,30 +37,14 @@ Scraping https://www.eauctionsindia.com/city/raigad...
   Found 112 candidate card fragments by text-match
   Extracted 1223 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
-  Found 119 candidate card fragments by text-match
-  Extracted 1342 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1342
-eauctionsindia: 1342 properties fetched
-Processing stats: 1342 total items, 1342 new, -913 duplicates skipped
+  Found 112 candidate card fragments by text-match
+  Extracted 1335 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1335
+eauctionsindia: 1335 properties fetched
+Processing stats: 1340 total items, 1340 new, -910 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 429 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 162/1342 items remain
-Traceback (most recent call last):
-  File "/home/runner/work/Web_scrapper_alert/Web_scrapper_alert/scraper.py", line 1228, in <module>
-    main()
-  File "/home/runner/work/Web_scrapper_alert/Web_scrapper_alert/scraper.py", line 1216, in main
-    results = run(
-              ^^^^
-  File "/home/runner/work/Web_scrapper_alert/Web_scrapper_alert/scraper.py", line 1151, in run
-    _send_email(subject, body_html, is_html=True)
-  File "/home/runner/work/Web_scrapper_alert/Web_scrapper_alert/scraper.py", line 726, in _send_email
-    server.send_message(msg)
-  File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/smtplib.py", line 986, in send_message
-    return self.sendmail(from_addr, to_addrs, flatmsg, mail_options,
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/smtplib.py", line 902, in sendmail
-    (code, resp) = self.data(msg)
-                   ^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/smtplib.py", line 571, in data
-    raise SMTPDataError(code, repl)
-smtplib.SMTPDataError: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-2b73a6f5d2asm11948300eec.14 - gsmtp')
+Saved state with 430 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 162/1340 items remain
+Saved 5 pincodes to cache.
+NEW_AUCTIONS_COUNT=162
+Wrote 1340 items to data/property_listings.json
