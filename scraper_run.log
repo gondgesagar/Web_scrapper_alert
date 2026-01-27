@@ -44,7 +44,7 @@ eauctionsindia: 1332 properties fetched
 Processing stats: 1334 total items, 1334 new, -906 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
 Saved state with 428 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 136/1334 items remain
+Applied property-types filter: plots, land, farm hous, bunglow — 122/1334 items remain
 Saved 6 pincodes to cache.
-NEW_AUCTIONS_COUNT=136
+NEW_AUCTIONS_COUNT=122
 Wrote 1334 items to data/property_listings.json
