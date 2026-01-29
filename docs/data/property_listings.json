@@ -1,6 +1,73 @@
 [
   {
     "emd_cost": null,
+    "details": "FLAT",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/28/272102/531080_compressed.jpg",
+    "raw": {
+      "propertyId": "272102",
+      "projectName": null,
+      "price": 4470000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/28/272102/531080_compressed.jpg",
+      "postedOn": "29-01-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Maharashtra",
+      "summaryDesc": "FLAT",
+      "city": "Kalyan",
+      "cityID": "5451",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 71.0,
+      "builtupArea": 72.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North-East",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "421201",
+      "bankPropertyId": "MAHBMANISHDUBEY",
+      "availablePhotosCount": 25,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No B-7,3rd floor,B Wing,Koyana CHSL,Situated at Plot No RX-7 of Village Dombivali East ,Taluka -Kalyan ,Dist -Thane 421201 area admeasuring about 774 sq ft(Build up)",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
     "details": "Carpet area 321 sq. ft.",
     "important_dates": [
       {
@@ -75,9 +142,9 @@
       "auctionEndDateTime": "10-02-2026 11:30:00",
       "emdStartDateTime": "28-01-2026 05:50:37",
       "emdEndDateTime": "10-02-2026 10:30:00",
+      "noOfCarParking": null,
       "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null
+      "roname": null
     },
     "source": "baanknet",
     "property_type": "Other"
