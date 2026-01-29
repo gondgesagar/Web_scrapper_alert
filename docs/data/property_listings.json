@@ -1,337 +1,5 @@
 [
   {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "31-01-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "31-01-2026 09:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "28-01-2026 11:00:07"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "31-01-2026 09:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/17/248243/526163_compressed.jpg",
-    "raw": {
-      "propertyId": "248243",
-      "projectName": null,
-      "price": 5769697.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/17/248243/526163_compressed.jpg",
-      "postedOn": "28-01-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Indian Overseas Bank",
-      "summaryDesc": null,
-      "city": "Vasai Virar",
-      "cityID": "5242",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": 4,
-      "carpetArea": 448.0,
-      "builtupArea": 538.0,
-      "furnishedStatus": null,
-      "floorNo": 3,
-      "totalNoOfFloors": 8,
-      "facing": null,
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "401209",
-      "bankPropertyId": "IOBA0973kiran",
-      "availablePhotosCount": 12,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat 303 3rd floor C Wing Om Shivam Residency, Kamothe Phase 1, Sector 17 Kamothe - 401209\r\nBoundaries\r\nN Lift\r\nS Open Air\r\nE Flat 301\r\nW Staircase",
-      "statename": "Maharashtra",
-      "districtname": "Palghar",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "31-01-2026 05:30:00",
-      "auctionEndDateTime": "31-01-2026 09:30:00",
-      "emdStartDateTime": "28-01-2026 11:00:07",
-      "emdEndDateTime": "31-01-2026 09:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null
-    },
-    "source": "baanknet",
-    "property_type": "Other"
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No. 1109, Admeasuring carpet area 366 sq.ft.",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "07-02-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "07-02-2026 09:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "28-01-2026 11:12:23"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "07-02-2026 09:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/20/117077/527311_compressed.jpg",
-    "raw": {
-      "propertyId": "117077",
-      "projectName": null,
-      "price": 11429293.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/20/117077/527311_compressed.jpg",
-      "postedOn": "28-01-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Indian Overseas Bank",
-      "summaryDesc": "Flat No. 1109, Admeasuring carpet area 366 sq.ft.",
-      "city": "Mumbai",
-      "cityID": "5109",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": 1,
-      "carpetArea": 340.0,
-      "builtupArea": 512.0,
-      "furnishedStatus": null,
-      "floorNo": 11,
-      "totalNoOfFloors": 16,
-      "facing": "South",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "400053",
-      "bankPropertyId": "IOBA0209ANANDBIL",
-      "availablePhotosCount": 23,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No. 1109, Platinum Tower 7, D N Nagar, Tirupati CHSL, Off J P Road, Andheri (West), 400053, Maharashtra,  admeasuring carpet area 366 sq.ft. land bearing CTS No. 195 (part) Survey No. 106-A",
-      "statename": "Maharashtra",
-      "districtname": "Mumbai Suburban",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "07-02-2026 05:30:00",
-      "auctionEndDateTime": "07-02-2026 09:30:00",
-      "emdStartDateTime": "28-01-2026 11:12:23",
-      "emdEndDateTime": "07-02-2026 09:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null
-    },
-    "source": "baanknet",
-    "property_type": "Flat"
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No. 1005 on 10th floor",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "07-02-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "07-02-2026 09:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "28-01-2026 11:03:02"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "07-02-2026 09:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/17/113058/526248_compressed.jpg",
-    "raw": {
-      "propertyId": "113058",
-      "projectName": "MOHAN ARECA",
-      "price": 3918670.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/17/113058/526248_compressed.jpg",
-      "postedOn": "28-01-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Indian Overseas Bank",
-      "summaryDesc": "Flat No. 1005 on 10th floor",
-      "city": "Asangaon",
-      "cityID": "5444",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": 1,
-      "carpetArea": 518.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": 10,
-      "totalNoOfFloors": 16,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "421601",
-      "bankPropertyId": "IOBA209RAVASAHEB",
-      "availablePhotosCount": 26,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No. 1005 on 10th floor, A wing, admeasuring 41.62 sq.mt (carpet area) in the Building A known as \u201cMOHAN ARECA\u201d situated at Village Shirgaon, Taluka Ambernath",
-      "statename": "Maharashtra",
-      "districtname": "Thane",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "07-02-2026 05:30:00",
-      "auctionEndDateTime": "07-02-2026 09:30:00",
-      "emdStartDateTime": "28-01-2026 11:03:02",
-      "emdEndDateTime": "07-02-2026 09:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null
-    },
-    "source": "baanknet",
-    "property_type": "Flat"
-  },
-  {
-    "emd_cost": null,
-    "details": "All that part and parcel of the property consisting of Flat No.605, 6th Floor, A-Wing, admeasuring 442 sq.ft (carpet area) in the building as Prima Co-operative Housing Society Ltd., Casa Bella Gold, Palava, Kalyan Shill Road, Dombivili (East), Taluka- Kalyan, District- Thane bearing land Survey & Hissa No. 11/12/1, 11/16/ 13/2, 8, Village- Nilje, Taluka- Kalyan \r\n440 SQ FT",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "28-01-2026 06:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "28-01-2026 11:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "28-01-2026 05:00:42"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "28-01-2026 11:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/28/117204/530512_compressed.jpg",
-    "raw": {
-      "propertyId": "117204",
-      "projectName": null,
-      "price": 2725000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/28/117204/530512_compressed.jpg",
-      "postedOn": "28-01-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Union Bank of India",
-      "summaryDesc": "All that part and parcel of the property consisting of Flat No.605, 6th Floor, A-Wing, admeasuring 442 sq.ft (carpet area) in the building as Prima Co-operative Housing Society Ltd., Casa Bella Gold, Palava, Kalyan Shill Road, Dombivili (East), Taluka- Kalyan, District- Thane bearing land Survey & Hissa No. 11/12/1, 11/16/ 13/2, 8, Village- Nilje, Taluka- Kalyan \r\n440 SQ FT",
-      "city": "Kalyan",
-      "cityID": "5451",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": null,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": null,
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "421201",
-      "bankPropertyId": "UBINMUMTHN6752",
-      "availablePhotosCount": 19,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": null,
-      "unitOfMeasure": null,
-      "percentageOfLoan": null,
-      "isLoanAvailable": false,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All that part and parcel of the property consisting of Flat No.605, 6th Floor, A-Wing, admeasuring 442 sq.ft (carpet area) in the building as Prima Co-operative Housing Society Ltd., Casa Bella Gold, Palava, Kalyan Shill Road, Dombivili (East), Taluka- Kalyan, District- Thane bearing land Survey & Hissa No. 11/12/1, 11/16/ 13/2, 8, Village- Nilje, Taluka- Kalyan",
-      "statename": "Maharashtra",
-      "districtname": "Thane",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "28-01-2026 06:30:00",
-      "auctionEndDateTime": "28-01-2026 11:30:00",
-      "emdStartDateTime": "28-01-2026 05:00:42",
-      "emdEndDateTime": "28-01-2026 11:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null
-    },
-    "source": "baanknet",
-    "property_type": "Flat"
-  },
-  {
     "details": "Land And Building 06-03-2026 11:00 AM eAuction Land And Building in Kalher, Bhiwandi Description of ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -9656,7 +9324,7 @@
     "property_type": "Other"
   },
   {
-    "details": "Commercial Shop 27-02-2026 02:00 PM eAuction Commercial Shop in LALBAUG, Mumbai M/s Adhinath Reality",
+    "details": "Land 27-02-2026 02:00 PM eAuction Land in Andheri East, Mumbai Wing C,7,706, Suparshwa, Plot Bearing",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
@@ -9667,19 +9335,19 @@
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b93,69,60,000.00",
+      "price": "Wing C,7,706, Suparshwa, Plot Bearing CTS No 133/1 to 67, Village Mogra Tal Andheri, Andhe...",
       "auction_date": "27-02-2026 02:00 PM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Shop 27-02-2026 02:00 PM eAuction Commercial Shop in LALBAUG, Mumbai M/s Adhinath Reality Mr. Ashish Pravin Bhalerao : Shop No 1 & 2, U.P Niwas, Plot No 32... Auction ID :# 680941 Reserve Price : \u20b93,69,60,000.00 View More",
+      "raw_text": "Land 27-02-2026 02:00 PM eAuction Land in Andheri East, Mumbai Wing C,7,706, Suparshwa, Plot Bearing CTS No 133/1 to 67, Village Mogra Tal Andheri, Andhe... Auction ID :# 681428 Reserve Price : \u20b91,66,36,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Commercial"
+    "property_type": "Plot"
   },
   {
-    "details": "Commercial Shop 27-02-2026 02:00 PM eAuction Commercial Shop in LALBAUG, Mumbai M/s Adhinath Reality",
+    "details": "Land 27-02-2026 02:00 PM eAuction Land in Andheri East, Mumbai Wing C,7,706, Suparshwa, Plot Bearing",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
     "important_dates": [
@@ -9690,43 +9358,44 @@
     ],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b93,69,60,000.00",
+      "price": "Wing C,7,706, Suparshwa, Plot Bearing CTS No 133/1 to 67, Village Mogra Tal Andheri, Andhe...",
       "auction_date": "27-02-2026 02:00 PM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Shop 27-02-2026 02:00 PM eAuction Commercial Shop in LALBAUG, Mumbai M/s Adhinath Reality Mr. Ashish Pravin Bhalerao : Shop No 1 & 2, U.P Niwas, Plot No 32... Auction ID :# 680941 Reserve Price : \u20b93,69,60,000.00 View More",
+      "raw_text": "Land 27-02-2026 02:00 PM eAuction Land in Andheri East, Mumbai Wing C,7,706, Suparshwa, Plot Bearing CTS No 133/1 to 67, Village Mogra Tal Andheri, Andhe... Auction ID :# 681428 Reserve Price : \u20b91,66,36,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Commercial"
+    "property_type": "Plot"
   },
   {
-    "details": "eAuction Commercial Shop in LALBAUG, Mumbai M/s Adhinath Reality Mr. Ashish Pravin Bhalerao : Shop N",
-    "link": "https://www.eauctionsindia.com/properties/680941",
+    "details": "eAuction Land in Andheri East, Mumbai Wing C,7,706, Suparshwa, Plot Bearing CTS No 133/1 to 67, Vill",
+    "link": "https://www.eauctionsindia.com/properties/681428",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/680941",
-      "raw_text": "eAuction Commercial Shop in LALBAUG, Mumbai M/s Adhinath Reality Mr. Ashish Pravin Bhalerao : Shop No 1 & 2, U.P Niwas, Plot No 32...",
+      "price": "Wing C,7,706, Suparshwa, Plot Bearing CTS No 133/1 to 67, Village Mogra Tal Andheri, Andhe...",
+      "property_url": "https://www.eauctionsindia.com/properties/681428",
+      "raw_text": "eAuction Land in Andheri East, Mumbai Wing C,7,706, Suparshwa, Plot Bearing CTS No 133/1 to 67, Village Mogra Tal Andheri, Andhe...",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
     "source": "eauctionsindia",
     "city": "Mumbai",
-    "property_type": "Commercial"
+    "property_type": "Plot"
   },
   {
-    "details": "Auction ID :# 680941 Reserve Price : \u20b93,69,60,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/680941",
+    "details": "Auction ID :# 681428 Reserve Price : \u20b91,66,36,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681428",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b93,69,60,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/680941",
-      "raw_text": "Auction ID :# 680941 Reserve Price : \u20b93,69,60,000.00 View More",
+      "price": "Reserve Price : \u20b91,66,36,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681428",
+      "raw_text": "Auction ID :# 681428 Reserve Price : \u20b91,66,36,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
@@ -9735,15 +9404,15 @@
     "property_type": "Other"
   },
   {
-    "details": "Auction ID :# 680941 Reserve Price : \u20b93,69,60,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/680941",
+    "details": "Auction ID :# 681428 Reserve Price : \u20b91,66,36,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681428",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "price": "Reserve Price : \u20b93,69,60,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/680941",
-      "raw_text": "Auction ID :# 680941 Reserve Price : \u20b93,69,60,000.00 View More",
+      "price": "Reserve Price : \u20b91,66,36,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681428",
+      "raw_text": "Auction ID :# 681428 Reserve Price : \u20b91,66,36,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
@@ -21650,6 +21319,583 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 28-02-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No.404, 4th Floor A Wing \"Tanvi Apartm",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b917,06,050.00",
+      "auction_date": "28-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-02-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No.404, 4th Floor A Wing \"Tanvi Apartment\" House No 228 & 332, Village-... Auction ID :# 681440 Reserve Price : \u20b917,06,050.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 28-02-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No.404, 4th Floor A Wing \"Tanvi Apartm",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b917,06,050.00",
+      "auction_date": "28-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-02-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No.404, 4th Floor A Wing \"Tanvi Apartment\" House No 228 & 332, Village-... Auction ID :# 681440 Reserve Price : \u20b917,06,050.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Panvel, Raigad Flat No.404, 4th Floor A Wing \"Tanvi Apartment\" House No 228 & 332, ",
+    "link": "https://www.eauctionsindia.com/properties/681440",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/681440",
+      "raw_text": "eAuction Flat in Panvel, Raigad Flat No.404, 4th Floor A Wing \"Tanvi Apartment\" House No 228 & 332, Village-...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 681440 Reserve Price : \u20b917,06,050.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681440",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b917,06,050.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681440",
+      "raw_text": "Auction ID :# 681440 Reserve Price : \u20b917,06,050.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 681440 Reserve Price : \u20b917,06,050.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681440",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b917,06,050.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681440",
+      "raw_text": "Auction ID :# 681440 Reserve Price : \u20b917,06,050.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Plot 28-02-2026 11:00 AM eAuction Plot in Panvel, Raigad Plot No. 33, Sector-35 D, Flat No. 204, 2nd",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b951,30,000.00",
+      "auction_date": "28-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 28-02-2026 11:00 AM eAuction Plot in Panvel, Raigad Plot No. 33, Sector-35 D, Flat No. 204, 2nd Floor, Krishna Majesty, Village -Kharghar, Tal... Auction ID :# 681437 Reserve Price : \u20b951,30,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Plot 28-02-2026 11:00 AM eAuction Plot in Panvel, Raigad Plot No. 33, Sector-35 D, Flat No. 204, 2nd",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b951,30,000.00",
+      "auction_date": "28-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Plot 28-02-2026 11:00 AM eAuction Plot in Panvel, Raigad Plot No. 33, Sector-35 D, Flat No. 204, 2nd Floor, Krishna Majesty, Village -Kharghar, Tal... Auction ID :# 681437 Reserve Price : \u20b951,30,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Plot in Panvel, Raigad Plot No. 33, Sector-35 D, Flat No. 204, 2nd Floor, Krishna Majesty, ",
+    "link": "https://www.eauctionsindia.com/properties/681437",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/681437",
+      "raw_text": "eAuction Plot in Panvel, Raigad Plot No. 33, Sector-35 D, Flat No. 204, 2nd Floor, Krishna Majesty, Village -Kharghar, Tal...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 681437 Reserve Price : \u20b951,30,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681437",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b951,30,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681437",
+      "raw_text": "Auction ID :# 681437 Reserve Price : \u20b951,30,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 681437 Reserve Price : \u20b951,30,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681437",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b951,30,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681437",
+      "raw_text": "Auction ID :# 681437 Reserve Price : \u20b951,30,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Land 27-02-2026 02:00 PM eAuction Land in Panvel, Raigad Wing D. 6,606, Belantra Phase 1. Bearing Gu",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,81,000.00",
+      "auction_date": "27-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Land 27-02-2026 02:00 PM eAuction Land in Panvel, Raigad Wing D. 6,606, Belantra Phase 1. Bearing Gut No 132/3 132/7 133 to 135, Out Of That Buildi... Auction ID :# 681422 Reserve Price : \u20b921,81,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Land"
+  },
+  {
+    "details": "Land 27-02-2026 02:00 PM eAuction Land in Panvel, Raigad Wing D. 6,606, Belantra Phase 1. Bearing Gu",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,81,000.00",
+      "auction_date": "27-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Land 27-02-2026 02:00 PM eAuction Land in Panvel, Raigad Wing D. 6,606, Belantra Phase 1. Bearing Gut No 132/3 132/7 133 to 135, Out Of That Buildi... Auction ID :# 681422 Reserve Price : \u20b921,81,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Land"
+  },
+  {
+    "details": "eAuction Land in Panvel, Raigad Wing D. 6,606, Belantra Phase 1. Bearing Gut No 132/3 132/7 133 to 1",
+    "link": "https://www.eauctionsindia.com/properties/681422",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/681422",
+      "raw_text": "eAuction Land in Panvel, Raigad Wing D. 6,606, Belantra Phase 1. Bearing Gut No 132/3 132/7 133 to 135, Out Of That Buildi...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Land"
+  },
+  {
+    "details": "Auction ID :# 681422 Reserve Price : \u20b921,81,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681422",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,81,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681422",
+      "raw_text": "Auction ID :# 681422 Reserve Price : \u20b921,81,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 681422 Reserve Price : \u20b921,81,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681422",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,81,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681422",
+      "raw_text": "Auction ID :# 681422 Reserve Price : \u20b921,81,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Land And Building 27-02-2026 02:00 PM eAuction Land And Building in Panvel, Raigad Building No. 5. W",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Building No. 5. Wing N 1,3.301.0, Kalpavriksha, Kanpoli, Near Deer Deepak Fertilizers, Pan...",
+      "auction_date": "27-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Land And Building 27-02-2026 02:00 PM eAuction Land And Building in Panvel, Raigad Building No. 5. Wing N 1,3.301.0, Kalpavriksha, Kanpoli, Near Deer Deepak Fertilizers, Pan... Auction ID :# 681421 Reserve Price : \u20b922,32,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Land"
+  },
+  {
+    "details": "Land And Building 27-02-2026 02:00 PM eAuction Land And Building in Panvel, Raigad Building No. 5. W",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Building No. 5. Wing N 1,3.301.0, Kalpavriksha, Kanpoli, Near Deer Deepak Fertilizers, Pan...",
+      "auction_date": "27-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Land And Building 27-02-2026 02:00 PM eAuction Land And Building in Panvel, Raigad Building No. 5. Wing N 1,3.301.0, Kalpavriksha, Kanpoli, Near Deer Deepak Fertilizers, Pan... Auction ID :# 681421 Reserve Price : \u20b922,32,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Land"
+  },
+  {
+    "details": "eAuction Land And Building in Panvel, Raigad Building No. 5. Wing N 1,3.301.0, Kalpavriksha, Kanpoli",
+    "link": "https://www.eauctionsindia.com/properties/681421",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Building No. 5. Wing N 1,3.301.0, Kalpavriksha, Kanpoli, Near Deer Deepak Fertilizers, Pan...",
+      "property_url": "https://www.eauctionsindia.com/properties/681421",
+      "raw_text": "eAuction Land And Building in Panvel, Raigad Building No. 5. Wing N 1,3.301.0, Kalpavriksha, Kanpoli, Near Deer Deepak Fertilizers, Pan...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Land"
+  },
+  {
+    "details": "Auction ID :# 681421 Reserve Price : \u20b922,32,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681421",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b922,32,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681421",
+      "raw_text": "Auction ID :# 681421 Reserve Price : \u20b922,32,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 681421 Reserve Price : \u20b922,32,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681421",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b922,32,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681421",
+      "raw_text": "Auction ID :# 681421 Reserve Price : \u20b922,32,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 27-02-2026 02:00 PM eAuction Flat in Panvel, Raigad Nera, Panvel, Panvel, Maharashtra-410206, F",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b934,77,000.00",
+      "auction_date": "27-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-02-2026 02:00 PM eAuction Flat in Panvel, Raigad Nera, Panvel, Panvel, Maharashtra-410206, Flat No 314, 3rd Floor, D Wing, Satya Deep CHS.... Auction ID :# 681419 Reserve Price : \u20b934,77,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 27-02-2026 02:00 PM eAuction Flat in Panvel, Raigad Nera, Panvel, Panvel, Maharashtra-410206, F",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b934,77,000.00",
+      "auction_date": "27-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-02-2026 02:00 PM eAuction Flat in Panvel, Raigad Nera, Panvel, Panvel, Maharashtra-410206, Flat No 314, 3rd Floor, D Wing, Satya Deep CHS.... Auction ID :# 681419 Reserve Price : \u20b934,77,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Panvel, Raigad Nera, Panvel, Panvel, Maharashtra-410206, Flat No 314, 3rd Floor, D ",
+    "link": "https://www.eauctionsindia.com/properties/681419",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/681419",
+      "raw_text": "eAuction Flat in Panvel, Raigad Nera, Panvel, Panvel, Maharashtra-410206, Flat No 314, 3rd Floor, D Wing, Satya Deep CHS....",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 681419 Reserve Price : \u20b934,77,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681419",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b934,77,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681419",
+      "raw_text": "Auction ID :# 681419 Reserve Price : \u20b934,77,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 681419 Reserve Price : \u20b934,77,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681419",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b934,77,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681419",
+      "raw_text": "Auction ID :# 681419 Reserve Price : \u20b934,77,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Land 27-02-2026 02:00 PM eAuction Land in Panvel, Raigad Akansha B Wing. 3,302, Sai Shanti Park, SR.",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b918,70,000.00",
+      "auction_date": "27-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Land 27-02-2026 02:00 PM eAuction Land in Panvel, Raigad Akansha B Wing. 3,302, Sai Shanti Park, SR. No. 2A(28), SR. No. 2A (56), SR. No. 2A (65),... Auction ID :# 681414 Reserve Price : \u20b918,70,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Land"
+  },
+  {
+    "details": "Land 27-02-2026 02:00 PM eAuction Land in Panvel, Raigad Akansha B Wing. 3,302, Sai Shanti Park, SR.",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-02-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b918,70,000.00",
+      "auction_date": "27-02-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Land 27-02-2026 02:00 PM eAuction Land in Panvel, Raigad Akansha B Wing. 3,302, Sai Shanti Park, SR. No. 2A(28), SR. No. 2A (56), SR. No. 2A (65),... Auction ID :# 681414 Reserve Price : \u20b918,70,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Land"
+  },
+  {
+    "details": "eAuction Land in Panvel, Raigad Akansha B Wing. 3,302, Sai Shanti Park, SR. No. 2A(28), SR. No. 2A (",
+    "link": "https://www.eauctionsindia.com/properties/681414",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/681414",
+      "raw_text": "eAuction Land in Panvel, Raigad Akansha B Wing. 3,302, Sai Shanti Park, SR. No. 2A(28), SR. No. 2A (56), SR. No. 2A (65),...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Land"
+  },
+  {
+    "details": "Auction ID :# 681414 Reserve Price : \u20b918,70,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681414",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b918,70,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681414",
+      "raw_text": "Auction ID :# 681414 Reserve Price : \u20b918,70,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 681414 Reserve Price : \u20b918,70,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/681414",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b918,70,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/681414",
+      "raw_text": "Auction ID :# 681414 Reserve Price : \u20b918,70,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
     "details": "Plot 27-02-2026 12:00 PM eAuction Plot in Karjat, Raigad Residential Property: All that piece and pa",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -21738,582 +21984,6 @@
       "price": "Reserve Price : \u20b91,28,05,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/678123",
       "raw_text": "Auction ID :# 678123 Reserve Price : \u20b91,28,05,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Pen, Raigad Flat No. 202, 2nd floor, Shree Satyanarayan Re",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b929,91,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Pen, Raigad Flat No. 202, 2nd floor, Shree Satyanarayan Residency, Phase -3, Survey No 139A/5/1,139K/1... Auction ID :# 676150 Reserve Price : \u20b929,91,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Pen, Raigad Flat No. 202, 2nd floor, Shree Satyanarayan Re",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b929,91,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Pen, Raigad Flat No. 202, 2nd floor, Shree Satyanarayan Residency, Phase -3, Survey No 139A/5/1,139K/1... Auction ID :# 676150 Reserve Price : \u20b929,91,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Pen, Raigad Flat No. 202, 2nd floor, Shree Satyanarayan Residency, Phase -3, Survey",
-    "link": "https://www.eauctionsindia.com/properties/676150",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/676150",
-      "raw_text": "eAuction Flat in Pen, Raigad Flat No. 202, 2nd floor, Shree Satyanarayan Residency, Phase -3, Survey No 139A/5/1,139K/1...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 676150 Reserve Price : \u20b929,91,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676150",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b929,91,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676150",
-      "raw_text": "Auction ID :# 676150 Reserve Price : \u20b929,91,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 676150 Reserve Price : \u20b929,91,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676150",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b929,91,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676150",
-      "raw_text": "Auction ID :# 676150 Reserve Price : \u20b929,91,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Pen, Raigad Flat No 211, 2nd Floor, A- Wing, Royal Grandeu",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b921,57,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Pen, Raigad Flat No 211, 2nd Floor, A- Wing, Royal Grandeur, Survey no. 126 A, Hissa5-A, Survey No. 18... Auction ID :# 676149 Reserve Price : \u20b921,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Pen, Raigad Flat No 211, 2nd Floor, A- Wing, Royal Grandeu",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b921,57,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Pen, Raigad Flat No 211, 2nd Floor, A- Wing, Royal Grandeur, Survey no. 126 A, Hissa5-A, Survey No. 18... Auction ID :# 676149 Reserve Price : \u20b921,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Pen, Raigad Flat No 211, 2nd Floor, A- Wing, Royal Grandeur, Survey no. 126 A, Hiss",
-    "link": "https://www.eauctionsindia.com/properties/676149",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/676149",
-      "raw_text": "eAuction Flat in Pen, Raigad Flat No 211, 2nd Floor, A- Wing, Royal Grandeur, Survey no. 126 A, Hissa5-A, Survey No. 18...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 676149 Reserve Price : \u20b921,57,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676149",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b921,57,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676149",
-      "raw_text": "Auction ID :# 676149 Reserve Price : \u20b921,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 676149 Reserve Price : \u20b921,57,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676149",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b921,57,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676149",
-      "raw_text": "Auction ID :# 676149 Reserve Price : \u20b921,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No.102 1st Floor, Ganesh Krupa, Plot N",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b932,13,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No.102 1st Floor, Ganesh Krupa, Plot No 37, Sector-3, Ulwe Panvel, Dist Raigad , Talu... Auction ID :# 676148 Reserve Price : \u20b932,13,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No.102 1st Floor, Ganesh Krupa, Plot N",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b932,13,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No.102 1st Floor, Ganesh Krupa, Plot No 37, Sector-3, Ulwe Panvel, Dist Raigad , Talu... Auction ID :# 676148 Reserve Price : \u20b932,13,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Panvel, Raigad Flat No.102 1st Floor, Ganesh Krupa, Plot No 37, Sector-3, Ulwe Panv",
-    "link": "https://www.eauctionsindia.com/properties/676148",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/676148",
-      "raw_text": "eAuction Flat in Panvel, Raigad Flat No.102 1st Floor, Ganesh Krupa, Plot No 37, Sector-3, Ulwe Panvel, Dist Raigad , Talu...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 676148 Reserve Price : \u20b932,13,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676148",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b932,13,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676148",
-      "raw_text": "Auction ID :# 676148 Reserve Price : \u20b932,13,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 676148 Reserve Price : \u20b932,13,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676148",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b932,13,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676148",
-      "raw_text": "Auction ID :# 676148 Reserve Price : \u20b932,13,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No.101 1st Floor, Ganesh Krupa, Plot N",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b931,59,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No.101 1st Floor, Ganesh Krupa, Plot No 37, Sector-3, Ulwe Raigad , Taluka Panvel, Di... Auction ID :# 676147 Reserve Price : \u20b931,59,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No.101 1st Floor, Ganesh Krupa, Plot N",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b931,59,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No.101 1st Floor, Ganesh Krupa, Plot No 37, Sector-3, Ulwe Raigad , Taluka Panvel, Di... Auction ID :# 676147 Reserve Price : \u20b931,59,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Panvel, Raigad Flat No.101 1st Floor, Ganesh Krupa, Plot No 37, Sector-3, Ulwe Raig",
-    "link": "https://www.eauctionsindia.com/properties/676147",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/676147",
-      "raw_text": "eAuction Flat in Panvel, Raigad Flat No.101 1st Floor, Ganesh Krupa, Plot No 37, Sector-3, Ulwe Raigad , Taluka Panvel, Di...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 676147 Reserve Price : \u20b931,59,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676147",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b931,59,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676147",
-      "raw_text": "Auction ID :# 676147 Reserve Price : \u20b931,59,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 676147 Reserve Price : \u20b931,59,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676147",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b931,59,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676147",
-      "raw_text": "Auction ID :# 676147 Reserve Price : \u20b931,59,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No. 504, 5th Floor, E- Wing, Belantara",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,85,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No. 504, 5th Floor, E- Wing, Belantara Co- operative Housing Society Ltd., Paiki 136/... Auction ID :# 676145 Reserve Price : \u20b920,85,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No. 504, 5th Floor, E- Wing, Belantara",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "26-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,85,000.00",
-      "auction_date": "26-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 26-02-2026 10:00 AM eAuction Flat in Panvel, Raigad Flat No. 504, 5th Floor, E- Wing, Belantara Co- operative Housing Society Ltd., Paiki 136/... Auction ID :# 676145 Reserve Price : \u20b920,85,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Panvel, Raigad Flat No. 504, 5th Floor, E- Wing, Belantara Co- operative Housing So",
-    "link": "https://www.eauctionsindia.com/properties/676145",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/676145",
-      "raw_text": "eAuction Flat in Panvel, Raigad Flat No. 504, 5th Floor, E- Wing, Belantara Co- operative Housing Society Ltd., Paiki 136/...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 676145 Reserve Price : \u20b920,85,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676145",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,85,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676145",
-      "raw_text": "Auction ID :# 676145 Reserve Price : \u20b920,85,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 676145 Reserve Price : \u20b920,85,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/676145",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,85,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/676145",
-      "raw_text": "Auction ID :# 676145 Reserve Price : \u20b920,85,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Plot 25-02-2026 02:00 PM eAuction Plot in Mangaon, Raigad Property Situated At Survey No 514/B, Ols ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-02-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b931,35,000.00",
-      "auction_date": "25-02-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 25-02-2026 02:00 PM eAuction Plot in Mangaon, Raigad Property Situated At Survey No 514/B, Ols Survey No 73/2, Shop No 19, Ground Floor, E Wing... Auction ID :# 669659 Reserve Price : \u20b931,35,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Plot 25-02-2026 02:00 PM eAuction Plot in Mangaon, Raigad Property Situated At Survey No 514/B, Ols ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-02-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b931,35,000.00",
-      "auction_date": "25-02-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 25-02-2026 02:00 PM eAuction Plot in Mangaon, Raigad Property Situated At Survey No 514/B, Ols Survey No 73/2, Shop No 19, Ground Floor, E Wing... Auction ID :# 669659 Reserve Price : \u20b931,35,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Plot"
-  },
-  {
-    "details": "eAuction Plot in Mangaon, Raigad Property Situated At Survey No 514/B, Ols Survey No 73/2, Shop No 1",
-    "link": "https://www.eauctionsindia.com/properties/669659",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/669659",
-      "raw_text": "eAuction Plot in Mangaon, Raigad Property Situated At Survey No 514/B, Ols Survey No 73/2, Shop No 19, Ground Floor, E Wing...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 669659 Reserve Price : \u20b931,35,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/669659",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b931,35,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/669659",
-      "raw_text": "Auction ID :# 669659 Reserve Price : \u20b931,35,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 669659 Reserve Price : \u20b931,35,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/669659",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b931,35,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/669659",
-      "raw_text": "Auction ID :# 669659 Reserve Price : \u20b931,35,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/raigad"
     },
@@ -24762,6 +24432,150 @@
     "property_type": "Other"
   },
   {
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
+    "details": "Haryana Housing Board Launches Residential Property E-Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
+      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
+      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Residential"
+  },
+  {
     "details": "Vasai RTO E-Auction of Vehicles",
     "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
@@ -24798,142 +24612,160 @@
     "property_type": "Commercial"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA to Auction 164 Sites in October 2025",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
-      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
@@ -25068,196 +24900,16 @@
     "property_type": "Other"
   },
   {
-    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
-    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+      "property_name": "BDA to Auction 164 Sites in October 2025",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
-      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-    "link": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bangalore-development-authority-announces-e-auction-of-prime-commercial-sites-in-bengaluru",
-      "raw_text": "Bangalore Development Authority Announces e-Auction of Prime Commercial Sites in Bengaluru eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platf",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Kanpur Development Authority (KDA) Flat Scheme",
-    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
-      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Flat"
-  },
-  {
-    "details": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-    "link": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-      "price": "From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS",
-      "property_url": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-      "raw_text": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS Eauctions India Undo E-auction of 46 plots of PMRDA eAuctions india is a p",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
@@ -25266,129 +24918,21 @@
     "property_type": "Other"
   },
   {
-    "details": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-    "link": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
+    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-      "price": "From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS",
-      "property_url": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-      "raw_text": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS Eauctions India Undo E-auction of 46 plots of PMRDA eAuctions india is a p",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-    "link": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-      "price": "From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS",
-      "property_url": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-      "raw_text": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS Eauctions India Undo E-auction of 46 plots of PMRDA eAuctions india is a p",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-    "link": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-      "price": "From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS",
-      "property_url": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-      "raw_text": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS Eauctions India Undo E-auction of 46 plots of PMRDA eAuctions india is a p",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-    "link": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-      "price": "From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS",
-      "property_url": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-      "raw_text": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS Eauctions India Undo E-auction of 46 plots of PMRDA eAuctions india is a p",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-    "link": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-      "price": "From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS",
-      "property_url": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-      "raw_text": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS Eauctions India Undo E-auction of 46 plots of PMRDA eAuctions india is a p",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-    "link": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer",
-      "price": "From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS",
-      "property_url": "https://www.eauctionsindia.com/blog-details/tgsrtc-to-auction-unclaimed-parcels-electronics-clothing-more-go-under-the-hammer",
-      "raw_text": "TGSRTC to Auction Unclaimed Parcels: Electronics, Clothing & More Go Under the Hammer From Clothing to Electronics - Unclaimed Items are auctioned by TGSRTC in Hyderabad on 20th August in cargo delivery centers of JBS  & MGBS Eauctions India Undo E-auction of 46 plots of PMRDA eAuctions india is a p",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "E-auction of 46 plots of PMRDA",
-    "link": "https://www.eauctionsindia.com/blog-details/pmrda-row-e-auction-houses-in-moshi-areapune",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "E-auction of 46 plots of PMRDA",
+      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/pmrda-row-e-auction-houses-in-moshi-areapune",
-      "raw_text": "E-auction of 46 plots of PMRDA eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
+      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
     "source": "eauctionsindia",
     "city": "Pune",
-    "property_type": "Plot"
+    "property_type": "Other"
   }
 ]
