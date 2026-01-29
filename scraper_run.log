@@ -1,7 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 0 properties fetched
+BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 112 candidate card fragments by text-match
@@ -28,23 +28,23 @@ Scraping https://www.eauctionsindia.com/city/thane...
   Found 112 candidate card fragments by text-match
   Extracted 891 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
-  Found 121 candidate card fragments by text-match
-  Extracted 1012 properties so far from https://www.eauctionsindia.com/city/satara
+  Found 112 candidate card fragments by text-match
+  Extracted 1003 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
   Found 112 candidate card fragments by text-match
-  Extracted 1124 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Extracted 1115 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
   Found 112 candidate card fragments by text-match
-  Extracted 1236 properties so far from https://www.eauctionsindia.com/city/raigad
+  Extracted 1227 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 119 candidate card fragments by text-match
-  Extracted 1355 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1355
-eauctionsindia: 1355 properties fetched
-Processing stats: 1355 total items, 1355 new, -918 duplicates skipped
+  Extracted 1346 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1346
+eauctionsindia: 1346 properties fetched
+Processing stats: 1347 total items, 1347 new, -919 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 437 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 150/1355 items remain
-Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=150
-Wrote 1355 items to data/property_listings.json
+Saved state with 428 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 124/1347 items remain
+Saved 8 pincodes to cache.
+NEW_AUCTIONS_COUNT=124
+Wrote 1347 items to data/property_listings.json
