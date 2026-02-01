@@ -1,9 +1,5 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
-Warning: failed to fetch Maharashtra pincodes (attempt 1): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7fc8f38e0310>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 1s...
-Fetching Maharashtra pincodes (attempt 2/3)...
-Warning: failed to fetch Maharashtra pincodes (attempt 2): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7fc8f38e0b10>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 2s...
-Fetching Maharashtra pincodes (attempt 3/3)...
-Warning: failed to fetch Maharashtra pincodes after 3 attempts: HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7fc8f38e0e50>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)'))
+Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
 BAANKNET: 0 properties fetched
 Fetching eauctionsindia properties...
@@ -41,14 +37,14 @@ Scraping https://www.eauctionsindia.com/city/raigad...
   Found 112 candidate card fragments by text-match
   Extracted 1223 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
-  Found 119 candidate card fragments by text-match
-  Extracted 1342 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1342
-eauctionsindia: 1342 properties fetched
-Processing stats: 1342 total items, 1342 new, -931 duplicates skipped
+  Found 112 candidate card fragments by text-match
+  Extracted 1335 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1335
+eauctionsindia: 1335 properties fetched
+Processing stats: 1335 total items, 1335 new, -928 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 411 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 179/1342 items remain
+Saved state with 407 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 171/1335 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=179
-Wrote 1342 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=171
+Wrote 1335 items to data/property_listings.json
