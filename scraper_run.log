@@ -1,7 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 10 properties fetched
+BAANKNET: 0 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 119 candidate card fragments by text-match
@@ -45,6 +45,6 @@ Processing stats: 1419 total items, 1419 new, -1017 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
 Saved state with 402 total tracked items to .state/state.json
 Applied property-types filter: plots, land, farm hous, bunglow — 168/1419 items remain
-Saved 10 pincodes to cache.
+Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=168
 Wrote 1419 items to data/property_listings.json
