@@ -59,9 +59,9 @@
       "auctionEndDateTime": null,
       "emdStartDateTime": null,
       "emdEndDateTime": null,
-      "noOfCarParking": 1,
       "drtlocation": null,
-      "roname": null
+      "roname": null,
+      "noOfCarParking": 1
     },
     "source": "baanknet",
     "property_type": "Flat"
