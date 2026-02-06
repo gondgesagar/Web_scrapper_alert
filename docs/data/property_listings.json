@@ -1,5 +1,96 @@
 [
   {
+    "emd_cost": null,
+    "details": "3 BHK FLAT  IN KANCHANWADI CHH SAMBHAJINGAR",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "06-03-2026 05:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "06-03-2026 09:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "07-03-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "07-03-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "06-02-2026 05:40:54"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "07-03-2026 09:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/05/22/239855/342647_compressed.jpg",
+    "raw": {
+      "propertyId": "239855",
+      "projectName": "SAINIK VIHAR",
+      "price": 2700000.0,
+      "pricePerSeqFit": 1800.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/05/22/239855/342647_compressed.jpg",
+      "postedOn": "06-02-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "3 BHK FLAT  IN KANCHANWADI CHH SAMBHAJINGAR",
+      "city": "Chhatrapati Sambhajinagar",
+      "cityID": "4969",
+      "stateID": 21,
+      "localities": "CHH SAMBHAJINAGAR",
+      "noOfBedRoom": 3,
+      "carpetArea": 713.0,
+      "builtupArea": 714.0,
+      "furnishedStatus": null,
+      "floorNo": 5,
+      "totalNoOfFloors": 5,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "431005",
+      "bankPropertyId": "SBIN001295333",
+      "availablePhotosCount": 10,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No 504, Stilt 5th Floor, Ajinkya Tara Building, Gut No 49, Sainik Vihar , Kanchanwadi, Paithan Road, Chh Sambhajinagar ,PIN 431005",
+      "statename": "Maharashtra",
+      "districtname": "Chhatrapati Sambhaji Nagar",
+      "inspectionStartDateTime": "06-03-2026 05:30:00",
+      "inspectionEndDateTime": "06-03-2026 09:30:00",
+      "auctionStartDateTime": "07-03-2026 05:30:00",
+      "auctionEndDateTime": "07-03-2026 11:30:00",
+      "emdStartDateTime": "06-02-2026 05:40:54",
+      "emdEndDateTime": "07-03-2026 09:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": 1
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
     "details": "Land And Building 06-03-2026 11:00 AM eAuction Land And Building in Kalher, Bhiwandi Description of ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -21172,6 +21263,489 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 306, ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "All That Piece And Parcel Of Flat No. 306, On 3rd Floor, Admeasuring About 31.510 Sq. Mtrs...",
+      "auction_date": "14-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 306, On 3rd Floor, Admeasuring About 31.510 Sq. Mtrs... Auction ID :# 688914 Reserve Price : \u20b918,29,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 306, ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "All That Piece And Parcel Of Flat No. 306, On 3rd Floor, Admeasuring About 31.510 Sq. Mtrs...",
+      "auction_date": "14-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 306, On 3rd Floor, Admeasuring About 31.510 Sq. Mtrs... Auction ID :# 688914 Reserve Price : \u20b918,29,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 306, On 3rd Floor, Admeasuring",
+    "link": "https://www.eauctionsindia.com/properties/688914",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "All That Piece And Parcel Of Flat No. 306, On 3rd Floor, Admeasuring About 31.510 Sq. Mtrs...",
+      "property_url": "https://www.eauctionsindia.com/properties/688914",
+      "raw_text": "eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 306, On 3rd Floor, Admeasuring About 31.510 Sq. Mtrs...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 688914 Reserve Price : \u20b918,29,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688914",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b918,29,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688914",
+      "raw_text": "Auction ID :# 688914 Reserve Price : \u20b918,29,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 688914 Reserve Price : \u20b918,29,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688914",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b918,29,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688914",
+      "raw_text": "Auction ID :# 688914 Reserve Price : \u20b918,29,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat Bearing N",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "All That Piece And Parcel Of Flat Bearing No. 03, Admeasuring 22.605 Sq. Mtrs. (Carpet Are...",
+      "auction_date": "14-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat Bearing No. 03, Admeasuring 22.605 Sq. Mtrs. (Carpet Are... Auction ID :# 688913 Reserve Price : \u20b913,77,875.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat Bearing N",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "All That Piece And Parcel Of Flat Bearing No. 03, Admeasuring 22.605 Sq. Mtrs. (Carpet Are...",
+      "auction_date": "14-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat Bearing No. 03, Admeasuring 22.605 Sq. Mtrs. (Carpet Are... Auction ID :# 688913 Reserve Price : \u20b913,77,875.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat Bearing No. 03, Admeasuring 22.605",
+    "link": "https://www.eauctionsindia.com/properties/688913",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "All That Piece And Parcel Of Flat Bearing No. 03, Admeasuring 22.605 Sq. Mtrs. (Carpet Are...",
+      "property_url": "https://www.eauctionsindia.com/properties/688913",
+      "raw_text": "eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat Bearing No. 03, Admeasuring 22.605 Sq. Mtrs. (Carpet Are...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 688913 Reserve Price : \u20b913,77,875.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688913",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b913,77,875.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688913",
+      "raw_text": "Auction ID :# 688913 Reserve Price : \u20b913,77,875.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 688913 Reserve Price : \u20b913,77,875.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688913",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b913,77,875.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688913",
+      "raw_text": "Auction ID :# 688913 Reserve Price : \u20b913,77,875.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 14-03-2026 11:00 AM eAuction Flat in Raigad., Raigad All That Piece And Parcel Of Flat No 405, ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b911,98,650.00",
+      "auction_date": "14-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 14-03-2026 11:00 AM eAuction Flat in Raigad., Raigad All That Piece And Parcel Of Flat No 405, 4th Floor B Wing, Bhivpuri Road East, Near Sai B... Auction ID :# 688911 Reserve Price : \u20b911,98,650.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 14-03-2026 11:00 AM eAuction Flat in Raigad., Raigad All That Piece And Parcel Of Flat No 405, ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b911,98,650.00",
+      "auction_date": "14-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 14-03-2026 11:00 AM eAuction Flat in Raigad., Raigad All That Piece And Parcel Of Flat No 405, 4th Floor B Wing, Bhivpuri Road East, Near Sai B... Auction ID :# 688911 Reserve Price : \u20b911,98,650.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Raigad., Raigad All That Piece And Parcel Of Flat No 405, 4th Floor B Wing, Bhivpur",
+    "link": "https://www.eauctionsindia.com/properties/688911",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/688911",
+      "raw_text": "eAuction Flat in Raigad., Raigad All That Piece And Parcel Of Flat No 405, 4th Floor B Wing, Bhivpuri Road East, Near Sai B...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 688911 Reserve Price : \u20b911,98,650.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688911",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b911,98,650.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688911",
+      "raw_text": "Auction ID :# 688911 Reserve Price : \u20b911,98,650.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 688911 Reserve Price : \u20b911,98,650.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688911",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b911,98,650.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688911",
+      "raw_text": "Auction ID :# 688911 Reserve Price : \u20b911,98,650.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 403, ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b924,43,000.00",
+      "auction_date": "14-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 403, Having Admeasuring Area 630 Sqft (Built Up) And... Auction ID :# 688910 Reserve Price : \u20b924,43,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 403, ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b924,43,000.00",
+      "auction_date": "14-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 14-03-2026 11:00 AM eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 403, Having Admeasuring Area 630 Sqft (Built Up) And... Auction ID :# 688910 Reserve Price : \u20b924,43,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 403, Having Admeasuring Area 6",
+    "link": "https://www.eauctionsindia.com/properties/688910",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/688910",
+      "raw_text": "eAuction Flat in Karjat, Raigad All That Piece And Parcel Of Flat No. 403, Having Admeasuring Area 630 Sqft (Built Up) And...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 688910 Reserve Price : \u20b924,43,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688910",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b924,43,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688910",
+      "raw_text": "Auction ID :# 688910 Reserve Price : \u20b924,43,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 688910 Reserve Price : \u20b924,43,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688910",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b924,43,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688910",
+      "raw_text": "Auction ID :# 688910 Reserve Price : \u20b924,43,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 11-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No. 403, Area Admeasuring 39.18 Sq. Mt",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "11-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Flat No. 403, Area Admeasuring 39.18 Sq. Mtrs., 4th Floor, Aboli Co-Op Hsg Soc Ltd., Plot...",
+      "auction_date": "11-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 11-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No. 403, Area Admeasuring 39.18 Sq. Mtrs., 4th Floor, Aboli Co-Op Hsg Soc Ltd., Plot... Auction ID :# 688904 Reserve Price : \u20b937,66,350.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 11-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No. 403, Area Admeasuring 39.18 Sq. Mt",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "11-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Flat No. 403, Area Admeasuring 39.18 Sq. Mtrs., 4th Floor, Aboli Co-Op Hsg Soc Ltd., Plot...",
+      "auction_date": "11-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 11-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No. 403, Area Admeasuring 39.18 Sq. Mtrs., 4th Floor, Aboli Co-Op Hsg Soc Ltd., Plot... Auction ID :# 688904 Reserve Price : \u20b937,66,350.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Panvel, Raigad Flat No. 403, Area Admeasuring 39.18 Sq. Mtrs., 4th Floor, Aboli Co-",
+    "link": "https://www.eauctionsindia.com/properties/688904",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Flat No. 403, Area Admeasuring 39.18 Sq. Mtrs., 4th Floor, Aboli Co-Op Hsg Soc Ltd., Plot...",
+      "property_url": "https://www.eauctionsindia.com/properties/688904",
+      "raw_text": "eAuction Flat in Panvel, Raigad Flat No. 403, Area Admeasuring 39.18 Sq. Mtrs., 4th Floor, Aboli Co-Op Hsg Soc Ltd., Plot...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 688904 Reserve Price : \u20b937,66,350.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688904",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b937,66,350.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688904",
+      "raw_text": "Auction ID :# 688904 Reserve Price : \u20b937,66,350.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 688904 Reserve Price : \u20b937,66,350.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/688904",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b937,66,350.00",
+      "property_url": "https://www.eauctionsindia.com/properties/688904",
+      "raw_text": "Auction ID :# 688904 Reserve Price : \u20b937,66,350.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
     "details": "Flat 10-03-2026 11:00 AM eAuction Flat in Roha, Raigad Flat No 305, 3rd Floor, Yerunkar Dabir Comple",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -21548,486 +22122,6 @@
       "price": "Reserve Price : \u20b910,00,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/682215",
       "raw_text": "Auction ID :# 682215 Reserve Price : \u20b910,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b97,41,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of the property bearing F... Auction ID :# 681179 Reserve Price : \u20b97,41,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b97,41,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of the property bearing F... Auction ID :# 681179 Reserve Price : \u20b97,41,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of ",
-    "link": "https://www.eauctionsindia.com/properties/681179",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/681179",
-      "raw_text": "eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of the property bearing F...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 681179 Reserve Price : \u20b97,41,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681179",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b97,41,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681179",
-      "raw_text": "Auction ID :# 681179 Reserve Price : \u20b97,41,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 681179 Reserve Price : \u20b97,41,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681179",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b97,41,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681179",
-      "raw_text": "Auction ID :# 681179 Reserve Price : \u20b97,41,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Description of the Immovable Property: All ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b98,57,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Description of the Immovable Property: All that piece and parcel of property being Flat No... Auction ID :# 681175 Reserve Price : \u20b98,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Description of the Immovable Property: All ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b98,57,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Description of the Immovable Property: All that piece and parcel of property being Flat No... Auction ID :# 681175 Reserve Price : \u20b98,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Karjat, Raigad Description of the Immovable Property: All that piece and parcel of ",
-    "link": "https://www.eauctionsindia.com/properties/681175",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/681175",
-      "raw_text": "eAuction Flat in Karjat, Raigad Description of the Immovable Property: All that piece and parcel of property being Flat No...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 681175 Reserve Price : \u20b98,57,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681175",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b98,57,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681175",
-      "raw_text": "Auction ID :# 681175 Reserve Price : \u20b98,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 681175 Reserve Price : \u20b98,57,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681175",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b98,57,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681175",
-      "raw_text": "Auction ID :# 681175 Reserve Price : \u20b98,57,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Description of the Immovable Property: Prop",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b916,02,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Description of the Immovable Property: Property bearing Flat No. 302, area admeasuring abo... Auction ID :# 681162 Reserve Price : \u20b916,02,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Description of the Immovable Property: Prop",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b916,02,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Description of the Immovable Property: Property bearing Flat No. 302, area admeasuring abo... Auction ID :# 681162 Reserve Price : \u20b916,02,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Karjat, Raigad Description of the Immovable Property: Property bearing Flat No. 302",
-    "link": "https://www.eauctionsindia.com/properties/681162",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/681162",
-      "raw_text": "eAuction Flat in Karjat, Raigad Description of the Immovable Property: Property bearing Flat No. 302, area admeasuring abo...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 681162 Reserve Price : \u20b916,02,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681162",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b916,02,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681162",
-      "raw_text": "Auction ID :# 681162 Reserve Price : \u20b916,02,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 681162 Reserve Price : \u20b916,02,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681162",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b916,02,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681162",
-      "raw_text": "Auction ID :# 681162 Reserve Price : \u20b916,02,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b925,50,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of the property being Fla... Auction ID :# 681118 Reserve Price : \u20b925,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b925,50,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of the property being Fla... Auction ID :# 681118 Reserve Price : \u20b925,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of ",
-    "link": "https://www.eauctionsindia.com/properties/681118",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/681118",
-      "raw_text": "eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of the property being Fla...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 681118 Reserve Price : \u20b925,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681118",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b925,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681118",
-      "raw_text": "Auction ID :# 681118 Reserve Price : \u20b925,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 681118 Reserve Price : \u20b925,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681118",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b925,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681118",
-      "raw_text": "Auction ID :# 681118 Reserve Price : \u20b925,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b912,11,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of the property bearing F... Auction ID :# 681085 Reserve Price : \u20b912,11,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b912,11,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of the property bearing F... Auction ID :# 681085 Reserve Price : \u20b912,11,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of ",
-    "link": "https://www.eauctionsindia.com/properties/681085",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/681085",
-      "raw_text": "eAuction Flat in Panvel, Raigad Description of the Immovable Property: All that piece and parcel of the property bearing F...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 681085 Reserve Price : \u20b912,11,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681085",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b912,11,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681085",
-      "raw_text": "Auction ID :# 681085 Reserve Price : \u20b912,11,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 681085 Reserve Price : \u20b912,11,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/681085",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b912,11,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/681085",
-      "raw_text": "Auction ID :# 681085 Reserve Price : \u20b912,11,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/raigad"
     },
