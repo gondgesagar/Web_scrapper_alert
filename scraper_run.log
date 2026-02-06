@@ -1,7 +1,7 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET properties...
-BAANKNET: 10 properties fetched
+BAANKNET: 0 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Found 112 candidate card fragments by text-match
@@ -34,17 +34,17 @@ Scraping https://www.eauctionsindia.com/city/ratnagiri...
   Found 112 candidate card fragments by text-match
   Extracted 1111 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
-  Found 103 candidate card fragments by text-match
-  Extracted 1214 properties so far from https://www.eauctionsindia.com/city/raigad
+  Found 112 candidate card fragments by text-match
+  Extracted 1223 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 112 candidate card fragments by text-match
-  Extracted 1326 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1326
-eauctionsindia: 1326 properties fetched
-Processing stats: 1326 total items, 1326 new, -909 duplicates skipped
+  Extracted 1335 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1335
+eauctionsindia: 1335 properties fetched
+Processing stats: 1335 total items, 1335 new, -923 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 417 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 171/1326 items remain
-Saved 8 pincodes to cache.
-NEW_AUCTIONS_COUNT=171
-Wrote 1326 items to data/property_listings.json
+Saved state with 412 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 164/1335 items remain
+Saved 0 pincodes to cache.
+NEW_AUCTIONS_COUNT=164
+Wrote 1335 items to data/property_listings.json
