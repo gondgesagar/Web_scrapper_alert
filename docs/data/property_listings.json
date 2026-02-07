@@ -1,89 +1,6 @@
 [
   {
     "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "09-02-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "09-02-2026 09:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "07-02-2026 06:24:41"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "09-02-2026 09:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/07/248275/537076_compressed.jpg",
-    "raw": {
-      "propertyId": "248275",
-      "projectName": null,
-      "price": 3309120.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/07/248275/537076_compressed.jpg",
-      "postedOn": "07-02-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Indian Overseas Bank",
-      "summaryDesc": null,
-      "city": "Kalyan",
-      "cityID": "5451",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 506.0,
-      "builtupArea": 556.0,
-      "furnishedStatus": null,
-      "floorNo": 3,
-      "totalNoOfFloors": 18,
-      "facing": null,
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "421203",
-      "bankPropertyId": "IOBA0388anant",
-      "availablePhotosCount": 22,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat M-302, M Wing, Eviva Bldg, Palava Eviva K-T Urbano A,C,F Urbano I-T, Kalyan Shil Road, Dombivali East - 421203\r\nBoundaries\r\nN Internal Road\r\nS Garden\r\nE N Wing\r\nW L Wing",
-      "statename": "Maharashtra",
-      "districtname": "Thane",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "09-02-2026 05:30:00",
-      "auctionEndDateTime": "09-02-2026 09:30:00",
-      "emdStartDateTime": "07-02-2026 06:24:41",
-      "emdEndDateTime": "09-02-2026 09:30:00",
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null
-    },
-    "source": "baanknet",
-    "property_type": "Other"
-  },
-  {
-    "emd_cost": null,
     "details": "Equitable mortgage of All the Piece and parcel of RCC superstructure comprising a residential flat No F-102 on the first floor in Aditya Complex constructed on the land bearing House No. F/81,82, admeasuring an area of 93.5 Sq. Mtrs bearing City Survey No. F81 & 82, Sheet No.6, Block No.54, Zone No.29/1, Prabhag No.2 of mouza Kamptee, together with 17.74 percent undivided share in the said land and bounded as under :\r\nOn the East-House of Sheshman Oswal,On the West-Road,On the North-Canel & Lane,On the South-Road & Shashtri Munch.\r\nMortgager-Mrs.Pranali Satrughan Bagde",
     "important_dates": [
       {
@@ -178,6 +95,89 @@
   },
   {
     "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "09-02-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "09-02-2026 09:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "07-02-2026 06:24:41"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "09-02-2026 09:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/07/248275/537076_compressed.jpg",
+    "raw": {
+      "propertyId": "248275",
+      "projectName": null,
+      "price": 3309120.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/07/248275/537076_compressed.jpg",
+      "postedOn": "07-02-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Indian Overseas Bank",
+      "summaryDesc": null,
+      "city": "Kalyan",
+      "cityID": "5451",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 506.0,
+      "builtupArea": 556.0,
+      "furnishedStatus": null,
+      "floorNo": 3,
+      "totalNoOfFloors": 18,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "421203",
+      "bankPropertyId": "IOBA0388anant",
+      "availablePhotosCount": 22,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat M-302, M Wing, Eviva Bldg, Palava Eviva K-T Urbano A,C,F Urbano I-T, Kalyan Shil Road, Dombivali East - 421203\r\nBoundaries\r\nN Internal Road\r\nS Garden\r\nE N Wing\r\nW L Wing",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "09-02-2026 05:30:00",
+      "auctionEndDateTime": "09-02-2026 09:30:00",
+      "emdStartDateTime": "07-02-2026 06:24:41",
+      "emdEndDateTime": "09-02-2026 09:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
     "details": "One BHK Rowhouse, at Chikhalthana",
     "important_dates": [
       {
@@ -269,7 +269,7 @@
   },
   {
     "emd_cost": null,
-    "details": "Flat No.101 , 1st Floor, Ganesh Krupa,Plot No 37 ,Sector-3 ,Ulwe ,Taluka Panvel,Dist Raigad-410206",
+    "details": "Flat No 211, 2nd Floor, A-Wing, Royal Grandeur, Survey no.126 A, Hissa5-A, Survey No.189-A, Hissa No.3, Survey no.189 A, Hissa No. 5A & survey No 189C, At Pen Ramwadi, Tal-Pen, Dist.-Raigad, Maharashtra, Pin-402107",
     "important_dates": [
       {
         "key": "isAuctioncreated",
@@ -285,7 +285,7 @@
       },
       {
         "key": "emdStartDateTime",
-        "value": "07-02-2026 10:37:47"
+        "value": "07-02-2026 10:38:12"
       },
       {
         "key": "emdEndDateTime",
@@ -293,39 +293,122 @@
       }
     ],
     "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/05/273240/535927_compressed.jpg",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/07/273232/537320_compressed.jpg",
     "raw": {
-      "propertyId": "273240",
+      "propertyId": "273232",
       "projectName": null,
-      "price": 3159000.0,
+      "price": 2157000.0,
       "pricePerSeqFit": null,
       "propertySubTypeId": "1",
       "propertySubType": "Flat",
       "propertyStatus": null,
       "typeOfAsset": "Immovable",
       "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/05/273240/535927_compressed.jpg",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/07/273232/537320_compressed.jpg",
       "postedOn": "07-02-2026",
       "developerName": null,
       "owenershipType": "Freehold",
       "bankName": "Central Bank of India",
-      "summaryDesc": "Flat No.101 , 1st Floor, Ganesh Krupa,Plot No 37 ,Sector-3 ,Ulwe ,Taluka Panvel,Dist Raigad-410206",
-      "city": "Chowk",
-      "cityID": "5307",
+      "summaryDesc": "Flat No 211, 2nd Floor, A-Wing, Royal Grandeur, Survey no.126 A, Hissa5-A, Survey No.189-A, Hissa No.3, Survey no.189 A, Hissa No. 5A & survey No 189C, At Pen Ramwadi, Tal-Pen, Dist.-Raigad, Maharashtra, Pin-402107",
+      "city": "Dadar",
+      "cityID": "5308",
       "stateID": 21,
       "localities": null,
       "noOfBedRoom": null,
-      "carpetArea": 351.0,
+      "carpetArea": 39.0,
       "builtupArea": null,
       "furnishedStatus": null,
       "floorNo": null,
       "totalNoOfFloors": null,
-      "facing": "South-East",
+      "facing": "North-East",
       "amenities": null,
       "isAuctioncreated": true,
       "coordinate": null,
-      "pincode": "410206",
-      "bankPropertyId": "CBINTROCBD111",
+      "pincode": "402107",
+      "bankPropertyId": "CBINTROPEN111",
+      "availablePhotosCount": 22,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No 211, 2nd Floor, A-Wing, Royal Grandeur, Survey no.126 A, Hissa5-A, Survey No.189-A, Hissa No.3, Survey no.189 A, Hissa No. 5A & survey No 189C, At Pen Ramwadi, Tal-Pen, Dist.-Raigad, Maharashtra, Pin-402107",
+      "statename": "Maharashtra",
+      "districtname": "Raigad",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "26-02-2026 04:30:00",
+      "auctionEndDateTime": "26-02-2026 12:30:00",
+      "emdStartDateTime": "07-02-2026 10:38:12",
+      "emdEndDateTime": "26-02-2026 11:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No. 202, 2nd floor, Shree Satyanarayan Residency, Phase -3, Survey No 139A/5/1,139K/1 &139K/2, Plot No.2, Near Carmel High School, Pen, Taluka-Pen, Dist-Raigad, Maharashtra, PIN-402107",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "26-02-2026 04:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "26-02-2026 12:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "07-02-2026 10:37:38"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "26-02-2026 11:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/07/273234/537305_compressed.jpg",
+    "raw": {
+      "propertyId": "273234",
+      "projectName": null,
+      "price": 2991000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/07/273234/537305_compressed.jpg",
+      "postedOn": "07-02-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Central Bank of India",
+      "summaryDesc": "Flat No. 202, 2nd floor, Shree Satyanarayan Residency, Phase -3, Survey No 139A/5/1,139K/1 &139K/2, Plot No.2, Near Carmel High School, Pen, Taluka-Pen, Dist-Raigad, Maharashtra, PIN-402107",
+      "city": "Dadar",
+      "cityID": "5308",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 570.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "South-West",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "402107",
+      "bankPropertyId": "CBINTROPEN112",
       "availablePhotosCount": 15,
       "isPhotosAvailable": true,
       "unitOfMeasureId": "1",
@@ -334,14 +417,14 @@
       "isLoanAvailable": null,
       "typeOfAction": "1",
       "isPPVCRequest": true,
-      "address": "Flat No.101 , 1st Floor, Ganesh Krupa,Plot No 37 ,Sector-3 ,Ulwe ,Taluka Panvel,Dist Raigad-410206",
+      "address": "Flat No. 202, 2nd floor, Shree Satyanarayan Residency, Phase -3, Survey No 139A/5/1,139K/1 &139K/2, Plot No.2, Near Carmel High School, Pen, Taluka-Pen, Dist-Raigad, Maharashtra, PIN-402107",
       "statename": "Maharashtra",
       "districtname": "Raigad",
       "inspectionStartDateTime": null,
       "inspectionEndDateTime": null,
       "auctionStartDateTime": "26-02-2026 04:30:00",
       "auctionEndDateTime": "26-02-2026 12:30:00",
-      "emdStartDateTime": "07-02-2026 10:37:47",
+      "emdStartDateTime": "07-02-2026 10:37:38",
       "emdEndDateTime": "26-02-2026 11:30:00",
       "drtlocation": null,
       "roname": null,
@@ -6494,7 +6577,7 @@
       "price": "Reserve Price : \u20b923,48,000.00",
       "auction_date": "25-02-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-02-2026 11:00 AM eAuction Flat in Latur-, Latur All the part and parcel of property Consisting Flat No. 11, 3rd Floor, House No. 611, S. N... Auction ID :# 687904 Reserve Price : \u20b923,48,000.00 View More Land 20-02-2026 11:30 AM eAuction Land in Latur-, Latur Details of Secured Assets: All th",
+      "raw_text": "Flat 25-02-2026 11:00 AM eAuction Flat in Latur-, Latur All the part and parcel of property Consisting Flat No. 11, 3rd Floor, House No. 611, S. N... Auction ID :# 687904 Reserve Price : \u20b923,48,000.00 View More Flat 24-02-2026 11:00 AM eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, S",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -6517,7 +6600,7 @@
       "price": "Reserve Price : \u20b923,48,000.00",
       "auction_date": "25-02-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-02-2026 11:00 AM eAuction Flat in Latur-, Latur All the part and parcel of property Consisting Flat No. 11, 3rd Floor, House No. 611, S. N... Auction ID :# 687904 Reserve Price : \u20b923,48,000.00 View More Land 20-02-2026 11:30 AM eAuction Land in Latur-, Latur Details of Secured Assets: All th",
+      "raw_text": "Flat 25-02-2026 11:00 AM eAuction Flat in Latur-, Latur All the part and parcel of property Consisting Flat No. 11, 3rd Floor, House No. 611, S. N... Auction ID :# 687904 Reserve Price : \u20b923,48,000.00 View More Flat 24-02-2026 11:00 AM eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, S",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -6540,7 +6623,7 @@
       "price": "Reserve Price : \u20b923,48,000.00",
       "auction_date": "25-02-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-02-2026 11:00 AM eAuction Flat in Latur-, Latur All the part and parcel of property Consisting Flat No. 11, 3rd Floor, House No. 611, S. N... Auction ID :# 687904 Reserve Price : \u20b923,48,000.00 View More Land 20-02-2026 11:30 AM eAuction Land in Latur-, Latur Details of Secured Assets: All th",
+      "raw_text": "Flat 25-02-2026 11:00 AM eAuction Flat in Latur-, Latur All the part and parcel of property Consisting Flat No. 11, 3rd Floor, House No. 611, S. N... Auction ID :# 687904 Reserve Price : \u20b923,48,000.00 View More Flat 24-02-2026 11:00 AM eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, S",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -6563,7 +6646,7 @@
       "price": "Reserve Price : \u20b923,48,000.00",
       "auction_date": "25-02-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-02-2026 11:00 AM eAuction Flat in Latur-, Latur All the part and parcel of property Consisting Flat No. 11, 3rd Floor, House No. 611, S. N... Auction ID :# 687904 Reserve Price : \u20b923,48,000.00 View More Land 20-02-2026 11:30 AM eAuction Land in Latur-, Latur Details of Secured Assets: All th",
+      "raw_text": "Flat 25-02-2026 11:00 AM eAuction Flat in Latur-, Latur All the part and parcel of property Consisting Flat No. 11, 3rd Floor, House No. 611, S. N... Auction ID :# 687904 Reserve Price : \u20b923,48,000.00 View More Flat 24-02-2026 11:00 AM eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, S",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -6660,6 +6743,199 @@
       "price": "Reserve Price : \u20b923,48,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/687904",
       "raw_text": "Auction ID :# 687904 Reserve Price : \u20b923,48,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 24-02-2026 11:00 AM eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, Sankalp Apar",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Flat No. 203, On First Floor, Sankalp Apartment, Adm, Super Built Up Area 81.75 Sq.mtr. On...",
+      "auction_date": "24-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 24-02-2026 11:00 AM eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, Sankalp Apartment, Adm, Super Built Up Area 81.75 Sq.mtr. On... Auction ID :# 689838 Reserve Price : \u20b928,01,700.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 24-02-2026 11:00 AM eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, Sankalp Apar",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Flat No. 203, On First Floor, Sankalp Apartment, Adm, Super Built Up Area 81.75 Sq.mtr. On...",
+      "auction_date": "24-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 24-02-2026 11:00 AM eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, Sankalp Apartment, Adm, Super Built Up Area 81.75 Sq.mtr. On... Auction ID :# 689838 Reserve Price : \u20b928,01,700.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, Sankalp Apartment, Adm, Super Built U",
+    "link": "https://www.eauctionsindia.com/properties/689838",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Flat No. 203, On First Floor, Sankalp Apartment, Adm, Super Built Up Area 81.75 Sq.mtr. On...",
+      "property_url": "https://www.eauctionsindia.com/properties/689838",
+      "raw_text": "eAuction Flat in Harangul, Latur Flat No. 203, On First Floor, Sankalp Apartment, Adm, Super Built Up Area 81.75 Sq.mtr. On...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 689838 Reserve Price : \u20b928,01,700.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/689838",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b928,01,700.00",
+      "property_url": "https://www.eauctionsindia.com/properties/689838",
+      "raw_text": "Auction ID :# 689838 Reserve Price : \u20b928,01,700.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 689838 Reserve Price : \u20b928,01,700.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/689838",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b928,01,700.00",
+      "property_url": "https://www.eauctionsindia.com/properties/689838",
+      "raw_text": "Auction ID :# 689838 Reserve Price : \u20b928,01,700.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Other"
+  },
+  {
+    "details": "House 24-02-2026 11:00 AM eAuction House in Aarvi, Latur All piece and parcel of Residential house a",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,05,000.00",
+      "auction_date": "24-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "House 24-02-2026 11:00 AM eAuction House in Aarvi, Latur All piece and parcel of Residential house at-East portion of Plot no. 2, Gat no. 73, Surve... Auction ID :# 689840 Reserve Price : \u20b923,05,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Residential"
+  },
+  {
+    "details": "House 24-02-2026 11:00 AM eAuction House in Aarvi, Latur All piece and parcel of Residential house a",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-02-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,05,000.00",
+      "auction_date": "24-02-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "House 24-02-2026 11:00 AM eAuction House in Aarvi, Latur All piece and parcel of Residential house at-East portion of Plot no. 2, Gat no. 73, Surve... Auction ID :# 689840 Reserve Price : \u20b923,05,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Residential"
+  },
+  {
+    "details": "eAuction House in Aarvi, Latur All piece and parcel of Residential house at-East portion of Plot no.",
+    "link": "https://www.eauctionsindia.com/properties/689840",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/689840",
+      "raw_text": "eAuction House in Aarvi, Latur All piece and parcel of Residential house at-East portion of Plot no. 2, Gat no. 73, Surve...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Auction ID :# 689840 Reserve Price : \u20b923,05,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/689840",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,05,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/689840",
+      "raw_text": "Auction ID :# 689840 Reserve Price : \u20b923,05,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/latur"
+    },
+    "source": "eauctionsindia",
+    "city": "Latur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 689840 Reserve Price : \u20b923,05,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/689840",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,05,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/689840",
+      "raw_text": "Auction ID :# 689840 Reserve Price : \u20b923,05,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -7436,102 +7712,6 @@
     "property_type": "Other"
   },
   {
-    "details": "Commercial Property 13-02-2026 12:00 PM eAuction Commercial Property in Khandapur., Latur Property 6",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "13-02-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,74,50,000.00",
-      "auction_date": "13-02-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Property 13-02-2026 12:00 PM eAuction Commercial Property in Khandapur., Latur Property 6: Commercial N.A plot No.01 and plot No. 02 out of Gat No: 195 (part) G. P. No:... Auction ID :# 678673 Reserve Price : \u20b92,74,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Commercial Property 13-02-2026 12:00 PM eAuction Commercial Property in Khandapur., Latur Property 6",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "13-02-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,74,50,000.00",
-      "auction_date": "13-02-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Property 13-02-2026 12:00 PM eAuction Commercial Property in Khandapur., Latur Property 6: Commercial N.A plot No.01 and plot No. 02 out of Gat No: 195 (part) G. P. No:... Auction ID :# 678673 Reserve Price : \u20b92,74,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "eAuction Commercial Property in Khandapur., Latur Property 6: Commercial N.A plot No.01 and plot No.",
-    "link": "https://www.eauctionsindia.com/properties/678673",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/678673",
-      "raw_text": "eAuction Commercial Property in Khandapur., Latur Property 6: Commercial N.A plot No.01 and plot No. 02 out of Gat No: 195 (part) G. P. No:...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 678673 Reserve Price : \u20b92,74,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/678673",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,74,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/678673",
-      "raw_text": "Auction ID :# 678673 Reserve Price : \u20b92,74,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 678673 Reserve Price : \u20b92,74,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/678673",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b92,74,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/678673",
-      "raw_text": "Auction ID :# 678673 Reserve Price : \u20b92,74,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
     "details": "House 13-02-2026 12:00 PM eAuction House in Khandapur., Latur P1: All that part and parcels of resid",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -7620,102 +7800,6 @@
       "price": "Reserve Price : \u20b923,16,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/678655",
       "raw_text": "Auction ID :# 678655 Reserve Price : \u20b923,16,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "House 13-02-2026 12:00 PM eAuction House in Khandapur., Latur P2: All that part and parcels of resid",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "13-02-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b917,23,000.00",
-      "auction_date": "13-02-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "House 13-02-2026 12:00 PM eAuction House in Khandapur., Latur P2: All that part and parcels of residential house No. 345, Plot No. 03, Gat No. 8/1, &quo... Auction ID :# 678666 Reserve Price : \u20b917,23,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "House 13-02-2026 12:00 PM eAuction House in Khandapur., Latur P2: All that part and parcels of resid",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "13-02-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b917,23,000.00",
-      "auction_date": "13-02-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "House 13-02-2026 12:00 PM eAuction House in Khandapur., Latur P2: All that part and parcels of residential house No. 345, Plot No. 03, Gat No. 8/1, &quo... Auction ID :# 678666 Reserve Price : \u20b917,23,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "eAuction House in Khandapur., Latur P2: All that part and parcels of residential house No. 345, Plot",
-    "link": "https://www.eauctionsindia.com/properties/678666",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/678666",
-      "raw_text": "eAuction House in Khandapur., Latur P2: All that part and parcels of residential house No. 345, Plot No. 03, Gat No. 8/1, &quo...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 678666 Reserve Price : \u20b917,23,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/678666",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b917,23,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/678666",
-      "raw_text": "Auction ID :# 678666 Reserve Price : \u20b917,23,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 678666 Reserve Price : \u20b917,23,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/678666",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b917,23,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/678666",
-      "raw_text": "Auction ID :# 678666 Reserve Price : \u20b917,23,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -22102,6 +22186,102 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 10-03-2026 10:00 AM eAuction Flat in Kalamboli., Raigad Property Address: Flat No. 1103, 11th F",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10-03-2026 10:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b936,36,900.00",
+      "auction_date": "10-03-2026 10:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 10-03-2026 10:00 AM eAuction Flat in Kalamboli., Raigad Property Address: Flat No. 1103, 11th Floor, Building No. L-05, Hansdhwani Gruhsankul, Mas... Auction ID :# 690189 Reserve Price : \u20b936,36,900.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 10-03-2026 10:00 AM eAuction Flat in Kalamboli., Raigad Property Address: Flat No. 1103, 11th F",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10-03-2026 10:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b936,36,900.00",
+      "auction_date": "10-03-2026 10:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 10-03-2026 10:00 AM eAuction Flat in Kalamboli., Raigad Property Address: Flat No. 1103, 11th Floor, Building No. L-05, Hansdhwani Gruhsankul, Mas... Auction ID :# 690189 Reserve Price : \u20b936,36,900.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Kalamboli., Raigad Property Address: Flat No. 1103, 11th Floor, Building No. L-05, ",
+    "link": "https://www.eauctionsindia.com/properties/690189",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/690189",
+      "raw_text": "eAuction Flat in Kalamboli., Raigad Property Address: Flat No. 1103, 11th Floor, Building No. L-05, Hansdhwani Gruhsankul, Mas...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 690189 Reserve Price : \u20b936,36,900.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/690189",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b936,36,900.00",
+      "property_url": "https://www.eauctionsindia.com/properties/690189",
+      "raw_text": "Auction ID :# 690189 Reserve Price : \u20b936,36,900.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 690189 Reserve Price : \u20b936,36,900.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/690189",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b936,36,900.00",
+      "property_url": "https://www.eauctionsindia.com/properties/690189",
+      "raw_text": "Auction ID :# 690189 Reserve Price : \u20b936,36,900.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
     "details": "Flat 07-03-2026 11:30 AM eAuction Flat in Panvel, Raigad All that piece and parcel of the Residentia",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -22286,102 +22466,6 @@
       "price": "Reserve Price : \u20b921,22,875.00",
       "property_url": "https://www.eauctionsindia.com/properties/682894",
       "raw_text": "Auction ID :# 682894 Reserve Price : \u20b921,22,875.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Flat No.301, admeasuing 295 sq. ft\u00a0carpet a",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,00,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Flat No.301, admeasuing 295 sq. ft\u00a0carpet area, situated on the Third Floor at Buildi... Auction ID :# 682215 Reserve Price : \u20b910,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Flat No.301, admeasuing 295 sq. ft\u00a0carpet a",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,00,000.00",
-      "auction_date": "06-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-03-2026 11:00 AM eAuction Flat in Karjat, Raigad Flat No.301, admeasuing 295 sq. ft\u00a0carpet area, situated on the Third Floor at Buildi... Auction ID :# 682215 Reserve Price : \u20b910,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Karjat, Raigad Flat No.301, admeasuing 295 sq. ft\u00a0carpet area, situated on the Thir",
-    "link": "https://www.eauctionsindia.com/properties/682215",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/682215",
-      "raw_text": "eAuction Flat in Karjat, Raigad Flat No.301, admeasuing 295 sq. ft\u00a0carpet area, situated on the Third Floor at Buildi...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 682215 Reserve Price : \u20b910,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/682215",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/682215",
-      "raw_text": "Auction ID :# 682215 Reserve Price : \u20b910,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 682215 Reserve Price : \u20b910,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/682215",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b910,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/682215",
-      "raw_text": "Auction ID :# 682215 Reserve Price : \u20b910,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/raigad"
     },
