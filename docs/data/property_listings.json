@@ -75,9 +75,9 @@
       "auctionEndDateTime": "27-02-2026 09:30:00",
       "emdStartDateTime": "09-02-2026 05:15:34",
       "emdEndDateTime": "27-02-2026 09:00:00",
-      "noOfCarParking": null,
       "drtlocation": null,
-      "roname": null
+      "roname": null,
+      "noOfCarParking": null
     },
     "source": "baanknet",
     "property_type": "Plot"
@@ -166,9 +166,9 @@
       "auctionEndDateTime": "10-02-2026 11:30:00",
       "emdStartDateTime": "09-02-2026 08:14:41",
       "emdEndDateTime": "10-02-2026 10:30:00",
-      "noOfCarParking": null,
       "drtlocation": null,
-      "roname": null
+      "roname": null,
+      "noOfCarParking": null
     },
     "source": "baanknet",
     "property_type": "Flat"
@@ -249,9 +249,9 @@
       "auctionEndDateTime": "27-02-2026 11:30:00",
       "emdStartDateTime": "09-02-2026 08:04:59",
       "emdEndDateTime": "27-02-2026 11:30:00",
-      "noOfCarParking": null,
       "drtlocation": null,
-      "roname": null
+      "roname": null,
+      "noOfCarParking": null
     },
     "source": "baanknet",
     "property_type": "Flat"
