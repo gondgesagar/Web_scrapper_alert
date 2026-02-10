@@ -41,9 +41,9 @@ Scraping https://www.eauctionsindia.com/city/pune...
   Extracted 1335 properties so far from https://www.eauctionsindia.com/city/pune
 Total eauctionsindia properties fetched: 1335
 eauctionsindia: 1335 properties fetched
-Processing stats: 1335 total items, 1335 new, -919 duplicates skipped
+Processing stats: 1335 total items, 1335 new, -920 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 416 total tracked items to .state/state.json
+Saved state with 415 total tracked items to .state/state.json
 Applied property-types filter: plots, land, farm hous, bunglow — 220/1335 items remain
 Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=220
