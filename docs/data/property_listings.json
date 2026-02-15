@@ -182,6 +182,97 @@
     "property_type": "Flat"
   },
   {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "21-02-2026 04:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "21-02-2026 08:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "11-03-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "11-03-2026 12:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "13-02-2026 11:54:06"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "11-03-2026 11:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/13/275115/541267_compressed.jpg",
+    "raw": {
+      "propertyId": "275115",
+      "projectName": null,
+      "price": 3670625.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "2",
+      "propertySubType": "Individual House",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/13/275115/541267_compressed.jpg",
+      "postedOn": "13-02-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Central Bank of India",
+      "summaryDesc": null,
+      "city": "Bhusawal",
+      "cityID": "5037",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 83.35,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "425201",
+      "bankPropertyId": "CBINBHU05",
+      "availablePhotosCount": 13,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "S NO.16/1 PLOT NO.1 NORTH WEST CORNER PART  KHADKA ROAD MAUJE KHADKA TAL.BHUSAWAL DIST.JALGAON-425201\r\nBOUNDARIES-\r\nEAST-REMAINING PART OF SAME PLOT\r\nWEST-PLOT NO.2&3\r\nNORTH-15MTR ROAD\r\nSOUTH-REMAINING PART OF SAME PLOT",
+      "statename": "Maharashtra",
+      "districtname": "Jalgaon",
+      "inspectionStartDateTime": "21-02-2026 04:30:00",
+      "inspectionEndDateTime": "21-02-2026 08:30:00",
+      "auctionStartDateTime": "11-03-2026 05:30:00",
+      "auctionEndDateTime": "11-03-2026 12:30:00",
+      "emdStartDateTime": "13-02-2026 11:54:06",
+      "emdEndDateTime": "11-03-2026 11:30:00",
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
     "details": "Land And Building 06-03-2026 11:00 AM eAuction Land And Building in Kalher, Bhiwandi Description of ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -11850,16 +11941,196 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "Keep on reading YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme in",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservati",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservati",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservati",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservati",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservati",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservati",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservati",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservati",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "YEIDA 973 Residential Plots Near Noida International Airport",
+    "link": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "YEIDA 973 Residential Plots Near Noida International Airport",
+      "price": "The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservations for farmers",
+      "property_url": "https://www.eauctionsindia.com/blog-details/yeida-offers-residential-plots-near-noida-international-airport",
+      "raw_text": "YEIDA 973 Residential Plots Near Noida International Airport The Yamuna Expressway Industrial Development Authority (YEIDA) will launch a residential plot scheme in January 2026, offering 973 plots near the Noida International Airport, expected to open in February 2026. The scheme includes reservati",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Plot"
+  },
+  {
+    "details": "Pune MHADA eAuction 2026 \u2013 Extension Notice & Updated Schedule",
+    "link": "https://www.eauctionsindia.com/blog-details/pune-mhada-eauction-2025-extension-notice-updated-schedule",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Pune MHADA eAuction 2026 \u2013 Extension Notice & Updated Schedule",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "Keep on reading How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
+      "property_url": "https://www.eauctionsindia.com/blog-details/pune-mhada-eauction-2025-extension-notice-updated-schedule",
+      "raw_text": "Pune MHADA eAuction 2026 \u2013 Extension Notice & Updated Schedule eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay infor",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -11868,16 +12139,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "GDA Housing Scheme 2026",
+    "link": "https://www.eauctionsindia.com/blog-details/gda-housing-scheme-2025-registration-property-search-auction-details",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "GDA Housing Scheme 2026",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_url": "https://www.eauctionsindia.com/blog-details/gda-housing-scheme-2025-registration-property-search-auction-details",
+      "raw_text": "GDA Housing Scheme 2026 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with t",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -11886,16 +12157,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
+    "link": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_url": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
+      "raw_text": "SEBI E-Auction 2026: Multiple Properties Up for Bidding eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -11904,16 +12175,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
+    "link": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_url": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
+      "raw_text": "SEBI E-Auction 2026: Multiple Properties Up for Bidding eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -11922,16 +12193,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
+    "link": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_url": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
+      "raw_text": "SEBI E-Auction 2026: Multiple Properties Up for Bidding eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -11940,16 +12211,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
+    "link": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_url": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
+      "raw_text": "SEBI E-Auction 2026: Multiple Properties Up for Bidding eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -11958,16 +12229,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
+    "link": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_url": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
+      "raw_text": "SEBI E-Auction 2026: Multiple Properties Up for Bidding eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -11976,16 +12247,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
+    "link": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_url": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
+      "raw_text": "SEBI E-Auction 2026: Multiple Properties Up for Bidding eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -11994,16 +12265,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
+    "link": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_url": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
+      "raw_text": "SEBI E-Auction 2026: Multiple Properties Up for Bidding eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12012,16 +12283,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
+    "link": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "SEBI E-Auction 2026: Multiple Properties Up for Bidding",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_url": "https://www.eauctionsindia.com/blog-details/sebi-e-auction-2025-multiple-properties-up-for-bidding",
+      "raw_text": "SEBI E-Auction 2026: Multiple Properties Up for Bidding eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12030,196 +12301,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Residential"
-  },
-  {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Residential"
-  },
-  {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Residential"
-  },
-  {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Residential"
-  },
-  {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Residential"
-  },
-  {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Residential"
-  },
-  {
-    "details": "Haryana Housing Board Launches Residential Property E-Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Haryana Housing Board Launches Residential Property E-Auction",
-      "price": "Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/haryana-housing-board-launches-residential-property-e-auction",
-      "raw_text": "Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) announces e-auction of residential properties in various cities like Panipat, Kurukshetra, Gurugram, Hisar, and others. Know property locations, eligibility, and payment terms. Eauctions India Undo Vasai RTO E-",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Residential"
-  },
-  {
-    "details": "Vasai RTO E-Auction of Vehicles",
-    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "Vasai RTO E-Auction of Vehicles",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
-      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12228,16 +12319,142 @@
     "property_type": "Commercial"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+    "link": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh!",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/mhada-pune-division-to-e-auction-81-commercial-properties-in-pune-solapur-sangli-apply-by-15-july",
+      "raw_text": "MHADA Pune Lottery 2025: Own a Home in Pune for Just \u20b928 Lakh \u2014 Save Up to \u20b960 Lakh! eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform en",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "BDA to Auction 164 Sites in October 2025",
+    "link": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "BDA to Auction 164 Sites in October 2025",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bda-to-auction-122-sites-in-october-2025",
+      "raw_text": "BDA to Auction 164 Sites in October 2025 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opp",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12246,16 +12463,34 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "Kanpur Development Authority (KDA) Flat Scheme",
+    "link": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "Kanpur Development Authority (KDA) Flat Scheme",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/kanpur-development-authority-kda-flat-scheme",
+      "raw_text": "Kanpur Development Authority (KDA) Flat Scheme eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key aucti",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
+    "link": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
+      "raw_text": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay in",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12264,16 +12499,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
+    "link": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
+      "raw_text": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay in",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12282,16 +12517,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
+    "link": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
+      "raw_text": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay in",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12300,16 +12535,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
+    "link": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
+      "raw_text": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay in",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12318,16 +12553,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
+    "link": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
+      "raw_text": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay in",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12336,16 +12571,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
+    "link": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
+      "raw_text": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay in",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12354,16 +12589,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
+    "link": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
+      "raw_text": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay in",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12372,16 +12607,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+    "details": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
+    "link": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+      "property_name": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
-      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
+      "property_url": "https://www.eauctionsindia.com/blog-details/pmrda-lottery",
+      "raw_text": "PMRDA Lottery 2026 Launched Big Opportunity to Own a Home in Pune eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay in",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -12390,160 +12625,142 @@
     "property_type": "Other"
   },
   {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
+    "details": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
+    "link": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
+      "property_name": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
+      "property_url": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
+      "raw_text": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana The Haryana Shahari Vikas Pradhikaran (HSVP) has announced a massive e-auction featuring 200+ premium properties across Gurugram, Faridabad, Panchkula, Rohtak, and Hisar. Scheduled on November 4 and 6, 2025, the auction includes h",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
     "source": "eauctionsindia",
     "city": "Sindhudurg",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
+    "details": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
+    "link": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
+      "property_name": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
+      "property_url": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
+      "raw_text": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana The Haryana Shahari Vikas Pradhikaran (HSVP) has announced a massive e-auction featuring 200+ premium properties across Gurugram, Faridabad, Panchkula, Rohtak, and Hisar. Scheduled on November 4 and 6, 2025, the auction includes h",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
     "source": "eauctionsindia",
     "city": "Sindhudurg",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
+    "details": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
+    "link": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
+      "property_name": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
+      "property_url": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
+      "raw_text": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana The Haryana Shahari Vikas Pradhikaran (HSVP) has announced a massive e-auction featuring 200+ premium properties across Gurugram, Faridabad, Panchkula, Rohtak, and Hisar. Scheduled on November 4 and 6, 2025, the auction includes h",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
     "source": "eauctionsindia",
     "city": "Sindhudurg",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
+    "details": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
+    "link": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
+      "property_name": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
+      "property_url": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
+      "raw_text": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana The Haryana Shahari Vikas Pradhikaran (HSVP) has announced a massive e-auction featuring 200+ premium properties across Gurugram, Faridabad, Panchkula, Rohtak, and Hisar. Scheduled on November 4 and 6, 2025, the auction includes h",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
     "source": "eauctionsindia",
     "city": "Sindhudurg",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
+    "details": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
+    "link": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
+      "property_name": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
+      "property_url": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
+      "raw_text": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana The Haryana Shahari Vikas Pradhikaran (HSVP) has announced a massive e-auction featuring 200+ premium properties across Gurugram, Faridabad, Panchkula, Rohtak, and Hisar. Scheduled on November 4 and 6, 2025, the auction includes h",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
     "source": "eauctionsindia",
     "city": "Sindhudurg",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
+    "details": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
+    "link": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
+      "property_name": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
+      "property_url": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
+      "raw_text": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana The Haryana Shahari Vikas Pradhikaran (HSVP) has announced a massive e-auction featuring 200+ premium properties across Gurugram, Faridabad, Panchkula, Rohtak, and Hisar. Scheduled on November 4 and 6, 2025, the auction includes h",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
     "source": "eauctionsindia",
     "city": "Sindhudurg",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
+    "details": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
+    "link": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
+      "property_name": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
+      "property_url": "https://www.eauctionsindia.com/blog-details/hsvp-massive-e-auction-over-200-prime-properties-across-haryana",
+      "raw_text": "HUDA/HSVP Massive E-Auction: Over 200 Prime Properties Across Haryana The Haryana Shahari Vikas Pradhikaran (HSVP) has announced a massive e-auction featuring 200+ premium properties across Gurugram, Faridabad, Panchkula, Rohtak, and Hisar. Scheduled on November 4 and 6, 2025, the auction includes h",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
     "source": "eauctionsindia",
     "city": "Sindhudurg",
-    "property_type": "Plot"
+    "property_type": "Other"
   },
   {
-    "details": "Telangana Housing Board Auctioning Hyderabad Plots",
-    "link": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
+    "details": "Hassan Urban Development Authority eAuction",
+    "link": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Telangana Housing Board Auctioning Hyderabad Plots",
+      "property_name": "Hassan Urban Development Authority eAuction",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/open-auction-on-june-11-housing-board-to-sell-prime-residential-and-commercial-plots-in-kphb",
-      "raw_text": "Telangana Housing Board Auctioning Hyderabad Plots eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key a",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Plot"
-  },
-  {
-    "details": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "How to Buy Seized Bikes from Banks: A Comprehensive Guide",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-seized-bikes-from-banks-a-comprehensive-guide",
-      "raw_text": "How to Buy Seized Bikes from Banks: A Comprehensive Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed o",
+      "property_url": "https://www.eauctionsindia.com/blog-details/hassan-urban-development-authority-eauction",
+      "raw_text": "Hassan Urban Development Authority eAuction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },

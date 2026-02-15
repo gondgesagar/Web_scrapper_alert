@@ -19,32 +19,32 @@ Scraping https://www.eauctionsindia.com/city/mumbai...
   Found 109 candidate card fragments by text-match
   Extracted 548 properties so far from https://www.eauctionsindia.com/city/mumbai
 Scraping https://www.eauctionsindia.com/city/sindhudurg...
-  Found 112 candidate card fragments by text-match
-  Extracted 660 properties so far from https://www.eauctionsindia.com/city/sindhudurg
+  Found 119 candidate card fragments by text-match
+  Extracted 667 properties so far from https://www.eauctionsindia.com/city/sindhudurg
 Scraping https://www.eauctionsindia.com/city/solapur...
   Found 112 candidate card fragments by text-match
-  Extracted 772 properties so far from https://www.eauctionsindia.com/city/solapur
+  Extracted 779 properties so far from https://www.eauctionsindia.com/city/solapur
 Scraping https://www.eauctionsindia.com/city/thane...
   Found 112 candidate card fragments by text-match
-  Extracted 884 properties so far from https://www.eauctionsindia.com/city/thane
+  Extracted 891 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
   Found 112 candidate card fragments by text-match
-  Extracted 996 properties so far from https://www.eauctionsindia.com/city/satara
+  Extracted 1003 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
   Found 112 candidate card fragments by text-match
-  Extracted 1108 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Extracted 1115 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
   Found 112 candidate card fragments by text-match
-  Extracted 1220 properties so far from https://www.eauctionsindia.com/city/raigad
+  Extracted 1227 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 112 candidate card fragments by text-match
-  Extracted 1332 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1332
-eauctionsindia: 1332 properties fetched
-Processing stats: 1334 total items, 1334 new, -920 duplicates skipped
+  Extracted 1339 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1339
+eauctionsindia: 1339 properties fetched
+Processing stats: 1342 total items, 1342 new, -917 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 414 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 226/1334 items remain
-Saved 8 pincodes to cache.
-NEW_AUCTIONS_COUNT=226
-Wrote 1334 items to data/property_listings.json
+Saved state with 425 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 228/1342 items remain
+Saved 7 pincodes to cache.
+NEW_AUCTIONS_COUNT=228
+Wrote 1342 items to data/property_listings.json
