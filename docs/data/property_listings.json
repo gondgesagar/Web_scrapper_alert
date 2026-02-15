@@ -1,5 +1,187 @@
 [
   {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "21-02-2026 04:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "21-02-2026 08:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "11-03-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "11-03-2026 12:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "13-02-2026 11:54:06"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "11-03-2026 11:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/13/275115/541267_compressed.jpg",
+    "raw": {
+      "propertyId": "275115",
+      "projectName": null,
+      "price": 3670625.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "2",
+      "propertySubType": "Individual House",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/13/275115/541267_compressed.jpg",
+      "postedOn": "13-02-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Central Bank of India",
+      "summaryDesc": null,
+      "city": "Bhusawal",
+      "cityID": "5037",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 83.35,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "425201",
+      "bankPropertyId": "CBINBHU05",
+      "availablePhotosCount": 13,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "S NO.16/1 PLOT NO.1 NORTH WEST CORNER PART  KHADKA ROAD MAUJE KHADKA TAL.BHUSAWAL DIST.JALGAON-425201\r\nBOUNDARIES-\r\nEAST-REMAINING PART OF SAME PLOT\r\nWEST-PLOT NO.2&3\r\nNORTH-15MTR ROAD\r\nSOUTH-REMAINING PART OF SAME PLOT",
+      "statename": "Maharashtra",
+      "districtname": "Jalgaon",
+      "inspectionStartDateTime": "21-02-2026 04:30:00",
+      "inspectionEndDateTime": "21-02-2026 08:30:00",
+      "auctionStartDateTime": "11-03-2026 05:30:00",
+      "auctionEndDateTime": "11-03-2026 12:30:00",
+      "emdStartDateTime": "13-02-2026 11:54:06",
+      "emdEndDateTime": "11-03-2026 11:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": "CTS NO.413 PLOT NO.133/1RAMWADI,SETTLEMENT AREA,NEAR LIMATEWADI,STATION ROAD SOLAPUR",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "14-02-2026 06:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "14-02-2026 11:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "17-02-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "17-02-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "14-02-2026 06:48:05"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "16-02-2026 10:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/13/183163/540712_compressed.jpg",
+    "raw": {
+      "propertyId": "183163",
+      "projectName": null,
+      "price": 4000000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/13/183163/540712_compressed.jpg",
+      "postedOn": "13-02-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Maharashtra",
+      "summaryDesc": "CTS NO.413 PLOT NO.133/1RAMWADI,SETTLEMENT AREA,NEAR LIMATEWADI,STATION ROAD SOLAPUR",
+      "city": "Solapur",
+      "cityID": "5440",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "413001",
+      "bankPropertyId": "MAHB60299791082",
+      "availablePhotosCount": 10,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "CTS NO.413 PLOT NO.133/1RAMWADI,SETTLEMENT AREA,NEAR LIMATEWADI,STATION ROAD SOLAPUR",
+      "statename": "Maharashtra",
+      "districtname": "Solapur",
+      "inspectionStartDateTime": "14-02-2026 06:30:00",
+      "inspectionEndDateTime": "14-02-2026 11:30:00",
+      "auctionStartDateTime": "17-02-2026 05:30:00",
+      "auctionEndDateTime": "17-02-2026 11:30:00",
+      "emdStartDateTime": "14-02-2026 06:48:05",
+      "emdEndDateTime": "16-02-2026 10:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Plot"
+  },
+  {
     "details": "Land And Building 06-03-2026 11:00 AM eAuction Land And Building in Kalher, Bhiwandi Description of ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -13329,103 +13511,6 @@
     "property_type": "Other"
   },
   {
-    "details": "Commercial Office 12-03-2026 12:00 PM eAuction Commercial Office in North Kasba Peth, Solapur All Th",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12-03-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "All The Piece And Parcel Of Office No. 2. First Floor, \"Krishna Arcade\" Admeasur...",
-      "auction_date": "12-03-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Office 12-03-2026 12:00 PM eAuction Commercial Office in North Kasba Peth, Solapur All The Piece And Parcel Of Office No. 2. First Floor, \"Krishna Arcade\" Admeasur... Auction ID :# 690147 Reserve Price : \u20b923,48,125.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Commercial Office 12-03-2026 12:00 PM eAuction Commercial Office in North Kasba Peth, Solapur All Th",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12-03-2026 12:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "All The Piece And Parcel Of Office No. 2. First Floor, \"Krishna Arcade\" Admeasur...",
-      "auction_date": "12-03-2026 12:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Office 12-03-2026 12:00 PM eAuction Commercial Office in North Kasba Peth, Solapur All The Piece And Parcel Of Office No. 2. First Floor, \"Krishna Arcade\" Admeasur... Auction ID :# 690147 Reserve Price : \u20b923,48,125.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "eAuction Commercial Office in North Kasba Peth, Solapur All The Piece And Parcel Of Office No. 2. Fi",
-    "link": "https://www.eauctionsindia.com/properties/690147",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "All The Piece And Parcel Of Office No. 2. First Floor, \"Krishna Arcade\" Admeasur...",
-      "property_url": "https://www.eauctionsindia.com/properties/690147",
-      "raw_text": "eAuction Commercial Office in North Kasba Peth, Solapur All The Piece And Parcel Of Office No. 2. First Floor, \"Krishna Arcade\" Admeasur...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Auction ID :# 690147 Reserve Price : \u20b923,48,125.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/690147",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b923,48,125.00",
-      "property_url": "https://www.eauctionsindia.com/properties/690147",
-      "raw_text": "Auction ID :# 690147 Reserve Price : \u20b923,48,125.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 690147 Reserve Price : \u20b923,48,125.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/690147",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b923,48,125.00",
-      "property_url": "https://www.eauctionsindia.com/properties/690147",
-      "raw_text": "Auction ID :# 690147 Reserve Price : \u20b923,48,125.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
     "details": "Flat 12-03-2026 12:00 PM eAuction Flat in North Solapur, Solapur All That Piece And Parcel Of Proper",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -13610,6 +13695,102 @@
       "price": "Reserve Price : \u20b920,54,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/690167",
       "raw_text": "Auction ID :# 690167 Reserve Price : \u20b920,54,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 12-03-2026 12:00 PM eAuction Flat in New Pacchha Peth, Solapur All That Piece And Parcel Of Pro",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "12-03-2026 12:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,80,000.00",
+      "auction_date": "12-03-2026 12:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 12-03-2026 12:00 PM eAuction Flat in New Pacchha Peth, Solapur All That Piece And Parcel Of Property Bearing Flat No-102, 1st Floor, Vijay Residency, T.p... Auction ID :# 690149 Reserve Price : \u20b923,80,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 12-03-2026 12:00 PM eAuction Flat in New Pacchha Peth, Solapur All That Piece And Parcel Of Pro",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "12-03-2026 12:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,80,000.00",
+      "auction_date": "12-03-2026 12:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 12-03-2026 12:00 PM eAuction Flat in New Pacchha Peth, Solapur All That Piece And Parcel Of Property Bearing Flat No-102, 1st Floor, Vijay Residency, T.p... Auction ID :# 690149 Reserve Price : \u20b923,80,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in New Pacchha Peth, Solapur All That Piece And Parcel Of Property Bearing Flat No-102",
+    "link": "https://www.eauctionsindia.com/properties/690149",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/690149",
+      "raw_text": "eAuction Flat in New Pacchha Peth, Solapur All That Piece And Parcel Of Property Bearing Flat No-102, 1st Floor, Vijay Residency, T.p...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 690149 Reserve Price : \u20b923,80,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/690149",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,80,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/690149",
+      "raw_text": "Auction ID :# 690149 Reserve Price : \u20b923,80,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/solapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Solapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 690149 Reserve Price : \u20b923,80,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/690149",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,80,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/690149",
+      "raw_text": "Auction ID :# 690149 Reserve Price : \u20b923,80,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/solapur"
     },
