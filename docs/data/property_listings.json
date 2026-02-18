@@ -1,5 +1,88 @@
 [
   {
+    "emd_cost": null,
+    "details": "All piece and parcel of land property bearing G.P Milkat No. 132, area admeasuring 180.85 Sq. Mtrs along with construction. made thereon situated at Village Kowade, Tal. Ajara, Dist. Kolhapur.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "20-02-2026 07:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "20-02-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "18-02-2026 12:36:38"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "19-02-2026 10:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/18/239875/543918_compressed.jpg",
+    "raw": {
+      "propertyId": "239875",
+      "projectName": null,
+      "price": 693000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "2",
+      "propertySubType": "Individual House",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/18/239875/543918_compressed.jpg",
+      "postedOn": "18-02-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Maharashtra",
+      "summaryDesc": "All piece and parcel of land property bearing G.P Milkat No. 132, area admeasuring 180.85 Sq. Mtrs along with construction. made thereon situated at Village Kowade, Tal. Ajara, Dist. Kolhapur.",
+      "city": "Kolhapur",
+      "cityID": "5080",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "416013",
+      "bankPropertyId": "MAHBKOL009",
+      "availablePhotosCount": 6,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Village Kowade, Tal. Ajara, Dist. Kolhapur.",
+      "statename": "Maharashtra",
+      "districtname": "Kolhapur",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "20-02-2026 07:30:00",
+      "auctionEndDateTime": "20-02-2026 11:30:00",
+      "emdStartDateTime": "18-02-2026 12:36:38",
+      "emdEndDateTime": "19-02-2026 10:30:00",
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Land"
+  },
+  {
     "details": "Land And Building 06-03-2026 11:00 AM eAuction Land And Building in Kalher, Bhiwandi Description of ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
