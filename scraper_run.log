@@ -10,41 +10,41 @@ Scraping https://www.eauctionsindia.com/city/kolhapur...
   Found 107 candidate card fragments by text-match
   Extracted 217 properties so far from https://www.eauctionsindia.com/city/kolhapur
 Scraping https://www.eauctionsindia.com/city/kalyan...
-  Found 104 candidate card fragments by text-match
-  Extracted 321 properties so far from https://www.eauctionsindia.com/city/kalyan
+  Found 105 candidate card fragments by text-match
+  Extracted 322 properties so far from https://www.eauctionsindia.com/city/kalyan
 Scraping https://www.eauctionsindia.com/city/latur...
-  Found 110 candidate card fragments by text-match
-  Extracted 431 properties so far from https://www.eauctionsindia.com/city/latur
+  Found 103 candidate card fragments by text-match
+  Extracted 425 properties so far from https://www.eauctionsindia.com/city/latur
 Scraping https://www.eauctionsindia.com/city/mumbai...
-  Found 107 candidate card fragments by text-match
-  Extracted 538 properties so far from https://www.eauctionsindia.com/city/mumbai
+  Found 108 candidate card fragments by text-match
+  Extracted 533 properties so far from https://www.eauctionsindia.com/city/mumbai
 Scraping https://www.eauctionsindia.com/city/sindhudurg...
-  Found 111 candidate card fragments by text-match
-  Extracted 649 properties so far from https://www.eauctionsindia.com/city/sindhudurg
+  Found 103 candidate card fragments by text-match
+  Extracted 636 properties so far from https://www.eauctionsindia.com/city/sindhudurg
 Scraping https://www.eauctionsindia.com/city/solapur...
   Found 103 candidate card fragments by text-match
-  Extracted 752 properties so far from https://www.eauctionsindia.com/city/solapur
+  Extracted 739 properties so far from https://www.eauctionsindia.com/city/solapur
 Scraping https://www.eauctionsindia.com/city/thane...
   Found 103 candidate card fragments by text-match
-  Extracted 855 properties so far from https://www.eauctionsindia.com/city/thane
+  Extracted 842 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
-  Found 110 candidate card fragments by text-match
-  Extracted 965 properties so far from https://www.eauctionsindia.com/city/satara
-Scraping https://www.eauctionsindia.com/city/ratnagiri...
-  Found 103 candidate card fragments by text-match
-  Extracted 1068 properties so far from https://www.eauctionsindia.com/city/ratnagiri
-Scraping https://www.eauctionsindia.com/city/raigad...
   Found 111 candidate card fragments by text-match
-  Extracted 1179 properties so far from https://www.eauctionsindia.com/city/raigad
+  Extracted 953 properties so far from https://www.eauctionsindia.com/city/satara
+Scraping https://www.eauctionsindia.com/city/ratnagiri...
+  Found 110 candidate card fragments by text-match
+  Extracted 1063 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+Scraping https://www.eauctionsindia.com/city/raigad...
+  Found 110 candidate card fragments by text-match
+  Extracted 1173 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 111 candidate card fragments by text-match
-  Extracted 1290 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1290
-eauctionsindia: 1290 properties fetched
-Processing stats: 1290 total items, 1290 new, -888 duplicates skipped
+  Extracted 1284 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1284
+eauctionsindia: 1284 properties fetched
+Processing stats: 1284 total items, 1284 new, -883 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 402 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 183/1290 items remain
+Saved state with 401 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 177/1284 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=183
-Wrote 1290 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=177
+Wrote 1284 items to data/property_listings.json
