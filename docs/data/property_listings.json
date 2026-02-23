@@ -1,5 +1,91 @@
 [
   {
+    "emd_cost": null,
+    "details": "Immvable property bearing T P Scheme No. 1. City survey No. 10388, Final Plot No. 34/5B/14, Subplot No. 17, Near New Paccha Peth, Solapur-413006",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "27-02-2026 06:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "27-02-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "23-02-2026 06:33:52"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "27-02-2026 11:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/23/77252/547372_compressed.jpg",
+    "raw": {
+      "propertyId": "77252",
+      "projectName": null,
+      "price": 10800000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "2",
+      "propertySubType": "Individual House",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/23/77252/547372_compressed.jpg",
+      "postedOn": "23-02-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Union Bank of India",
+      "summaryDesc": "Immvable property bearing T P Scheme No. 1. City survey No. 10388, Final Plot No. 34/5B/14, Subplot No. 17, Near New Paccha Peth, Solapur-413006",
+      "city": "Kumbhari",
+      "cityID": "5428",
+      "stateID": 21,
+      "localities": "Residential/Middle Class",
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": {
+        "lon": 75.55277,
+        "lat": 17.39339
+      },
+      "pincode": "413006",
+      "bankPropertyId": "UBINPUNAAG2112",
+      "availablePhotosCount": 25,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Immvable property bearing T P Scheme No. 1. City survey No. 10388, Final Plot No. 34/5B/14, Subplot No. 17, Near New Paccha Peth, Solapur-413006",
+      "statename": "Maharashtra",
+      "districtname": "Solapur",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "27-02-2026 06:30:00",
+      "auctionEndDateTime": "27-02-2026 11:30:00",
+      "emdStartDateTime": "23-02-2026 06:33:52",
+      "emdEndDateTime": "27-02-2026 11:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Plot"
+  },
+  {
     "details": "Land And Building 06-03-2026 11:00 AM eAuction Land And Building in Kalher, Bhiwandi Description of ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -8637,6 +8723,102 @@
     "property_type": "Other"
   },
   {
+    "details": "Commercial Office 25-03-2026 11:00 AM eAuction Commercial Office in Dahisar, Mumbai All that part an",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "25-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b917,55,000.00",
+      "auction_date": "25-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Commercial Office 25-03-2026 11:00 AM eAuction Commercial Office in Dahisar, Mumbai All that part and parcel of the property bearing: Office No 3, Ground Floor, Wing B, In Bu... Auction ID :# 703302 Reserve Price : \u20b917,55,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Commercial Office 25-03-2026 11:00 AM eAuction Commercial Office in Dahisar, Mumbai All that part an",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "25-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b917,55,000.00",
+      "auction_date": "25-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Commercial Office 25-03-2026 11:00 AM eAuction Commercial Office in Dahisar, Mumbai All that part and parcel of the property bearing: Office No 3, Ground Floor, Wing B, In Bu... Auction ID :# 703302 Reserve Price : \u20b917,55,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "eAuction Commercial Office in Dahisar, Mumbai All that part and parcel of the property bearing: Offi",
+    "link": "https://www.eauctionsindia.com/properties/703302",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/703302",
+      "raw_text": "eAuction Commercial Office in Dahisar, Mumbai All that part and parcel of the property bearing: Office No 3, Ground Floor, Wing B, In Bu...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Auction ID :# 703302 Reserve Price : \u20b917,55,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703302",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b917,55,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703302",
+      "raw_text": "Auction ID :# 703302 Reserve Price : \u20b917,55,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 703302 Reserve Price : \u20b917,55,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703302",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b917,55,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703302",
+      "raw_text": "Auction ID :# 703302 Reserve Price : \u20b917,55,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
     "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Kandivali East, Mumbai Flat No.1201.A wing on the 12th Flo",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -9021,6 +9203,102 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 24-03-2026 11:00 AM eAuction Flat in Kandivali West, Mumbai Residential Flat No. A/201 & A/202,",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b92,43,50,000.00",
+      "auction_date": "24-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 24-03-2026 11:00 AM eAuction Flat in Kandivali West, Mumbai Residential Flat No. A/201 & A/202, 2nd Floor, A-wing, area admeasuring 1011 sq ft and... Auction ID :# 703589 Reserve Price : \u20b92,43,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 24-03-2026 11:00 AM eAuction Flat in Kandivali West, Mumbai Residential Flat No. A/201 & A/202,",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b92,43,50,000.00",
+      "auction_date": "24-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 24-03-2026 11:00 AM eAuction Flat in Kandivali West, Mumbai Residential Flat No. A/201 & A/202, 2nd Floor, A-wing, area admeasuring 1011 sq ft and... Auction ID :# 703589 Reserve Price : \u20b92,43,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Kandivali West, Mumbai Residential Flat No. A/201 & A/202, 2nd Floor, A-wing, area ",
+    "link": "https://www.eauctionsindia.com/properties/703589",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/703589",
+      "raw_text": "eAuction Flat in Kandivali West, Mumbai Residential Flat No. A/201 & A/202, 2nd Floor, A-wing, area admeasuring 1011 sq ft and...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 703589 Reserve Price : \u20b92,43,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703589",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b92,43,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703589",
+      "raw_text": "Auction ID :# 703589 Reserve Price : \u20b92,43,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 703589 Reserve Price : \u20b92,43,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703589",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b92,43,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703589",
+      "raw_text": "Auction ID :# 703589 Reserve Price : \u20b92,43,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
     "details": "Flat 23-03-2026 01:00 PM eAuction Flat in Bandra, Mumbai Bharat Diamond Bourse, situated in G block ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -9206,198 +9484,6 @@
       "price": "Reserve Price : \u20b96,09,34,228.00",
       "property_url": "https://www.eauctionsindia.com/properties/700436",
       "raw_text": "Auction ID :# 700436 Reserve Price : \u20b96,09,34,228.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 23-03-2026 01:00 PM eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kh",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "23-03-2026 01:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b94,05,14,706.00",
-      "auction_date": "23-03-2026 01:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 23-03-2026 01:00 PM eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kheni tower) Jogani Complex, Manipada Rd, Kolivery V... Auction ID :# 700435 Reserve Price : \u20b94,05,14,706.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 23-03-2026 01:00 PM eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kh",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "23-03-2026 01:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b94,05,14,706.00",
-      "auction_date": "23-03-2026 01:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 23-03-2026 01:00 PM eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kheni tower) Jogani Complex, Manipada Rd, Kolivery V... Auction ID :# 700435 Reserve Price : \u20b94,05,14,706.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kheni tower) Jogani Complex",
-    "link": "https://www.eauctionsindia.com/properties/700435",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/700435",
-      "raw_text": "eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kheni tower) Jogani Complex, Manipada Rd, Kolivery V...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 700435 Reserve Price : \u20b94,05,14,706.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/700435",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b94,05,14,706.00",
-      "property_url": "https://www.eauctionsindia.com/properties/700435",
-      "raw_text": "Auction ID :# 700435 Reserve Price : \u20b94,05,14,706.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 700435 Reserve Price : \u20b94,05,14,706.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/700435",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b94,05,14,706.00",
-      "property_url": "https://www.eauctionsindia.com/properties/700435",
-      "raw_text": "Auction ID :# 700435 Reserve Price : \u20b94,05,14,706.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 23-03-2026 01:00 PM eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kh",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "23-03-2026 01:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,09,34,228.00",
-      "auction_date": "23-03-2026 01:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 23-03-2026 01:00 PM eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kheni tower) Jogani Complex, Manipada Rd, Kolivery V... Auction ID :# 700434 Reserve Price : \u20b96,09,34,228.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 23-03-2026 01:00 PM eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kh",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "23-03-2026 01:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,09,34,228.00",
-      "auction_date": "23-03-2026 01:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 23-03-2026 01:00 PM eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kheni tower) Jogani Complex, Manipada Rd, Kolivery V... Auction ID :# 700434 Reserve Price : \u20b96,09,34,228.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kheni tower) Jogani Complex",
-    "link": "https://www.eauctionsindia.com/properties/700434",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/700434",
-      "raw_text": "eAuction Flat in Santacruz, Mumbai Sapphire Heights (Previously known as Kheni tower) Jogani Complex, Manipada Rd, Kolivery V...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 700434 Reserve Price : \u20b96,09,34,228.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/700434",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,09,34,228.00",
-      "property_url": "https://www.eauctionsindia.com/properties/700434",
-      "raw_text": "Auction ID :# 700434 Reserve Price : \u20b96,09,34,228.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 700434 Reserve Price : \u20b96,09,34,228.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/700434",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,09,34,228.00",
-      "property_url": "https://www.eauctionsindia.com/properties/700434",
-      "raw_text": "Auction ID :# 700434 Reserve Price : \u20b96,09,34,228.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
@@ -14963,6 +15049,583 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 27-03-2026 11:00 AM eAuction Flat in Narangi, Thane RESIDENTIAL FLAT BEARING FLAT NO-701 ON THE",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "RESIDENTIAL FLAT BEARING FLAT NO-701 ON THE 7TH FLOOR ADMEASURING 36.42 SQ. MTRS. CARPET A...",
+      "auction_date": "27-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-03-2026 11:00 AM eAuction Flat in Narangi, Thane RESIDENTIAL FLAT BEARING FLAT NO-701 ON THE 7TH FLOOR ADMEASURING 36.42 SQ. MTRS. CARPET A... Auction ID :# 703357 Reserve Price : \u20b928,35,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 27-03-2026 11:00 AM eAuction Flat in Narangi, Thane RESIDENTIAL FLAT BEARING FLAT NO-701 ON THE",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "RESIDENTIAL FLAT BEARING FLAT NO-701 ON THE 7TH FLOOR ADMEASURING 36.42 SQ. MTRS. CARPET A...",
+      "auction_date": "27-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-03-2026 11:00 AM eAuction Flat in Narangi, Thane RESIDENTIAL FLAT BEARING FLAT NO-701 ON THE 7TH FLOOR ADMEASURING 36.42 SQ. MTRS. CARPET A... Auction ID :# 703357 Reserve Price : \u20b928,35,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Narangi, Thane RESIDENTIAL FLAT BEARING FLAT NO-701 ON THE 7TH FLOOR ADMEASURING 36",
+    "link": "https://www.eauctionsindia.com/properties/703357",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "RESIDENTIAL FLAT BEARING FLAT NO-701 ON THE 7TH FLOOR ADMEASURING 36.42 SQ. MTRS. CARPET A...",
+      "property_url": "https://www.eauctionsindia.com/properties/703357",
+      "raw_text": "eAuction Flat in Narangi, Thane RESIDENTIAL FLAT BEARING FLAT NO-701 ON THE 7TH FLOOR ADMEASURING 36.42 SQ. MTRS. CARPET A...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 703357 Reserve Price : \u20b928,35,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703357",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b928,35,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703357",
+      "raw_text": "Auction ID :# 703357 Reserve Price : \u20b928,35,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 703357 Reserve Price : \u20b928,35,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703357",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b928,35,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703357",
+      "raw_text": "Auction ID :# 703357 Reserve Price : \u20b928,35,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 27-03-2026 11:00 AM eAuction Flat in Ambernath,, Thane Flat No.206 2Nd Floor Building No.2 Kuna",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b95,00,000.00",
+      "auction_date": "27-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-03-2026 11:00 AM eAuction Flat in Ambernath,, Thane Flat No.206 2Nd Floor Building No.2 Kunal Residency Near Z.P.School S.No26 H.No.7/1 Villag... Auction ID :# 703323 Reserve Price : \u20b95,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 27-03-2026 11:00 AM eAuction Flat in Ambernath,, Thane Flat No.206 2Nd Floor Building No.2 Kuna",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b95,00,000.00",
+      "auction_date": "27-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-03-2026 11:00 AM eAuction Flat in Ambernath,, Thane Flat No.206 2Nd Floor Building No.2 Kunal Residency Near Z.P.School S.No26 H.No.7/1 Villag... Auction ID :# 703323 Reserve Price : \u20b95,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Ambernath,, Thane Flat No.206 2Nd Floor Building No.2 Kunal Residency Near Z.P.Scho",
+    "link": "https://www.eauctionsindia.com/properties/703323",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/703323",
+      "raw_text": "eAuction Flat in Ambernath,, Thane Flat No.206 2Nd Floor Building No.2 Kunal Residency Near Z.P.School S.No26 H.No.7/1 Villag...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 703323 Reserve Price : \u20b95,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703323",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b95,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703323",
+      "raw_text": "Auction ID :# 703323 Reserve Price : \u20b95,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 703323 Reserve Price : \u20b95,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703323",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b95,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703323",
+      "raw_text": "Auction ID :# 703323 Reserve Price : \u20b95,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 27-03-2026 11:00 AM eAuction Flat in Ashele, Thane Flat No 304, 3Rd Floor, A Wing. Building No ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b93,50,000.00",
+      "auction_date": "27-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-03-2026 11:00 AM eAuction Flat in Ashele, Thane Flat No 304, 3Rd Floor, A Wing. Building No 2, Om Shiv Samarth Apartment, Village Ashele,... Auction ID :# 703322 Reserve Price : \u20b93,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 27-03-2026 11:00 AM eAuction Flat in Ashele, Thane Flat No 304, 3Rd Floor, A Wing. Building No ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b93,50,000.00",
+      "auction_date": "27-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 27-03-2026 11:00 AM eAuction Flat in Ashele, Thane Flat No 304, 3Rd Floor, A Wing. Building No 2, Om Shiv Samarth Apartment, Village Ashele,... Auction ID :# 703322 Reserve Price : \u20b93,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Ashele, Thane Flat No 304, 3Rd Floor, A Wing. Building No 2, Om Shiv Samarth Apartm",
+    "link": "https://www.eauctionsindia.com/properties/703322",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/703322",
+      "raw_text": "eAuction Flat in Ashele, Thane Flat No 304, 3Rd Floor, A Wing. Building No 2, Om Shiv Samarth Apartment, Village Ashele,...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 703322 Reserve Price : \u20b93,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703322",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b93,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703322",
+      "raw_text": "Auction ID :# 703322 Reserve Price : \u20b93,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 703322 Reserve Price : \u20b93,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703322",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b93,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703322",
+      "raw_text": "Auction ID :# 703322 Reserve Price : \u20b93,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Commercial Shop 27-03-2026 11:00 AM eAuction Commercial Shop in Kalyan, Thane Shop (Godown) No.B-01,",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b977,60,000.00",
+      "auction_date": "27-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Commercial Shop 27-03-2026 11:00 AM eAuction Commercial Shop in Kalyan, Thane Shop (Godown) No.B-01, On Basement, Building Number -2, \"Hari Heights\", S No 215... Auction ID :# 703294 Reserve Price : \u20b977,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Commercial Shop 27-03-2026 11:00 AM eAuction Commercial Shop in Kalyan, Thane Shop (Godown) No.B-01,",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27-03-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b977,60,000.00",
+      "auction_date": "27-03-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Commercial Shop 27-03-2026 11:00 AM eAuction Commercial Shop in Kalyan, Thane Shop (Godown) No.B-01, On Basement, Building Number -2, \"Hari Heights\", S No 215... Auction ID :# 703294 Reserve Price : \u20b977,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "eAuction Commercial Shop in Kalyan, Thane Shop (Godown) No.B-01, On Basement, Building Number -2, \"H",
+    "link": "https://www.eauctionsindia.com/properties/703294",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/703294",
+      "raw_text": "eAuction Commercial Shop in Kalyan, Thane Shop (Godown) No.B-01, On Basement, Building Number -2, \"Hari Heights\", S No 215...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Auction ID :# 703294 Reserve Price : \u20b977,60,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703294",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b977,60,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703294",
+      "raw_text": "Auction ID :# 703294 Reserve Price : \u20b977,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 703294 Reserve Price : \u20b977,60,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703294",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b977,60,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703294",
+      "raw_text": "Auction ID :# 703294 Reserve Price : \u20b977,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 25-03-2026 03:00 PM eAuction Flat in Dombivli (East), Thane Mortgaged by: Swapnil Raju Chitalka",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "25-03-2026 03:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,12,000.00",
+      "auction_date": "25-03-2026 03:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 25-03-2026 03:00 PM eAuction Flat in Dombivli (East), Thane Mortgaged by: Swapnil Raju Chitalkar: All that piece and parcel of Flat No.301, Building N... Auction ID :# 703328 Reserve Price : \u20b923,12,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 25-03-2026 03:00 PM eAuction Flat in Dombivli (East), Thane Mortgaged by: Swapnil Raju Chitalka",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "25-03-2026 03:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,12,000.00",
+      "auction_date": "25-03-2026 03:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 25-03-2026 03:00 PM eAuction Flat in Dombivli (East), Thane Mortgaged by: Swapnil Raju Chitalkar: All that piece and parcel of Flat No.301, Building N... Auction ID :# 703328 Reserve Price : \u20b923,12,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Dombivli (East), Thane Mortgaged by: Swapnil Raju Chitalkar: All that piece and par",
+    "link": "https://www.eauctionsindia.com/properties/703328",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/703328",
+      "raw_text": "eAuction Flat in Dombivli (East), Thane Mortgaged by: Swapnil Raju Chitalkar: All that piece and parcel of Flat No.301, Building N...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 703328 Reserve Price : \u20b923,12,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703328",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,12,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703328",
+      "raw_text": "Auction ID :# 703328 Reserve Price : \u20b923,12,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 703328 Reserve Price : \u20b923,12,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703328",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b923,12,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703328",
+      "raw_text": "Auction ID :# 703328 Reserve Price : \u20b923,12,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 25-03-2026 02:00 PM eAuction Flat in Kalyan, Thane Property Situated At-Flat No-B/11, 5Th Floor",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "25-03-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b99,60,000.00",
+      "auction_date": "25-03-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 25-03-2026 02:00 PM eAuction Flat in Kalyan, Thane Property Situated At-Flat No-B/11, 5Th Floor, Building Known As Samrat Ashok, Village-Gajb... Auction ID :# 703275 Reserve Price : \u20b99,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 25-03-2026 02:00 PM eAuction Flat in Kalyan, Thane Property Situated At-Flat No-B/11, 5Th Floor",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "25-03-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b99,60,000.00",
+      "auction_date": "25-03-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 25-03-2026 02:00 PM eAuction Flat in Kalyan, Thane Property Situated At-Flat No-B/11, 5Th Floor, Building Known As Samrat Ashok, Village-Gajb... Auction ID :# 703275 Reserve Price : \u20b99,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Kalyan, Thane Property Situated At-Flat No-B/11, 5Th Floor, Building Known As Samra",
+    "link": "https://www.eauctionsindia.com/properties/703275",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/703275",
+      "raw_text": "eAuction Flat in Kalyan, Thane Property Situated At-Flat No-B/11, 5Th Floor, Building Known As Samrat Ashok, Village-Gajb...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 703275 Reserve Price : \u20b99,60,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703275",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b99,60,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703275",
+      "raw_text": "Auction ID :# 703275 Reserve Price : \u20b99,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 703275 Reserve Price : \u20b99,60,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703275",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b99,60,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703275",
+      "raw_text": "Auction ID :# 703275 Reserve Price : \u20b99,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
     "details": "Industrial Land 25-03-2026 01:00 PM eAuction Industrial Land in Wada, Thane Gala No. 13 & 14, Gat No",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -15051,582 +15714,6 @@
       "price": "Reserve Price : \u20b940,00,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/698326",
       "raw_text": "Auction ID :# 698326 Reserve Price : \u20b940,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Kalyan, Thane Residential Flat:Flat no. 102, 1st floor, A-",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b963,42,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Kalyan, Thane Residential Flat:Flat no. 102, 1st floor, A-Wing, Building no. 3 known as Shiv Valley Buil... Auction ID :# 703152 Reserve Price : \u20b963,42,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Kalyan, Thane Residential Flat:Flat no. 102, 1st floor, A-",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b963,42,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Kalyan, Thane Residential Flat:Flat no. 102, 1st floor, A-Wing, Building no. 3 known as Shiv Valley Buil... Auction ID :# 703152 Reserve Price : \u20b963,42,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Kalyan, Thane Residential Flat:Flat no. 102, 1st floor, A-Wing, Building no. 3 know",
-    "link": "https://www.eauctionsindia.com/properties/703152",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/703152",
-      "raw_text": "eAuction Flat in Kalyan, Thane Residential Flat:Flat no. 102, 1st floor, A-Wing, Building no. 3 known as Shiv Valley Buil...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 703152 Reserve Price : \u20b963,42,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703152",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b963,42,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703152",
-      "raw_text": "Auction ID :# 703152 Reserve Price : \u20b963,42,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 703152 Reserve Price : \u20b963,42,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703152",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b963,42,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703152",
-      "raw_text": "Auction ID :# 703152 Reserve Price : \u20b963,42,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Kalyan, Thane Residential Flat: Flat no. 504, 5th floor, B",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b936,58,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Kalyan, Thane Residential Flat: Flat no. 504, 5th floor, Building no. D-1, Known as Raunak City, Survey... Auction ID :# 703151 Reserve Price : \u20b936,58,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Kalyan, Thane Residential Flat: Flat no. 504, 5th floor, B",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b936,58,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Kalyan, Thane Residential Flat: Flat no. 504, 5th floor, Building no. D-1, Known as Raunak City, Survey... Auction ID :# 703151 Reserve Price : \u20b936,58,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Kalyan, Thane Residential Flat: Flat no. 504, 5th floor, Building no. D-1, Known as",
-    "link": "https://www.eauctionsindia.com/properties/703151",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/703151",
-      "raw_text": "eAuction Flat in Kalyan, Thane Residential Flat: Flat no. 504, 5th floor, Building no. D-1, Known as Raunak City, Survey...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 703151 Reserve Price : \u20b936,58,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703151",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b936,58,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703151",
-      "raw_text": "Auction ID :# 703151 Reserve Price : \u20b936,58,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 703151 Reserve Price : \u20b936,58,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703151",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b936,58,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703151",
-      "raw_text": "Auction ID :# 703151 Reserve Price : \u20b936,58,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Badlapur, Thane Residential Flat:- Flat no. 001, Ground Fl",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b919,21,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Badlapur, Thane Residential Flat:- Flat no. 001, Ground Floor, Indigo CHS Ltd., Survey no-43, Hissa no. 2... Auction ID :# 703147 Reserve Price : \u20b919,21,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Badlapur, Thane Residential Flat:- Flat no. 001, Ground Fl",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b919,21,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Badlapur, Thane Residential Flat:- Flat no. 001, Ground Floor, Indigo CHS Ltd., Survey no-43, Hissa no. 2... Auction ID :# 703147 Reserve Price : \u20b919,21,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Badlapur, Thane Residential Flat:- Flat no. 001, Ground Floor, Indigo CHS Ltd., Sur",
-    "link": "https://www.eauctionsindia.com/properties/703147",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/703147",
-      "raw_text": "eAuction Flat in Badlapur, Thane Residential Flat:- Flat no. 001, Ground Floor, Indigo CHS Ltd., Survey no-43, Hissa no. 2...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 703147 Reserve Price : \u20b919,21,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703147",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b919,21,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703147",
-      "raw_text": "Auction ID :# 703147 Reserve Price : \u20b919,21,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 703147 Reserve Price : \u20b919,21,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703147",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b919,21,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703147",
-      "raw_text": "Auction ID :# 703147 Reserve Price : \u20b919,21,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Ambarnath, Thane Residential Flat: Flat no. 303, 3rd Floor",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b916,80,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Ambarnath, Thane Residential Flat: Flat no. 303, 3rd Floor, B-Wing of building known as Aashray Aanand Phas... Auction ID :# 703146 Reserve Price : \u20b916,80,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Ambarnath, Thane Residential Flat: Flat no. 303, 3rd Floor",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b916,80,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Ambarnath, Thane Residential Flat: Flat no. 303, 3rd Floor, B-Wing of building known as Aashray Aanand Phas... Auction ID :# 703146 Reserve Price : \u20b916,80,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Ambarnath, Thane Residential Flat: Flat no. 303, 3rd Floor, B-Wing of building know",
-    "link": "https://www.eauctionsindia.com/properties/703146",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/703146",
-      "raw_text": "eAuction Flat in Ambarnath, Thane Residential Flat: Flat no. 303, 3rd Floor, B-Wing of building known as Aashray Aanand Phas...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 703146 Reserve Price : \u20b916,80,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703146",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b916,80,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703146",
-      "raw_text": "Auction ID :# 703146 Reserve Price : \u20b916,80,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 703146 Reserve Price : \u20b916,80,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703146",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b916,80,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703146",
-      "raw_text": "Auction ID :# 703146 Reserve Price : \u20b916,80,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Ulhasnagar, Thane Residential Flat: Flat no. 101, 1st Floo",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b924,58,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Ulhasnagar, Thane Residential Flat: Flat no. 101, 1st Floor, Wing R2, Bound Building, Vishwajeet Edge, Gut n... Auction ID :# 703145 Reserve Price : \u20b924,58,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Ulhasnagar, Thane Residential Flat: Flat no. 101, 1st Floo",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b924,58,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Ulhasnagar, Thane Residential Flat: Flat no. 101, 1st Floor, Wing R2, Bound Building, Vishwajeet Edge, Gut n... Auction ID :# 703145 Reserve Price : \u20b924,58,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Ulhasnagar, Thane Residential Flat: Flat no. 101, 1st Floor, Wing R2, Bound Buildin",
-    "link": "https://www.eauctionsindia.com/properties/703145",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/703145",
-      "raw_text": "eAuction Flat in Ulhasnagar, Thane Residential Flat: Flat no. 101, 1st Floor, Wing R2, Bound Building, Vishwajeet Edge, Gut n...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 703145 Reserve Price : \u20b924,58,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703145",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b924,58,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703145",
-      "raw_text": "Auction ID :# 703145 Reserve Price : \u20b924,58,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 703145 Reserve Price : \u20b924,58,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703145",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b924,58,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703145",
-      "raw_text": "Auction ID :# 703145 Reserve Price : \u20b924,58,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Badlapur, Thane Flat No. 601, 6th Floor, Building No. 11\u00a0Y",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b922,00,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Badlapur, Thane Flat No. 601, 6th Floor, Building No. 11\u00a0Yogi Niwas\", \"Patel's Prayosha... Auction ID :# 703120 Reserve Price : \u20b922,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 25-03-2026 11:00 AM eAuction Flat in Badlapur, Thane Flat No. 601, 6th Floor, Building No. 11\u00a0Y",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b922,00,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 25-03-2026 11:00 AM eAuction Flat in Badlapur, Thane Flat No. 601, 6th Floor, Building No. 11\u00a0Yogi Niwas\", \"Patel's Prayosha... Auction ID :# 703120 Reserve Price : \u20b922,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Badlapur, Thane Flat No. 601, 6th Floor, Building No. 11\u00a0Yogi Niwas\", \"Patel's Pray",
-    "link": "https://www.eauctionsindia.com/properties/703120",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/703120",
-      "raw_text": "eAuction Flat in Badlapur, Thane Flat No. 601, 6th Floor, Building No. 11\u00a0Yogi Niwas\", \"Patel's Prayosha...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 703120 Reserve Price : \u20b922,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703120",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b922,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703120",
-      "raw_text": "Auction ID :# 703120 Reserve Price : \u20b922,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 703120 Reserve Price : \u20b922,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/703120",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b922,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/703120",
-      "raw_text": "Auction ID :# 703120 Reserve Price : \u20b922,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -18557,7 +18644,7 @@
       "price": "Reserve Price : \u20b992,89,000.00",
       "auction_date": "27-03-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 27-03-2026 11:00 AM eAuction Plot in Lanja, Ratnagiri Survey No 301, Gat No 1925-A/2 (old Survey Village Lanja, Taluka No 1925), Bungalow No 19,... Auction ID :# 703009 Reserve Price : \u20b992,89,000.00 View More House 10-03-2026 11:00 AM eAuction House in Dapoli (R), Ratnagiri House No. 623, S. No",
+      "raw_text": "Plot 27-03-2026 11:00 AM eAuction Plot in Lanja, Ratnagiri Survey No 301, Gat No 1925-A/2 (old Survey Village Lanja, Taluka No 1925), Bungalow No 19,... Auction ID :# 703009 Reserve Price : \u20b992,89,000.00 View More Flat 24-03-2026 02:00 PM eAuction Flat in Ratnagiri, Ratnagiri Short Description of th",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
     },
@@ -18580,7 +18667,7 @@
       "price": "Reserve Price : \u20b992,89,000.00",
       "auction_date": "27-03-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 27-03-2026 11:00 AM eAuction Plot in Lanja, Ratnagiri Survey No 301, Gat No 1925-A/2 (old Survey Village Lanja, Taluka No 1925), Bungalow No 19,... Auction ID :# 703009 Reserve Price : \u20b992,89,000.00 View More House 10-03-2026 11:00 AM eAuction House in Dapoli (R), Ratnagiri House No. 623, S. No",
+      "raw_text": "Plot 27-03-2026 11:00 AM eAuction Plot in Lanja, Ratnagiri Survey No 301, Gat No 1925-A/2 (old Survey Village Lanja, Taluka No 1925), Bungalow No 19,... Auction ID :# 703009 Reserve Price : \u20b992,89,000.00 View More Flat 24-03-2026 02:00 PM eAuction Flat in Ratnagiri, Ratnagiri Short Description of th",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
     },
@@ -18603,7 +18690,7 @@
       "price": "Reserve Price : \u20b992,89,000.00",
       "auction_date": "27-03-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 27-03-2026 11:00 AM eAuction Plot in Lanja, Ratnagiri Survey No 301, Gat No 1925-A/2 (old Survey Village Lanja, Taluka No 1925), Bungalow No 19,... Auction ID :# 703009 Reserve Price : \u20b992,89,000.00 View More House 10-03-2026 11:00 AM eAuction House in Dapoli (R), Ratnagiri House No. 623, S. No",
+      "raw_text": "Plot 27-03-2026 11:00 AM eAuction Plot in Lanja, Ratnagiri Survey No 301, Gat No 1925-A/2 (old Survey Village Lanja, Taluka No 1925), Bungalow No 19,... Auction ID :# 703009 Reserve Price : \u20b992,89,000.00 View More Flat 24-03-2026 02:00 PM eAuction Flat in Ratnagiri, Ratnagiri Short Description of th",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
     },
@@ -18626,7 +18713,7 @@
       "price": "Reserve Price : \u20b992,89,000.00",
       "auction_date": "27-03-2026 11:00 AM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 27-03-2026 11:00 AM eAuction Plot in Lanja, Ratnagiri Survey No 301, Gat No 1925-A/2 (old Survey Village Lanja, Taluka No 1925), Bungalow No 19,... Auction ID :# 703009 Reserve Price : \u20b992,89,000.00 View More House 10-03-2026 11:00 AM eAuction House in Dapoli (R), Ratnagiri House No. 623, S. No",
+      "raw_text": "Plot 27-03-2026 11:00 AM eAuction Plot in Lanja, Ratnagiri Survey No 301, Gat No 1925-A/2 (old Survey Village Lanja, Taluka No 1925), Bungalow No 19,... Auction ID :# 703009 Reserve Price : \u20b992,89,000.00 View More Flat 24-03-2026 02:00 PM eAuction Flat in Ratnagiri, Ratnagiri Short Description of th",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
     },
@@ -18723,6 +18810,102 @@
       "price": "Reserve Price : \u20b992,89,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/703009",
       "raw_text": "Auction ID :# 703009 Reserve Price : \u20b992,89,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 24-03-2026 02:00 PM eAuction Flat in Ratnagiri, Ratnagiri Short Description of the Immovable Pr",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-03-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,71,021.00",
+      "auction_date": "24-03-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 24-03-2026 02:00 PM eAuction Flat in Ratnagiri, Ratnagiri Short Description of the Immovable Property With Known Encumbrances, If Any: All that Part... Auction ID :# 703282 Reserve Price : \u20b915,71,021.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 24-03-2026 02:00 PM eAuction Flat in Ratnagiri, Ratnagiri Short Description of the Immovable Pr",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24-03-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,71,021.00",
+      "auction_date": "24-03-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 24-03-2026 02:00 PM eAuction Flat in Ratnagiri, Ratnagiri Short Description of the Immovable Property With Known Encumbrances, If Any: All that Part... Auction ID :# 703282 Reserve Price : \u20b915,71,021.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Ratnagiri, Ratnagiri Short Description of the Immovable Property With Known Encumbr",
+    "link": "https://www.eauctionsindia.com/properties/703282",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/703282",
+      "raw_text": "eAuction Flat in Ratnagiri, Ratnagiri Short Description of the Immovable Property With Known Encumbrances, If Any: All that Part...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 703282 Reserve Price : \u20b915,71,021.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703282",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,71,021.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703282",
+      "raw_text": "Auction ID :# 703282 Reserve Price : \u20b915,71,021.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 703282 Reserve Price : \u20b915,71,021.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/703282",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,71,021.00",
+      "property_url": "https://www.eauctionsindia.com/properties/703282",
+      "raw_text": "Auction ID :# 703282 Reserve Price : \u20b915,71,021.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
     },
@@ -19683,103 +19866,6 @@
       "price": "Reserve Price : \u20b97,70,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/698160",
       "raw_text": "Auction ID :# 698160 Reserve Price : \u20b97,70,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "Commercial Shop 27-02-2026 01:00 PM eAuction Commercial Shop in Chiplun, Ratnagiri All that part and",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "27-02-2026 01:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "All that part and parcel of the property consisting of Shop No. 36 & 37, On First Floo...",
-      "auction_date": "27-02-2026 01:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Shop 27-02-2026 01:00 PM eAuction Commercial Shop in Chiplun, Ratnagiri All that part and parcel of the property consisting of Shop No. 36 & 37, On First Floo... Auction ID :# 698158 Reserve Price : \u20b922,10,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Commercial Shop 27-02-2026 01:00 PM eAuction Commercial Shop in Chiplun, Ratnagiri All that part and",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "27-02-2026 01:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "All that part and parcel of the property consisting of Shop No. 36 & 37, On First Floo...",
-      "auction_date": "27-02-2026 01:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Commercial Shop 27-02-2026 01:00 PM eAuction Commercial Shop in Chiplun, Ratnagiri All that part and parcel of the property consisting of Shop No. 36 & 37, On First Floo... Auction ID :# 698158 Reserve Price : \u20b922,10,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "eAuction Commercial Shop in Chiplun, Ratnagiri All that part and parcel of the property consisting o",
-    "link": "https://www.eauctionsindia.com/properties/698158",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "All that part and parcel of the property consisting of Shop No. 36 & 37, On First Floo...",
-      "property_url": "https://www.eauctionsindia.com/properties/698158",
-      "raw_text": "eAuction Commercial Shop in Chiplun, Ratnagiri All that part and parcel of the property consisting of Shop No. 36 & 37, On First Floo...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Commercial"
-  },
-  {
-    "details": "Auction ID :# 698158 Reserve Price : \u20b922,10,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/698158",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b922,10,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/698158",
-      "raw_text": "Auction ID :# 698158 Reserve Price : \u20b922,10,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 698158 Reserve Price : \u20b922,10,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/698158",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b922,10,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/698158",
-      "raw_text": "Auction ID :# 698158 Reserve Price : \u20b922,10,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
     },
