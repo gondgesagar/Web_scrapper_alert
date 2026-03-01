@@ -25,26 +25,26 @@ Scraping https://www.eauctionsindia.com/city/solapur...
   Found 110 candidate card fragments by text-match
   Extracted 766 properties so far from https://www.eauctionsindia.com/city/solapur
 Scraping https://www.eauctionsindia.com/city/thane...
-  Found 110 candidate card fragments by text-match
-  Extracted 876 properties so far from https://www.eauctionsindia.com/city/thane
+  Found 111 candidate card fragments by text-match
+  Extracted 877 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
   Found 111 candidate card fragments by text-match
-  Extracted 987 properties so far from https://www.eauctionsindia.com/city/satara
+  Extracted 988 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
   Found 111 candidate card fragments by text-match
-  Extracted 1098 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Extracted 1099 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
-  Found 111 candidate card fragments by text-match
+  Found 110 candidate card fragments by text-match
   Extracted 1209 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 111 candidate card fragments by text-match
   Extracted 1320 properties so far from https://www.eauctionsindia.com/city/pune
 Total eauctionsindia properties fetched: 1320
 eauctionsindia: 1320 properties fetched
-Processing stats: 1320 total items, 1320 new, -882 duplicates skipped
+Processing stats: 1320 total items, 1320 new, -888 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 438 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 158/1320 items remain
+Saved state with 432 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 157/1320 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=158
+NEW_AUCTIONS_COUNT=157
 Wrote 1320 items to data/property_listings.json
