@@ -1,6 +1,92 @@
 [
   {
     "emd_cost": null,
+    "details": "Residential Flat",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "27-03-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "27-03-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "10-03-2026 07:23:34"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "27-03-2026 10:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/06/25/171209/362199_compressed.jpg",
+    "raw": {
+      "propertyId": "171209",
+      "projectName": null,
+      "price": 2911500.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/06/25/171209/362199_compressed.jpg",
+      "postedOn": "10-03-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Punjab National Bank",
+      "summaryDesc": "Residential Flat",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": "Uran",
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": 1011.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": {
+        "lon": 72.9406,
+        "lat": 18.8738
+      },
+      "pincode": "400702",
+      "bankPropertyId": "PUNBCS6041SHRIK",
+      "availablePhotosCount": 10,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Residential flat no.4 on first floor, Nirmal Apartment, plot CS No. 1070A/B, uran mora road, Taluka Uran, Dist Raigad 400702",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "27-03-2026 05:30:00",
+      "auctionEndDateTime": "27-03-2026 10:30:00",
+      "emdStartDateTime": "10-03-2026 07:23:34",
+      "emdEndDateTime": "27-03-2026 10:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
     "details": "RAW FLAT, admeasuring about 124.40 sq.mtrs. carpet area as per approved plan of BMC.",
     "important_dates": [
       {
