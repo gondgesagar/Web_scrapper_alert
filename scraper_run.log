@@ -3,15 +3,15 @@ Warning: failed to fetch Maharashtra pincodes (attempt 1): ('Connection aborted.
 Fetching Maharashtra pincodes (attempt 2/3)...
 Warning: failed to fetch Maharashtra pincodes (attempt 2): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Retrying in 2s...
 Fetching Maharashtra pincodes (attempt 3/3)...
-Fetched and saved 0 Maharashtra pincodes.
+Warning: failed to fetch Maharashtra pincodes after 3 attempts: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 Fetching BAANKNET properties...
 BAANKNET: 10 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
-  Found 110 candidate card fragments by text-match
-  Extracted 110 properties so far from https://www.eauctionsindia.com/city/bhiwandi
-Scraping https://www.eauctionsindia.com/city/kolhapur...
   Found 103 candidate card fragments by text-match
+  Extracted 103 properties so far from https://www.eauctionsindia.com/city/bhiwandi
+Scraping https://www.eauctionsindia.com/city/kolhapur...
+  Found 110 candidate card fragments by text-match
   Extracted 213 properties so far from https://www.eauctionsindia.com/city/kolhapur
 Scraping https://www.eauctionsindia.com/city/kalyan...
   Found 104 candidate card fragments by text-match
@@ -20,35 +20,35 @@ Scraping https://www.eauctionsindia.com/city/latur...
   Found 110 candidate card fragments by text-match
   Extracted 427 properties so far from https://www.eauctionsindia.com/city/latur
 Scraping https://www.eauctionsindia.com/city/mumbai...
-  Found 107 candidate card fragments by text-match
-  Extracted 534 properties so far from https://www.eauctionsindia.com/city/mumbai
+  Found 100 candidate card fragments by text-match
+  Extracted 527 properties so far from https://www.eauctionsindia.com/city/mumbai
 Scraping https://www.eauctionsindia.com/city/sindhudurg...
-  Found 111 candidate card fragments by text-match
-  Extracted 645 properties so far from https://www.eauctionsindia.com/city/sindhudurg
-Scraping https://www.eauctionsindia.com/city/solapur...
   Found 110 candidate card fragments by text-match
-  Extracted 755 properties so far from https://www.eauctionsindia.com/city/solapur
+  Extracted 637 properties so far from https://www.eauctionsindia.com/city/sindhudurg
+Scraping https://www.eauctionsindia.com/city/solapur...
+  Found 111 candidate card fragments by text-match
+  Extracted 748 properties so far from https://www.eauctionsindia.com/city/solapur
 Scraping https://www.eauctionsindia.com/city/thane...
-  Found 103 candidate card fragments by text-match
-  Extracted 858 properties so far from https://www.eauctionsindia.com/city/thane
+  Found 111 candidate card fragments by text-match
+  Extracted 859 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
   Found 110 candidate card fragments by text-match
-  Extracted 968 properties so far from https://www.eauctionsindia.com/city/satara
+  Extracted 969 properties so far from https://www.eauctionsindia.com/city/satara
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
-  Found 110 candidate card fragments by text-match
-  Extracted 1078 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+  Found 103 candidate card fragments by text-match
+  Extracted 1072 properties so far from https://www.eauctionsindia.com/city/ratnagiri
 Scraping https://www.eauctionsindia.com/city/raigad...
-  Found 111 candidate card fragments by text-match
-  Extracted 1189 properties so far from https://www.eauctionsindia.com/city/raigad
+  Found 110 candidate card fragments by text-match
+  Extracted 1182 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
   Found 111 candidate card fragments by text-match
-  Extracted 1300 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1300
-eauctionsindia: 1300 properties fetched
-Processing stats: 1304 total items, 1304 new, -872 duplicates skipped
+  Extracted 1293 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1293
+eauctionsindia: 1293 properties fetched
+Processing stats: 1295 total items, 1295 new, -866 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 432 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 178/1304 items remain
-Saved 6 pincodes to cache.
+Saved state with 429 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 178/1295 items remain
+Saved 8 pincodes to cache.
 NEW_AUCTIONS_COUNT=178
-Wrote 1304 items to data/property_listings.json
+Wrote 1295 items to data/property_listings.json
