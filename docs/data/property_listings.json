@@ -1,168 +1,5 @@
 [
   {
-    "emd_cost": null,
-    "details": "3BHK FLAT HAVING ADDRESS AT FLAT NO 903, 9TH FLOOR, CONTINENTAL TOWER ROCKY HILLS CONTINENTAL CHSL, CARTER ROAD, RIZVI COMPLEX, PALI HILL, OPP. RIZVI COLLEGE, SHERLY RAJAN ROAD, OFF CARTER ROAD, BANDRA WEST MUMBAI 400050.",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "11-03-2026 06:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "17-03-2026 11:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "18-03-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "18-03-2026 11:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "11-03-2026 05:32:14"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "18-03-2026 11:30:00"
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/03/11/278117/559284_compressed.jpg",
-    "raw": {
-      "propertyId": "278117",
-      "projectName": "CONTINENTAL TOWER CO OP HOUSING SOCIETY LTD IN RIZVI COMPLEX",
-      "price": 62215000.0,
-      "pricePerSeqFit": 60000.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/03/11/278117/559284_compressed.jpg",
-      "postedOn": "11-03-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": "3BHK FLAT HAVING ADDRESS AT FLAT NO 903, 9TH FLOOR, CONTINENTAL TOWER ROCKY HILLS CONTINENTAL CHSL, CARTER ROAD, RIZVI COMPLEX, PALI HILL, OPP. RIZVI COLLEGE, SHERLY RAJAN ROAD, OFF CARTER ROAD, BANDRA WEST MUMBAI 400050.",
-      "city": "Mumbai",
-      "cityID": "5109",
-      "stateID": 21,
-      "localities": "BANDRA MUMBAI",
-      "noOfBedRoom": 3,
-      "carpetArea": 1082.0,
-      "builtupArea": 1298.0,
-      "furnishedStatus": "Unfurnished",
-      "floorNo": 9,
-      "totalNoOfFloors": 20,
-      "facing": "West",
-      "amenities": [
-        "Lift"
-      ],
-      "isAuctioncreated": true,
-      "coordinate": {
-        "lon": 7.82587,
-        "lat": 19.067562
-      },
-      "pincode": "400050",
-      "bankPropertyId": "SBIN02701408440001",
-      "availablePhotosCount": 26,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": 90.0,
-      "isLoanAvailable": true,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "FLAT NO 903, 9TH FLOOR, CONTINENTAL TOWER ROCKY HILLS CONTINENTAL CHSL, CARTER ROAD, RIZVI COMPLEX, PALI HILL, OPP. RIZVI COLLEGE, SHERLY RAJAN ROAD, OFF CARTER ROAD, BANDRA WEST MUMBAI 400050.",
-      "statename": "Maharashtra",
-      "districtname": "Mumbai Suburban",
-      "inspectionStartDateTime": "11-03-2026 06:30:00",
-      "inspectionEndDateTime": "17-03-2026 11:30:00",
-      "auctionStartDateTime": "18-03-2026 05:30:00",
-      "auctionEndDateTime": "18-03-2026 11:30:00",
-      "emdStartDateTime": "11-03-2026 05:32:14",
-      "emdEndDateTime": "18-03-2026 11:30:00",
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null
-    },
-    "source": "baanknet",
-    "property_type": "Flat"
-  },
-  {
-    "emd_cost": null,
-    "details": "FLAT NO D-406 4TH  FLOOR IRVETTA Project CASA RIO GOLD VILL NILJHE KALYAN DISTT THANE MAHARASHTRA",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/03/10/147020/558259_compressed.jpg",
-    "raw": {
-      "propertyId": "147020",
-      "projectName": "CASA RIO GOLD",
-      "price": 5150000.0,
-      "pricePerSeqFit": 8250.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/03/10/147020/558259_compressed.jpg",
-      "postedOn": "11-03-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": "FLAT NO D-406 4TH  FLOOR IRVETTA Project CASA RIO GOLD VILL NILJHE KALYAN DISTT THANE MAHARASHTRA",
-      "city": "Kalyan",
-      "cityID": "5451",
-      "stateID": 21,
-      "localities": "MAHARASTRA",
-      "noOfBedRoom": null,
-      "carpetArea": 495.0,
-      "builtupArea": 594.0,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "421203",
-      "bankPropertyId": "SBIN200049131718",
-      "availablePhotosCount": 14,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": false,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "FLAT NO D-406 4TH FLOOR IRVETTA Project CASA RIO GOLD VILL NILJHE KALYAN DISTT THANE MAHARASHTRA",
-      "statename": "Maharashtra",
-      "districtname": "Thane",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null
-    },
-    "source": "baanknet",
-    "property_type": "Flat"
-  },
-  {
     "details": "Flat 10-04-2026 11:00 AM eAuction Flat in Bhiwandi Road, Bhiwandi All The piece and Parcel of the Pr",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -3973,16 +3810,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -3991,16 +3828,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -4009,16 +3846,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -4027,16 +3864,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -4045,16 +3882,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -4063,16 +3900,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -4081,16 +3918,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -4135,130 +3972,130 @@
     "property_type": "Commercial"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
     "source": "eauctionsindia",
     "city": "Kolhapur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
     "source": "eauctionsindia",
     "city": "Kolhapur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
     "source": "eauctionsindia",
     "city": "Kolhapur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
     "source": "eauctionsindia",
     "city": "Kolhapur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
     "source": "eauctionsindia",
     "city": "Kolhapur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
     "source": "eauctionsindia",
     "city": "Kolhapur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
     "source": "eauctionsindia",
     "city": "Kolhapur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
     "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
@@ -5570,16 +5407,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "Keep on reading How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Keep on reading Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar wil",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5588,16 +5425,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5606,16 +5443,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5624,16 +5461,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5642,16 +5479,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5660,16 +5497,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5678,16 +5515,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5696,16 +5533,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5714,16 +5551,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -5732,16 +5569,16 @@
     "property_type": "Other"
   },
   {
-    "details": "How to Buy a Vehicle Through an Auction",
-    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "How to Buy a Vehicle Through an Auction",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
-      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
+      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
+      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
+      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -7988,16 +7825,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -8006,16 +7843,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -8024,16 +7861,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -8042,16 +7879,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -8060,16 +7897,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -8078,16 +7915,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -8096,16 +7933,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
@@ -8150,130 +7987,130 @@
     "property_type": "Commercial"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
     "source": "eauctionsindia",
     "city": "Latur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
     "source": "eauctionsindia",
     "city": "Latur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
     "source": "eauctionsindia",
     "city": "Latur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
     "source": "eauctionsindia",
     "city": "Latur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
     "source": "eauctionsindia",
     "city": "Latur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
     "source": "eauctionsindia",
     "city": "Latur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
-    "details": "BDA e-Auction of residential and commercial sites",
-    "link": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
+    "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "BDA e-Auction of residential and commercial sites",
+      "property_name": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bda-e-auction-of-residential-and-commercial-sites",
-      "raw_text": "BDA e-Auction of residential and commercial sites eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key au",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-bid-in-a-bank-e-auction-through-the-ebkray-portal-step-by-step-guide",
+      "raw_text": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures u",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/latur"
     },
     "source": "eauctionsindia",
     "city": "Latur",
-    "property_type": "Commercial"
+    "property_type": "Other"
   },
   {
     "details": "How to Bid in a Bank E-Auction through the eBkray Portal | Step-by-Step Guide",
@@ -9827,132 +9664,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
@@ -11886,132 +11597,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -16030,16 +15615,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Kerala to Auction Seized Vehicles",
-    "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Kerala to Auction Seized Vehicles",
-      "price": "The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
-      "raw_text": "Kerala to Auction Seized Vehicles The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala. Eauctions India Undo Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) ann",
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16048,16 +15633,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Kerala to Auction Seized Vehicles",
-    "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Kerala to Auction Seized Vehicles",
-      "price": "The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
-      "raw_text": "Kerala to Auction Seized Vehicles The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala. Eauctions India Undo Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) ann",
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16066,16 +15651,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Kerala to Auction Seized Vehicles",
-    "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Kerala to Auction Seized Vehicles",
-      "price": "The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
-      "raw_text": "Kerala to Auction Seized Vehicles The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala. Eauctions India Undo Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) ann",
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16084,16 +15669,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Kerala to Auction Seized Vehicles",
-    "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Kerala to Auction Seized Vehicles",
-      "price": "The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
-      "raw_text": "Kerala to Auction Seized Vehicles The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala. Eauctions India Undo Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) ann",
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16102,16 +15687,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Kerala to Auction Seized Vehicles",
-    "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Kerala to Auction Seized Vehicles",
-      "price": "The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
-      "raw_text": "Kerala to Auction Seized Vehicles The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala. Eauctions India Undo Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) ann",
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16120,16 +15705,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Kerala to Auction Seized Vehicles",
-    "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Kerala to Auction Seized Vehicles",
-      "price": "The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
-      "raw_text": "Kerala to Auction Seized Vehicles The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala. Eauctions India Undo Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) ann",
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16138,16 +15723,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Kerala to Auction Seized Vehicles",
-    "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
+    "details": "TTD to Auction Donated Mobile Phones Online",
+    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Kerala to Auction Seized Vehicles",
-      "price": "The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
-      "raw_text": "Kerala to Auction Seized Vehicles The Kerala Excise Department is conducting auctions for seized vehicles, including cars, bikes, and auto-rickshaws, across various districts of Kerala. Eauctions India Undo Haryana Housing Board Launches Residential Property E-Auction Haryana Housing Board (HBH) ann",
+      "property_name": "TTD to Auction Donated Mobile Phones Online",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
+      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16174,16 +15759,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16192,16 +15777,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16210,16 +15795,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16228,16 +15813,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16246,16 +15831,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16264,16 +15849,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -16282,16 +15867,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
-    "link": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
+    "details": "Vasai RTO E-Auction of Vehicles",
+    "link": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27",
+      "property_name": "Vasai RTO E-Auction of Vehicles",
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/maharashtra-pen-rto-e-auction-2025-60-seized-vehicles-up-for-bidding-on-may-27",
-      "raw_text": "Maharashtra Pen RTO e-Auction 2025: 60 Seized Vehicles Up for Bidding on May 27 eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures",
+      "property_url": "https://www.eauctionsindia.com/blog-details/vasai-rto-e-auction",
+      "raw_text": "Vasai RTO E-Auction of Vehicles eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunitie",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -17872,16 +17457,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Keep on reading Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar wil",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "Keep on reading How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -17890,16 +17475,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -17908,16 +17493,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -17926,16 +17511,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -17944,16 +17529,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -17962,16 +17547,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -17980,16 +17565,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -17998,16 +17583,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -18016,16 +17601,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -18034,16 +17619,16 @@
     "property_type": "Other"
   },
   {
-    "details": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-    "link": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
     "raw": {
-      "property_name": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16",
-      "price": "The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned starting from Re 1.",
-      "property_url": "https://www.eauctionsindia.com/blog-details/bengaluru-police-e-auction-seized-vehicles",
-      "raw_text": "Bengaluru Police to auction seized bikes from Re 1; KTM Duke, Honda Dio among vehicles on March 16 The Bengaluru City Police will conduct an e-auction of seized two-wheelers through MSTC Limited on March 16, 2026. Vehicles including KTM Duke, Honda Dio, Yamaha FZ and Bajaj Pulsar will be auctioned s",
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -24241,132 +23826,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
