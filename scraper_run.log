@@ -4,13 +4,13 @@ Fetching BAANKNET properties...
 BAANKNET: 0 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
-  Found 111 candidate card fragments by text-match
-  Extracted 111 properties so far from https://www.eauctionsindia.com/city/bhiwandi
+  Found 118 candidate card fragments by text-match
+  Extracted 118 properties so far from https://www.eauctionsindia.com/city/bhiwandi
 Scraping https://www.eauctionsindia.com/city/kolhapur...
   Found 118 candidate card fragments by text-match
-  Extracted 229 properties so far from https://www.eauctionsindia.com/city/kolhapur
+  Extracted 236 properties so far from https://www.eauctionsindia.com/city/kolhapur
 Scraping https://www.eauctionsindia.com/city/kalyan...
-  Found 112 candidate card fragments by text-match
+  Found 105 candidate card fragments by text-match
   Extracted 341 properties so far from https://www.eauctionsindia.com/city/kalyan
 Scraping https://www.eauctionsindia.com/city/latur...
   Found 118 candidate card fragments by text-match
@@ -37,14 +37,14 @@ Scraping https://www.eauctionsindia.com/city/raigad...
   Found 118 candidate card fragments by text-match
   Extracted 1282 properties so far from https://www.eauctionsindia.com/city/raigad
 Scraping https://www.eauctionsindia.com/city/pune...
-  Found 111 candidate card fragments by text-match
-  Extracted 1393 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1393
-eauctionsindia: 1393 properties fetched
-Processing stats: 1393 total items, 1393 new, -966 duplicates skipped
+  Found 118 candidate card fragments by text-match
+  Extracted 1400 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1400
+eauctionsindia: 1400 properties fetched
+Processing stats: 1400 total items, 1400 new, -973 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
 Saved state with 427 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 198/1393 items remain
+Applied property-types filter: plots, land, farm hous, bunglow — 198/1400 items remain
 Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=198
-Wrote 1393 items to data/property_listings.json
+Wrote 1400 items to data/property_listings.json
