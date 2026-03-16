@@ -1,5 +1,241 @@
 [
   {
+    "emd_cost": null,
+    "details": "UNDER CONSTRUCTED HOUSE",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/03/16/278616/561607_compressed.jpg",
+    "raw": {
+      "propertyId": "278616",
+      "projectName": null,
+      "price": 2800000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "2",
+      "propertySubType": "Individual House",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/03/16/278616/561607_compressed.jpg",
+      "postedOn": "16-03-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Canara Bank",
+      "summaryDesc": "UNDER CONSTRUCTED HOUSE",
+      "city": "Wadgaon",
+      "cityID": "5095",
+      "stateID": 21,
+      "localities": "VADGAON",
+      "noOfBedRoom": null,
+      "carpetArea": 672.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 74.31111,
+        "lat": 16.83936
+      },
+      "pincode": "416112",
+      "bankPropertyId": "CNRB000105",
+      "availablePhotosCount": 13,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": false,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Bunglow Unit No. 12A, RS No. 230, Swarajyanagari,\r\nNear D Mart at K Vadgaon, Tal. Hatkanangale, Dist.\r\nKolhapur-416112",
+      "statename": "Maharashtra",
+      "districtname": "Kolhapur",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat NO. 404, 4th Floor, A Wing, Building No.2, Dev Shrishti Complex CHSL, Near Rajiv Gandhi School, , Shivaji Nagar Road, Nilemore , Nalasopara (W), Taluka Vasai, Palghar 401203",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "25-03-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "25-03-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "16-03-2026 13:01:32"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "25-03-2026 11:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/03/16/256695/561735_compressed.jpg",
+    "raw": {
+      "propertyId": "256695",
+      "projectName": null,
+      "price": 2430000.0,
+      "pricePerSeqFit": 9250.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/03/16/256695/561735_compressed.jpg",
+      "postedOn": "16-03-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of India",
+      "summaryDesc": "Flat NO. 404, 4th Floor, A Wing, Building No.2, Dev Shrishti Complex CHSL, Near Rajiv Gandhi School, , Shivaji Nagar Road, Nilemore , Nalasopara (W), Taluka Vasai, Palghar 401203",
+      "city": "Vasai Virar",
+      "cityID": "5242",
+      "stateID": 21,
+      "localities": "property is in good location",
+      "noOfBedRoom": null,
+      "carpetArea": 360.0,
+      "builtupArea": 432.0,
+      "furnishedStatus": "Unfurnished",
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "401203",
+      "bankPropertyId": "BKIDMNZ0165SUNITA",
+      "availablePhotosCount": 18,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat NO. 404, 4th Floor, A Wing, Building No.2, Dev Shrishti Complex CHSL, Near Rajiv Gandhi School, , Shivaji Nagar Road, Nilemore , Nalasopara (W), Taluka Vasai, Palghar 401203",
+      "statename": "Maharashtra",
+      "districtname": "Palghar",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "25-03-2026 05:30:00",
+      "auctionEndDateTime": "25-03-2026 11:30:00",
+      "emdStartDateTime": "16-03-2026 13:01:32",
+      "emdEndDateTime": "25-03-2026 11:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No. C702, Siddhivinayak apt.\r\nNakoda heights, Nilemore Nalasopara west 401203",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "25-03-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "25-03-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "16-03-2026 13:01:07"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "25-03-2026 11:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/03/16/267364/561751_compressed.jpg",
+    "raw": {
+      "propertyId": "267364",
+      "projectName": null,
+      "price": 2260000.0,
+      "pricePerSeqFit": 7060.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/03/16/267364/561751_compressed.jpg",
+      "postedOn": "16-03-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of India",
+      "summaryDesc": "Flat No. C702, Siddhivinayak apt.\r\nNakoda heights, Nilemore Nalasopara west 401203",
+      "city": "Vasai Virar",
+      "cityID": "5242",
+      "stateID": 21,
+      "localities": "Property is in good location",
+      "noOfBedRoom": null,
+      "carpetArea": 412.0,
+      "builtupArea": 453.0,
+      "furnishedStatus": "Semi-Furnished",
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "401203",
+      "bankPropertyId": "BKIDMNZ0189HAMIDABEE",
+      "availablePhotosCount": 14,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No. C702, Siddhivinayak apt.\r\nNakoda heights, Nilemore Nalasopara west 401203",
+      "statename": "Maharashtra",
+      "districtname": "Palghar",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "25-03-2026 05:30:00",
+      "auctionEndDateTime": "25-03-2026 11:30:00",
+      "emdStartDateTime": "16-03-2026 13:01:07",
+      "emdEndDateTime": "25-03-2026 11:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
     "details": "Flat 13-04-2026 11:00 AM eAuction Flat in Alwar Bypass Road, Bhiwandi Flat No-807, 8th Floor, Tower ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -1582,132 +1818,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
-    },
-    "source": "eauctionsindia",
-    "city": "Bhiwandi",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/bhiwandi"
     },
@@ -3810,132 +3920,6 @@
     "property_type": "Other"
   },
   {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
     "details": "Kerala to Auction Seized Vehicles",
     "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
     "photos": "",
@@ -5831,132 +5815,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -8059,132 +7917,6 @@
     "property_type": "Other"
   },
   {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/latur"
-    },
-    "source": "eauctionsindia",
-    "city": "Latur",
-    "property_type": "Other"
-  },
-  {
     "details": "Kerala to Auction Seized Vehicles",
     "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
     "photos": "",
@@ -10184,132 +9916,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
@@ -12387,132 +11993,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -14618,132 +14098,6 @@
     "property_type": "Other"
   },
   {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/solapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Solapur",
-    "property_type": "Other"
-  },
-  {
     "details": "Kerala to Auction Seized Vehicles",
     "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
     "photos": "",
@@ -16794,132 +16148,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -18997,132 +18225,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/satara"
-    },
-    "source": "eauctionsindia",
-    "city": "Satara",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -21232,132 +20334,6 @@
     "property_type": "Other"
   },
   {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
     "details": "Kerala to Auction Seized Vehicles",
     "link": "https://www.eauctionsindia.com/blog-details/kerala-to-auction-seized-vehicles",
     "photos": "",
@@ -23408,132 +22384,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/raigad"
     },
@@ -25614,132 +24464,6 @@
       "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
       "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
       "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction oppo",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "TTD to Auction Donated Mobile Phones Online",
-    "link": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_name": "TTD to Auction Donated Mobile Phones Online",
-      "price": "eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction opportunities with transparency and accuracy",
-      "property_url": "https://www.eauctionsindia.com/blog-details/ttd-to-auction-donated-mobile-phones-online",
-      "raw_text": "TTD to Auction Donated Mobile Phones Online eAuctions india is a premier online portal offering comprehensive access to the latest and upcoming bank auctions across India, conducted under the SARFAESI Act, NPA guidelines, and Liquidation Acts. Our platform ensures users stay informed on key auction ",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
