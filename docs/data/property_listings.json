@@ -1,6 +1,76 @@
 [
   {
     "emd_cost": null,
+    "details": "UNDER CONSTRUCTED HOUSE",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/03/16/278616/561607_compressed.jpg",
+    "raw": {
+      "propertyId": "278616",
+      "projectName": null,
+      "price": 2800000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "2",
+      "propertySubType": "Individual House",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/03/16/278616/561607_compressed.jpg",
+      "postedOn": "16-03-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Canara Bank",
+      "summaryDesc": "UNDER CONSTRUCTED HOUSE",
+      "city": "Wadgaon",
+      "cityID": "5095",
+      "stateID": 21,
+      "localities": "VADGAON",
+      "noOfBedRoom": null,
+      "carpetArea": 672.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 74.31111,
+        "lat": 16.83936
+      },
+      "pincode": "416112",
+      "bankPropertyId": "CNRB000105",
+      "availablePhotosCount": 13,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": false,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Bunglow Unit No. 12A, RS No. 230, Swarajyanagari,\r\nNear D Mart at K Vadgaon, Tal. Hatkanangale, Dist.\r\nKolhapur-416112",
+      "statename": "Maharashtra",
+      "districtname": "Kolhapur",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
     "details": "Flat No: 706, 7th Floor, Building No. 4/D,  Shanti Sadan SRA CHSL, Sangharsh Nagar, Village \u2013 Chandivali, Tal Kurla and Dist Mumbai  Andheri East- 400072",
     "important_dates": [
       {
@@ -2569,6 +2639,102 @@
     "property_type": "Other"
   },
   {
+    "details": "Machinary 13-04-2026 05:00 PM eAuction Machinary in Gadhingalaj, Kolhapur Description of the Propert",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "13-04-2026 05:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b919,53,840.00",
+      "auction_date": "13-04-2026 05:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Machinary 13-04-2026 05:00 PM eAuction Machinary in Gadhingalaj, Kolhapur Description of the Property: Various machineries related to Bakery Products situated at Ga... Auction ID :# 725185 Reserve Price : \u20b919,53,840.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Machinary 13-04-2026 05:00 PM eAuction Machinary in Gadhingalaj, Kolhapur Description of the Propert",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "13-04-2026 05:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b919,53,840.00",
+      "auction_date": "13-04-2026 05:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Machinary 13-04-2026 05:00 PM eAuction Machinary in Gadhingalaj, Kolhapur Description of the Property: Various machineries related to Bakery Products situated at Ga... Auction ID :# 725185 Reserve Price : \u20b919,53,840.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "eAuction Machinary in Gadhingalaj, Kolhapur Description of the Property: Various machineries related",
+    "link": "https://www.eauctionsindia.com/properties/725185",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/725185",
+      "raw_text": "eAuction Machinary in Gadhingalaj, Kolhapur Description of the Property: Various machineries related to Bakery Products situated at Ga...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 725185 Reserve Price : \u20b919,53,840.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725185",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b919,53,840.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725185",
+      "raw_text": "Auction ID :# 725185 Reserve Price : \u20b919,53,840.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 725185 Reserve Price : \u20b919,53,840.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725185",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b919,53,840.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725185",
+      "raw_text": "Auction ID :# 725185 Reserve Price : \u20b919,53,840.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
     "details": "Flat 13-04-2026 11:00 AM eAuction Flat in Gadhingalaj, Kolhapur Property No. 01- Property Bearing Fl",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -3425,102 +3591,6 @@
       "price": "Reserve Price : \u20b925,95,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/707152",
       "raw_text": "Auction ID :# 707152 Reserve Price : \u20b925,95,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Plant & Machinery 31-03-2026 11:30 AM eAuction Plant & Machinery in Gokul Shirgaon, Kolhapur Plant a",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "31-03-2026 11:30 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,87,000.00",
-      "auction_date": "31-03-2026 11:30 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plant & Machinery 31-03-2026 11:30 AM eAuction Plant & Machinery in Gokul Shirgaon, Kolhapur Plant and Machineries located at Plot No. A-6, & A-7/2, MIDC, Gokul shirgaon, Kolhapur... Auction ID :# 722099 Reserve Price : \u20b96,87,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Plant & Machinery 31-03-2026 11:30 AM eAuction Plant & Machinery in Gokul Shirgaon, Kolhapur Plant a",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "31-03-2026 11:30 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,87,000.00",
-      "auction_date": "31-03-2026 11:30 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plant & Machinery 31-03-2026 11:30 AM eAuction Plant & Machinery in Gokul Shirgaon, Kolhapur Plant and Machineries located at Plot No. A-6, & A-7/2, MIDC, Gokul shirgaon, Kolhapur... Auction ID :# 722099 Reserve Price : \u20b96,87,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "eAuction Plant & Machinery in Gokul Shirgaon, Kolhapur Plant and Machineries located at Plot No. A-6",
-    "link": "https://www.eauctionsindia.com/properties/722099",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/722099",
-      "raw_text": "eAuction Plant & Machinery in Gokul Shirgaon, Kolhapur Plant and Machineries located at Plot No. A-6, & A-7/2, MIDC, Gokul shirgaon, Kolhapur...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 722099 Reserve Price : \u20b96,87,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/722099",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,87,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/722099",
-      "raw_text": "Auction ID :# 722099 Reserve Price : \u20b96,87,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
-    },
-    "source": "eauctionsindia",
-    "city": "Kolhapur",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 722099 Reserve Price : \u20b96,87,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/722099",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,87,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/722099",
-      "raw_text": "Auction ID :# 722099 Reserve Price : \u20b96,87,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kolhapur"
     },
@@ -4815,200 +4885,6 @@
     "property_type": "Other"
   },
   {
-    "details": "Flat 06-02-2026 10:00 AM eAuction Flat in Nilje, Kalyan Flat No. 1905, 19 Floor, D-Wing, Versatile V",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No. 1905, 19 Floor, D-Wing, Versatile Valley, Next to Nilje Gram Panchayat Office, Ka...",
-      "auction_date": "06-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-02-2026 10:00 AM eAuction Flat in Nilje, Kalyan Flat No. 1905, 19 Floor, D-Wing, Versatile Valley, Next to Nilje Gram Panchayat Office, Ka... Auction ID :# 657256 Reserve Price : \u20b954,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 06-02-2026 10:00 AM eAuction Flat in Nilje, Kalyan Flat No. 1905, 19 Floor, D-Wing, Versatile V",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No. 1905, 19 Floor, D-Wing, Versatile Valley, Next to Nilje Gram Panchayat Office, Ka...",
-      "auction_date": "06-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-02-2026 10:00 AM eAuction Flat in Nilje, Kalyan Flat No. 1905, 19 Floor, D-Wing, Versatile Valley, Next to Nilje Gram Panchayat Office, Ka... Auction ID :# 657256 Reserve Price : \u20b954,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Nilje, Kalyan Flat No. 1905, 19 Floor, D-Wing, Versatile Valley, Next to Nilje Gram",
-    "link": "https://www.eauctionsindia.com/properties/657256",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No. 1905, 19 Floor, D-Wing, Versatile Valley, Next to Nilje Gram Panchayat Office, Ka...",
-      "property_url": "https://www.eauctionsindia.com/properties/657256",
-      "raw_text": "eAuction Flat in Nilje, Kalyan Flat No. 1905, 19 Floor, D-Wing, Versatile Valley, Next to Nilje Gram Panchayat Office, Ka...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 657256 Reserve Price : \u20b954,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/657256",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b954,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/657256",
-      "raw_text": "Auction ID :# 657256 Reserve Price : \u20b954,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 657256 Reserve Price : \u20b954,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/657256",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b954,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/657256",
-      "raw_text": "Auction ID :# 657256 Reserve Price : \u20b954,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 06-02-2026 10:00 AM eAuction Flat in Nilje, Kalyan Flat No. 1902, 19\" Floor, D-Wing. Versatile ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No. 1902, 19\" Floor, D-Wing. Versatile Valley, Next to Nilje Gram Panchayat Offi...",
-      "auction_date": "06-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-02-2026 10:00 AM eAuction Flat in Nilje, Kalyan Flat No. 1902, 19\" Floor, D-Wing. Versatile Valley, Next to Nilje Gram Panchayat Offi... Auction ID :# 657255 Reserve Price : \u20b954,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 06-02-2026 10:00 AM eAuction Flat in Nilje, Kalyan Flat No. 1902, 19\" Floor, D-Wing. Versatile ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-02-2026 10:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No. 1902, 19\" Floor, D-Wing. Versatile Valley, Next to Nilje Gram Panchayat Offi...",
-      "auction_date": "06-02-2026 10:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-02-2026 10:00 AM eAuction Flat in Nilje, Kalyan Flat No. 1902, 19\" Floor, D-Wing. Versatile Valley, Next to Nilje Gram Panchayat Offi... Auction ID :# 657255 Reserve Price : \u20b954,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Nilje, Kalyan Flat No. 1902, 19\" Floor, D-Wing. Versatile Valley, Next to Nilje Gra",
-    "link": "https://www.eauctionsindia.com/properties/657255",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No. 1902, 19\" Floor, D-Wing. Versatile Valley, Next to Nilje Gram Panchayat Offi...",
-      "property_url": "https://www.eauctionsindia.com/properties/657255",
-      "raw_text": "eAuction Flat in Nilje, Kalyan Flat No. 1902, 19\" Floor, D-Wing. Versatile Valley, Next to Nilje Gram Panchayat Offi...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 657255 Reserve Price : \u20b954,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/657255",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b954,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/657255",
-      "raw_text": "Auction ID :# 657255 Reserve Price : \u20b954,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 657255 Reserve Price : \u20b954,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/657255",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b954,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/657255",
-      "raw_text": "Auction ID :# 657255 Reserve Price : \u20b954,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/kalyan"
-    },
-    "source": "eauctionsindia",
-    "city": "Kalyan",
-    "property_type": "Other"
-  },
-  {
     "details": "Flat 20-01-2026 11:30 AM eAuction Flat in Kalyan, Kalyan All the piece and parcel of the Residential",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -5622,6 +5498,146 @@
       "price": "Reserve Price : \u20b913,00,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/572592",
       "raw_text": "Auction ID :# 572592 Reserve Price : \u20b913,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "20-09-2025 10:00 AM eAuction Gold Auctions in Kalyan Auction ID :# 554022 View More",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "20-09-2025 10:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "auction_date": "20-09-2025 10:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "20-09-2025 10:00 AM eAuction Gold Auctions in Kalyan Auction ID :# 554022 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "20-09-2025 10:00 AM eAuction Gold Auctions in Kalyan Auction ID :# 554022 View More",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "20-09-2025 10:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "auction_date": "20-09-2025 10:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "20-09-2025 10:00 AM eAuction Gold Auctions in Kalyan Auction ID :# 554022 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 29-08-2025 11:00 AM eAuction Flat in Kalyan, Kalyan Survey No. 33 Flat No.204. 2nd Flr Ad Measu",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "29-08-2025 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b97,00,728.00",
+      "auction_date": "29-08-2025 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 29-08-2025 11:00 AM eAuction Flat in Kalyan, Kalyan Survey No. 33 Flat No.204. 2nd Flr Ad Measuring 489 Sq.Ft. Prabhuvara High Rise B/H Kaka D... Auction ID :# 547765 Reserve Price : \u20b97,00,728.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 29-08-2025 11:00 AM eAuction Flat in Kalyan, Kalyan Survey No. 33 Flat No.204. 2nd Flr Ad Measu",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "29-08-2025 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b97,00,728.00",
+      "auction_date": "29-08-2025 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 29-08-2025 11:00 AM eAuction Flat in Kalyan, Kalyan Survey No. 33 Flat No.204. 2nd Flr Ad Measuring 489 Sq.Ft. Prabhuvara High Rise B/H Kaka D... Auction ID :# 547765 Reserve Price : \u20b97,00,728.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Kalyan, Kalyan Survey No. 33 Flat No.204. 2nd Flr Ad Measuring 489 Sq.Ft. Prabhuvar",
+    "link": "https://www.eauctionsindia.com/properties/547765",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/547765",
+      "raw_text": "eAuction Flat in Kalyan, Kalyan Survey No. 33 Flat No.204. 2nd Flr Ad Measuring 489 Sq.Ft. Prabhuvara High Rise B/H Kaka D...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 547765 Reserve Price : \u20b97,00,728.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/547765",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b97,00,728.00",
+      "property_url": "https://www.eauctionsindia.com/properties/547765",
+      "raw_text": "Auction ID :# 547765 Reserve Price : \u20b97,00,728.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 547765 Reserve Price : \u20b97,00,728.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/547765",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b97,00,728.00",
+      "property_url": "https://www.eauctionsindia.com/properties/547765",
+      "raw_text": "Auction ID :# 547765 Reserve Price : \u20b97,00,728.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -9407,6 +9423,198 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Tardeo, Mumbai 2)\u00a0Flat No 706 7th Floor Bldg No. A1 Samrat",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b963,20,160.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Tardeo, Mumbai 2)\u00a0Flat No 706 7th Floor Bldg No. A1 Samrat Ashok CHSL CTS No. 383 Village Tardeo Tal... Auction ID :# 725314 Reserve Price : \u20b963,20,160.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Tardeo, Mumbai 2)\u00a0Flat No 706 7th Floor Bldg No. A1 Samrat",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b963,20,160.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Tardeo, Mumbai 2)\u00a0Flat No 706 7th Floor Bldg No. A1 Samrat Ashok CHSL CTS No. 383 Village Tardeo Tal... Auction ID :# 725314 Reserve Price : \u20b963,20,160.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Tardeo, Mumbai 2)\u00a0Flat No 706 7th Floor Bldg No. A1 Samrat Ashok CHSL CTS No. 383 V",
+    "link": "https://www.eauctionsindia.com/properties/725314",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/725314",
+      "raw_text": "eAuction Flat in Tardeo, Mumbai 2)\u00a0Flat No 706 7th Floor Bldg No. A1 Samrat Ashok CHSL CTS No. 383 Village Tardeo Tal...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 725314 Reserve Price : \u20b963,20,160.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725314",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b963,20,160.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725314",
+      "raw_text": "Auction ID :# 725314 Reserve Price : \u20b963,20,160.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 725314 Reserve Price : \u20b963,20,160.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725314",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b963,20,160.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725314",
+      "raw_text": "Auction ID :# 725314 Reserve Price : \u20b963,20,160.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Mumbai City, Mumbai 1)\u00a0Flat No. 1404, 14th Floor, Sukun He",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b937,90,800.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Mumbai City, Mumbai 1)\u00a0Flat No. 1404, 14th Floor, Sukun Heights Serenity Tower, Opp Tmc Stadiuam, Kausal... Auction ID :# 725313 Reserve Price : \u20b937,90,800.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Mumbai City, Mumbai 1)\u00a0Flat No. 1404, 14th Floor, Sukun He",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b937,90,800.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Mumbai City, Mumbai 1)\u00a0Flat No. 1404, 14th Floor, Sukun Heights Serenity Tower, Opp Tmc Stadiuam, Kausal... Auction ID :# 725313 Reserve Price : \u20b937,90,800.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Mumbai City, Mumbai 1)\u00a0Flat No. 1404, 14th Floor, Sukun Heights Serenity Tower, Opp",
+    "link": "https://www.eauctionsindia.com/properties/725313",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/725313",
+      "raw_text": "eAuction Flat in Mumbai City, Mumbai 1)\u00a0Flat No. 1404, 14th Floor, Sukun Heights Serenity Tower, Opp Tmc Stadiuam, Kausal...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 725313 Reserve Price : \u20b937,90,800.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725313",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b937,90,800.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725313",
+      "raw_text": "Auction ID :# 725313 Reserve Price : \u20b937,90,800.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 725313 Reserve Price : \u20b937,90,800.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725313",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b937,90,800.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725313",
+      "raw_text": "Auction ID :# 725313 Reserve Price : \u20b937,90,800.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
     "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Goregaon, Mumbai Flat No. 706, 7h Floor, C Wing, Navbharat",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -9783,198 +9991,6 @@
       "price": "Reserve Price : \u20b91,30,50,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/711380",
       "raw_text": "Auction ID :# 711380 Reserve Price : \u20b91,30,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Land 15-04-2026 02:00 PM eAuction Land in Kurla, Mumbai Unit No101, 1st Floor, Favourite operative I",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "15-04-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b971,69,000.00",
-      "auction_date": "15-04-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 15-04-2026 02:00 PM eAuction Land in Kurla, Mumbai Unit No101, 1st Floor, Favourite operative Industrial Co-Housing Society Limited, Famous I... Auction ID :# 711379 Reserve Price : \u20b971,69,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Land"
-  },
-  {
-    "details": "Land 15-04-2026 02:00 PM eAuction Land in Kurla, Mumbai Unit No101, 1st Floor, Favourite operative I",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "15-04-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b971,69,000.00",
-      "auction_date": "15-04-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 15-04-2026 02:00 PM eAuction Land in Kurla, Mumbai Unit No101, 1st Floor, Favourite operative Industrial Co-Housing Society Limited, Famous I... Auction ID :# 711379 Reserve Price : \u20b971,69,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Land"
-  },
-  {
-    "details": "eAuction Land in Kurla, Mumbai Unit No101, 1st Floor, Favourite operative Industrial Co-Housing Soci",
-    "link": "https://www.eauctionsindia.com/properties/711379",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/711379",
-      "raw_text": "eAuction Land in Kurla, Mumbai Unit No101, 1st Floor, Favourite operative Industrial Co-Housing Society Limited, Famous I...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Land"
-  },
-  {
-    "details": "Auction ID :# 711379 Reserve Price : \u20b971,69,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/711379",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b971,69,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/711379",
-      "raw_text": "Auction ID :# 711379 Reserve Price : \u20b971,69,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 711379 Reserve Price : \u20b971,69,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/711379",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b971,69,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/711379",
-      "raw_text": "Auction ID :# 711379 Reserve Price : \u20b971,69,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Land 15-04-2026 02:00 PM eAuction Land in Kurla, Mumbai Unit No 102, 1st Floor, Favourite operative ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "15-04-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b958,81,000.00",
-      "auction_date": "15-04-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 15-04-2026 02:00 PM eAuction Land in Kurla, Mumbai Unit No 102, 1st Floor, Favourite operative Industrial Co-Housing Society Limited, Famous... Auction ID :# 711378 Reserve Price : \u20b958,81,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Land"
-  },
-  {
-    "details": "Land 15-04-2026 02:00 PM eAuction Land in Kurla, Mumbai Unit No 102, 1st Floor, Favourite operative ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "15-04-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b958,81,000.00",
-      "auction_date": "15-04-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 15-04-2026 02:00 PM eAuction Land in Kurla, Mumbai Unit No 102, 1st Floor, Favourite operative Industrial Co-Housing Society Limited, Famous... Auction ID :# 711378 Reserve Price : \u20b958,81,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Land"
-  },
-  {
-    "details": "eAuction Land in Kurla, Mumbai Unit No 102, 1st Floor, Favourite operative Industrial Co-Housing Soc",
-    "link": "https://www.eauctionsindia.com/properties/711378",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/711378",
-      "raw_text": "eAuction Land in Kurla, Mumbai Unit No 102, 1st Floor, Favourite operative Industrial Co-Housing Society Limited, Famous...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Land"
-  },
-  {
-    "details": "Auction ID :# 711378 Reserve Price : \u20b958,81,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/711378",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b958,81,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/711378",
-      "raw_text": "Auction ID :# 711378 Reserve Price : \u20b958,81,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/mumbai"
-    },
-    "source": "eauctionsindia",
-    "city": "Mumbai",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 711378 Reserve Price : \u20b958,81,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/711378",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b958,81,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/711378",
-      "raw_text": "Auction ID :# 711378 Reserve Price : \u20b958,81,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
@@ -15921,6 +15937,102 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 16-04-2026 11:00 AM eAuction Flat in Bhiwandi, Thane All That piece and parcels of residential ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "16-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,60,000.00",
+      "auction_date": "16-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 16-04-2026 11:00 AM eAuction Flat in Bhiwandi, Thane All That piece and parcels of residential flat bearing, ad measuring about 465.00 Sq. Feet... Auction ID :# 725399 Reserve Price : \u20b921,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 16-04-2026 11:00 AM eAuction Flat in Bhiwandi, Thane All That piece and parcels of residential ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "16-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,60,000.00",
+      "auction_date": "16-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 16-04-2026 11:00 AM eAuction Flat in Bhiwandi, Thane All That piece and parcels of residential flat bearing, ad measuring about 465.00 Sq. Feet... Auction ID :# 725399 Reserve Price : \u20b921,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Bhiwandi, Thane All That piece and parcels of residential flat bearing, ad measurin",
+    "link": "https://www.eauctionsindia.com/properties/725399",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/725399",
+      "raw_text": "eAuction Flat in Bhiwandi, Thane All That piece and parcels of residential flat bearing, ad measuring about 465.00 Sq. Feet...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 725399 Reserve Price : \u20b921,60,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725399",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,60,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725399",
+      "raw_text": "Auction ID :# 725399 Reserve Price : \u20b921,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 725399 Reserve Price : \u20b921,60,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725399",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b921,60,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725399",
+      "raw_text": "Auction ID :# 725399 Reserve Price : \u20b921,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
     "details": "Flat 16-04-2026 11:00 AM eAuction Flat in Ambarnath, Thane Flat No 315, 3rd Floor, A Wing. Building ",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -16489,102 +16601,6 @@
       "price": "Reserve Price : \u20b931,35,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/713008",
       "raw_text": "Auction ID :# 713008 Reserve Price : \u20b931,35,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 16-04-2026 11:00 AM eAuction Flat in Ghodbunder Road,, Thane Description Of The Immovable Prope",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "16-04-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b952,16,400.00",
-      "auction_date": "16-04-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 16-04-2026 11:00 AM eAuction Flat in Ghodbunder Road,, Thane Description Of The Immovable Property/ Secured Asset: All that piece and parcel of the pro... Auction ID :# 713007 Reserve Price : \u20b952,16,400.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 16-04-2026 11:00 AM eAuction Flat in Ghodbunder Road,, Thane Description Of The Immovable Prope",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "16-04-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b952,16,400.00",
-      "auction_date": "16-04-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 16-04-2026 11:00 AM eAuction Flat in Ghodbunder Road,, Thane Description Of The Immovable Property/ Secured Asset: All that piece and parcel of the pro... Auction ID :# 713007 Reserve Price : \u20b952,16,400.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Ghodbunder Road,, Thane Description Of The Immovable Property/ Secured Asset: All t",
-    "link": "https://www.eauctionsindia.com/properties/713007",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/713007",
-      "raw_text": "eAuction Flat in Ghodbunder Road,, Thane Description Of The Immovable Property/ Secured Asset: All that piece and parcel of the pro...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 713007 Reserve Price : \u20b952,16,400.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/713007",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b952,16,400.00",
-      "property_url": "https://www.eauctionsindia.com/properties/713007",
-      "raw_text": "Auction ID :# 713007 Reserve Price : \u20b952,16,400.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/thane"
-    },
-    "source": "eauctionsindia",
-    "city": "Thane",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 713007 Reserve Price : \u20b952,16,400.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/713007",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b952,16,400.00",
-      "property_url": "https://www.eauctionsindia.com/properties/713007",
-      "raw_text": "Auction ID :# 713007 Reserve Price : \u20b952,16,400.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/thane"
     },
@@ -22247,6 +22263,294 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Kholapur, Raigad 9)\u00a0Flat No.301, On 3rd Floor, Ameer Villa",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,47,370.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Kholapur, Raigad 9)\u00a0Flat No.301, On 3rd Floor, Ameer Villa S.No 68/5B+CTS No 1135 (Part), Plot No. 2,... Auction ID :# 725337 Reserve Price : \u20b915,47,370.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Kholapur, Raigad 9)\u00a0Flat No.301, On 3rd Floor, Ameer Villa",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,47,370.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Kholapur, Raigad 9)\u00a0Flat No.301, On 3rd Floor, Ameer Villa S.No 68/5B+CTS No 1135 (Part), Plot No. 2,... Auction ID :# 725337 Reserve Price : \u20b915,47,370.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Kholapur, Raigad 9)\u00a0Flat No.301, On 3rd Floor, Ameer Villa S.No 68/5B+CTS No 1135 (",
+    "link": "https://www.eauctionsindia.com/properties/725337",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/725337",
+      "raw_text": "eAuction Flat in Kholapur, Raigad 9)\u00a0Flat No.301, On 3rd Floor, Ameer Villa S.No 68/5B+CTS No 1135 (Part), Plot No. 2,...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 725337 Reserve Price : \u20b915,47,370.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725337",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,47,370.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725337",
+      "raw_text": "Auction ID :# 725337 Reserve Price : \u20b915,47,370.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 725337 Reserve Price : \u20b915,47,370.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725337",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b915,47,370.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725337",
+      "raw_text": "Auction ID :# 725337 Reserve Price : \u20b915,47,370.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Panvel, Raigad 5)\u00a0Flat No.605, 6th Flr, Swaraj Heights, Se",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b938,07,000.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Panvel, Raigad 5)\u00a0Flat No.605, 6th Flr, Swaraj Heights, Sector-3, Karanjade. Plot No 61 Taluka Panve... Auction ID :# 725317 Reserve Price : \u20b938,07,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Panvel, Raigad 5)\u00a0Flat No.605, 6th Flr, Swaraj Heights, Se",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b938,07,000.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Panvel, Raigad 5)\u00a0Flat No.605, 6th Flr, Swaraj Heights, Sector-3, Karanjade. Plot No 61 Taluka Panve... Auction ID :# 725317 Reserve Price : \u20b938,07,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Panvel, Raigad 5)\u00a0Flat No.605, 6th Flr, Swaraj Heights, Sector-3, Karanjade. Plot N",
+    "link": "https://www.eauctionsindia.com/properties/725317",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/725317",
+      "raw_text": "eAuction Flat in Panvel, Raigad 5)\u00a0Flat No.605, 6th Flr, Swaraj Heights, Sector-3, Karanjade. Plot No 61 Taluka Panve...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 725317 Reserve Price : \u20b938,07,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725317",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b938,07,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725317",
+      "raw_text": "Auction ID :# 725317 Reserve Price : \u20b938,07,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 725317 Reserve Price : \u20b938,07,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725317",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b938,07,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725317",
+      "raw_text": "Auction ID :# 725317 Reserve Price : \u20b938,07,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Panvel, Raigad 3)\u00a0Flat No 305 3rd Floor Bhoomi Abode Plot ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b933,94,800.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Panvel, Raigad 3)\u00a0Flat No 305 3rd Floor Bhoomi Abode Plot No 82 Sector No 2a Karanjade Tal Panvel Di... Auction ID :# 725315 Reserve Price : \u20b933,94,800.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 15-04-2026 02:00 PM eAuction Flat in Panvel, Raigad 3)\u00a0Flat No 305 3rd Floor Bhoomi Abode Plot ",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15-04-2026 02:00 PM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b933,94,800.00",
+      "auction_date": "15-04-2026 02:00 PM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 15-04-2026 02:00 PM eAuction Flat in Panvel, Raigad 3)\u00a0Flat No 305 3rd Floor Bhoomi Abode Plot No 82 Sector No 2a Karanjade Tal Panvel Di... Auction ID :# 725315 Reserve Price : \u20b933,94,800.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Panvel, Raigad 3)\u00a0Flat No 305 3rd Floor Bhoomi Abode Plot No 82 Sector No 2a Karanj",
+    "link": "https://www.eauctionsindia.com/properties/725315",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/725315",
+      "raw_text": "eAuction Flat in Panvel, Raigad 3)\u00a0Flat No 305 3rd Floor Bhoomi Abode Plot No 82 Sector No 2a Karanjade Tal Panvel Di...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 725315 Reserve Price : \u20b933,94,800.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725315",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b933,94,800.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725315",
+      "raw_text": "Auction ID :# 725315 Reserve Price : \u20b933,94,800.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 725315 Reserve Price : \u20b933,94,800.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/725315",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b933,94,800.00",
+      "property_url": "https://www.eauctionsindia.com/properties/725315",
+      "raw_text": "Auction ID :# 725315 Reserve Price : \u20b933,94,800.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
     "details": "Flat 15-04-2026 02:00 PM eAuction Flat in New Panvel, Raigad Flat No. 01, Ground Floor, Building kno",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -22911,296 +23215,6 @@
       "price": "Reserve Price : \u20b922,98,600.00",
       "property_url": "https://www.eauctionsindia.com/properties/707670",
       "raw_text": "Auction ID :# 707670 Reserve Price : \u20b922,98,600.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 07-04-2026 02:00 PM eAuction Flat in Khalapur, Raigad Equitable mortgage of all that part and p",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "07-04-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b914,85,000.00",
-      "auction_date": "07-04-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 07-04-2026 02:00 PM eAuction Flat in Khalapur, Raigad Equitable mortgage of all that part and parcel of the property consisting of Flat No. A-20... Auction ID :# 707668 Reserve Price : \u20b914,85,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 07-04-2026 02:00 PM eAuction Flat in Khalapur, Raigad Equitable mortgage of all that part and p",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "07-04-2026 02:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b914,85,000.00",
-      "auction_date": "07-04-2026 02:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 07-04-2026 02:00 PM eAuction Flat in Khalapur, Raigad Equitable mortgage of all that part and parcel of the property consisting of Flat No. A-20... Auction ID :# 707668 Reserve Price : \u20b914,85,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Khalapur, Raigad Equitable mortgage of all that part and parcel of the property con",
-    "link": "https://www.eauctionsindia.com/properties/707668",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/707668",
-      "raw_text": "eAuction Flat in Khalapur, Raigad Equitable mortgage of all that part and parcel of the property consisting of Flat No. A-20...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 707668 Reserve Price : \u20b914,85,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/707668",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b914,85,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/707668",
-      "raw_text": "Auction ID :# 707668 Reserve Price : \u20b914,85,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 707668 Reserve Price : \u20b914,85,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/707668",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b914,85,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/707668",
-      "raw_text": "Auction ID :# 707668 Reserve Price : \u20b914,85,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Plot 06-04-2026 03:00 PM eAuction Plot in Khalapur, Raigad Plot No. A-19/B area adm 2475.00 sq meter",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-04-2026 03:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Plot No. A-19/B area adm 2475.00 sq meters, along with construction factory building area...",
-      "auction_date": "06-04-2026 03:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 06-04-2026 03:00 PM eAuction Plot in Khalapur, Raigad Plot No. A-19/B area adm 2475.00 sq meters, along with construction factory building area... Auction ID :# 711027 Reserve Price : \u20b96,79,70,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Plot 06-04-2026 03:00 PM eAuction Plot in Khalapur, Raigad Plot No. A-19/B area adm 2475.00 sq meter",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-04-2026 03:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Plot No. A-19/B area adm 2475.00 sq meters, along with construction factory building area...",
-      "auction_date": "06-04-2026 03:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 06-04-2026 03:00 PM eAuction Plot in Khalapur, Raigad Plot No. A-19/B area adm 2475.00 sq meters, along with construction factory building area... Auction ID :# 711027 Reserve Price : \u20b96,79,70,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Plot"
-  },
-  {
-    "details": "eAuction Plot in Khalapur, Raigad Plot No. A-19/B area adm 2475.00 sq meters, along with constructio",
-    "link": "https://www.eauctionsindia.com/properties/711027",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Plot No. A-19/B area adm 2475.00 sq meters, along with construction factory building area...",
-      "property_url": "https://www.eauctionsindia.com/properties/711027",
-      "raw_text": "eAuction Plot in Khalapur, Raigad Plot No. A-19/B area adm 2475.00 sq meters, along with construction factory building area...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 711027 Reserve Price : \u20b96,79,70,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/711027",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,79,70,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/711027",
-      "raw_text": "Auction ID :# 711027 Reserve Price : \u20b96,79,70,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 711027 Reserve Price : \u20b96,79,70,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/711027",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b96,79,70,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/711027",
-      "raw_text": "Auction ID :# 711027 Reserve Price : \u20b96,79,70,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 06-04-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No.506, 5th Floor, Bhagirath Residency",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-04-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No.506, 5th Floor, Bhagirath Residency, Plot No. 04, Sector-10, Sq.mtrs, Other Usable...",
-      "auction_date": "06-04-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-04-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No.506, 5th Floor, Bhagirath Residency, Plot No. 04, Sector-10, Sq.mtrs, Other Usable... Auction ID :# 711057 Reserve Price : \u20b922,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 06-04-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No.506, 5th Floor, Bhagirath Residency",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06-04-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No.506, 5th Floor, Bhagirath Residency, Plot No. 04, Sector-10, Sq.mtrs, Other Usable...",
-      "auction_date": "06-04-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 06-04-2026 11:00 AM eAuction Flat in Panvel, Raigad Flat No.506, 5th Floor, Bhagirath Residency, Plot No. 04, Sector-10, Sq.mtrs, Other Usable... Auction ID :# 711057 Reserve Price : \u20b922,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Panvel, Raigad Flat No.506, 5th Floor, Bhagirath Residency, Plot No. 04, Sector-10,",
-    "link": "https://www.eauctionsindia.com/properties/711057",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No.506, 5th Floor, Bhagirath Residency, Plot No. 04, Sector-10, Sq.mtrs, Other Usable...",
-      "property_url": "https://www.eauctionsindia.com/properties/711057",
-      "raw_text": "eAuction Flat in Panvel, Raigad Flat No.506, 5th Floor, Bhagirath Residency, Plot No. 04, Sector-10, Sq.mtrs, Other Usable...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 711057 Reserve Price : \u20b922,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/711057",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b922,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/711057",
-      "raw_text": "Auction ID :# 711057 Reserve Price : \u20b922,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/raigad"
-    },
-    "source": "eauctionsindia",
-    "city": "Raigad",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 711057 Reserve Price : \u20b922,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/711057",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b922,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/711057",
-      "raw_text": "Auction ID :# 711057 Reserve Price : \u20b922,50,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/raigad"
     },
