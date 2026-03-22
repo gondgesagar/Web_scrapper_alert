@@ -4,19 +4,19 @@ Fetching BAANKNET properties...
 BAANKNET: 0 properties fetched
 Fetching eauctionsindia properties...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
-  Found 110 candidate card fragments by text-match
-  Extracted 110 properties so far from https://www.eauctionsindia.com/city/bhiwandi
+  Found 118 candidate card fragments by text-match
+  Extracted 118 properties so far from https://www.eauctionsindia.com/city/bhiwandi
 Scraping https://www.eauctionsindia.com/city/kolhapur...
   Found 110 candidate card fragments by text-match
-  Extracted 220 properties so far from https://www.eauctionsindia.com/city/kolhapur
+  Extracted 228 properties so far from https://www.eauctionsindia.com/city/kolhapur
 Scraping https://www.eauctionsindia.com/city/kalyan...
   Found 109 candidate card fragments by text-match
-  Extracted 329 properties so far from https://www.eauctionsindia.com/city/kalyan
+  Extracted 337 properties so far from https://www.eauctionsindia.com/city/kalyan
 Scraping https://www.eauctionsindia.com/city/latur...
   Found 110 candidate card fragments by text-match
-  Extracted 439 properties so far from https://www.eauctionsindia.com/city/latur
+  Extracted 447 properties so far from https://www.eauctionsindia.com/city/latur
 Scraping https://www.eauctionsindia.com/city/mumbai...
-  Found 115 candidate card fragments by text-match
+  Found 107 candidate card fragments by text-match
   Extracted 554 properties so far from https://www.eauctionsindia.com/city/mumbai
 Scraping https://www.eauctionsindia.com/city/sindhudurg...
   Found 118 candidate card fragments by text-match
@@ -28,23 +28,23 @@ Scraping https://www.eauctionsindia.com/city/thane...
   Found 118 candidate card fragments by text-match
   Extracted 908 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
-  Found 117 candidate card fragments by text-match
-  Extracted 1025 properties so far from https://www.eauctionsindia.com/city/satara
-Scraping https://www.eauctionsindia.com/city/ratnagiri...
-  Found 117 candidate card fragments by text-match
-  Extracted 1142 properties so far from https://www.eauctionsindia.com/city/ratnagiri
-Scraping https://www.eauctionsindia.com/city/raigad...
-  Found 117 candidate card fragments by text-match
-  Extracted 1259 properties so far from https://www.eauctionsindia.com/city/raigad
-Scraping https://www.eauctionsindia.com/city/pune...
   Found 110 candidate card fragments by text-match
-  Extracted 1369 properties so far from https://www.eauctionsindia.com/city/pune
-Total eauctionsindia properties fetched: 1369
-eauctionsindia: 1369 properties fetched
-Processing stats: 1369 total items, 1369 new, -936 duplicates skipped
+  Extracted 1018 properties so far from https://www.eauctionsindia.com/city/satara
+Scraping https://www.eauctionsindia.com/city/ratnagiri...
+  Found 110 candidate card fragments by text-match
+  Extracted 1128 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+Scraping https://www.eauctionsindia.com/city/raigad...
+  Found 118 candidate card fragments by text-match
+  Extracted 1246 properties so far from https://www.eauctionsindia.com/city/raigad
+Scraping https://www.eauctionsindia.com/city/pune...
+  Found 118 candidate card fragments by text-match
+  Extracted 1364 properties so far from https://www.eauctionsindia.com/city/pune
+Total eauctionsindia properties fetched: 1364
+eauctionsindia: 1364 properties fetched
+Processing stats: 1364 total items, 1364 new, -930 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 433 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 145/1369 items remain
+Saved state with 434 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 145/1364 items remain
 Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=145
-Wrote 1369 items to data/property_listings.json
+Wrote 1364 items to data/property_listings.json
