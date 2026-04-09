@@ -29,11 +29,11 @@ Scraping https://www.eauctionsindia.com/city/pune...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/pune
 Total eauctionsindia properties fetched: 0
 eauctionsindia: 0 properties fetched
-Processing stats: 5 total items, 5 new, 0 duplicates skipped
+Processing stats: 4 total items, 4 new, 0 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 5 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 0/5 items remain
+Saved state with 4 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 0/4 items remain
 No new auctions found; skipping email.
-Saved 5 pincodes to cache.
+Saved 6 pincodes to cache.
 NEW_AUCTIONS_COUNT=0
-Wrote 5 items to data/property_listings.json
+Wrote 4 items to data/property_listings.json
