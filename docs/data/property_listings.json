@@ -1,5 +1,454 @@
 [
   {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281785/569338_compressed.jpg",
+    "raw": {
+      "propertyId": "281785",
+      "projectName": "SAPTASIDDHI SAVALI HOMES URULI DEVACHI",
+      "price": 2375000.0,
+      "pricePerSeqFit": 3875.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281785/569338_compressed.jpg",
+      "postedOn": "09-04-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": null,
+      "city": "Pune",
+      "cityID": "5286",
+      "stateID": 21,
+      "localities": "URULI DEVACHI HADAPSAR",
+      "noOfBedRoom": 1,
+      "carpetArea": 44.51,
+      "builtupArea": 57.0,
+      "furnishedStatus": null,
+      "floorNo": 10,
+      "totalNoOfFloors": 11,
+      "facing": "West",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 73.5731,
+        "lat": 18.271
+      },
+      "pincode": "412308",
+      "bankPropertyId": "SBINCRAMC65162APR1",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": false,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "FLAT NO 1006 10TH FLOOR BUILDING NO A SAVALI HOMES SURVEY NO 153  URULI DEVACHI PUNE 412308",
+      "statename": "Maharashtra",
+      "districtname": "Pune",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281861/569533_compressed.jpg",
+    "raw": {
+      "propertyId": "281861",
+      "projectName": "SKYI SONGBIRDS BHUGAON",
+      "price": 13400000.0,
+      "pricePerSeqFit": 8000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281861/569533_compressed.jpg",
+      "postedOn": "09-04-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": null,
+      "city": "Lavasa",
+      "cityID": "5278",
+      "stateID": 21,
+      "localities": "BHUGAON",
+      "noOfBedRoom": null,
+      "carpetArea": 1677.03,
+      "builtupArea": 2180.0,
+      "furnishedStatus": "Semi-Furnished",
+      "floorNo": 11,
+      "totalNoOfFloors": 13,
+      "facing": "North",
+      "amenities": [
+        "Reserved Parking",
+        "Lift",
+        "Gymnasium",
+        "Kids play area",
+        "Club House"
+      ],
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 73.4501,
+        "lat": 18.2949
+      },
+      "pincode": "412115",
+      "bankPropertyId": "SBINCRAMC65162MAY4",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": false,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "FLAT NO 1104 11TH FLOOR BUILDING NO 13 \"SKYI SONGBIRDS\" S NO 274/1 BHUGAON , TALUKA MULSHI DISTRICT PUNE 412115",
+      "statename": "Maharashtra",
+      "districtname": "Pune",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": 2,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281783/569310_compressed.jpg",
+    "raw": {
+      "propertyId": "281783",
+      "projectName": "SWAMI SAMARTH ERANDE COMPLEX KAMSHET",
+      "price": 2407000.0,
+      "pricePerSeqFit": 2800.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281783/569310_compressed.jpg",
+      "postedOn": "09-04-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": null,
+      "city": "Kamshet",
+      "cityID": "5271",
+      "stateID": 21,
+      "localities": "KAMSHET, TALUKA MAVAL, NEAR MAVAL DISTRICT COURT",
+      "noOfBedRoom": null,
+      "carpetArea": 608.6,
+      "builtupArea": 859.0,
+      "furnishedStatus": "Semi-Furnished",
+      "floorNo": 1,
+      "totalNoOfFloors": 4,
+      "facing": "South",
+      "amenities": [
+        "Reserved Parking",
+        "Lift"
+      ],
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 73.559426,
+        "lat": 18.761597
+      },
+      "pincode": "410405",
+      "bankPropertyId": "SBIN65162CRAMCMAY1",
+      "availablePhotosCount": 20,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": false,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "FLAT NO 106 B WING SWAMI SAMARTH ERANDE COMPLEX KAMSHET KHADKALE MAVAL PUNE 410405",
+      "statename": "Maharashtra",
+      "districtname": "Pune",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": 1,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": "2 BHK Flat near SBI Shahganj Branch",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "28-04-2026 05:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "28-04-2026 11:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "29-04-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "29-04-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "09-04-2026 14:24:34"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "29-04-2026 09:30:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/12/274402/540583_compressed.jpg",
+    "raw": {
+      "propertyId": "274402",
+      "projectName": "Mecca Market",
+      "price": 2900000.0,
+      "pricePerSeqFit": 42303.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/12/274402/540583_compressed.jpg",
+      "postedOn": "09-04-2026",
+      "developerName": "AL TAMER INFRA ESTATE",
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "2 BHK Flat near SBI Shahganj Branch",
+      "city": "Chhatrapati Sambhajinagar",
+      "cityID": "4969",
+      "stateID": 21,
+      "localities": "Shahgunj ,",
+      "noOfBedRoom": 2,
+      "carpetArea": 50.93,
+      "builtupArea": 73.0,
+      "furnishedStatus": null,
+      "floorNo": 3,
+      "totalNoOfFloors": 3,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "431001",
+      "bankPropertyId": "SBIN001295382",
+      "availablePhotosCount": 22,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat no B-12 , Third Floor, Mecca Market, Sheet no 45 of CTS 10213/1, Shahgunj ,  Chh Sambhajinagar admeasuring 50.93 sq mts  carpet  and 73.28 sq mtrs builtup",
+      "statename": "Maharashtra",
+      "districtname": "Chhatrapati Sambhaji Nagar",
+      "inspectionStartDateTime": "28-04-2026 05:30:00",
+      "inspectionEndDateTime": "28-04-2026 11:30:00",
+      "auctionStartDateTime": "29-04-2026 05:30:00",
+      "auctionEndDateTime": "29-04-2026 11:30:00",
+      "emdStartDateTime": "09-04-2026 14:24:34",
+      "emdEndDateTime": "29-04-2026 09:30:00",
+      "noOfCarParking": 1,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
+    "details": "FLAT NO 713, 7TH FLOOR , DEVARSHI APARTMENT NEAR MAHAVIR GAURAV COMPLEX SY NO 9 CTS NO 525/10 OF BHANDUP OFF MD KENI ROAD BHANDUP EAST MUMBAI -400042",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/06/21/232233/359951_compressed.jpg",
+    "raw": {
+      "propertyId": "232233",
+      "projectName": null,
+      "price": 14000000.0,
+      "pricePerSeqFit": 13500.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/06/21/232233/359951_compressed.jpg",
+      "postedOn": "08-04-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Punjab National Bank",
+      "summaryDesc": "FLAT NO 713, 7TH FLOOR , DEVARSHI APARTMENT NEAR MAHAVIR GAURAV COMPLEX SY NO 9 CTS NO 525/10 OF BHANDUP OFF MD KENI ROAD BHANDUP EAST MUMBAI -400042",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": "BHANDUP EAST",
+      "noOfBedRoom": null,
+      "carpetArea": 529.0,
+      "builtupArea": 635.0,
+      "furnishedStatus": "Unfurnished",
+      "floorNo": 7,
+      "totalNoOfFloors": 7,
+      "facing": null,
+      "amenities": [
+        "Lift"
+      ],
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 72.56447,
+        "lat": 19.95256
+      },
+      "pincode": "400042",
+      "bankPropertyId": "PUNBCS6041SULBHAPIMPUTKAR",
+      "availablePhotosCount": 5,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "FLAT NO 713, 7TH FLOOR , DEVARSHI APARTMENT NEAR MAHAVIR GAURAV COMPLEX SY NO 9 CTS NO 525/10 OF BHANDUP OFF MD KENI ROAD BHANDUP EAST MUMBAI -400042",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No F-09, 3rd Floor, City Tower Plot no 5 &7 CTS no 11489/1, opp Moulana Azad Collage Roza Baugh Tq & Dist Chatrapati Sambhaji Nagar 431 001",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/01/269966/517195_compressed.jpg",
+    "raw": {
+      "propertyId": "269966",
+      "projectName": "city tower",
+      "price": 1755000.0,
+      "pricePerSeqFit": 46000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/01/269966/517195_compressed.jpg",
+      "postedOn": "08-04-2026",
+      "developerName": "City Tower",
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Flat No F-09, 3rd Floor, City Tower Plot no 5 &7 CTS no 11489/1, opp Moulana Azad Collage Roza Baugh Tq & Dist Chatrapati Sambhaji Nagar 431 001",
+      "city": "Chhatrapati Sambhajinagar",
+      "cityID": "4969",
+      "stateID": 21,
+      "localities": "roza baugh",
+      "noOfBedRoom": 2,
+      "carpetArea": 50.16,
+      "builtupArea": 76.0,
+      "furnishedStatus": null,
+      "floorNo": 3,
+      "totalNoOfFloors": 4,
+      "facing": "South",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "431001",
+      "bankPropertyId": "SBIN001295377",
+      "availablePhotosCount": 15,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No F-09, 3rd Floor, City Tower Plot no 5 &7 CTS no 11489/1, opp Moulana Azad Collage Roza Baugh Tq & Dist Chatrapati Sambhaji Nagar 431 001",
+      "statename": "Maharashtra",
+      "districtname": "Chhatrapati Sambhaji Nagar",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": 1,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
     "details": "LATEST 104 Government Vehicles E-Auction in Visakhapatnam \u2013 Complete Guide & Auction Schedule Public",
     "link": "https://vdo.ai/contact?utm_medium=video&utm_term=eauctionsindia.com&utm_source=vdoai_logo",
     "photos": "",
@@ -11543,6 +11992,390 @@
     "property_type": "Other"
   },
   {
+    "details": "House 28-04-2026 11:00 AM eAuction House in Kankavli, Sindhudurg 1 BHK flat No. S 5 (205) (SF), Hous",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b94,96,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "House 28-04-2026 11:00 AM eAuction House in Kankavli, Sindhudurg 1 BHK flat No. S 5 (205) (SF), House No 933, Ekdant Aparts.ent, Gat no 33/4, Plot No. 4, v... Auction ID :# 741978 Reserve Price : \u20b94,96,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "House 28-04-2026 11:00 AM eAuction House in Kankavli, Sindhudurg 1 BHK flat No. S 5 (205) (SF), Hous",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b94,96,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "House 28-04-2026 11:00 AM eAuction House in Kankavli, Sindhudurg 1 BHK flat No. S 5 (205) (SF), House No 933, Ekdant Aparts.ent, Gat no 33/4, Plot No. 4, v... Auction ID :# 741978 Reserve Price : \u20b94,96,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction House in Kankavli, Sindhudurg 1 BHK flat No. S 5 (205) (SF), House No 933, Ekdant Aparts.en",
+    "link": "https://www.eauctionsindia.com/properties/741978",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/741978",
+      "raw_text": "eAuction House in Kankavli, Sindhudurg 1 BHK flat No. S 5 (205) (SF), House No 933, Ekdant Aparts.ent, Gat no 33/4, Plot No. 4, v...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 741978 Reserve Price : \u20b94,96,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741978",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b94,96,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741978",
+      "raw_text": "Auction ID :# 741978 Reserve Price : \u20b94,96,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 741978 Reserve Price : \u20b94,96,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741978",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b94,96,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741978",
+      "raw_text": "Auction ID :# 741978 Reserve Price : \u20b94,96,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 2 BHK Flat No S4, 2nd floor, Neon Sqaure",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b920,80,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 2 BHK Flat No S4, 2nd floor, Neon Sqaure Apartment, S. No. 11 B1, Gondhalpur Pinguli Tal K... Auction ID :# 741977 Reserve Price : \u20b920,80,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 2 BHK Flat No S4, 2nd floor, Neon Sqaure",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b920,80,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 2 BHK Flat No S4, 2nd floor, Neon Sqaure Apartment, S. No. 11 B1, Gondhalpur Pinguli Tal K... Auction ID :# 741977 Reserve Price : \u20b920,80,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Kudal, Sindhudurg 2 BHK Flat No S4, 2nd floor, Neon Sqaure Apartment, S. No. 11 B1,",
+    "link": "https://www.eauctionsindia.com/properties/741977",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/741977",
+      "raw_text": "eAuction Flat in Kudal, Sindhudurg 2 BHK Flat No S4, 2nd floor, Neon Sqaure Apartment, S. No. 11 B1, Gondhalpur Pinguli Tal K...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 741977 Reserve Price : \u20b920,80,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741977",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b920,80,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741977",
+      "raw_text": "Auction ID :# 741977 Reserve Price : \u20b920,80,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 741977 Reserve Price : \u20b920,80,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741977",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b920,80,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741977",
+      "raw_text": "Auction ID :# 741977 Reserve Price : \u20b920,80,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A202, 3RD Floor, Sai Prati",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,95,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A202, 3RD Floor, Sai Pratik (Durga sai prateek apartment) S. No. 171A1, Hits... Auction ID :# 741976 Reserve Price : \u20b914,95,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A202, 3RD Floor, Sai Prati",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,95,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A202, 3RD Floor, Sai Pratik (Durga sai prateek apartment) S. No. 171A1, Hits... Auction ID :# 741976 Reserve Price : \u20b914,95,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A202, 3RD Floor, Sai Pratik (Durga sai prateek apar",
+    "link": "https://www.eauctionsindia.com/properties/741976",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/741976",
+      "raw_text": "eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A202, 3RD Floor, Sai Pratik (Durga sai prateek apartment) S. No. 171A1, Hits...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 741976 Reserve Price : \u20b914,95,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741976",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,95,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741976",
+      "raw_text": "Auction ID :# 741976 Reserve Price : \u20b914,95,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 741976 Reserve Price : \u20b914,95,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741976",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,95,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741976",
+      "raw_text": "Auction ID :# 741976 Reserve Price : \u20b914,95,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Other"
+  },
+  {
+    "details": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A201, 3RD Floor, Sai Prati",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,35,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A201, 3RD Floor, Sai Pratik (Durga zai prateek apartment) S. No. 171A1, Hiss... Auction ID :# 741973 Reserve Price : \u20b914,35,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A201, 3RD Floor, Sai Prati",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,35,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-04-2026 11:00 AM eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A201, 3RD Floor, Sai Pratik (Durga zai prateek apartment) S. No. 171A1, Hiss... Auction ID :# 741973 Reserve Price : \u20b914,35,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A201, 3RD Floor, Sai Pratik (Durga zai prateek apar",
+    "link": "https://www.eauctionsindia.com/properties/741973",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/741973",
+      "raw_text": "eAuction Flat in Kudal, Sindhudurg 1 BHK flat No A201, 3RD Floor, Sai Pratik (Durga zai prateek apartment) S. No. 171A1, Hiss...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 741973 Reserve Price : \u20b914,35,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741973",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,35,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741973",
+      "raw_text": "Auction ID :# 741973 Reserve Price : \u20b914,35,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 741973 Reserve Price : \u20b914,35,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741973",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b914,35,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741973",
+      "raw_text": "Auction ID :# 741973 Reserve Price : \u20b914,35,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
+    },
+    "source": "eauctionsindia",
+    "city": "Sindhudurg",
+    "property_type": "Other"
+  },
+  {
     "details": "Flat 24-04-2026 01:00 PM eAuction Flat in Kudal, Sindhudurg All that is part and parcel of the prope",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -11919,391 +12752,6 @@
       "price": "Reserve Price : \u20b986,66,610.00",
       "property_url": "https://www.eauctionsindia.com/properties/736871",
       "raw_text": "Auction ID :# 736871 Reserve Price : \u20b986,66,610.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 30-03-2026 03:15 PM eAuction Flat in Vengurla., Sindhudurg Flat No 4, First Floor, C Wing in th",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-03-2026 03:15 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No 4, First Floor, C Wing in the building Nakshatra Enclave,adm 38.40 sq m situated a...",
-      "auction_date": "30-03-2026 03:15 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-03-2026 03:15 PM eAuction Flat in Vengurla., Sindhudurg Flat No 4, First Floor, C Wing in the building Nakshatra Enclave,adm 38.40 sq m situated a... Auction ID :# 707263 Reserve Price : \u20b923,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 30-03-2026 03:15 PM eAuction Flat in Vengurla., Sindhudurg Flat No 4, First Floor, C Wing in th",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-03-2026 03:15 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No 4, First Floor, C Wing in the building Nakshatra Enclave,adm 38.40 sq m situated a...",
-      "auction_date": "30-03-2026 03:15 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 30-03-2026 03:15 PM eAuction Flat in Vengurla., Sindhudurg Flat No 4, First Floor, C Wing in the building Nakshatra Enclave,adm 38.40 sq m situated a... Auction ID :# 707263 Reserve Price : \u20b923,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Vengurla., Sindhudurg Flat No 4, First Floor, C Wing in the building Nakshatra Encl",
-    "link": "https://www.eauctionsindia.com/properties/707263",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Flat No 4, First Floor, C Wing in the building Nakshatra Enclave,adm 38.40 sq m situated a...",
-      "property_url": "https://www.eauctionsindia.com/properties/707263",
-      "raw_text": "eAuction Flat in Vengurla., Sindhudurg Flat No 4, First Floor, C Wing in the building Nakshatra Enclave,adm 38.40 sq m situated a...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 707263 Reserve Price : \u20b923,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/707263",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b923,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/707263",
-      "raw_text": "Auction ID :# 707263 Reserve Price : \u20b923,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 707263 Reserve Price : \u20b923,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/707263",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b923,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/707263",
-      "raw_text": "Auction ID :# 707263 Reserve Price : \u20b923,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "Bungalow 30-03-2026 03:00 PM eAuction Bungalow in Kankavli, Sindhudurg Bunglow situated at Vrundavan",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-03-2026 03:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b921,00,000.00",
-      "auction_date": "30-03-2026 03:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Bungalow 30-03-2026 03:00 PM eAuction Bungalow in Kankavli, Sindhudurg Bunglow situated at Vrundavan Colony, Kumbharwadi, At post -Kalmath, Tal-Kankavli, Dist-Si... Auction ID :# 707262 Reserve Price : \u20b921,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Bungalow"
-  },
-  {
-    "details": "Bungalow 30-03-2026 03:00 PM eAuction Bungalow in Kankavli, Sindhudurg Bunglow situated at Vrundavan",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-03-2026 03:00 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b921,00,000.00",
-      "auction_date": "30-03-2026 03:00 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Bungalow 30-03-2026 03:00 PM eAuction Bungalow in Kankavli, Sindhudurg Bunglow situated at Vrundavan Colony, Kumbharwadi, At post -Kalmath, Tal-Kankavli, Dist-Si... Auction ID :# 707262 Reserve Price : \u20b921,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Bungalow"
-  },
-  {
-    "details": "eAuction Bungalow in Kankavli, Sindhudurg Bunglow situated at Vrundavan Colony, Kumbharwadi, At post",
-    "link": "https://www.eauctionsindia.com/properties/707262",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/707262",
-      "raw_text": "eAuction Bungalow in Kankavli, Sindhudurg Bunglow situated at Vrundavan Colony, Kumbharwadi, At post -Kalmath, Tal-Kankavli, Dist-Si...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Bungalow"
-  },
-  {
-    "details": "Auction ID :# 707262 Reserve Price : \u20b921,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/707262",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b921,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/707262",
-      "raw_text": "Auction ID :# 707262 Reserve Price : \u20b921,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 707262 Reserve Price : \u20b921,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/707262",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b921,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/707262",
-      "raw_text": "Auction ID :# 707262 Reserve Price : \u20b921,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "Bungalow 30-03-2026 02:45 PM eAuction Bungalow in Sawantwadi, Sindhudurg Twin bungalow No. A-3 havin",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-03-2026 02:45 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b942,00,000.00",
-      "auction_date": "30-03-2026 02:45 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Bungalow 30-03-2026 02:45 PM eAuction Bungalow in Sawantwadi, Sindhudurg Twin bungalow No. A-3 having Grampanchayat House No.1770 B, at Vrukshavalli, admesuring ar... Auction ID :# 707261 Reserve Price : \u20b942,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Bungalow"
-  },
-  {
-    "details": "Bungalow 30-03-2026 02:45 PM eAuction Bungalow in Sawantwadi, Sindhudurg Twin bungalow No. A-3 havin",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "30-03-2026 02:45 PM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b942,00,000.00",
-      "auction_date": "30-03-2026 02:45 PM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Bungalow 30-03-2026 02:45 PM eAuction Bungalow in Sawantwadi, Sindhudurg Twin bungalow No. A-3 having Grampanchayat House No.1770 B, at Vrukshavalli, admesuring ar... Auction ID :# 707261 Reserve Price : \u20b942,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Bungalow"
-  },
-  {
-    "details": "eAuction Bungalow in Sawantwadi, Sindhudurg Twin bungalow No. A-3 having Grampanchayat House No.1770",
-    "link": "https://www.eauctionsindia.com/properties/707261",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/707261",
-      "raw_text": "eAuction Bungalow in Sawantwadi, Sindhudurg Twin bungalow No. A-3 having Grampanchayat House No.1770 B, at Vrukshavalli, admesuring ar...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Bungalow"
-  },
-  {
-    "details": "Auction ID :# 707261 Reserve Price : \u20b942,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/707261",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b942,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/707261",
-      "raw_text": "Auction ID :# 707261 Reserve Price : \u20b942,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 707261 Reserve Price : \u20b942,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/707261",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b942,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/707261",
-      "raw_text": "Auction ID :# 707261 Reserve Price : \u20b942,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "Land 25-03-2026 11:00 AM eAuction Land in VAIBHAVWADI, Sindhudurg Landed property with construction ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b91,11,00,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 25-03-2026 11:00 AM eAuction Land in VAIBHAVWADI, Sindhudurg Landed property with construction thereon situated at Survey no 7/1 A, A/P Gadmath, Gaothw... Auction ID :# 730252 Reserve Price : \u20b91,11,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Land"
-  },
-  {
-    "details": "Land 25-03-2026 11:00 AM eAuction Land in VAIBHAVWADI, Sindhudurg Landed property with construction ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "25-03-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b91,11,00,000.00",
-      "auction_date": "25-03-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 25-03-2026 11:00 AM eAuction Land in VAIBHAVWADI, Sindhudurg Landed property with construction thereon situated at Survey no 7/1 A, A/P Gadmath, Gaothw... Auction ID :# 730252 Reserve Price : \u20b91,11,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Land"
-  },
-  {
-    "details": "eAuction Land in VAIBHAVWADI, Sindhudurg Landed property with construction thereon situated at Surve",
-    "link": "https://www.eauctionsindia.com/properties/730252",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/730252",
-      "raw_text": "eAuction Land in VAIBHAVWADI, Sindhudurg Landed property with construction thereon situated at Survey no 7/1 A, A/P Gadmath, Gaothw...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Land"
-  },
-  {
-    "details": "Auction ID :# 730252 Reserve Price : \u20b91,11,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/730252",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b91,11,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/730252",
-      "raw_text": "Auction ID :# 730252 Reserve Price : \u20b91,11,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
-    },
-    "source": "eauctionsindia",
-    "city": "Sindhudurg",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 730252 Reserve Price : \u20b91,11,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/730252",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b91,11,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/730252",
-      "raw_text": "Auction ID :# 730252 Reserve Price : \u20b91,11,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/sindhudurg"
     },
@@ -20303,6 +20751,198 @@
     "property_type": "Other"
   },
   {
+    "details": "Flat 28-04-2026 11:00 AM eAuction Flat in Chiplun, Ratnagiri Flat No. 203 204, 2nd Floor Dwing, Clas",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b924,50,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-04-2026 11:00 AM eAuction Flat in Chiplun, Ratnagiri Flat No. 203 204, 2nd Floor Dwing, Classic Residency, S.No. 85/(2)& 90/(2), Near Vahal... Auction ID :# 741971 Reserve Price : \u20b924,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Flat 28-04-2026 11:00 AM eAuction Flat in Chiplun, Ratnagiri Flat No. 203 204, 2nd Floor Dwing, Clas",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b924,50,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Flat 28-04-2026 11:00 AM eAuction Flat in Chiplun, Ratnagiri Flat No. 203 204, 2nd Floor Dwing, Classic Residency, S.No. 85/(2)& 90/(2), Near Vahal... Auction ID :# 741971 Reserve Price : \u20b924,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Flat"
+  },
+  {
+    "details": "eAuction Flat in Chiplun, Ratnagiri Flat No. 203 204, 2nd Floor Dwing, Classic Residency, S.No. 85/(",
+    "link": "https://www.eauctionsindia.com/properties/741971",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/741971",
+      "raw_text": "eAuction Flat in Chiplun, Ratnagiri Flat No. 203 204, 2nd Floor Dwing, Classic Residency, S.No. 85/(2)& 90/(2), Near Vahal...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Flat"
+  },
+  {
+    "details": "Auction ID :# 741971 Reserve Price : \u20b924,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741971",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b924,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741971",
+      "raw_text": "Auction ID :# 741971 Reserve Price : \u20b924,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 741971 Reserve Price : \u20b924,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741971",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b924,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741971",
+      "raw_text": "Auction ID :# 741971 Reserve Price : \u20b924,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Other"
+  },
+  {
+    "details": "House 28-04-2026 11:00 AM eAuction House in Chiplun, Ratnagiri EQM of all piece and parcel of land a",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b965,50,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "House 28-04-2026 11:00 AM eAuction House in Chiplun, Ratnagiri EQM of all piece and parcel of land and building, fixtures installed and erected upon the,... Auction ID :# 741970 Reserve Price : \u20b965,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Land"
+  },
+  {
+    "details": "House 28-04-2026 11:00 AM eAuction House in Chiplun, Ratnagiri EQM of all piece and parcel of land a",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "28-04-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b965,50,000.00",
+      "auction_date": "28-04-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "House 28-04-2026 11:00 AM eAuction House in Chiplun, Ratnagiri EQM of all piece and parcel of land and building, fixtures installed and erected upon the,... Auction ID :# 741970 Reserve Price : \u20b965,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Land"
+  },
+  {
+    "details": "eAuction House in Chiplun, Ratnagiri EQM of all piece and parcel of land and building, fixtures inst",
+    "link": "https://www.eauctionsindia.com/properties/741970",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/741970",
+      "raw_text": "eAuction House in Chiplun, Ratnagiri EQM of all piece and parcel of land and building, fixtures installed and erected upon the,...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Land"
+  },
+  {
+    "details": "Auction ID :# 741970 Reserve Price : \u20b965,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741970",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b965,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741970",
+      "raw_text": "Auction ID :# 741970 Reserve Price : \u20b965,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 741970 Reserve Price : \u20b965,50,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741970",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b965,50,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741970",
+      "raw_text": "Auction ID :# 741970 Reserve Price : \u20b965,50,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
+    },
+    "source": "eauctionsindia",
+    "city": "Ratnagiri",
+    "property_type": "Other"
+  },
+  {
     "details": "Agricultural Land 17-04-2026 11:00 AM eAuction Agricultural Land in Lanja, Ratnagiri 1. Agricultural",
     "link": "https://www.eauctionsindia.comjavascript:void(0);",
     "photos": "",
@@ -21063,198 +21703,6 @@
       "price": "Reserve Price : \u20b91,07,50,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/731267",
       "raw_text": "Auction ID :# 731267 Reserve Price : \u20b91,07,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "Flat 07-04-2026 11:00 AM eAuction Flat in Mazgaon Road, Ratnagiri 2) Flat No. 15, Adhinath\nVatika, B",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "07-04-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,00,000.00",
-      "auction_date": "07-04-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 07-04-2026 11:00 AM eAuction Flat in Mazgaon Road, Ratnagiri 2) Flat No. 15, Adhinath\nVatika, B Wing, Mazgaon Road, Ratnagiri - 415612 Auction ID :# 731266 Reserve Price : \u20b920,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Flat 07-04-2026 11:00 AM eAuction Flat in Mazgaon Road, Ratnagiri 2) Flat No. 15, Adhinath\nVatika, B",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "07-04-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,00,000.00",
-      "auction_date": "07-04-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 07-04-2026 11:00 AM eAuction Flat in Mazgaon Road, Ratnagiri 2) Flat No. 15, Adhinath\nVatika, B Wing, Mazgaon Road, Ratnagiri - 415612 Auction ID :# 731266 Reserve Price : \u20b920,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Flat"
-  },
-  {
-    "details": "eAuction Flat in Mazgaon Road, Ratnagiri 2) Flat No. 15, Adhinath\nVatika, B Wing, Mazgaon Road, Ratn",
-    "link": "https://www.eauctionsindia.com/properties/731266",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/731266",
-      "raw_text": "eAuction Flat in Mazgaon Road, Ratnagiri 2) Flat No. 15, Adhinath\nVatika, B Wing, Mazgaon Road, Ratnagiri - 415612",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Flat"
-  },
-  {
-    "details": "Auction ID :# 731266 Reserve Price : \u20b920,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/731266",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/731266",
-      "raw_text": "Auction ID :# 731266 Reserve Price : \u20b920,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 731266 Reserve Price : \u20b920,00,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/731266",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b920,00,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/731266",
-      "raw_text": "Auction ID :# 731266 Reserve Price : \u20b920,00,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "Plot 07-04-2026 11:00 AM eAuction Plot in Zadgaon, Ratnagiri 1) Plot No. X-62, MIDC, Udyam Nagar, Vi",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "07-04-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b986,50,000.00",
-      "auction_date": "07-04-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 07-04-2026 11:00 AM eAuction Plot in Zadgaon, Ratnagiri 1) Plot No. X-62, MIDC, Udyam Nagar, Village Zadgaon, Ratnagiri - 415612 Auction ID :# 731265 Reserve Price : \u20b986,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Plot 07-04-2026 11:00 AM eAuction Plot in Zadgaon, Ratnagiri 1) Plot No. X-62, MIDC, Udyam Nagar, Vi",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "07-04-2026 11:00 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b986,50,000.00",
-      "auction_date": "07-04-2026 11:00 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Plot 07-04-2026 11:00 AM eAuction Plot in Zadgaon, Ratnagiri 1) Plot No. X-62, MIDC, Udyam Nagar, Village Zadgaon, Ratnagiri - 415612 Auction ID :# 731265 Reserve Price : \u20b986,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Plot"
-  },
-  {
-    "details": "eAuction Plot in Zadgaon, Ratnagiri 1) Plot No. X-62, MIDC, Udyam Nagar, Village Zadgaon, Ratnagiri ",
-    "link": "https://www.eauctionsindia.com/properties/731265",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/731265",
-      "raw_text": "eAuction Plot in Zadgaon, Ratnagiri 1) Plot No. X-62, MIDC, Udyam Nagar, Village Zadgaon, Ratnagiri - 415612",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Plot"
-  },
-  {
-    "details": "Auction ID :# 731265 Reserve Price : \u20b986,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/731265",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b986,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/731265",
-      "raw_text": "Auction ID :# 731265 Reserve Price : \u20b986,50,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
-    },
-    "source": "eauctionsindia",
-    "city": "Ratnagiri",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 731265 Reserve Price : \u20b986,50,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/731265",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b986,50,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/731265",
-      "raw_text": "Auction ID :# 731265 Reserve Price : \u20b986,50,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/ratnagiri"
     },
@@ -24506,7 +24954,7 @@
       "price": "Reserve Price : \u20b99,95,000.00",
       "auction_date": "27-05-2026 04:00 PM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 27-05-2026 04:00 PM eAuction Flat in Daund, Pune Description of the Secured Asset being auctioned: Property Owned By Mr. Siddhartha Arun So... Auction ID :# 741851 Reserve Price : \u20b99,95,000.00 View More Flat 20-05-2026 02:30 PM eAuction Flat in Haveli, Pune Description of the Secured Asset bein",
+      "raw_text": "Flat 27-05-2026 04:00 PM eAuction Flat in Daund, Pune Description of the Secured Asset being auctioned: Property Owned By Mr. Siddhartha Arun So... Auction ID :# 741851 Reserve Price : \u20b99,95,000.00 View More Commercial Office 21-05-2026 11:00 AM eAuction Commercial Office in Moledina Road, Pune Offi",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
@@ -24529,7 +24977,7 @@
       "price": "Reserve Price : \u20b99,95,000.00",
       "auction_date": "27-05-2026 04:00 PM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 27-05-2026 04:00 PM eAuction Flat in Daund, Pune Description of the Secured Asset being auctioned: Property Owned By Mr. Siddhartha Arun So... Auction ID :# 741851 Reserve Price : \u20b99,95,000.00 View More Flat 20-05-2026 02:30 PM eAuction Flat in Haveli, Pune Description of the Secured Asset bein",
+      "raw_text": "Flat 27-05-2026 04:00 PM eAuction Flat in Daund, Pune Description of the Secured Asset being auctioned: Property Owned By Mr. Siddhartha Arun So... Auction ID :# 741851 Reserve Price : \u20b99,95,000.00 View More Commercial Office 21-05-2026 11:00 AM eAuction Commercial Office in Moledina Road, Pune Offi",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
@@ -24552,7 +25000,7 @@
       "price": "Reserve Price : \u20b99,95,000.00",
       "auction_date": "27-05-2026 04:00 PM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 27-05-2026 04:00 PM eAuction Flat in Daund, Pune Description of the Secured Asset being auctioned: Property Owned By Mr. Siddhartha Arun So... Auction ID :# 741851 Reserve Price : \u20b99,95,000.00 View More Flat 20-05-2026 02:30 PM eAuction Flat in Haveli, Pune Description of the Secured Asset bein",
+      "raw_text": "Flat 27-05-2026 04:00 PM eAuction Flat in Daund, Pune Description of the Secured Asset being auctioned: Property Owned By Mr. Siddhartha Arun So... Auction ID :# 741851 Reserve Price : \u20b99,95,000.00 View More Commercial Office 21-05-2026 11:00 AM eAuction Commercial Office in Moledina Road, Pune Offi",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
@@ -24575,7 +25023,7 @@
       "price": "Reserve Price : \u20b99,95,000.00",
       "auction_date": "27-05-2026 04:00 PM",
       "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Flat 27-05-2026 04:00 PM eAuction Flat in Daund, Pune Description of the Secured Asset being auctioned: Property Owned By Mr. Siddhartha Arun So... Auction ID :# 741851 Reserve Price : \u20b99,95,000.00 View More Flat 20-05-2026 02:30 PM eAuction Flat in Haveli, Pune Description of the Secured Asset bein",
+      "raw_text": "Flat 27-05-2026 04:00 PM eAuction Flat in Daund, Pune Description of the Secured Asset being auctioned: Property Owned By Mr. Siddhartha Arun So... Auction ID :# 741851 Reserve Price : \u20b99,95,000.00 View More Commercial Office 21-05-2026 11:00 AM eAuction Commercial Office in Moledina Road, Pune Offi",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
@@ -24672,6 +25120,102 @@
       "price": "Reserve Price : \u20b99,95,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/741851",
       "raw_text": "Auction ID :# 741851 Reserve Price : \u20b99,95,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Commercial Office 21-05-2026 11:00 AM eAuction Commercial Office in Moledina Road, Pune Office No. 1",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "21-05-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b91,98,00,000.00",
+      "auction_date": "21-05-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Commercial Office 21-05-2026 11:00 AM eAuction Commercial Office in Moledina Road, Pune Office No. 133 (area 429 square feet approx. buit up area) and (office No. 134 (area 1122... Auction ID :# 741965 Reserve Price : \u20b91,98,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Commercial Office 21-05-2026 11:00 AM eAuction Commercial Office in Moledina Road, Pune Office No. 1",
+    "link": "https://www.eauctionsindia.comjavascript:void(0);",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "21-05-2026 11:00 AM"
+      }
+    ],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b91,98,00,000.00",
+      "auction_date": "21-05-2026 11:00 AM",
+      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
+      "raw_text": "Commercial Office 21-05-2026 11:00 AM eAuction Commercial Office in Moledina Road, Pune Office No. 133 (area 429 square feet approx. buit up area) and (office No. 134 (area 1122... Auction ID :# 741965 Reserve Price : \u20b91,98,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "eAuction Commercial Office in Moledina Road, Pune Office No. 133 (area 429 square feet approx. buit ",
+    "link": "https://www.eauctionsindia.com/properties/741965",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_url": "https://www.eauctionsindia.com/properties/741965",
+      "raw_text": "eAuction Commercial Office in Moledina Road, Pune Office No. 133 (area 429 square feet approx. buit up area) and (office No. 134 (area 1122...",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Auction ID :# 741965 Reserve Price : \u20b91,98,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741965",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b91,98,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741965",
+      "raw_text": "Auction ID :# 741965 Reserve Price : \u20b91,98,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Auction ID :# 741965 Reserve Price : \u20b91,98,00,000.00 View More",
+    "link": "https://www.eauctionsindia.com/properties/741965",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "price": "Reserve Price : \u20b91,98,00,000.00",
+      "property_url": "https://www.eauctionsindia.com/properties/741965",
+      "raw_text": "Auction ID :# 741965 Reserve Price : \u20b91,98,00,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
@@ -25634,102 +26178,6 @@
       "price": "Reserve Price : \u20b920,30,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/741527",
       "raw_text": "Auction ID :# 741527 Reserve Price : \u20b920,30,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "Land 12-05-2026 11:30 AM eAuction Land in Daund, Pune SECURITY DETAILS: All that pieces and parcels ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12-05-2026 11:30 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b934,80,000.00",
-      "auction_date": "12-05-2026 11:30 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 12-05-2026 11:30 AM eAuction Land in Daund, Pune SECURITY DETAILS: All that pieces and parcels of the landed Property bearing Gat No. 814 a... Auction ID :# 741613 Reserve Price : \u20b934,80,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Land"
-  },
-  {
-    "details": "Land 12-05-2026 11:30 AM eAuction Land in Daund, Pune SECURITY DETAILS: All that pieces and parcels ",
-    "link": "https://www.eauctionsindia.comjavascript:void(0);",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12-05-2026 11:30 AM"
-      }
-    ],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b934,80,000.00",
-      "auction_date": "12-05-2026 11:30 AM",
-      "property_url": "https://www.eauctionsindia.comjavascript:void(0);",
-      "raw_text": "Land 12-05-2026 11:30 AM eAuction Land in Daund, Pune SECURITY DETAILS: All that pieces and parcels of the landed Property bearing Gat No. 814 a... Auction ID :# 741613 Reserve Price : \u20b934,80,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Land"
-  },
-  {
-    "details": "eAuction Land in Daund, Pune SECURITY DETAILS: All that pieces and parcels of the landed Property be",
-    "link": "https://www.eauctionsindia.com/properties/741613",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "property_url": "https://www.eauctionsindia.com/properties/741613",
-      "raw_text": "eAuction Land in Daund, Pune SECURITY DETAILS: All that pieces and parcels of the landed Property bearing Gat No. 814 a...",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Land"
-  },
-  {
-    "details": "Auction ID :# 741613 Reserve Price : \u20b934,80,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/741613",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b934,80,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/741613",
-      "raw_text": "Auction ID :# 741613 Reserve Price : \u20b934,80,000.00 View More",
-      "source": "eauctionsindia",
-      "city_url": "https://www.eauctionsindia.com/city/pune"
-    },
-    "source": "eauctionsindia",
-    "city": "Pune",
-    "property_type": "Other"
-  },
-  {
-    "details": "Auction ID :# 741613 Reserve Price : \u20b934,80,000.00 View More",
-    "link": "https://www.eauctionsindia.com/properties/741613",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "raw": {
-      "price": "Reserve Price : \u20b934,80,000.00",
-      "property_url": "https://www.eauctionsindia.com/properties/741613",
-      "raw_text": "Auction ID :# 741613 Reserve Price : \u20b934,80,000.00 View More",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
