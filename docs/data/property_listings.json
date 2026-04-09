@@ -9,152 +9,6 @@
       }
     ],
     "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281785/569338_compressed.jpg",
-    "raw": {
-      "propertyId": "281785",
-      "projectName": "SAPTASIDDHI SAVALI HOMES URULI DEVACHI",
-      "price": 2375000.0,
-      "pricePerSeqFit": 3875.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281785/569338_compressed.jpg",
-      "postedOn": "09-04-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": null,
-      "city": "Pune",
-      "cityID": "5286",
-      "stateID": 21,
-      "localities": "URULI DEVACHI HADAPSAR",
-      "noOfBedRoom": 1,
-      "carpetArea": 44.51,
-      "builtupArea": 57.0,
-      "furnishedStatus": null,
-      "floorNo": 10,
-      "totalNoOfFloors": 11,
-      "facing": "West",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": {
-        "lon": 73.5731,
-        "lat": 18.271
-      },
-      "pincode": "412308",
-      "bankPropertyId": "SBINCRAMC65162APR1",
-      "availablePhotosCount": 26,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "2",
-      "unitOfMeasure": "sq meter",
-      "percentageOfLoan": null,
-      "isLoanAvailable": false,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "FLAT NO 1006 10TH FLOOR BUILDING NO A SAVALI HOMES SURVEY NO 153  URULI DEVACHI PUNE 412308",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null
-    },
-    "source": "baanknet",
-    "property_type": "Other"
-  },
-  {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281861/569533_compressed.jpg",
-    "raw": {
-      "propertyId": "281861",
-      "projectName": "SKYI SONGBIRDS BHUGAON",
-      "price": 13400000.0,
-      "pricePerSeqFit": 8000.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281861/569533_compressed.jpg",
-      "postedOn": "09-04-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": null,
-      "city": "Lavasa",
-      "cityID": "5278",
-      "stateID": 21,
-      "localities": "BHUGAON",
-      "noOfBedRoom": null,
-      "carpetArea": 1677.03,
-      "builtupArea": 2180.0,
-      "furnishedStatus": "Semi-Furnished",
-      "floorNo": 11,
-      "totalNoOfFloors": 13,
-      "facing": "North",
-      "amenities": [
-        "Reserved Parking",
-        "Lift",
-        "Gymnasium",
-        "Kids play area",
-        "Club House"
-      ],
-      "isAuctioncreated": false,
-      "coordinate": {
-        "lon": 73.4501,
-        "lat": 18.2949
-      },
-      "pincode": "412115",
-      "bankPropertyId": "SBINCRAMC65162MAY4",
-      "availablePhotosCount": 26,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": false,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "FLAT NO 1104 11TH FLOOR BUILDING NO 13 \"SKYI SONGBIRDS\" S NO 274/1 BHUGAON , TALUKA MULSHI DISTRICT PUNE 412115",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": 2
-    },
-    "source": "baanknet",
-    "property_type": "Other"
-  },
-  {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "",
     "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281783/569310_compressed.jpg",
     "raw": {
       "propertyId": "281783",
@@ -211,9 +65,9 @@
       "auctionEndDateTime": null,
       "emdStartDateTime": null,
       "emdEndDateTime": null,
+      "noOfCarParking": 1,
       "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": 1
+      "roname": null
     },
     "source": "baanknet",
     "property_type": "Other"
@@ -302,9 +156,227 @@
       "auctionEndDateTime": "29-04-2026 11:30:00",
       "emdStartDateTime": "09-04-2026 14:24:34",
       "emdEndDateTime": "29-04-2026 09:30:00",
+      "noOfCarParking": 1,
       "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": 1
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  },
+  {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281785/569338_compressed.jpg",
+    "raw": {
+      "propertyId": "281785",
+      "projectName": "SAPTASIDDHI SAVALI HOMES URULI DEVACHI",
+      "price": 2375000.0,
+      "pricePerSeqFit": 3875.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281785/569338_compressed.jpg",
+      "postedOn": "09-04-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": null,
+      "city": "Pune",
+      "cityID": "5286",
+      "stateID": 21,
+      "localities": "URULI DEVACHI HADAPSAR",
+      "noOfBedRoom": 1,
+      "carpetArea": 44.51,
+      "builtupArea": 57.0,
+      "furnishedStatus": null,
+      "floorNo": 10,
+      "totalNoOfFloors": 11,
+      "facing": "West",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 73.5731,
+        "lat": 18.271
+      },
+      "pincode": "412308",
+      "bankPropertyId": "SBINCRAMC65162APR1",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": false,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "FLAT NO 1006 10TH FLOOR BUILDING NO A SAVALI HOMES SURVEY NO 153  URULI DEVACHI PUNE 412308",
+      "statename": "Maharashtra",
+      "districtname": "Pune",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281861/569533_compressed.jpg",
+    "raw": {
+      "propertyId": "281861",
+      "projectName": "SKYI SONGBIRDS BHUGAON",
+      "price": 13400000.0,
+      "pricePerSeqFit": 8000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281861/569533_compressed.jpg",
+      "postedOn": "09-04-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": null,
+      "city": "Lavasa",
+      "cityID": "5278",
+      "stateID": 21,
+      "localities": "BHUGAON",
+      "noOfBedRoom": null,
+      "carpetArea": 1677.03,
+      "builtupArea": 2180.0,
+      "furnishedStatus": "Semi-Furnished",
+      "floorNo": 11,
+      "totalNoOfFloors": 13,
+      "facing": "North",
+      "amenities": [
+        "Reserved Parking",
+        "Lift",
+        "Gymnasium",
+        "Kids play area",
+        "Club House"
+      ],
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 73.4501,
+        "lat": 18.2949
+      },
+      "pincode": "412115",
+      "bankPropertyId": "SBINCRAMC65162MAY4",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": false,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "FLAT NO 1104 11TH FLOOR BUILDING NO 13 \"SKYI SONGBIRDS\" S NO 274/1 BHUGAON , TALUKA MULSHI DISTRICT PUNE 412115",
+      "statename": "Maharashtra",
+      "districtname": "Pune",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": 2,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Other"
+  },
+  {
+    "emd_cost": null,
+    "details": "FLAT NO 713, 7TH FLOOR , DEVARSHI APARTMENT NEAR MAHAVIR GAURAV COMPLEX SY NO 9 CTS NO 525/10 OF BHANDUP OFF MD KENI ROAD BHANDUP EAST MUMBAI -400042",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/06/21/232233/359951_compressed.jpg",
+    "raw": {
+      "propertyId": "232233",
+      "projectName": null,
+      "price": 14000000.0,
+      "pricePerSeqFit": 13500.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/06/21/232233/359951_compressed.jpg",
+      "postedOn": "08-04-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Punjab National Bank",
+      "summaryDesc": "FLAT NO 713, 7TH FLOOR , DEVARSHI APARTMENT NEAR MAHAVIR GAURAV COMPLEX SY NO 9 CTS NO 525/10 OF BHANDUP OFF MD KENI ROAD BHANDUP EAST MUMBAI -400042",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": "BHANDUP EAST",
+      "noOfBedRoom": null,
+      "carpetArea": 529.0,
+      "builtupArea": 635.0,
+      "furnishedStatus": "Unfurnished",
+      "floorNo": 7,
+      "totalNoOfFloors": 7,
+      "facing": null,
+      "amenities": [
+        "Lift"
+      ],
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 72.56447,
+        "lat": 19.95256
+      },
+      "pincode": "400042",
+      "bankPropertyId": "PUNBCS6041SULBHAPIMPUTKAR",
+      "availablePhotosCount": 5,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "FLAT NO 713, 7TH FLOOR , DEVARSHI APARTMENT NEAR MAHAVIR GAURAV COMPLEX SY NO 9 CTS NO 525/10 OF BHANDUP OFF MD KENI ROAD BHANDUP EAST MUMBAI -400042",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null
     },
     "source": "baanknet",
     "property_type": "Flat"
@@ -369,9 +441,9 @@
       "auctionEndDateTime": null,
       "emdStartDateTime": null,
       "emdEndDateTime": null,
+      "noOfCarParking": 1,
       "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": 1
+      "roname": null
     },
     "source": "baanknet",
     "property_type": "Flat"
@@ -3896,6 +3968,196 @@
     "property_type": "Other"
   },
   {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+      "raw_text": "What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United States for 202",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+      "raw_text": "What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United States for 202",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+      "raw_text": "What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United States for 202",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kolhapur"
+    },
+    "source": "eauctionsindia",
+    "city": "Kolhapur",
+    "property_type": "Other"
+  },
+  {
     "details": "About Us eAuctionsIndia.com aims to bridge the gap in the process of acquiring non-performing asset ",
     "link": "https://www.eauctionsindia.com/contact-us",
     "photos": "",
@@ -6020,6 +6282,203 @@
       "price": "Reserve Price : \u20b941,00,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/575404",
       "raw_text": "Auction ID :# 575404 Reserve Price : \u20b941,00,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "Guide to Testosterone Support in the United States for 2026",
+    "link": "https://visionaryecho.com/en/articles/understanding-testosterone-boosters-for-men-key-ingredients-to-learn-about",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Guide to Testosterone Support in the United States for 2026",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://visionaryecho.com/en/articles/understanding-testosterone-boosters-for-men-key-ingredients-to-learn-about",
+      "raw_text": "Guide to Testosterone Support in the United States for 2026 Visionary Echo | Sponsored Sponsored Learn More Undo Complete Guide to Testosterone Support in the United States for 2026 Visionary Echo | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map ",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "Guide to Testosterone Support in the United States for 2026",
+    "link": "https://visionaryecho.com/en/articles/understanding-testosterone-boosters-for-men-key-ingredients-to-learn-about",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Guide to Testosterone Support in the United States for 2026",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://visionaryecho.com/en/articles/understanding-testosterone-boosters-for-men-key-ingredients-to-learn-about",
+      "raw_text": "Guide to Testosterone Support in the United States for 2026 Visionary Echo | Sponsored Sponsored Learn More Undo Complete Guide to Testosterone Support in the United States for 2026 Visionary Echo | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map ",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "Guide to Testosterone Support in the United States for 2026",
+    "link": "https://visionaryecho.com/en/articles/understanding-testosterone-boosters-for-men-key-ingredients-to-learn-about",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Guide to Testosterone Support in the United States for 2026",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://visionaryecho.com/en/articles/understanding-testosterone-boosters-for-men-key-ingredients-to-learn-about",
+      "raw_text": "Guide to Testosterone Support in the United States for 2026 Visionary Echo | Sponsored Sponsored Learn More Undo Complete Guide to Testosterone Support in the United States for 2026 Visionary Echo | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map ",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/kalyan"
+    },
+    "source": "eauctionsindia",
+    "city": "Kalyan",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/kalyan"
     },
@@ -10443,6 +10902,203 @@
       "price": "Reserve Price : \u20b94,25,250.00",
       "property_url": "https://www.eauctionsindia.com/properties/739519",
       "raw_text": "Auction ID :# 739519 Reserve Price : \u20b94,25,250.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://ccparequest.taboola.com",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://ccparequest.taboola.com",
+      "raw_text": "U.S. Privacy What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United S",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://ccparequest.taboola.com",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://ccparequest.taboola.com",
+      "raw_text": "U.S. Privacy What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United S",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://ccparequest.taboola.com",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://ccparequest.taboola.com",
+      "raw_text": "U.S. Privacy What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United S",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "price": "Kaimur district administration will auction 32 confi scated vehicles, including cars, motorcycles,...",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo TN Police Vehicle Auction 2025 Tamil Nadu Police will auction 72 vehicles seized in drug-trafficking cases on December 22 and 2... Undo Office of the Dist",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/mumbai"
+    },
+    "source": "eauctionsindia",
+    "city": "Mumbai",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/mumbai"
     },
@@ -17163,6 +17819,196 @@
     "property_type": "Other"
   },
   {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://ccparequest.taboola.com",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://ccparequest.taboola.com",
+      "raw_text": "U.S. Privacy What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United S",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://ccparequest.taboola.com",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://ccparequest.taboola.com",
+      "raw_text": "U.S. Privacy What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United S",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://ccparequest.taboola.com",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://ccparequest.taboola.com",
+      "raw_text": "U.S. Privacy What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United S",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/thane"
+    },
+    "source": "eauctionsindia",
+    "city": "Thane",
+    "property_type": "Other"
+  },
+  {
     "details": "About Us eAuctionsIndia.com aims to bridge the gap in the process of acquiring non-performing asset ",
     "link": "https://www.eauctionsindia.com/contact-us",
     "photos": "",
@@ -19393,6 +20239,196 @@
       "price": "Reserve Price : \u20b912,60,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/739083",
       "raw_text": "Auction ID :# 739083 Reserve Price : \u20b912,60,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Important Details About Commercial Financing You Should Know",
+    "link": "https://ccparequest.taboola.com",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Important Details About Commercial Financing You Should Know",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://ccparequest.taboola.com",
+      "raw_text": "U.S. Privacy Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United States for 2026 Visionary Echo | Sponsored Sponsored Learn More Undo Complete Guide to Testosterone Support in the United States f",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Important Details About Commercial Financing You Should Know",
+    "link": "https://ccparequest.taboola.com",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Important Details About Commercial Financing You Should Know",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://ccparequest.taboola.com",
+      "raw_text": "U.S. Privacy Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United States for 2026 Visionary Echo | Sponsored Sponsored Learn More Undo Complete Guide to Testosterone Support in the United States f",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Important Details About Commercial Financing You Should Know",
+    "link": "https://ccparequest.taboola.com",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Important Details About Commercial Financing You Should Know",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://ccparequest.taboola.com",
+      "raw_text": "U.S. Privacy Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United States for 2026 Visionary Echo | Sponsored Sponsored Learn More Undo Complete Guide to Testosterone Support in the United States f",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Commercial"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/satara"
+    },
+    "source": "eauctionsindia",
+    "city": "Satara",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/satara"
     },
@@ -23876,6 +24912,196 @@
     "property_type": "Other"
   },
   {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+      "raw_text": "What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United States for 202",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+      "raw_text": "What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United States for 202",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+      "raw_text": "What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Guide to Testosterone Support in the United States for 202",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "Top 10 Most Beautiful Women In The World.",
+    "link": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Top 10 Most Beautiful Women In The World.",
+      "property_url": "https://omgifacts.com/top-10-most-beautiful-women-in-the-world",
+      "raw_text": "Top 10 Most Beautiful Women In The World. OMGIFacts | Sponsored Sponsored Undo Top 10 Most Beautiful Women In The World OMGIFacts | Sponsored Sponsored Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Un",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/raigad"
+    },
+    "source": "eauctionsindia",
+    "city": "Raigad",
+    "property_type": "Other"
+  },
+  {
     "details": "About Us eAuctionsIndia.com aims to bridge the gap in the process of acquiring non-performing asset ",
     "link": "https://www.eauctionsindia.com/contact-us",
     "photos": "",
@@ -26106,6 +27332,196 @@
       "price": "Reserve Price : \u20b920,30,000.00",
       "property_url": "https://www.eauctionsindia.com/properties/741527",
       "raw_text": "Auction ID :# 741527 Reserve Price : \u20b920,30,000.00 View More",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+      "raw_text": "What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Complete Guide to Testosterone Support in the United State",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+      "raw_text": "What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Complete Guide to Testosterone Support in the United State",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "What You Might Not Know About Testostero ne Supplements In The United States",
+    "link": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "What You Might Not Know About Testostero ne Supplements In The United States",
+      "price": "Understanding Testosterone Boosters for Men: Key Ingredients to Learn About",
+      "property_url": "https://mapinpocket.com/en/articles/understanding-testosterone-supplements-for-men-and-how-to-choose-options-e264e6",
+      "raw_text": "What You Might Not Know About Testostero ne Supplements In The United States Map in Pocket | Sponsored Sponsored Learn More Undo Important Details About Commercial Financing You Should Know Map in Pocket | Sponsored Sponsored Learn More Undo Complete Guide to Testosterone Support in the United State",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+    "link": "https://go.blymeskinsystems.com/a14-tb",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+      "property_url": "https://go.blymeskinsystems.com/a14-tb",
+      "raw_text": "Over 60? This Is Why Nothing Works On Your Aging Skin Beauty After 60 | Sponsored Sponsored Learn More Undo Join our Loyalty programm and get benefits RIU Hotels | Sponsored Sponsored Learn More Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehe",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+    "link": "https://go.blymeskinsystems.com/a14-tb",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+      "property_url": "https://go.blymeskinsystems.com/a14-tb",
+      "raw_text": "Over 60? This Is Why Nothing Works On Your Aging Skin Beauty After 60 | Sponsored Sponsored Learn More Undo Join our Loyalty programm and get benefits RIU Hotels | Sponsored Sponsored Learn More Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehe",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+    "link": "https://go.blymeskinsystems.com/a14-tb",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+      "property_url": "https://go.blymeskinsystems.com/a14-tb",
+      "raw_text": "Over 60? This Is Why Nothing Works On Your Aging Skin Beauty After 60 | Sponsored Sponsored Learn More Undo Join our Loyalty programm and get benefits RIU Hotels | Sponsored Sponsored Learn More Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehe",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+    "link": "https://go.blymeskinsystems.com/a14-tb",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+      "property_url": "https://go.blymeskinsystems.com/a14-tb",
+      "raw_text": "Over 60? This Is Why Nothing Works On Your Aging Skin Beauty After 60 | Sponsored Sponsored Learn More Undo Join our Loyalty programm and get benefits RIU Hotels | Sponsored Sponsored Learn More Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehe",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+    "link": "https://go.blymeskinsystems.com/a14-tb",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+      "property_url": "https://go.blymeskinsystems.com/a14-tb",
+      "raw_text": "Over 60? This Is Why Nothing Works On Your Aging Skin Beauty After 60 | Sponsored Sponsored Learn More Undo Join our Loyalty programm and get benefits RIU Hotels | Sponsored Sponsored Learn More Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehe",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+    "link": "https://go.blymeskinsystems.com/a14-tb",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+      "property_url": "https://go.blymeskinsystems.com/a14-tb",
+      "raw_text": "Over 60? This Is Why Nothing Works On Your Aging Skin Beauty After 60 | Sponsored Sponsored Learn More Undo Join our Loyalty programm and get benefits RIU Hotels | Sponsored Sponsored Learn More Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehe",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+    "link": "https://go.blymeskinsystems.com/a14-tb",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "Over 60? This Is Why Nothing Works On Your Aging Skin",
+      "property_url": "https://go.blymeskinsystems.com/a14-tb",
+      "raw_text": "Over 60? This Is Why Nothing Works On Your Aging Skin Beauty After 60 | Sponsored Sponsored Learn More Undo Join our Loyalty programm and get benefits RIU Hotels | Sponsored Sponsored Learn More Undo How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehe",
+      "source": "eauctionsindia",
+      "city_url": "https://www.eauctionsindia.com/city/pune"
+    },
+    "source": "eauctionsindia",
+    "city": "Pune",
+    "property_type": "Other"
+  },
+  {
+    "details": "How to Buy a Vehicle Through an Auction",
+    "link": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "raw": {
+      "property_name": "How to Buy a Vehicle Through an Auction",
+      "property_url": "https://www.eauctionsindia.com/blog-details/how-to-buy-a-vehicle-through-an-auction",
+      "raw_text": "How to Buy a Vehicle Through an Auction eAuctions india is a premier online portal offering comprehensive access to the latest and upcomi... Undo",
       "source": "eauctionsindia",
       "city_url": "https://www.eauctionsindia.com/city/pune"
     },
