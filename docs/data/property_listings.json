@@ -1,76 +1,94 @@
 [
   {
     "emd_cost": null,
-    "details": null,
+    "details": "2 BHK Flat near SBI Shahganj Branch",
     "important_dates": [
       {
         "key": "isAuctioncreated",
-        "value": false
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "28-04-2026 05:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "28-04-2026 11:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "29-04-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "29-04-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "09-04-2026 14:24:34"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "29-04-2026 09:30:00"
       }
     ],
     "link": "",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281783/569310_compressed.jpg",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/02/12/274402/540583_compressed.jpg",
     "raw": {
-      "propertyId": "281783",
-      "projectName": "SWAMI SAMARTH ERANDE COMPLEX KAMSHET",
-      "price": 2407000.0,
-      "pricePerSeqFit": 2800.0,
+      "propertyId": "274402",
+      "projectName": "Mecca Market",
+      "price": 2900000.0,
+      "pricePerSeqFit": 42303.0,
       "propertySubTypeId": "1",
       "propertySubType": "Flat",
       "propertyStatus": null,
       "typeOfAsset": "Immovable",
       "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/07/281783/569310_compressed.jpg",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/02/12/274402/540583_compressed.jpg",
       "postedOn": "09-04-2026",
-      "developerName": null,
+      "developerName": "AL TAMER INFRA ESTATE",
       "owenershipType": "Freehold",
       "bankName": "State Bank of India",
-      "summaryDesc": null,
-      "city": "Kamshet",
-      "cityID": "5271",
+      "summaryDesc": "2 BHK Flat near SBI Shahganj Branch",
+      "city": "Chhatrapati Sambhajinagar",
+      "cityID": "4969",
       "stateID": 21,
-      "localities": "KAMSHET, TALUKA MAVAL, NEAR MAVAL DISTRICT COURT",
-      "noOfBedRoom": null,
-      "carpetArea": 608.6,
-      "builtupArea": 859.0,
-      "furnishedStatus": "Semi-Furnished",
-      "floorNo": 1,
-      "totalNoOfFloors": 4,
-      "facing": "South",
-      "amenities": [
-        "Reserved Parking",
-        "Lift"
-      ],
-      "isAuctioncreated": false,
-      "coordinate": {
-        "lon": 73.559426,
-        "lat": 18.761597
-      },
-      "pincode": "410405",
-      "bankPropertyId": "SBIN65162CRAMCMAY1",
-      "availablePhotosCount": 20,
+      "localities": "Shahgunj ,",
+      "noOfBedRoom": 2,
+      "carpetArea": 50.93,
+      "builtupArea": 73.0,
+      "furnishedStatus": null,
+      "floorNo": 3,
+      "totalNoOfFloors": 3,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "431001",
+      "bankPropertyId": "SBIN001295382",
+      "availablePhotosCount": 22,
       "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
       "percentageOfLoan": null,
-      "isLoanAvailable": false,
+      "isLoanAvailable": null,
       "typeOfAction": "1",
       "isPPVCRequest": true,
-      "address": "FLAT NO 106 B WING SWAMI SAMARTH ERANDE COMPLEX KAMSHET KHADKALE MAVAL PUNE 410405",
+      "address": "Flat no B-12 , Third Floor, Mecca Market, Sheet no 45 of CTS 10213/1, Shahgunj ,  Chh Sambhajinagar admeasuring 50.93 sq mts  carpet  and 73.28 sq mtrs builtup",
       "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
+      "districtname": "Chhatrapati Sambhaji Nagar",
+      "inspectionStartDateTime": "28-04-2026 05:30:00",
+      "inspectionEndDateTime": "28-04-2026 11:30:00",
+      "auctionStartDateTime": "29-04-2026 05:30:00",
+      "auctionEndDateTime": "29-04-2026 11:30:00",
+      "emdStartDateTime": "09-04-2026 14:24:34",
+      "emdEndDateTime": "29-04-2026 09:30:00",
       "drtlocation": null,
       "roname": null,
       "noOfCarParking": 1
     },
     "source": "baanknet",
-    "property_type": "Other"
+    "property_type": "Flat"
   },
   {
     "details": "LATEST 104 Government Vehicles E-Auction in Visakhapatnam \u2013 Complete Guide & Auction Schedule Public",
