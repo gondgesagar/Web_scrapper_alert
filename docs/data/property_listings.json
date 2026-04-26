@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "emd_cost": null,
+    "details": "All piece and parcel of land and building, structures, sheds, fixtures erected and installed upon residential tenement No (E-307)/307, Building No. E2, Situated on 3rd Floor, \"Mhada Apartment\", Auto Colony, Near Guru Sai Polytechnic, On 100/168, tenement under EWS Mhada Scheme, survey No 328/1, 329/1, 330/1-A, Mouje Datala, Site No 124, Tal and Dist Chandrapur, allotted from Mhada to Mr Aslam Khan Mohammad Khan Pathan (Borrower-Mortgagor-Beneficiary) & Mrs Asma Aslam Khan Pathan (Borrower-Mortgagor-Beneficiary) Built up area 44.74 Sq Mtr, Carpet area 38.02 Sq Mtr\r\n\r\nBounded by:\r\n\r\nEast: Arial Space/Layout Road\r\n\r\nWest: Building No E 1\r\n\r\nI\r\n\r\nNorth: Arial Space/ Building No F-2\r\n\r\nSouth: Arial Space/ Building No D-2",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "24-04-2026 05:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "25-05-2026 11:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "26-05-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "26-05-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "23-04-2026 13:32:09"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "26-05-2026 11:29:00"
+      }
+    ],
+    "link": "",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/23/283010/574095_compressed.jpeg",
+    "raw": {
+      "propertyId": "283010",
+      "projectName": "Mhada Apartment",
+      "price": 594000.0,
+      "pricePerSeqFit": 15840.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/23/283010/574095_compressed.jpeg",
+      "postedOn": "23-04-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of India",
+      "summaryDesc": "All piece and parcel of land and building, structures, sheds, fixtures erected and installed upon residential tenement No (E-307)/307, Building No. E2, Situated on 3rd Floor, \"Mhada Apartment\", Auto Colony, Near Guru Sai Polytechnic, On 100/168, tenement under EWS Mhada Scheme, survey No 328/1, 329/1, 330/1-A, Mouje Datala, Site No 124, Tal and Dist Chandrapur, allotted from Mhada to Mr Aslam Khan Mohammad Khan Pathan (Borrower-Mortgagor-Beneficiary) & Mrs Asma Aslam Khan Pathan (Borrower-Mortgagor-Beneficiary) Built up area 44.74 Sq Mtr, Carpet area 38.02 Sq Mtr\r\n\r\nBounded by:\r\n\r\nEast: Arial Space/Layout Road\r\n\r\nWest: Building No E 1\r\n\r\nI\r\n\r\nNorth: Arial Space/ Building No F-2\r\n\r\nSouth: Arial Space/ Building No D-2",
+      "city": "Chandur Chandrapur",
+      "cityID": "4938",
+      "stateID": 21,
+      "localities": "Chandrapur",
+      "noOfBedRoom": null,
+      "carpetArea": 38.02,
+      "builtupArea": 45.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": {
+        "lon": 79.255873,
+        "lat": 19.969545
+      },
+      "pincode": "442401",
+      "bankPropertyId": "BKIDJGASLAM",
+      "availablePhotosCount": 12,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "All piece and parcel of land and building, structures, sheds, fixtures erected and installed upon residential tenement No (E-307)/307, Building No. E2, Situated on 3rd Floor, \"Mhada Apartment\", Auto Colony, Near Guru Sai Polytechnic, On 100/168, tenement under EWS Mhada Scheme, survey No 328/1, 329/1, 330/1-A, Mouje Datala, Site No 124, Tal and Dist Chandrapur, allotted from Mhada to Mr Aslam Khan Mohammad Khan Pathan (Borrower-Mortgagor-Beneficiary) & Mrs Asma Aslam Khan Pathan (Borrower-Mortgagor-Beneficiary) Built up area 44.74 Sq Mtr, Carpet area 38.02 Sq Mtr\r\n\r\nBounded by:\r\n\r\nEast: Arial Space/Layout Road\r\n\r\nWest: Building No E 1\r\n\r\nI\r\n\r\nNorth: Arial Space/ Building No F-2\r\n\r\nSouth: Arial Space/ Building No D-2",
+      "statename": "Maharashtra",
+      "districtname": "Chandrapur",
+      "inspectionStartDateTime": "24-04-2026 05:30:00",
+      "inspectionEndDateTime": "25-05-2026 11:30:00",
+      "auctionStartDateTime": "26-05-2026 05:30:00",
+      "auctionEndDateTime": "26-05-2026 11:30:00",
+      "emdStartDateTime": "23-04-2026 13:32:09",
+      "emdEndDateTime": "26-05-2026 11:29:00",
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null
+    },
+    "source": "baanknet",
+    "property_type": "Flat"
+  }
+]
