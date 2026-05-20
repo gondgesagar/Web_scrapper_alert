@@ -980,7 +980,7 @@ def fetch_eauctionsindia_with_playwright(cities=None):
     print(f"Total eauctionsindia properties fetched: {len(all_properties)}")
     return all_properties
 
-def run(output_path, max_items, state_path, send_email=True, eauctions_cities=None, property_types=None):
+def run(output_path, state_path, send_email=True, property_types=None, use_scrapegraph=False, scrapegraph_prompt=None):
     # Load persistent pincode cache at start
     _load_pincode_cache()
     # Load or fetch Maharashtra pincodes list
@@ -993,8 +993,7 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
     print(f"BAANKNET: {len(baanknet_items)} properties fetched")
     
     print("Fetching eauctionsindia properties...")
-    # Pass through optional city list if provided via run caller
-    eauctionsindia_items = fetch_eauctionsindia_with_playwright(cities=eauctions_cities)
+    eauctionsindia_items = fetch_eauctionsindia_with_playwright()
     print(f"eauctionsindia: {len(eauctionsindia_items)} properties fetched")
     
     # Combine items from both sources
@@ -1007,10 +1006,7 @@ def run(output_path, max_items, state_path, send_email=True, eauctions_cities=No
     current_items = {}
     new_auctions = []
     
-    if max_items and max_items > 0:
-        items_to_process = all_items[:max_items]
-    else:
-        items_to_process = all_items
+    items_to_process = all_items
 
     for item in items_to_process:
         if not isinstance(item, dict):
@@ -1173,12 +1169,6 @@ def main():
         help="Where to write scraped data JSON.",
     )
     parser.add_argument(
-        "--max-items",
-        type=int,
-        default=0,
-        help="Maximum number of listing items to process (0 = no limit).",
-    )
-    parser.add_argument(
         "--state",
         default=".state/state.json",
         help="Where to store state between runs for change detection.",
@@ -1188,38 +1178,18 @@ def main():
         action="store_true",
         help="Do not send email notifications even if changes are detected.",
     )
-    parser.add_argument(
-        "--cities",
-        default=None,
-        help="Comma-separated eauctionsindia city URLs (or slugs) to limit scraping (for testing).",
-    )
-    parser.add_argument(
-        "--property-types",
-        default=None,
-        help="Comma-separated list of property types to include in email (e.g. Plot,Flat,Villa).",
-    )
     args = parser.parse_args()
 
     output_path = Path(args.output)
     state_path = Path(args.state)
-    # If --cities provided, build a list to pass through to the run() function
-    cities_list = None
-    if args.cities:
-        # Allow either full URLs or city slugs; normalize simple slug input
-        raw = [c.strip() for c in args.cities.split(',') if c.strip()]
-        # If values look like slugs (no https://), convert to full eauctionsindia URLs
-        cities_list = [
-            (c if c.startswith('http') else f'https://www.eauctionsindia.com/city/{c}')
-            for c in raw
-        ]
+    # Hard-coded property types filter
+    hardcoded_types = ['villa', 'bungalow', 'plot', 'land', 'residential']
 
     results = run(
         output_path,
-        args.max_items,
         state_path,
         send_email=not args.no_email,
-        eauctions_cities=cities_list,
-        property_types=args.property_types,
+        property_types=hardcoded_types,
     )
     print(f"Wrote {len(results)} items to {output_path}")
 
