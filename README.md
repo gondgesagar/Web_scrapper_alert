@@ -1,6 +1,15 @@
 # Web Scraper Alert
 
-Basic scraper framework for BAANKNET property listings.
+Maharashtra property auction scraper and dashboard. Data is collected from:
+
+| Source | URL |
+|--------|-----|
+| BAANKNET | https://baanknet.com/property-listing |
+| eAuctions India | Maharashtra city pages |
+| BankAuctions.in | https://bankauctions.in/ |
+| FindAuction.in | https://findauction.in/ (MH cities) |
+| MHADA eAuction | https://eauction.mhada.gov.in/ |
+| MSTC / IBAPI | https://www.mstcecommerce.com/auctionhome/ibapi/index.jsp |
 
 ## Setup
 
@@ -71,6 +80,25 @@ The workflow will automatically:
 - Send email alerts via configured SMTP
 
 You can also manually trigger the workflow from the **Actions** tab.
+
+## Local Testing
+
+Test the dashboard locally before pushing to GitHub / GitHub Pages:
+
+```bash
+# Generate fresh data (only listings with valid detail URLs are saved)
+python scraper.py
+
+# Serve the dashboard from docs/ on localhost
+python serve_local.py
+
+# Optional: custom port and open browser automatically
+python serve_local.py --port 8080 --open
+```
+
+Open **http://localhost:8000** in your browser. The dashboard hides postings without a real property URL (no empty links, ads, or blog/contact pages).
+
+Press `Ctrl+C` to stop the server.
 
 ## Dashboard (GitHub Pages)
 

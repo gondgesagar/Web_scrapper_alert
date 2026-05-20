@@ -15,7 +15,25 @@ from bs4 import BeautifulSoup
 PINCODE_CACHE = {}
 PINCODE_CACHE_FILE = Path(".state/pincode_cache.json")
 
+from auction_sources import (
+    fetch_bankauctions,
+    fetch_findauction_with_playwright,
+    fetch_mhada_with_playwright,
+    fetch_mstc_with_playwright,
+)
+
 TARGET_URL = "https://baanknet.com/property-listing"
+SOURCE_URL_PATTERNS = {
+    "eauctionsindia": r"eauctionsindia\.com/properties/\d+",
+    "baanknet": r"baanknet\.com/view-property/\d+",
+    "bankauctions": r"bankauctions\.in/auction/",
+    "findauction": r"findauction\.in/auction/",
+    "mhada": r"eauction\.mhada\.gov\.in/",
+    "mstc": r"mstcecommerce\.com/auctionhome/",
+}
+HTML_SCRAPED_SOURCES = frozenset(
+    {"eauctionsindia", "bankauctions", "findauction", "mhada", "mstc"}
+)
 EAUCTIONSINDIA_CITIES = [
     "https://www.eauctionsindia.com/city/bhiwandi",
     "https://www.eauctionsindia.com/city/kolhapur",
@@ -31,6 +49,44 @@ EAUCTIONSINDIA_CITIES = [
     "https://www.eauctionsindia.com/city/pune",
 ]
 STATE_SCHEMA_VERSION = 1
+
+
+_INVALID_URL_RE = re.compile(
+    r"javascript:|void\s*\(\s*0|vdo\.ai|ezoic|doubleclick|googlesyndication|"
+    r"/contact(?:-us)?(?:/|$|\?)|blog-details|/city/[^/]+/?$",
+    re.I,
+)
+
+
+def _is_valid_url(url, source=None):
+    """Return True only for real listing detail URLs (not ads, placeholders, or images)."""
+    if not url or not isinstance(url, str):
+        return False
+    url_lower = url.lower().strip()
+    if not (url_lower.startswith("http://") or url_lower.startswith("https://")):
+        return False
+    if _INVALID_URL_RE.search(url_lower):
+        return False
+    try:
+        from urllib.parse import urlparse
+
+        parsed = urlparse(url)
+        if not parsed.netloc:
+            return False
+    except Exception:
+        return False
+
+    if "cloudfront.net" in url_lower and re.search(r"\.(jpg|jpeg|png|webp|gif)(\?|$)", url_lower):
+        return False
+
+    src = (source or "").lower()
+    pattern = SOURCE_URL_PATTERNS.get(src)
+    if pattern:
+        return bool(re.search(pattern, url_lower))
+    for src_key, pat in SOURCE_URL_PATTERNS.items():
+        if src_key.replace(".", "") in url_lower or src_key in url_lower:
+            return bool(re.search(pat, url_lower))
+    return True
 
 
 def _load_pincode_cache():
@@ -404,9 +460,11 @@ def _normalize_link(link, source=None, city_url=None):
     """Ensure links are absolute for known sources."""
     if not link:
         return ""
-    if isinstance(link, str) and link.startswith("http"):
-        return link
-    s = str(link)
+    s = str(link).strip()
+    if s.lower().startswith("javascript:") or "void(0)" in s.lower():
+        return ""
+    if isinstance(link, str) and s.startswith("http"):
+        return s
     # eauctionsindia relative links
     if source == "eauctionsindia":
         if s.startswith("/"):
@@ -422,6 +480,20 @@ def _normalize_link(link, source=None, city_url=None):
         if s.startswith("/"):
             return "https://baanknet.com" + s
         return "https://baanknet.com/" + s.lstrip("/")
+    if source == "bankauctions":
+        if s.startswith("/"):
+            return "https://bankauctions.in" + s
+        return s
+    if source == "findauction":
+        if s.startswith("/"):
+            return "https://findauction.in" + s
+        return s
+    if source == "mhada":
+        return s
+    if source == "mstc":
+        if s.startswith("/"):
+            return "https://www.mstcecommerce.com" + s
+        return s
     # generic fallback
     if s.startswith("/"):
         return "https://" + s.lstrip("/")
@@ -726,6 +798,33 @@ def _send_email(subject, body, is_html=True):
         server.send_message(msg)
 
 
+def _entry_from_scraped(item):
+    """Build a normalized entry dict from HTML/API scraped property items."""
+    source = item.get("source", "unknown")
+    dates = []
+    if item.get("auction_date"):
+        dates.append({"key": "auction_date", "value": item.get("auction_date")})
+    if item.get("application_last_date"):
+        dates.append({"key": "application_last_date", "value": item.get("application_last_date")})
+    if item.get("emd_end_date"):
+        dates.append({"key": "emd_end_date", "value": item.get("emd_end_date")})
+    city = item.get("city") or ""
+    if not city and item.get("city_url"):
+        try:
+            city = item["city_url"].rstrip("/").split("/")[-1].replace("-", " ").title()
+        except Exception:
+            city = ""
+    return {
+        "details": item.get("property_name") or item.get("raw_text", "")[:200] or "",
+        "link": item.get("property_url") or item.get("link") or "",
+        "photos": item.get("image_url") or item.get("photos") or "",
+        "important_dates": dates,
+        "emd_cost": item.get("emd") or item.get("emd_amount") or "",
+        "source": source,
+        "city": city,
+    }
+
+
 def fetch_with_playwright():
     try:
         from playwright.sync_api import sync_playwright
@@ -938,18 +1037,26 @@ def fetch_eauctionsindia_with_playwright(cities=None):
                             if date_elem:
                                 prop["auction_date"] = date_elem.get_text(strip=True)
 
-                            # Look for property link
-                            link_elem = card.find("a", href=True)
-                            if link_elem:
-                                prop["property_url"] = link_elem["href"]
-                                if not prop["property_url"].startswith("http"):
-                                    prop["property_url"] = "https://www.eauctionsindia.com" + prop["property_url"]
+                            # Prefer real property detail links (skip ads / javascript placeholders)
+                            prop_url = ""
+                            for link_elem in card.find_all("a", href=True):
+                                href = (link_elem.get("href") or "").strip()
+                                if not href or href.lower().startswith("javascript:") or "void(0)" in href.lower():
+                                    continue
+                                if "/properties/" in href:
+                                    prop_url = href
+                                    break
+                            if prop_url:
+                                if not prop_url.startswith("http"):
+                                    prop_url = "https://www.eauctionsindia.com" + (
+                                        prop_url if prop_url.startswith("/") else "/" + prop_url
+                                    )
+                                prop["property_url"] = prop_url
 
                             # Try to get all text as fallback
                             prop["raw_text"] = card.get_text(separator=" ", strip=True)[:300]
 
-                            # Relaxed: add if we found at least a name, URL, or substantial raw text
-                            if prop.get("property_name") or prop.get("property_url") or (prop.get("raw_text") and len(prop.get("raw_text")) > 30):
+                            if _is_valid_url(prop.get("property_url"), source="eauctionsindia"):
                                 prop["source"] = "eauctionsindia"
                                 prop["city_url"] = city_url
                                 all_properties.append(prop)
@@ -986,18 +1093,35 @@ def run(output_path, state_path, send_email=True, property_types=None, use_scrap
     # Load or fetch Maharashtra pincodes list
     _load_maharashtra_pincodes()
     
-    # Fetch from both sources
-    print("Fetching BAANKNET properties...")
+    all_items = []
+
+    print("Fetching BAANKNET (https://baanknet.com/property-listing)...")
     baanknet_payloads = fetch_with_playwright()
     baanknet_items = _normalize_payloads(baanknet_payloads)
-    print(f"BAANKNET: {len(baanknet_items)} properties fetched")
-    
-    print("Fetching eauctionsindia properties...")
+    for item in baanknet_items:
+        if isinstance(item, dict):
+            item.setdefault("source", "baanknet")
+    print(f"  baanknet: {len(baanknet_items)} raw items")
+    all_items.extend(baanknet_items)
+
+    print("Fetching eAuctions India...")
     eauctionsindia_items = fetch_eauctionsindia_with_playwright()
-    print(f"eauctionsindia: {len(eauctionsindia_items)} properties fetched")
-    
-    # Combine items from both sources
-    all_items = baanknet_items + eauctionsindia_items
+    print(f"  eauctionsindia: {len(eauctionsindia_items)} items")
+    all_items.extend(eauctionsindia_items)
+
+    print("Fetching BankAuctions.in...")
+    all_items.extend(fetch_bankauctions())
+
+    print("Fetching FindAuction.in (Maharashtra cities)...")
+    all_items.extend(fetch_findauction_with_playwright())
+
+    print("Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...")
+    all_items.extend(fetch_mhada_with_playwright())
+
+    print("Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...")
+    all_items.extend(fetch_mstc_with_playwright())
+
+    print(f"Combined raw items from all sources: {len(all_items)}")
 
     previous_state = _load_state(state_path)
     previous_items = previous_state.get("items", {})
@@ -1013,47 +1137,30 @@ def run(output_path, state_path, send_email=True, property_types=None, use_scrap
             results.append({"raw": item})
             continue
         
-        # Determine source and extract fields accordingly
-        source = item.get("source", "baanknet")
-        
-        # Filter BAANKNET for Maharashtra only
-        if source != "eauctionsindia" and not _is_maharashtra(item):
-            continue
-        
-        if source == "eauctionsindia":
-            # For eauctionsindia, use raw item directly (skip _extract_eauctionsindia_fields filters)
-            entry = {
-                "details": item.get("property_name") or item.get("raw_text", "")[:100] or "",
-                "link": item.get("property_url") or "",
-                "photos": item.get("image_url") or item.get("photos") or "",
-                "important_dates": [{"key": "auction_date", "value": item.get("auction_date")}] if item.get("auction_date") else [],
-                "emd_cost": "",
-            }
+        source = (item.get("source") or "baanknet").lower()
+
+        if source in HTML_SCRAPED_SOURCES:
+            entry = _entry_from_scraped(item)
         else:
+            if not _is_maharashtra(item):
+                continue
             entry = _extract_item_fields(item)
-        
-        # Ensure metadata
-        entry["raw"] = item
-        # ensure source marker
-        if source == "eauctionsindia":
-            entry["source"] = "eauctionsindia"
-            # derive city name from city_url if available
-            city_url = item.get("city_url") or item.get("city") or ""
-            city_name = ""
-            try:
-                if city_url:
-                    city_name = city_url.rstrip("/").split("/")[-1].replace('-', ' ').title()
-            except Exception:
-                city_name = ""
-            entry["city"] = city_name
-        else:
             entry["source"] = "baanknet"
+            entry["city"] = item.get("city") or (item.get("raw") or {}).get("city") or ""
+
+        entry["raw"] = item
+        if not entry.get("source"):
+            entry["source"] = source
 
         # Add a normalized property type for consistent filtering in the dashboard.
         entry["property_type"] = _classify_property_type(entry)
 
         # normalize links
         entry["link"] = _normalize_link(entry.get("link"), source=entry.get("source"), city_url=item.get("city_url"))
+        
+        # Skip items without a valid listing detail URL
+        if not _is_valid_url(entry.get("link"), source=entry.get("source")):
+            continue
 
         results.append(entry)
         entry_id = _item_id(entry)

@@ -9,8 +9,10 @@ const elements = {
   lastFetch: document.getElementById("lastFetch"),
   refreshBtn: document.getElementById("refreshBtn"),
   clearBtn: document.getElementById("clearBtn"),
+  emptyClearBtn: document.getElementById("emptyClearBtn"),
+  filtersToggle: document.getElementById("filtersToggle"),
+  sidebar: document.getElementById("sidebar"),
   sourceFilter: document.getElementById("sourceFilter"),
-  stateFilter: document.getElementById("stateFilter"),
   cityFilter: document.getElementById("cityFilter"),
   bankFilter: document.getElementById("bankFilter"),
   typeFilter: document.getElementById("typeFilter"),
@@ -29,6 +31,31 @@ const formatter = new Intl.NumberFormat("en-IN", {
 });
 
 const safeText = (value) => (value === null || value === undefined ? "" : String(value));
+
+const INVALID_URL_RE =
+  /javascript:|void\s*\(\s*0|vdo\.ai|ezoic|doubleclick|googlesyndication|\/contact(?:-us)?(?:\/|$|\?)|blog-details|\/city\/[^/]+\/?$/i;
+
+const isValidListingUrl = (url, source = "") => {
+  const value = safeText(url).trim();
+  if (!value.startsWith("http://") && !value.startsWith("https://")) return false;
+  if (INVALID_URL_RE.test(value)) return false;
+  const lower = value.toLowerCase();
+  if (lower.includes("cloudfront.net") && /\.(jpg|jpeg|png|webp|gif)(\?|$)/i.test(lower)) {
+    return false;
+  }
+  const src = safeText(source).toLowerCase();
+  const patterns = {
+    eauctionsindia: /eauctionsindia\.com\/properties\/\d+/i,
+    baanknet: /baanknet\.com\/view-property\/\d+/i,
+    bankauctions: /bankauctions\.in\/auction\//i,
+    findauction: /findauction\.in\/auction\//i,
+    mhada: /eauction\.mhada\.gov\.in\//i,
+    mstc: /mstcecommerce\.com\/auctionhome\//i,
+  };
+  const pattern = patterns[src];
+  if (pattern) return pattern.test(lower);
+  return true;
+};
 
 const parsePrice = (value) => {
   if (value === null || value === undefined) return null;
@@ -138,7 +165,6 @@ const fillSelect = (select, options) => {
 
 const buildFilters = () => {
   fillSelect(elements.sourceFilter, dedupe(listings.map((item) => item.source)));
-  fillSelect(elements.stateFilter, dedupe(listings.map((item) => item.state)));
   fillSelect(elements.cityFilter, dedupe(listings.map((item) => item.city)));
   fillSelect(elements.bankFilter, dedupe(listings.map((item) => item.bank)));
   fillSelect(elements.typeFilter, dedupe(listings.map((item) => item.type)));
@@ -146,7 +172,6 @@ const buildFilters = () => {
 
 const getFilterState = () => ({
   source: elements.sourceFilter.value,
-  state: elements.stateFilter.value,
   city: elements.cityFilter.value,
   bank: elements.bankFilter.value,
   type: elements.typeFilter.value,
@@ -160,7 +185,6 @@ const applyFilters = () => {
   const filters = getFilterState();
   const filtered = listings.filter((item) => {
     if (filters.source && item.source !== filters.source) return false;
-    if (filters.state && item.state !== filters.state) return false;
     if (filters.city && item.city !== filters.city) return false;
     if (filters.bank && item.bank !== filters.bank) return false;
     if (filters.type && item.type !== filters.type) return false;
@@ -193,15 +217,14 @@ const applyFilters = () => {
 const renderChips = (filters) => {
   elements.activeChips.innerHTML = "";
   const entries = [
-    filters.source && `Source: ${filters.source}`,
-    filters.state && `State: ${filters.state}`,
-    filters.city && `City: ${filters.city}`,
-    filters.bank && `Bank: ${filters.bank}`,
-    filters.type && `Type: ${filters.type}`,
-    filters.minPrice !== null && `Min INR ${filters.minPrice}`,
-    filters.maxPrice !== null && `Max INR ${filters.maxPrice}`,
-    filters.photos && "Has photos",
-    filters.search && `Search: ${filters.search}`,
+    filters.search && `"${filters.search}"`,
+    filters.city && filters.city,
+    filters.source && formatSource(filters.source),
+    filters.type && filters.type,
+    filters.bank && filters.bank,
+    filters.minPrice !== null && `Min ${formatter.format(filters.minPrice)}`,
+    filters.maxPrice !== null && `Max ${formatter.format(filters.maxPrice)}`,
+    filters.photos && "With photos",
   ].filter(Boolean);
   entries.forEach((entry) => {
     const chip = document.createElement("span");
@@ -211,83 +234,124 @@ const renderChips = (filters) => {
   });
 };
 
+const formatSource = (source) => {
+  const labels = {
+    eauctionsindia: "eAuctions India",
+    baanknet: "BAANKNET",
+    bankauctions: "BankAuctions.in",
+    findauction: "FindAuction.in",
+    mhada: "MHADA eAuction",
+    mstc: "MSTC / IBAPI",
+  };
+  const s = safeText(source).toLowerCase();
+  return labels[s] || source || "Unknown";
+};
+
 const renderListings = (items) => {
   elements.cards.innerHTML = "";
   elements.filteredCount.textContent = String(items.length);
   if (!items.length) {
     elements.emptyState.classList.remove("hidden");
+    elements.cards.classList.add("hidden");
     return;
   }
   elements.emptyState.classList.add("hidden");
+  elements.cards.classList.remove("hidden");
+
   items.forEach((item) => {
     const card = document.createElement("article");
-    card.className = "card";
-
-    const imageWrap = document.createElement("div");
-    imageWrap.className = "card-image";
-    if (item.image) {
-      const img = document.createElement("img");
-      img.loading = "lazy";
-      img.src = item.image;
-      img.alt = item.title;
-      imageWrap.appendChild(img);
-    }
+    card.className = item.image ? "card" : "card card--no-photo";
 
     const body = document.createElement("div");
     body.className = "card-body";
+
+    const badges = document.createElement("div");
+    badges.className = "card-badges";
+    const sourceBadge = document.createElement("span");
+    sourceBadge.className = "badge badge--source";
+    sourceBadge.textContent = formatSource(item.source);
+    badges.appendChild(sourceBadge);
+    if (item.type) {
+      const typeBadge = document.createElement("span");
+      typeBadge.className = "badge badge--type";
+      typeBadge.textContent = item.type;
+      badges.appendChild(typeBadge);
+    }
 
     const title = document.createElement("h3");
     title.className = "card-title";
     title.textContent = item.title;
 
-    const meta = document.createElement("div");
-    meta.className = "card-meta";
-
     const location = document.createElement("div");
-    location.textContent = [item.city, item.state].filter(Boolean).join(", ");
-
-    const bank = document.createElement("div");
-    bank.textContent = item.bank ? `Bank: ${item.bank}` : "Bank: -";
+    location.className = "card-location";
+    const locText = [item.city, item.state || "Maharashtra"].filter(Boolean).join(", ");
+    location.textContent = locText || "Maharashtra";
 
     const price = document.createElement("div");
-    const pricePill = document.createElement("span");
-    pricePill.className = "pill";
-    pricePill.textContent = item.priceLabel;
-    price.appendChild(pricePill);
+    price.className = "card-price";
+    price.textContent = item.priceLabel;
 
-    const dates = document.createElement("div");
-    const dateParts = [item.auctionDate && `Auction: ${item.auctionDate}`, item.postedOn];
-    dates.textContent = dateParts.filter(Boolean).join(" • ");
-
-    const source = document.createElement("div");
-    source.textContent = `Source: ${item.source}`;
-
-    meta.append(location, bank, price, dates, source);
+    const metaRow = document.createElement("div");
+    metaRow.className = "card-meta-row";
+    if (item.bank) {
+      const bank = document.createElement("span");
+      bank.className = "card-meta-item";
+      bank.innerHTML = `<strong>Bank</strong> ${item.bank}`;
+      metaRow.appendChild(bank);
+    }
+    if (item.auctionDate) {
+      const auction = document.createElement("span");
+      auction.className = "card-meta-item";
+      auction.innerHTML = `<strong>Auction</strong> ${item.auctionDate}`;
+      metaRow.appendChild(auction);
+    }
+    if (item.postedOn) {
+      const posted = document.createElement("span");
+      posted.className = "card-meta-item";
+      posted.innerHTML = `<strong>Posted</strong> ${item.postedOn}`;
+      metaRow.appendChild(posted);
+    }
 
     const details = document.createElement("p");
     details.className = "card-details";
     details.textContent = item.details || item.address || "No description available.";
 
-    body.append(title, meta, details);
+    body.append(badges, title, location, price);
+    if (metaRow.childElementCount) body.appendChild(metaRow);
+    body.appendChild(details);
 
-    if (item.link && item.link !== item.image) {
+    if (item.image) {
+      const imageWrap = document.createElement("div");
+      imageWrap.className = "card-image";
+      const img = document.createElement("img");
+      img.loading = "lazy";
+      img.src = item.image;
+      img.alt = item.title;
+      imageWrap.appendChild(img);
+      card.appendChild(imageWrap);
+    }
+
+    card.appendChild(body);
+
+    if (isValidListingUrl(item.link, item.source)) {
+      const action = document.createElement("div");
+      action.className = "card-action";
       const link = document.createElement("a");
       link.className = "card-link";
       link.href = item.link;
       link.target = "_blank";
       link.rel = "noopener noreferrer";
       link.textContent = "View listing";
-      body.appendChild(link);
+      action.appendChild(link);
+      card.appendChild(action);
     }
 
-    card.append(imageWrap, body);
     elements.cards.appendChild(card);
   });
 };
 
 const clearFilters = () => {
   elements.sourceFilter.value = "";
-  elements.stateFilter.value = "";
   elements.cityFilter.value = "";
   elements.bankFilter.value = "";
   elements.typeFilter.value = "";
@@ -296,6 +360,12 @@ const clearFilters = () => {
   elements.searchInput.value = "";
   elements.photoOnly.checked = false;
   applyFilters();
+};
+
+const toggleSidebar = (open) => {
+  const isOpen = open ?? !elements.sidebar.classList.contains("is-open");
+  elements.sidebar.classList.toggle("is-open", isOpen);
+  elements.filtersToggle.setAttribute("aria-expanded", String(isOpen));
 };
 
 const fetchJson = async () => {
@@ -319,28 +389,39 @@ const updateTimestamp = () => {
 
 const loadData = async () => {
   elements.refreshBtn.disabled = true;
-  elements.refreshBtn.textContent = "Refreshing...";
+  elements.refreshBtn.textContent = "Refreshing…";
   try {
     const data = await fetchJson();
-    listings = dedupeListings((Array.isArray(data) ? data : []).map(normalizeListing));
+    const raw = Array.isArray(data) ? data : [];
+    const withUrl = raw.filter((item) =>
+      isValidListingUrl(item.link || item.raw?.property_url, item.source || item.raw?.source)
+    );
+    listings = dedupeListings(withUrl.map(normalizeListing));
     elements.totalCount.textContent = String(listings.length);
+    const emptyMsg = elements.emptyState.querySelector("p");
+    if (emptyMsg) {
+      emptyMsg.textContent = "Try clearing filters or widening your search.";
+    }
     buildFilters();
     applyFilters();
     updateTimestamp();
   } catch (error) {
     elements.cards.innerHTML = "";
+    elements.cards.classList.add("hidden");
     elements.emptyState.classList.remove("hidden");
-    elements.emptyState.textContent =
-      "Unable to load data. Check that property_listings.json is available.";
+    const msg = elements.emptyState.querySelector("p");
+    if (msg) {
+      msg.textContent =
+        "Unable to load data. Run the scraper first, then refresh.";
+    }
   } finally {
     elements.refreshBtn.disabled = false;
-    elements.refreshBtn.textContent = "Refresh data";
+    elements.refreshBtn.textContent = "Refresh";
   }
 };
 
 [
   elements.sourceFilter,
-  elements.stateFilter,
   elements.cityFilter,
   elements.bankFilter,
   elements.typeFilter,
@@ -355,5 +436,21 @@ const loadData = async () => {
 
 elements.refreshBtn.addEventListener("click", loadData);
 elements.clearBtn.addEventListener("click", clearFilters);
+elements.emptyClearBtn.addEventListener("click", () => {
+  clearFilters();
+  toggleSidebar(false);
+});
+elements.filtersToggle.addEventListener("click", () => toggleSidebar());
+
+document.addEventListener("click", (e) => {
+  if (
+    window.innerWidth <= 900 &&
+    elements.sidebar.classList.contains("is-open") &&
+    !elements.sidebar.contains(e.target) &&
+    !elements.filtersToggle.contains(e.target)
+  ) {
+    toggleSidebar(false);
+  }
+});
 
 loadData();
