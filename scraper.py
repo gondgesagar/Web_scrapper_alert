@@ -23,6 +23,8 @@ from auction_sources import (
 )
 
 TARGET_URL = "https://baanknet.com/property-listing"
+BAANKNET_API_MATCH = "property-listing-data"
+BAANKNET_DEFAULT_API_BASE = "https://baanknet.com/eauction-psb/api/property-listing-data/1"
 SOURCE_URL_PATTERNS = {
     "eauctionsindia": r"eauctionsindia\.com/properties/\d+",
     "baanknet": r"baanknet\.com/view-property/\d+",
@@ -643,6 +645,7 @@ def _extract_item_fields(item):
             r"title",
         ],
     )
+    prop_id = item.get("propertyId")
     link = _find_first_value(
         pairs,
         [
@@ -652,8 +655,10 @@ def _extract_item_fields(item):
             r"property[_-]?url",
         ],
     )
-    if link and isinstance(link, str) and link.startswith("Production/"):
-        link = f"https://baanknet.com/property-listing"
+    if prop_id:
+        link = f"https://baanknet.com/view-property/{prop_id}"
+    elif link and isinstance(link, str) and link.startswith("Production/"):
+        link = None
     
     photos = _find_first_value(
         pairs,
@@ -868,7 +873,7 @@ def _entry_from_scraped(item):
     }
 
 
-def fetch_with_playwright():
+def fetch_with_playwright(max_pages_per_endpoint=100, page_size=50):
     try:
         from playwright.sync_api import sync_playwright
     except Exception as exc:
@@ -879,22 +884,107 @@ def fetch_with_playwright():
         ) from exc
 
     payloads = []
+    seen_property_ids = set()
+    api_endpoints = {}
+
+    def _add_payload(data, url):
+        if not isinstance(data, dict):
+            return 0
+        items = data.get("data")
+        if not isinstance(items, list) or not items:
+            return 0
+        new_items = []
+        for item in items:
+            if not isinstance(item, dict):
+                continue
+            prop_id = item.get("propertyId")
+            key = str(prop_id) if prop_id is not None else json.dumps(item, sort_keys=True)
+            if key in seen_property_ids:
+                continue
+            seen_property_ids.add(key)
+            new_items.append(item)
+        if not new_items:
+            return 0
+        payloads.append({"data": new_items})
+        print(f"  [DEBUG] Captured {len(new_items)} items from: {url[:120]}")
+        return len(new_items)
+
+    def handle_request(request):
+        url_lower = request.url.lower()
+        if BAANKNET_API_MATCH not in url_lower or request.method != "POST":
+            return
+        base_url = request.url.split("?", 1)[0]
+        api_endpoints[base_url] = {
+            "post_data": request.post_data or "{}",
+            "headers": dict(request.headers),
+        }
 
     def handle_response(response):
+        url_lower = response.url.lower()
+        if BAANKNET_API_MATCH not in url_lower:
+            return
         content_type = response.headers.get("content-type", "")
-        if "property-listing-data" in response.url and "application/json" in content_type:
+        if "json" not in content_type.lower():
+            return
+        try:
+            _add_payload(response.json(), response.url)
+        except Exception:
+            pass
+
+    def _paginate_endpoint(request_context, base_url, meta):
+        post_data = meta.get("post_data") or "{}"
+        skip_headers = {"content-length", "host", "connection", "accept-encoding"}
+        headers = {
+            k: v
+            for k, v in meta.get("headers", {}).items()
+            if k.lower() not in skip_headers
+        }
+        if "content-type" not in {k.lower() for k in headers}:
+            headers["Content-Type"] = "application/json"
+
+        for page_num in range(max_pages_per_endpoint):
+            api_url = f"{base_url}?page={page_num}&size={page_size}"
             try:
-                payloads.append(response.json())
-            except Exception:
-                pass
+                response = request_context.post(api_url, data=post_data, headers=headers)
+                if not response.ok:
+                    print(f"  [WARN] BAANKNET page {page_num} returned HTTP {response.status}")
+                    break
+                data = response.json()
+                items = data.get("data") if isinstance(data, dict) else None
+                if not isinstance(items, list) or not items:
+                    break
+                _add_payload(data, api_url)
+                if len(items) < page_size:
+                    break
+            except Exception as exc:
+                print(f"  [WARN] BAANKNET pagination failed at page {page_num}: {exc}")
+                break
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
+        context = browser.new_context()
+        page = context.new_page()
+        page.on("request", handle_request)
         page.on("response", handle_response)
-        page.goto(TARGET_URL, wait_until="networkidle", timeout=60000)
+        print(f"  [DEBUG] Loading {TARGET_URL}...")
+        page.goto(TARGET_URL, wait_until="networkidle", timeout=90000)
         page.wait_for_timeout(5000)
+
+        endpoints = dict(api_endpoints)
+        if not endpoints:
+            print(f"  [WARN] No BAANKNET POST captured; using default endpoint.")
+            endpoints[BAANKNET_DEFAULT_API_BASE] = {"post_data": "{}", "headers": {}}
+
+        for base_url, meta in endpoints.items():
+            print(f"  [DEBUG] Paginating {base_url}")
+            _paginate_endpoint(context.request, base_url, meta)
+
         browser.close()
+
+    if not payloads:
+        print("  [WARN] No baanknet payloads captured.")
+    else:
+        print(f"  [INFO] BAANKNET total unique items: {len(seen_property_ids)}")
 
     return payloads
 
