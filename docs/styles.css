@@ -427,6 +427,11 @@ body {
   color: #92400e;
 }
 
+.badge--land {
+  background: #dcfce7;
+  color: #166534;
+}
+
 .card-title {
   margin: 0;
   font-family: var(--font-display);

@@ -500,8 +500,8 @@ def _normalize_link(link, source=None, city_url=None):
     return s
 
 
-def _classify_property_type(item):
-    """Classify property into a canonical type string."""
+def _item_text(item):
+    """Concatenate searchable text from a listing item."""
     text_sources = []
     if isinstance(item.get("details"), str):
         text_sources.append(item.get("details"))
@@ -513,9 +513,17 @@ def _classify_property_type(item):
         text_sources.append(raw.get("propertyType") or "")
         text_sources.append(raw.get("category") or "")
         text_sources.append(raw.get("property_name") or "")
+        text_sources.append(raw.get("raw_text") or "")
+        text_sources.append(raw.get("propertySubType") or "")
+        text_sources.append(raw.get("typeOfAsset") or "")
     if isinstance(item.get("link"), str):
         text_sources.append(item.get("link"))
-    text = " ".join([t for t in text_sources if t]).lower()
+    return " ".join([t for t in text_sources if t]).lower()
+
+
+def _classify_property_type(item):
+    """Classify property into a canonical type string."""
+    text = _item_text(item)
 
     # Priority list and patterns
     mapping = [
@@ -538,6 +546,41 @@ def _classify_property_type(item):
         return "Residential"
     if "agri" in text:
         return "Land"
+
+    return "Other"
+
+
+def _classify_land_type(item):
+    """Sub-classify land listings as Agriculture or Other (non-agricultural)."""
+    if _classify_property_type(item) != "Land":
+        return ""
+    text = _item_text(item)
+
+    non_ag_patterns = [
+        r"non[- ]?agricultural",
+        r"non[- ]?agr",
+        r"n\.?\s*a\.?\s*land",
+        r"\bna land\b",
+        r"industrial\s+non\s+agricultural",
+        r"industrial\s+land",
+    ]
+    for pat in non_ag_patterns:
+        if re.search(pat, text, re.I):
+            return "Other"
+
+    ag_patterns = [
+        r"\bagricultural\s+land\b",
+        r"\bfarm\s*land\b",
+        r"\bfarm\b",
+        r"\bfarmhouse\b",
+        r"\bagricultural\b",
+    ]
+    for pat in ag_patterns:
+        if re.search(pat, text, re.I):
+            return "Agriculture"
+
+    if re.search(r"\bagri\b", text, re.I) and not re.search(r"non[- ]?agr", text, re.I):
+        return "Agriculture"
 
     return "Other"
 
@@ -1154,6 +1197,7 @@ def run(output_path, state_path, send_email=True, property_types=None, use_scrap
 
         # Add a normalized property type for consistent filtering in the dashboard.
         entry["property_type"] = _classify_property_type(entry)
+        entry["land_type"] = _classify_land_type(entry)
 
         # normalize links
         entry["link"] = _normalize_link(entry.get("link"), source=entry.get("source"), city_url=item.get("city_url"))

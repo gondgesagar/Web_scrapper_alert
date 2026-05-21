@@ -16,6 +16,7 @@ const elements = {
   cityFilter: document.getElementById("cityFilter"),
   bankFilter: document.getElementById("bankFilter"),
   typeFilter: document.getElementById("typeFilter"),
+  landTypeFilter: document.getElementById("landTypeFilter"),
   minPrice: document.getElementById("minPrice"),
   maxPrice: document.getElementById("maxPrice"),
   searchInput: document.getElementById("searchInput"),
@@ -87,6 +88,49 @@ const resolveImage = (item, raw) => {
   return "";
 };
 
+const inferLandType = (item, raw) => {
+  if (item.land_type) return item.land_type;
+  const propertyType = item.property_type || raw.propertySubType || raw.typeOfAsset || "";
+  if (propertyType !== "Land") return "";
+  const text = [
+    item.details,
+    raw.summaryDesc,
+    raw.projectName,
+    raw.assetType,
+    raw.propertyType,
+    raw.category,
+    raw.property_name,
+    raw.raw_text,
+    raw.propertySubType,
+    raw.typeOfAsset,
+    item.link,
+  ]
+    .map((value) => safeText(value).toLowerCase())
+    .join(" ");
+
+  const nonAgPatterns = [
+    /non[- ]?agricultural/i,
+    /non[- ]?agr/i,
+    /n\.?\s*a\.?\s*land/i,
+    /\bna land\b/i,
+    /industrial\s+non\s+agricultural/i,
+    /industrial\s+land/i,
+  ];
+  if (nonAgPatterns.some((pattern) => pattern.test(text))) return "Other";
+
+  const agPatterns = [
+    /\bagricultural\s+land\b/i,
+    /\bfarm\s*land\b/i,
+    /\bfarm\b/i,
+    /\bfarmhouse\b/i,
+    /\bagricultural\b/i,
+  ];
+  if (agPatterns.some((pattern) => pattern.test(text))) return "Agriculture";
+  if (/\bagri\b/i.test(text) && !/non[- ]?agr/i.test(text)) return "Agriculture";
+
+  return "Other";
+};
+
 const getAuctionDate = (item, raw) => {
   if (raw.auction_date) return raw.auction_date;
   if (item.important_dates) {
@@ -115,6 +159,7 @@ const normalizeListing = (item, index) => {
     state: raw.statename || "",
     bank: raw.bankName || "",
     type: item.property_type || raw.propertySubType || raw.typeOfAsset || "",
+    landType: inferLandType(item, raw),
     priceValue,
     priceLabel: formatPrice(priceValue, raw.price),
     postedOn: raw.postedOn || "",
@@ -175,6 +220,7 @@ const getFilterState = () => ({
   city: elements.cityFilter.value,
   bank: elements.bankFilter.value,
   type: elements.typeFilter.value,
+  landType: elements.landTypeFilter.value,
   minPrice: parsePrice(elements.minPrice.value),
   maxPrice: parsePrice(elements.maxPrice.value),
   search: elements.searchInput.value.trim().toLowerCase(),
@@ -188,6 +234,7 @@ const applyFilters = () => {
     if (filters.city && item.city !== filters.city) return false;
     if (filters.bank && item.bank !== filters.bank) return false;
     if (filters.type && item.type !== filters.type) return false;
+    if (filters.landType && item.landType !== filters.landType) return false;
     if (filters.photos && !item.image) return false;
     if (filters.minPrice !== null) {
       if (item.priceValue === null || item.priceValue < filters.minPrice) return false;
@@ -221,6 +268,8 @@ const renderChips = (filters) => {
     filters.city && filters.city,
     filters.source && formatSource(filters.source),
     filters.type && filters.type,
+    filters.landType &&
+      (filters.landType === "Other" ? "Other land type" : filters.landType),
     filters.bank && filters.bank,
     filters.minPrice !== null && `Min ${formatter.format(filters.minPrice)}`,
     filters.maxPrice !== null && `Max ${formatter.format(filters.maxPrice)}`,
@@ -276,6 +325,13 @@ const renderListings = (items) => {
       typeBadge.className = "badge badge--type";
       typeBadge.textContent = item.type;
       badges.appendChild(typeBadge);
+    }
+    if (item.landType) {
+      const landBadge = document.createElement("span");
+      landBadge.className = "badge badge--land";
+      landBadge.textContent =
+        item.landType === "Other" ? "Other land type" : item.landType;
+      badges.appendChild(landBadge);
     }
 
     const title = document.createElement("h3");
@@ -355,6 +411,7 @@ const clearFilters = () => {
   elements.cityFilter.value = "";
   elements.bankFilter.value = "";
   elements.typeFilter.value = "";
+  elements.landTypeFilter.value = "";
   elements.minPrice.value = "";
   elements.maxPrice.value = "";
   elements.searchInput.value = "";
@@ -425,6 +482,7 @@ const loadData = async () => {
   elements.cityFilter,
   elements.bankFilter,
   elements.typeFilter,
+  elements.landTypeFilter,
   elements.minPrice,
   elements.maxPrice,
   elements.searchInput,
