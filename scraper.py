@@ -25,6 +25,7 @@ from auction_sources import (
 TARGET_URL = "https://baanknet.com/property-listing"
 BAANKNET_API_MATCH = "property-listing-data"
 BAANKNET_DEFAULT_API_BASE = "https://baanknet.com/eauction-psb/api/property-listing-data/1"
+BAANKNET_MAHARASHTRA_STATE_ID = 21
 SOURCE_URL_PATTERNS = {
     "eauctionsindia": r"eauctionsindia\.com/properties/\d+",
     "baanknet": r"baanknet\.com/view-property/\d+",
@@ -873,6 +874,18 @@ def _entry_from_scraped(item):
     }
 
 
+def _maharashtra_post_data(post_data):
+    """Ensure BAANKNET API requests are scoped to Maharashtra."""
+    try:
+        body = json.loads(post_data or "{}")
+    except (json.JSONDecodeError, TypeError):
+        body = {}
+    if not isinstance(body, dict):
+        body = {}
+    body["stateID"] = BAANKNET_MAHARASHTRA_STATE_ID
+    return json.dumps(body)
+
+
 def fetch_with_playwright(max_pages_per_endpoint=100, page_size=50):
     try:
         from playwright.sync_api import sync_playwright
@@ -915,7 +928,7 @@ def fetch_with_playwright(max_pages_per_endpoint=100, page_size=50):
             return
         base_url = request.url.split("?", 1)[0]
         api_endpoints[base_url] = {
-            "post_data": request.post_data or "{}",
+            "post_data": _maharashtra_post_data(request.post_data or "{}"),
             "headers": dict(request.headers),
         }
 
@@ -932,7 +945,7 @@ def fetch_with_playwright(max_pages_per_endpoint=100, page_size=50):
             pass
 
     def _paginate_endpoint(request_context, base_url, meta):
-        post_data = meta.get("post_data") or "{}"
+        post_data = _maharashtra_post_data(meta.get("post_data") or "{}")
         skip_headers = {"content-length", "host", "connection", "accept-encoding"}
         headers = {
             k: v
@@ -972,8 +985,11 @@ def fetch_with_playwright(max_pages_per_endpoint=100, page_size=50):
 
         endpoints = dict(api_endpoints)
         if not endpoints:
-            print(f"  [WARN] No BAANKNET POST captured; using default endpoint.")
-            endpoints[BAANKNET_DEFAULT_API_BASE] = {"post_data": "{}", "headers": {}}
+            print("  [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.")
+            endpoints[BAANKNET_DEFAULT_API_BASE] = {
+                "post_data": _maharashtra_post_data("{}"),
+                "headers": {},
+            }
 
         for base_url, meta in endpoints.items():
             print(f"  [DEBUG] Paginating {base_url}")
@@ -1220,6 +1236,17 @@ def fetch_eauctionsindia_with_playwright(cities=None):
     print(f"Total eauctionsindia properties fetched: {len(all_properties)}")
     return all_properties
 
+def _safe_fetch(label, fetch_fn):
+    try:
+        items = fetch_fn()
+        count = len(items) if items is not None else 0
+        print(f"  {label}: {count} items")
+        return items or []
+    except Exception as exc:
+        print(f"  [ERROR] {label} failed: {exc}")
+        return []
+
+
 def run(output_path, state_path, send_email=True, property_types=None, use_scrapegraph=False, scrapegraph_prompt=None):
     # Load persistent pincode cache at start
     _load_pincode_cache()
@@ -1229,7 +1256,11 @@ def run(output_path, state_path, send_email=True, property_types=None, use_scrap
     all_items = []
 
     print("Fetching BAANKNET (https://baanknet.com/property-listing)...")
-    baanknet_payloads = fetch_with_playwright()
+    baanknet_payloads = []
+    try:
+        baanknet_payloads = fetch_with_playwright()
+    except Exception as exc:
+        print(f"  [ERROR] baanknet failed: {exc}")
     baanknet_items = _normalize_payloads(baanknet_payloads)
     for item in baanknet_items:
         if isinstance(item, dict):
@@ -1238,21 +1269,19 @@ def run(output_path, state_path, send_email=True, property_types=None, use_scrap
     all_items.extend(baanknet_items)
 
     print("Fetching eAuctions India...")
-    eauctionsindia_items = fetch_eauctionsindia_with_playwright()
-    print(f"  eauctionsindia: {len(eauctionsindia_items)} items")
-    all_items.extend(eauctionsindia_items)
+    all_items.extend(_safe_fetch("eauctionsindia", fetch_eauctionsindia_with_playwright))
 
     print("Fetching BankAuctions.in...")
-    all_items.extend(fetch_bankauctions())
+    all_items.extend(_safe_fetch("bankauctions", fetch_bankauctions))
 
     print("Fetching FindAuction.in (Maharashtra cities)...")
-    all_items.extend(fetch_findauction_with_playwright())
+    all_items.extend(_safe_fetch("findauction", fetch_findauction_with_playwright))
 
     print("Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...")
-    all_items.extend(fetch_mhada_with_playwright())
+    all_items.extend(_safe_fetch("mhada", fetch_mhada_with_playwright))
 
     print("Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...")
-    all_items.extend(fetch_mstc_with_playwright())
+    all_items.extend(_safe_fetch("mstc", fetch_mstc_with_playwright))
 
     print(f"Combined raw items from all sources: {len(all_items)}")
 
@@ -1419,18 +1448,24 @@ def main():
         action="store_true",
         help="Do not send email notifications even if changes are detected.",
     )
+    parser.add_argument(
+        "--property-types",
+        default="plot,land,bungalow,villa,residential",
+        help="Comma-separated property types for email alerts (e.g. plot,land,bungalow).",
+    )
     args = parser.parse_args()
 
     output_path = Path(args.output)
     state_path = Path(args.state)
-    # Hard-coded property types filter
-    hardcoded_types = ['villa', 'bungalow', 'plot', 'land', 'residential']
+    property_types = [
+        p.strip() for p in args.property_types.split(",") if p.strip()
+    ]
 
     results = run(
         output_path,
         state_path,
         send_email=not args.no_email,
-        property_types=hardcoded_types,
+        property_types=property_types,
     )
     print(f"Wrote {len(results)} items to {output_path}")
 

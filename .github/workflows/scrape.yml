@@ -44,9 +44,15 @@ jobs:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: |
-          set -e
+          set -eo pipefail
           # Run scraper and capture logs (filter by property types: plots, land, farm hous, bunglow)
           python scraper.py --property-types 'plots,land,farm hous,bunglow' 2>&1 | tee scraper_run.log
+
+          if [ ! -f data/property_listings.json ] && [ ! -f docs/data/property_listings.json ]; then
+            echo "Scraper finished but did not write property_listings.json" >&2
+            tail -n 50 scraper_run.log || true
+            exit 1
+          fi
 
           # Extract NEW_AUCTIONS_COUNT from output, default to 0
           NEW_COUNT=$(grep -Eo 'NEW_AUCTIONS_COUNT=[0-9]+' scraper_run.log | sed 's/.*=//' || true)
@@ -60,8 +66,15 @@ jobs:
 
       - name: Sync dashboard data
         run: |
-          mkdir -p docs/data
-          cp data/property_listings.json docs/data/property_listings.json
+          mkdir -p docs/data data
+          if [ -f docs/data/property_listings.json ]; then
+            cp docs/data/property_listings.json data/property_listings.json
+          elif [ -f data/property_listings.json ]; then
+            cp data/property_listings.json docs/data/property_listings.json
+          else
+            echo "No property listings output found from scraper." >&2
+            exit 1
+          fi
       
       - name: Commit and push changes
         env:
