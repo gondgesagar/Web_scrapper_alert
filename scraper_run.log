@@ -20,7 +20,7 @@ Call log:
   -   content-type: application/json
   -   sec-ch-ua-mobile: ?0
   -   content-length: 105
-  -   cookie: JSESSIONID=1742c09b-19ca-4dba-b877-05ed0c2785f4; language=en; languageId=1; _ga=GA1.1.1805208075.1779536222; _ga_SZ8S2EHDZY=GS2.1.s1779536222$o1$g0$t1779536222$j60$l0$h0; XSRF-TOKEN=9975daef-3270-49b1-b2c5-55a29462a014
+  -   cookie: JSESSIONID=593e08ed-c77b-46b7-80dd-ff356c7f5e02; language=en; languageId=1; _ga=GA1.1.203219960.1779539981; _ga_SZ8S2EHDZY=GS2.1.s1779539981$o1$g0$t1779539981$j60$l0$h0; XSRF-TOKEN=c80183f1-2a51-4fc2-9637-4c88e167a650
 
   [INFO] BAANKNET total unique items: 10
   baanknet: 10 raw items
@@ -110,9 +110,9 @@ Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 13 listings
   mstc: 13 items
 Combined raw items from all sources: 701
-Processing stats: 693 total items, 693 new, -251 duplicates skipped
+Processing stats: 693 total items, 693 new, -249 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 442 total tracked items to .state/state.json
+Saved state with 444 total tracked items to .state/state.json
 Applied property-types filter: plots, land, farm hous, bunglow — 156/693 items remain
 Saved 6 pincodes to cache.
 NEW_AUCTIONS_COUNT=156
