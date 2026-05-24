@@ -1,169 +1,5 @@
 [
   {
-    "emd_cost": null,
-    "details": "Flat No 1002, 10th Floor, B wing, Versatile Valley, Dombivali (East), Thane- 421204",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "25-05-2026 06:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "25-05-2026 08:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "26-05-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "26-05-2026 11:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "24-05-2026 12:28:11"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "26-05-2026 10:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/284465",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/24/284465/584480_compressed.jpg",
-    "source": "baanknet",
-    "city": "Khapoli",
-    "raw": {
-      "propertyId": "284465",
-      "projectName": null,
-      "price": 5100000.0,
-      "pricePerSeqFit": 8160.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/24/284465/584480_compressed.jpg",
-      "postedOn": "24-05-2026",
-      "developerName": null,
-      "owenershipType": "Co-op Society",
-      "bankName": "Bank of India",
-      "summaryDesc": "Flat No 1002, 10th Floor, B wing, Versatile Valley, Dombivali (East), Thane- 421204",
-      "city": "Khapoli",
-      "cityID": "5316",
-      "stateID": 21,
-      "localities": "Dombivali east",
-      "noOfBedRoom": null,
-      "carpetArea": 625.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North-East",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "410204",
-      "bankPropertyId": "BKIDSARMAMAR1",
-      "availablePhotosCount": 26,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No 1002, 10th Floor, B wing, Versatile Valley, Dombivali (East), Thane- 421204",
-      "statename": "Maharashtra",
-      "districtname": "Raigad",
-      "inspectionStartDateTime": "25-05-2026 06:30:00",
-      "inspectionEndDateTime": "25-05-2026 08:30:00",
-      "auctionStartDateTime": "26-05-2026 05:30:00",
-      "auctionEndDateTime": "26-05-2026 11:30:00",
-      "emdStartDateTime": "24-05-2026 12:28:11",
-      "emdEndDateTime": "26-05-2026 10:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "All the piece and parcel situated on the Second Floor of the Vasundhara Apartment, C.S.No.1666, E Ward, Rajarampuri 10th Lane, Kolhapur.\r\nA)\tFlat No.F-6, Built up area 20.76 sq.mtrs. Bounded by towards its \r\nEast\t : Property of C.S.No.1672\r\nWest \t : Flat No.F-1\r\nSouth\t : Flat No.F-3\r\nNorth\t : Property of C.S.No.1672",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/284020",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/22/284020/584030_compressed.jpg",
-    "source": "baanknet",
-    "city": "Kolhapur",
-    "raw": {
-      "propertyId": "284020",
-      "projectName": "VASUNDHRA APARTMENT",
-      "price": 4500000.0,
-      "pricePerSeqFit": 59201.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/22/284020/584030_compressed.jpg",
-      "postedOn": "22-05-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": "All the piece and parcel situated on the Second Floor of the Vasundhara Apartment, C.S.No.1666, E Ward, Rajarampuri 10th Lane, Kolhapur.\r\nA)\tFlat No.F-6, Built up area 20.76 sq.mtrs. Bounded by towards its \r\nEast\t : Property of C.S.No.1672\r\nWest \t : Flat No.F-1\r\nSouth\t : Flat No.F-3\r\nNorth\t : Property of C.S.No.1672",
-      "city": "Kolhapur",
-      "cityID": "5080",
-      "stateID": 21,
-      "localities": "RAJARAMPURI KOLHAPUR",
-      "noOfBedRoom": null,
-      "carpetArea": 20.0,
-      "builtupArea": 21.0,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "West",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "416008",
-      "bankPropertyId": "SBINANKITARAMCHANDANI",
-      "availablePhotosCount": 20,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "2",
-      "unitOfMeasure": "sq meter",
-      "percentageOfLoan": null,
-      "isLoanAvailable": false,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All the piece and parcel situated on the Second Floor of the Vasundhara Apartment, C.S.No.1666, E Ward, Rajarampuri 10th Lane, Kolhapur.\r\nA)\tFlat No.F-6, Built up area 20.76 sq.mtrs. Bounded by towards its \r\nEast\t : Property of C.S.No.1672\r\nWest \t : Flat No.F-1\r\nSouth\t : Flat No.F-3\r\nNorth\t : Property of C.S.No.1672",
-      "statename": "Maharashtra",
-      "districtname": "Kolhapur",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Xerox Machine in Pune",
     "link": "https://findauction.in/auction/canarabank/xerox-machine-in-pune-1656631",
     "photos": "",
@@ -1689,13 +1525,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Palghar, Mumbai",
-    "link": "https://findauction.in/auction/tygerhomefinance/flat-in-norman-arcade-palghar-mumbai-1637070",
+    "details": "1 Rk Flat in Kamothe, Panvel",
+    "link": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "26 May 2026"
+        "value": "04 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1703,12 +1539,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tygerhomefinance/flat-in-norman-arcade-palghar-mumbai-1637070",
-      "property_name": "Flat in Palghar, Mumbai",
-      "price": "11,56,500",
-      "auction_date": "26 May 2026",
+      "property_url": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
+      "property_name": "1 Rk Flat in Kamothe, Panvel",
+      "price": "25,50,000",
+      "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Palghar, Mumbai \ud83c\udfe2 Norman Arcade Tyger Home Finance 11,56,500 26 May 2026 47.78 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "1 Rk Flat in Kamothe, Panvel \ud83c\udfe2 Siddhi Apartment Tyger Home Finance 25,50,000 04 Jun 2026 235 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1814,13 +1650,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1637074",
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1627967",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "26 May 2026"
+        "value": "05 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1828,12 +1664,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1637074",
-      "property_name": "Flat in Ambernath, Mumbai",
-      "price": "16,65,000",
-      "auction_date": "26 May 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1627967",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
+      "auction_date": "05 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Jp Regency Tyger Home Finance 16,65,000 26 May 2026 29.809 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 05 Jun 2026 589 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2114,8 +1950,8 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Umroli East, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
+    "details": "1 Rk Flat in Kamothe, Panvel",
+    "link": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
     "photos": "",
     "important_dates": [
       {
@@ -2128,12 +1964,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
-      "property_name": "Flat in Umroli East, Mumbai",
-      "price": "11,00,000",
+      "property_url": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
+      "property_name": "1 Rk Flat in Kamothe, Panvel",
+      "price": "25,50,000",
       "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Umroli East, Mumbai \ud83c\udfe2 Sai Yashodhan ICICI Bank 11,00,000 04 Jun 2026 EMD 1,10,000 Physical Possession View Auction Promoted"
+      "raw_text": "1 Rk Flat in Kamothe, Panvel \ud83c\udfe2 Siddhi Apartment Tyger Home Finance 25,50,000 04 Jun 2026 235 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2239,13 +2075,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1637074",
+    "details": "Flat in Umroli East, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "26 May 2026"
+        "value": "04 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -2253,12 +2089,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1637074",
-      "property_name": "Flat in Ambernath, Mumbai",
-      "price": "16,65,000",
-      "auction_date": "26 May 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
+      "property_name": "Flat in Umroli East, Mumbai",
+      "price": "11,00,000",
+      "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Jp Regency Tyger Home Finance 16,65,000 26 May 2026 29.809 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Umroli East, Mumbai \ud83c\udfe2 Sai Yashodhan ICICI Bank 11,00,000 04 Jun 2026 EMD 1,10,000 Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -17275,7 +17111,7 @@
   },
   {
     "details": "Mallasandiram village and Arasakuppam village to the extent of 21.207 Acres",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=AOBgtDqpfzUFc5EJx1aDjg%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=2egDneSD5neNHGDMtMUevw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17283,7 +17119,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=AOBgtDqpfzUFc5EJx1aDjg%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=2egDneSD5neNHGDMtMUevw%3D%3D",
       "property_name": "Mallasandiram village and Arasakuppam village to the extent of 21.207 Acres",
       "price": "",
       "listing_id": "OLCHNMAXWORTHELLAIYUR",
@@ -17294,7 +17130,7 @@
   },
   {
     "details": "EXTENT OF LAND 154.61 ACRES IN PODUPATTI PASUVANTHANAI PUNGAVARNATHAM MUTHURAMALINGAPURAM VILLAGES,",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Fwq57cKQIlOj82er%2FUB5Yg%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=d4vKxoontmfSkkebW6hnLw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17302,7 +17138,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Fwq57cKQIlOj82er%2FUB5Yg%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=d4vKxoontmfSkkebW6hnLw%3D%3D",
       "property_name": "EXTENT OF LAND 154.61 ACRES IN PODUPATTI PASUVANTHANAI PUNGAVARNATHAM MUTHURAMALINGAPURAM VILLAGES,",
       "price": "",
       "listing_id": "OLCHNMADURAICEMENTSTUTICORIN",
