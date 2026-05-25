@@ -102,13 +102,17 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada: 40 total listings
   mhada: 40 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
-  mstc/npa: 13 listings
-  mstc: 13 items
-Combined raw items from all sources: 691
-Processing stats: 691 total items, 691 new, -247 duplicates skipped
+  mstc: Page.goto: Timeout 90000ms exceeded.
+Call log:
+navigating to "https://www.mstcecommerce.com/auctionhome/npa/index.jsp", waiting until "domcontentloaded"
+
+  mstc: no NPA listings (IBAPI bank auctions may be suspended)
+  mstc: 0 items
+Combined raw items from all sources: 678
+Processing stats: 678 total items, 678 new, -248 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 444 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 153/691 items remain
+Saved state with 430 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 152/678 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=153
-Wrote 691 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=152
+Wrote 678 items to data/property_listings.json
