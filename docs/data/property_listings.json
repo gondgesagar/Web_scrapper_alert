@@ -1,276 +1,5 @@
 [
   {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "28-05-2026 04:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "23-06-2026 10:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "24-06-2026 04:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "24-06-2026 10:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "27-05-2026 14:02:16"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "24-06-2026 09:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/285391",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/27/285391/585802_compressed.jpg",
-    "source": "baanknet",
-    "city": "Vasai Virar",
-    "raw": {
-      "propertyId": "285391",
-      "projectName": "YASHWANT VIVA TOWNSHIP",
-      "price": 3780000.0,
-      "pricePerSeqFit": 10000.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/27/285391/585802_compressed.jpg",
-      "postedOn": "27-05-2026",
-      "developerName": "SHARP REALTORS",
-      "owenershipType": "Co-op Society",
-      "bankName": "State Bank of India",
-      "summaryDesc": null,
-      "city": "Vasai Virar",
-      "cityID": "5242",
-      "stateID": 21,
-      "localities": "NALLASOPARA EAST",
-      "noOfBedRoom": 1,
-      "carpetArea": 378.0,
-      "builtupArea": 474.0,
-      "furnishedStatus": "Unfurnished",
-      "floorNo": 7,
-      "totalNoOfFloors": 7,
-      "facing": "North-East",
-      "amenities": [
-        "Vaastu Compliance",
-        "Lift",
-        "Park",
-        "Kids play area"
-      ],
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "401209",
-      "bankPropertyId": "SBIN41918771080",
-      "availablePhotosCount": 25,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": 80.0,
-      "isLoanAvailable": true,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "G-703, BLDG. NO.2, DURVAS YASHWANT CHSL, YASHWANT VIVA TOWNSHIP, NALLASOPARA EAST, DIST PALGHAR 401209",
-      "statename": "Maharashtra",
-      "districtname": "Palghar",
-      "inspectionStartDateTime": "28-05-2026 04:30:00",
-      "inspectionEndDateTime": "23-06-2026 10:30:00",
-      "auctionStartDateTime": "24-06-2026 04:30:00",
-      "auctionEndDateTime": "24-06-2026 10:30:00",
-      "emdStartDateTime": "27-05-2026 14:02:16",
-      "emdEndDateTime": "24-06-2026 09:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "27-05-2026 06:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "27-05-2026 12:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "26-05-2026 05:03:37"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "26-05-2026 09:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/285042",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/285042/585150_compressed.jpg",
-    "source": "baanknet",
-    "city": "Akola",
-    "raw": {
-      "propertyId": "285042",
-      "projectName": null,
-      "price": 2748500.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/285042/585150_compressed.jpg",
-      "postedOn": "26-05-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Central Bank of India",
-      "summaryDesc": null,
-      "city": "Akola",
-      "cityID": "4861",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 498.45,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "444002",
-      "bankPropertyId": "CBIN5778518443RLT",
-      "availablePhotosCount": 13,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "2",
-      "unitOfMeasure": "sq meter",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "SHEDULE OF PLOT PROPERTY\r\nAll the part and parcel of Plot No. 16, admeasuring 4600.00 Sq. Ft i.e. 427.50 Sq. Mtr. out of Field Survey No. 8/1 (As per computerizes 7/12 extract file Survey No. 8/1/16/A) situated at Mouje Khadki Bu., Tq and Dist. Akola. Within Municipal Corporation Akola. The area of the said plot is and the boundaries of the said plot are as under.\r\nBoundaries: \r\nEast : Layout Plot No. 17\r\nWest : 09 Meter Layout Road\r\nNorth : 09 Meter Layout Road\r\nSouth : Open Space\r\nDESCRIPTION OF FLAT\r\nName of the Property Owner: Mr. Chandrakant Ravindra Damodar.\r\nAll the part and parcel of Flat No. F-204 on Second Floor, having built up area 70.95 Sq. Mtr, Super built up area 85.14 Sq. Mt., with carpet area 56.76 Sq. Mt. in the apartment known as \u201cRADHA KRUSHNA HEIGHTS\u201d consisting of One Drawing Room, Two bed rooms, Passage, One Kitchen, Two W.C + Bath and Balconies measuring total super built up area of Flat 85.14 Sq. Mtr. Along with a proportionate undivided share of land 29.98 Sq. Mt. and which is bounded by:\r\nBoundaries:\r\nEast : Flat No. F203\r\nWest : Marginal Distance \u2013 Layout Road\r\nNorth : Staircase \u2013 Flat No. F201\r\nSouth : Marginal Distance",
-      "statename": "Maharashtra",
-      "districtname": "Akola",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "27-05-2026 06:30:00",
-      "auctionEndDateTime": "27-05-2026 12:30:00",
-      "emdStartDateTime": "26-05-2026 05:03:37",
-      "emdEndDateTime": "26-05-2026 09:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No 443, 3rd floor, B Wing, ORM CHSL, 136-138, Orchard Corporate Park, Orchard Road Royal Palm , Aarey Milk Colony, Goregaon East, Mumbai 400065",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "22-06-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "22-06-2026 09:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "26-05-2026 04:56:29"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "22-06-2026 09:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/251847",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/251847/585177_compressed.jpg",
-    "source": "baanknet",
-    "city": "Mumbai",
-    "raw": {
-      "propertyId": "251847",
-      "projectName": null,
-      "price": 2270000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/251847/585177_compressed.jpg",
-      "postedOn": "26-05-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "Flat No 443, 3rd floor, B Wing, ORM CHSL, 136-138, Orchard Corporate Park, Orchard Road Royal Palm , Aarey Milk Colony, Goregaon East, Mumbai 400065",
-      "city": "Mumbai",
-      "cityID": "5109",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 287.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": null,
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "400065",
-      "bankPropertyId": "MAHBINDALYADAV",
-      "availablePhotosCount": 12,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No 443, 3rd floor, B Wing, ORM CHSL, 136-138, Orchard Corporate Park, Orchard Road Royal Palm , Aarey Milk Colony, Goregaon East, Mumbai 400065",
-      "statename": "Maharashtra",
-      "districtname": "Mumbai Suburban",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "22-06-2026 05:30:00",
-      "auctionEndDateTime": "22-06-2026 09:30:00",
-      "emdStartDateTime": "26-05-2026 04:56:29",
-      "emdEndDateTime": "22-06-2026 09:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Charholi Khurd, Pune",
     "link": "https://findauction.in/auction/hdfcbank/flat-in-vrundavan-charholi-khurd-pune-1660389",
     "photos": "",
@@ -1796,13 +1525,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Dombivli East, Mumbai",
-    "link": "https://findauction.in/auction/hindujahousingfinance/flat-in-mayuresh-darshan-dombivli-east-mumbai-1632971",
+    "details": "Flat in Umroli East, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "10 Jun 2026"
+        "value": "04 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1810,12 +1539,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/hindujahousingfinance/flat-in-mayuresh-darshan-dombivli-east-mumbai-1632971",
-      "property_name": "Flat in Dombivli East, Mumbai",
-      "price": "23,50,000",
-      "auction_date": "10 Jun 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
+      "property_name": "Flat in Umroli East, Mumbai",
+      "price": "11,00,000",
+      "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Dombivli East, Mumbai \ud83c\udfe2 Mayuresh Darshan Hinduja Housing Finance 23,50,000 10 Jun 2026 500 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Umroli East, Mumbai \ud83c\udfe2 Sai Yashodhan ICICI Bank 11,00,000 04 Jun 2026 EMD 1,10,000 Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2771,231 +2500,6 @@
     "land_type": ""
   },
   {
-    "details": "Bungalow in Ichalkaranji, Kolhapur",
-    "link": "https://findauction.in/auction/canarabank/bungalow-in-ichalkaranji-kolhapur-1658646",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kolhapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/bungalow-in-ichalkaranji-kolhapur-1658646",
-      "property_name": "Bungalow in Ichalkaranji, Kolhapur",
-      "price": "20,50,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Kolhapur",
-      "raw_text": "Bungalow in Ichalkaranji, Kolhapur Canara Bank 20,50,000 17 Jun 2026 EMD 2,05,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Bungalow",
-    "land_type": ""
-  },
-  {
-    "details": "Individual House in Ichalkaranji, Kolhapur",
-    "link": "https://findauction.in/auction/canarabank/individual-house-in-ichalkaranji-kolhapur-1658645",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kolhapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/individual-house-in-ichalkaranji-kolhapur-1658645",
-      "property_name": "Individual House in Ichalkaranji, Kolhapur",
-      "price": "24,85,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Kolhapur",
-      "raw_text": "Individual House in Ichalkaranji, Kolhapur Canara Bank 24,85,000 17 Jun 2026 EMD 2,48,500 Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Individual House in Marali, Kolhapur",
-    "link": "https://findauction.in/auction/unionbankofindia/individual-house-in-marali-kolhapur-1658463",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kolhapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/unionbankofindia/individual-house-in-marali-kolhapur-1658463",
-      "property_name": "Individual House in Marali, Kolhapur",
-      "price": "25,88,400",
-      "auction_date": "12 Jun 2026",
-      "city": "Kolhapur",
-      "raw_text": "Individual House in Marali, Kolhapur Union Bank of India 25,88,400 12 Jun 2026 560 Sq Ft Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Individual House in Khupire, Kolhapur",
-    "link": "https://findauction.in/auction/unionbankofindia/individual-house-in-khupire-kolhapur-1658462",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kolhapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/unionbankofindia/individual-house-in-khupire-kolhapur-1658462",
-      "property_name": "Individual House in Khupire, Kolhapur",
-      "price": "17,68,000",
-      "auction_date": "12 Jun 2026",
-      "city": "Kolhapur",
-      "raw_text": "Individual House in Khupire, Kolhapur Union Bank of India 17,68,000 12 Jun 2026 159.51 Sq Mtrs Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Individual House in Khupire, Kolhapur",
-    "link": "https://findauction.in/auction/unionbankofindia/individual-house-in-khupire-kolhapur-1658461",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kolhapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/unionbankofindia/individual-house-in-khupire-kolhapur-1658461",
-      "property_name": "Individual House in Khupire, Kolhapur",
-      "price": "16,67,250",
-      "auction_date": "12 Jun 2026",
-      "city": "Kolhapur",
-      "raw_text": "Individual House in Khupire, Kolhapur Union Bank of India 16,67,250 12 Jun 2026 124.02 Sq Mtrs Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Individual House in Korochi, Kolhapur",
-    "link": "https://findauction.in/auction/unionbankofindia/individual-house-in-korochi-kolhapur-1658457",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kolhapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/unionbankofindia/individual-house-in-korochi-kolhapur-1658457",
-      "property_name": "Individual House in Korochi, Kolhapur",
-      "price": "11,00,000",
-      "auction_date": "12 Jun 2026",
-      "city": "Kolhapur",
-      "raw_text": "Individual House in Korochi, Kolhapur Union Bank of India 11,00,000 12 Jun 2026 1000.00 Sq Ft Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Individual House in Shahapur, Kolhapur",
-    "link": "https://findauction.in/auction/unionbankofindia/individual-house-in-shahapur-kolhapur-1658447",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kolhapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/unionbankofindia/individual-house-in-shahapur-kolhapur-1658447",
-      "property_name": "Individual House in Shahapur, Kolhapur",
-      "price": "24,03,500",
-      "auction_date": "12 Jun 2026",
-      "city": "Kolhapur",
-      "raw_text": "Individual House in Shahapur, Kolhapur Union Bank of India 24,03,500 12 Jun 2026 30.87 Sq Mtrs Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Plot in Dhamod, Kolhapur",
-    "link": "https://findauction.in/auction/unionbankofindia/plot-in-dhamod-kolhapur-1658446",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kolhapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/unionbankofindia/plot-in-dhamod-kolhapur-1658446",
-      "property_name": "Plot in Dhamod, Kolhapur",
-      "price": "7,30,000",
-      "auction_date": "12 Jun 2026",
-      "city": "Kolhapur",
-      "raw_text": "Plot in Dhamod, Kolhapur Union Bank of India 7,30,000 12 Jun 2026 EMD 73,000 Physical Possession View Auction"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Deokar Panand, Kolhapur",
-    "link": "https://findauction.in/auction/icicihfc/flat-in-deokar-panand-kolhapur-1658021",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "29 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kolhapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicihfc/flat-in-deokar-panand-kolhapur-1658021",
-      "property_name": "Flat in Deokar Panand, Kolhapur",
-      "price": "19,95,840",
-      "auction_date": "29 Jun 2026",
-      "city": "Kolhapur",
-      "raw_text": "Flat in Deokar Panand, Kolhapur ICICI Home Finance Company 19,95,840 29 Jun 2026 EMD 1,99,584 Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Plant And Machinery in Shinolli Budruk, Kolhapur",
     "link": "https://findauction.in/auction/saraswatbank/plant-and-machinery-in-shinolli-budruk-kolhapur-1649410",
     "photos": "",
@@ -3771,6 +3275,231 @@
     "land_type": ""
   },
   {
+    "details": "Plot in Bhadgaon, Kolhapur",
+    "link": "https://findauction.in/auction/canarabank/plot-in-bhadgaon-kolhapur-1656571",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "17 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kolhapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/plot-in-bhadgaon-kolhapur-1656571",
+      "property_name": "Plot in Bhadgaon, Kolhapur",
+      "price": "55,00,000",
+      "auction_date": "17 Jun 2026",
+      "city": "Kolhapur",
+      "raw_text": "Plot in Bhadgaon, Kolhapur Canara Bank 55,00,000 17 Jun 2026 234.10 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "House in Sarnobatwadi, Kolhapur",
+    "link": "https://findauction.in/auction/nidohomefinance/house-in-sarnobatwadi-kolhapur-1655717",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "30 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kolhapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/nidohomefinance/house-in-sarnobatwadi-kolhapur-1655717",
+      "property_name": "House in Sarnobatwadi, Kolhapur",
+      "price": "23,80,000",
+      "auction_date": "30 Jun 2026",
+      "city": "Kolhapur",
+      "raw_text": "House in Sarnobatwadi, Kolhapur nido home finance 23,80,000 30 Jun 2026 33 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "House in Sarnobatwadi, Kolhapur",
+    "link": "https://findauction.in/auction/nidohomefinance/house-in-sarnobatwadi-kolhapur-1655715",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "30 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kolhapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/nidohomefinance/house-in-sarnobatwadi-kolhapur-1655715",
+      "property_name": "House in Sarnobatwadi, Kolhapur",
+      "price": "31,57,300",
+      "auction_date": "30 Jun 2026",
+      "city": "Kolhapur",
+      "raw_text": "House in Sarnobatwadi, Kolhapur nido home finance 31,57,300 30 Jun 2026 102.31 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Land in Hatkangale, Kolhapur",
+    "link": "https://findauction.in/auction/apnasahakaribank/land-in-hatkangale-kolhapur-1654675",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kolhapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/apnasahakaribank/land-in-hatkangale-kolhapur-1654675",
+      "property_name": "Land in Hatkangale, Kolhapur",
+      "price": "16,00,00,00017% Drop from19,27,29,006",
+      "auction_date": "09 Jun 2026",
+      "city": "Kolhapur",
+      "raw_text": "Land in Hatkangale, Kolhapur apna sahakari bank 16,00,00,000 17% Drop from 19,27,29,006 09 Jun 2026 EMD 1,60,00,000 View Auction"
+    },
+    "property_type": "Land",
+    "land_type": "Other"
+  },
+  {
+    "details": "Row House in Kaneriwadi, Kolhapur",
+    "link": "https://findauction.in/auction/hindujahousingfinance/row-house-in-kaneriwadi-kolhapur-1651565",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "19 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kolhapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/hindujahousingfinance/row-house-in-kaneriwadi-kolhapur-1651565",
+      "property_name": "Row House in Kaneriwadi, Kolhapur",
+      "price": "41,20,827",
+      "auction_date": "19 Jun 2026",
+      "city": "Kolhapur",
+      "raw_text": "Row House in Kaneriwadi, Kolhapur Hinduja Housing Finance 41,20,827 19 Jun 2026 100 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Valivade, Kolhapur",
+    "link": "https://findauction.in/auction/asrec/flat-in-shantiniketa-apartment-valivade-kolhapur-1650863",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "12 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kolhapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/asrec/flat-in-shantiniketa-apartment-valivade-kolhapur-1650863",
+      "property_name": "Flat in Valivade, Kolhapur",
+      "price": "13,68,000",
+      "auction_date": "12 Jun 2026",
+      "city": "Kolhapur",
+      "raw_text": "Flat in Valivade, Kolhapur \ud83c\udfe2 Shantiniketa Apartment Asrec India Limited 13,68,000 12 Jun 2026 71.49 Sq Mtrs View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Row House in Balinge, Kolhapur",
+    "link": "https://findauction.in/auction/axisbank/row-house-in-balinge-kolhapur-1650631",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "24 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kolhapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/axisbank/row-house-in-balinge-kolhapur-1650631",
+      "property_name": "Row House in Balinge, Kolhapur",
+      "price": "37,32,750",
+      "auction_date": "24 Jun 2026",
+      "city": "Kolhapur",
+      "raw_text": "Row House in Balinge, Kolhapur Axis Bank 37,32,750 24 Jun 2026 50.40 Sq Mtrs Physical Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Karvir, Kolhapur",
+    "link": "https://findauction.in/auction/cholamandalam/flat-in-vishvatara-apartment-karvir-kolhapur-1634210",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "12 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kolhapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/cholamandalam/flat-in-vishvatara-apartment-karvir-kolhapur-1634210",
+      "property_name": "Flat in Karvir, Kolhapur",
+      "price": "34,94,400",
+      "auction_date": "12 Jun 2026",
+      "city": "Kolhapur",
+      "raw_text": "Flat in Karvir, Kolhapur \ud83c\udfe2 Vishvatara Apartment Cholamandalam Investment and Finance Company 34,94,400 12 Jun 2026 65.35 Sq Mtrs Constructive Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Bungalow in Ichalkaranji, Kolhapur",
+    "link": "https://findauction.in/auction/canarabank/bungalow-in-ichalkaranji-kolhapur-1658646",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "17 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kolhapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/bungalow-in-ichalkaranji-kolhapur-1658646",
+      "property_name": "Bungalow in Ichalkaranji, Kolhapur",
+      "price": "20,50,000",
+      "auction_date": "17 Jun 2026",
+      "city": "Kolhapur",
+      "raw_text": "Bungalow in Ichalkaranji, Kolhapur Canara Bank 20,50,000 17 Jun 2026 EMD 2,05,000 Symbolic Possession View Auction"
+    },
+    "property_type": "Bungalow",
+    "land_type": ""
+  },
+  {
     "details": "Bungalow in Ojhar, Nashik",
     "link": "https://findauction.in/auction/pnbindia/bungalow-in-vimal-prabhat-ojhar-nashik-1660349",
     "photos": "",
@@ -3818,431 +3547,6 @@
       "raw_text": "Shop in Gole Colony, Nashik \ud83c\udfe2 Meher Plaza Punjab National Bank 1,31,54,000 Re auction - Same Price 16 Jun 2026 EMD 13,15,000 Symbolic Possession View Auction"
     },
     "property_type": "Commercial",
-    "land_type": ""
-  },
-  {
-    "details": "Plot in Vilholi, Nashik",
-    "link": "https://findauction.in/auction/indianbank/plot-in-vilholi-nashik-1658426",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/indianbank/plot-in-vilholi-nashik-1658426",
-      "property_name": "Plot in Vilholi, Nashik",
-      "price": "2,80,00,000",
-      "auction_date": "12 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Plot in Vilholi, Nashik Indian Bank 2,80,00,000 12 Jun 2026 92 Sq Mtrs Symbolic Possession View Auction"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Kamathwade, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-kamathwade-nashik-1658608",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-kamathwade-nashik-1658608",
-      "property_name": "Flat in Kamathwade, Nashik",
-      "price": "23,30,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Kamathwade, Nashik Canara Bank 23,30,000 17 Jun 2026 23.23 Sq Mtrs Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Dwarka, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-dwarka-nashik-1658597",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-dwarka-nashik-1658597",
-      "property_name": "Flat in Dwarka, Nashik",
-      "price": "16,60,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Dwarka, Nashik Canara Bank 16,60,000 17 Jun 2026 53.44 Sq Mtrs Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Deolali, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658659",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658659",
-      "property_name": "Flat in Deolali, Nashik",
-      "price": "23,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Deolali, Nashik Canara Bank 23,00,000 17 Jun 2026 587.92 Sq Ft Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Plot in Sansari, Nashik",
-    "link": "https://findauction.in/auction/canarabank/plot-in-sansari-nashik-1658653",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/plot-in-sansari-nashik-1658653",
-      "property_name": "Plot in Sansari, Nashik",
-      "price": "7,70,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Plot in Sansari, Nashik Canara Bank 7,70,00,000 17 Jun 2026 EMD 77,00,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Makhamalabad, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-makhamalabad-nashik-1658648",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-makhamalabad-nashik-1658648",
-      "property_name": "Flat in Makhamalabad, Nashik",
-      "price": "18,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Makhamalabad, Nashik Canara Bank 18,00,000 17 Jun 2026 EMD 1,80,000 Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Shops in Sinnar, Nashik",
-    "link": "https://findauction.in/auction/canarabank/shops-in-sinnar-nashik-1658593",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/shops-in-sinnar-nashik-1658593",
-      "property_name": "Shops in Sinnar, Nashik",
-      "price": "55,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Shops in Sinnar, Nashik Canara Bank 55,00,000 17 Jun 2026 EMD 5,50,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Commercial Property in Dindori, Nashik",
-    "link": "https://findauction.in/auction/bankofindia/commercial-property-in-dindori-nashik-1658393",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "09 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/bankofindia/commercial-property-in-dindori-nashik-1658393",
-      "property_name": "Commercial Property in Dindori, Nashik",
-      "price": "81,97,000",
-      "auction_date": "09 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Commercial Property in Dindori, Nashik Bank of India 81,97,000 09 Jun 2026 2406.14 Sq Mtrs Symbolic Possession View Auction"
-    },
-    "property_type": "Commercial",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Deolali, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658658",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658658",
-      "property_name": "Flat in Deolali, Nashik",
-      "price": "23,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Deolali, Nashik Canara Bank 23,00,000 17 Jun 2026 587.92 Sq Ft Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Deolali, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658657",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658657",
-      "property_name": "Flat in Deolali, Nashik",
-      "price": "23,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Deolali, Nashik Canara Bank 23,00,000 17 Jun 2026 587.92 Sq Ft Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Deolali, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658656",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658656",
-      "property_name": "Flat in Deolali, Nashik",
-      "price": "23,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Deolali, Nashik Canara Bank 23,00,000 17 Jun 2026 587.92 Sq Ft Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Deolali, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658655",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-deolali-nashik-1658655",
-      "property_name": "Flat in Deolali, Nashik",
-      "price": "23,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Deolali, Nashik Canara Bank 23,00,000 17 Jun 2026 587.92 Sq Ft Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Shops in Deolali, Nashik",
-    "link": "https://findauction.in/auction/canarabank/shops-in-deolali-nashik-1658652",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/shops-in-deolali-nashik-1658652",
-      "property_name": "Shops in Deolali, Nashik",
-      "price": "5,35,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Shops in Deolali, Nashik Canara Bank 5,35,00,000 17 Jun 2026 EMD 53,50,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Makhamalabad, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-makhamalabad-nashik-1658651",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-makhamalabad-nashik-1658651",
-      "property_name": "Flat in Makhamalabad, Nashik",
-      "price": "24,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Makhamalabad, Nashik Canara Bank 24,00,000 17 Jun 2026 EMD 2,40,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Makhamalabad, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-makhamalabad-nashik-1658650",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-makhamalabad-nashik-1658650",
-      "property_name": "Flat in Makhamalabad, Nashik",
-      "price": "20,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Makhamalabad, Nashik Canara Bank 20,00,000 17 Jun 2026 EMD 2,00,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Dindori, Nashik",
-    "link": "https://findauction.in/auction/canarabank/flat-in-dindori-nashik-1658649",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-dindori-nashik-1658649",
-      "property_name": "Flat in Dindori, Nashik",
-      "price": "22,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Dindori, Nashik Canara Bank 22,00,000 17 Jun 2026 EMD 2,20,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Industrial Plot in Samangaon, Nashik",
-    "link": "https://findauction.in/auction/canarabank/industrial-plot-in-samangaon-nashik-1658604",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/industrial-plot-in-samangaon-nashik-1658604",
-      "property_name": "Industrial Plot in Samangaon, Nashik",
-      "price": "2,90,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Nashik",
-      "raw_text": "Industrial Plot in Samangaon, Nashik Canara Bank 2,90,00,000 17 Jun 2026 8000 Sq Mtrs Symbolic Possession View Auction"
-    },
-    "property_type": "Plot",
     "land_type": ""
   },
   {
@@ -4893,6 +4197,431 @@
       "raw_text": "Flat in Makhmalabad, Nashik \ud83c\udfe2 Vallabh Krupa Apartment Axis Bank 20,30,000 24 Jun 2026 432 Sq Ft Physical Possession View Auction"
     },
     "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Gangapur, Nashik",
+    "link": "https://findauction.in/auction/centralbankofindia/flat-in-shri-samarth-residency-gangapur-nashik-1646229",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/centralbankofindia/flat-in-shri-samarth-residency-gangapur-nashik-1646229",
+      "property_name": "Flat in Gangapur, Nashik",
+      "price": "12,91,000",
+      "auction_date": "10 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Gangapur, Nashik \ud83c\udfe2 Shri Samarth Residency Central Bank of India 12,91,000 10 Jun 2026 47.02 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Ambad, Nashik",
+    "link": "https://findauction.in/auction/muthoothousing/flat-in-sai-sankul-apartment-ambad-nashik-1653675",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/muthoothousing/flat-in-sai-sankul-apartment-ambad-nashik-1653675",
+      "property_name": "Flat in Ambad, Nashik",
+      "price": "5,85,22524% Drop from7,65,000",
+      "auction_date": "10 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Ambad, Nashik \ud83c\udfe2 Sai Sankul Apartment Muthoot Housing Finance Company 5,85,225 24% Drop from 7,65,000 10 Jun 2026 EMD 58,522 Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Manchar, Nashik",
+    "link": "https://findauction.in/auction/gichfindia/flat-in-amar-enclave-manchar-nashik-1649167",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "01 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/gichfindia/flat-in-amar-enclave-manchar-nashik-1649167",
+      "property_name": "Flat in Manchar, Nashik",
+      "price": "9,42,101",
+      "auction_date": "01 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Manchar, Nashik \ud83c\udfe2 Amar Enclave GIC Housing Finance 9,42,101 01 Jun 2026 591 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Panchavati, Nashik",
+    "link": "https://findauction.in/auction/canarabank/flat-in-panchavati-nashik-1656568",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "17 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/flat-in-panchavati-nashik-1656568",
+      "property_name": "Flat in Panchavati, Nashik",
+      "price": "31,50,000",
+      "auction_date": "17 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Panchavati, Nashik Canara Bank 31,50,000 17 Jun 2026 925 Sq Ft Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Gangapur, Nashik",
+    "link": "https://findauction.in/auction/pnbindia/flat-in-deegesh-tower-gangapur-nashik-1654941",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "08 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/pnbindia/flat-in-deegesh-tower-gangapur-nashik-1654941",
+      "property_name": "Flat in Gangapur, Nashik",
+      "price": "43,50,000",
+      "auction_date": "08 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Gangapur, Nashik \ud83c\udfe2 Deegesh Tower Punjab National Bank 43,50,000 08 Jun 2026 1564 Sq Ft Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Makhmalabad, Nashik",
+    "link": "https://findauction.in/auction/abhyudayabank/flat-in-makhmalabad-nashik-1654074",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/abhyudayabank/flat-in-makhmalabad-nashik-1654074",
+      "property_name": "Flat in Makhmalabad, Nashik",
+      "price": "13,50,000",
+      "auction_date": "09 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Makhmalabad, Nashik Abhyudaya Co-operative Bank Ltd 13,50,000 09 Jun 2026 549.31 Sq Mtrs Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Satpurambad, Nashik",
+    "link": "https://findauction.in/auction/canarabank/flat-in-satpurambad-nashik-1648983",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "06 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/flat-in-satpurambad-nashik-1648983",
+      "property_name": "Flat in Satpurambad, Nashik",
+      "price": "16,69,000",
+      "auction_date": "06 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Satpurambad, Nashik Canara Bank 16,69,000 06 Jun 2026 48.79 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Plot in Soygaon, Nashik",
+    "link": "https://findauction.in/auction/centralbankofindia/plot-in-soygaon-nashik-1646234",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/centralbankofindia/plot-in-soygaon-nashik-1646234",
+      "property_name": "Plot in Soygaon, Nashik",
+      "price": "53,78,000Re auction - Same Price",
+      "auction_date": "10 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Plot in Soygaon, Nashik Central Bank of India 53,78,000 Re auction - Same Price 10 Jun 2026 157.50 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Tagore Nagar, Nashik",
+    "link": "https://findauction.in/auction/centralbankofindia/flat-in-tagore-nagar-nashik-1646189",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/centralbankofindia/flat-in-tagore-nagar-nashik-1646189",
+      "property_name": "Flat in Tagore Nagar, Nashik",
+      "price": "13,50,000Re auction - Same Price",
+      "auction_date": "10 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Tagore Nagar, Nashik Central Bank of India 13,50,000 Re auction - Same Price 10 Jun 2026 51.11 Sq Mtrs Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "House in Tagore Nagar, Nashik",
+    "link": "https://findauction.in/auction/centralbankofindia/house-in-sri-guru-kripa-co-op-housing-society-tagore-nagar-nashik-1646184",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/centralbankofindia/house-in-sri-guru-kripa-co-op-housing-society-tagore-nagar-nashik-1646184",
+      "property_name": "House in Tagore Nagar, Nashik",
+      "price": "25,25,000Re auction - Same Price",
+      "auction_date": "10 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "House in Tagore Nagar, Nashik \ud83c\udfe2 Sri Guru Kripa Co Op Housing Society Central Bank of India 25,25,000 Re auction - Same Price 10 Jun 2026 69.23 Sq Mtrs Physical Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Shops in Deola, Nashik",
+    "link": "https://findauction.in/auction/canarabank/shops-in-deola-nashik-1642780",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "16 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/shops-in-deola-nashik-1642780",
+      "property_name": "Shops in Deola, Nashik",
+      "price": "7,50,000",
+      "auction_date": "16 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Shops in Deola, Nashik Canara Bank 7,50,000 16 Jun 2026 13.94 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Pimpalgaon Baswant, Nashik",
+    "link": "https://findauction.in/auction/homefirstindia/flat-in-duvakur-heights-pimpalgaon-baswant-nashik-1641341",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/homefirstindia/flat-in-duvakur-heights-pimpalgaon-baswant-nashik-1641341",
+      "property_name": "Flat in Pimpalgaon Baswant, Nashik",
+      "price": "17,30,000",
+      "auction_date": "10 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Pimpalgaon Baswant, Nashik \ud83c\udfe2 Duvakur Heights HomeFirst Finance 17,30,000 10 Jun 2026 EMD 1,73,000 Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Property in Sansari, Nashik",
+    "link": "https://findauction.in/auction/bankofindia/property-in-sansari-nashik-1638876",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/bankofindia/property-in-sansari-nashik-1638876",
+      "property_name": "Property in Sansari, Nashik",
+      "price": "16,00,000",
+      "auction_date": "09 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Property in Sansari, Nashik Bank of India 16,00,000 09 Jun 2026 54.20 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "House in Shiwar Nashik, Nashik",
+    "link": "https://findauction.in/auction/bankofindia/house-in-shiwar-nashik-nashik-1638861",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/bankofindia/house-in-shiwar-nashik-nashik-1638861",
+      "property_name": "House in Shiwar Nashik, Nashik",
+      "price": "31,03,000",
+      "auction_date": "09 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "House in Shiwar Nashik, Nashik Bank of India 31,03,000 09 Jun 2026 278.42 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Pathardi, Nashik",
+    "link": "https://findauction.in/auction/pnbindia/flat-in-pathardi-nashik-1651708",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "08 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/pnbindia/flat-in-pathardi-nashik-1651708",
+      "property_name": "Flat in Pathardi, Nashik",
+      "price": "18,60,000",
+      "auction_date": "08 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Pathardi, Nashik Punjab National Bank 18,60,000 08 Jun 2026 EMD 1,86,000 Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Plot in Malegaon, Nashik",
+    "link": "https://findauction.in/auction/centralbankofindia/plot-in-saniya-park-malegaon-nashik-1646235",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/centralbankofindia/plot-in-saniya-park-malegaon-nashik-1646235",
+      "property_name": "Plot in Malegaon, Nashik",
+      "price": "19,71,000",
+      "auction_date": "10 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Plot in Malegaon, Nashik \ud83c\udfe2 Saniya Park Central Bank of India 19,71,000 10 Jun 2026 500 Sq Ft Symbolic Possession View Auction"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Shops in Kalwan, Nashik",
+    "link": "https://findauction.in/auction/canarabank/shops-in-kalwan-nashik-1642779",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "16 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/shops-in-kalwan-nashik-1642779",
+      "property_name": "Shops in Kalwan, Nashik",
+      "price": "10,00,000",
+      "auction_date": "16 Jun 2026",
+      "city": "Nashik",
+      "raw_text": "Shops in Kalwan, Nashik Canara Bank 10,00,000 16 Jun 2026 200.00 Sq Ft Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
     "land_type": ""
   },
   {
@@ -6021,13 +5750,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Kalyan West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/shop-in-hari-heights-kalyan-west-mumbai-1658815",
+    "details": "Plot in Bhiwandi, Mumbai",
+    "link": "https://findauction.in/auction/maheshsahakaribank/plot-in-bhiwandi-mumbai-1632904",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "16 Jun 2026"
+        "value": "09 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -6035,24 +5764,24 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/shop-in-hari-heights-kalyan-west-mumbai-1658815",
-      "property_name": "Shop in Kalyan West, Mumbai",
-      "price": "57,50,00010% Drop from64,00,000",
-      "auction_date": "16 Jun 2026",
+      "property_url": "https://findauction.in/auction/maheshsahakaribank/plot-in-bhiwandi-mumbai-1632904",
+      "property_name": "Plot in Bhiwandi, Mumbai",
+      "price": "74,96,000",
+      "auction_date": "09 Jun 2026",
       "city": "Thane",
-      "raw_text": "Shop in Kalyan West, Mumbai \ud83c\udfe2 Hari Heights ICICI Bank 57,50,000 10% Drop from 64,00,000 16 Jun 2026 670 Sq Ft Physical Possession View Auction"
+      "raw_text": "Plot in Bhiwandi, Mumbai mahesh sahakari bank 74,96,000 09 Jun 2026 6758 Sq Mtrs Physical Possession View Auction"
     },
-    "property_type": "Commercial",
+    "property_type": "Plot",
     "land_type": ""
   },
   {
-    "details": "Flat in Thane West, Mumbai",
-    "link": "https://findauction.in/auction/hdfcbank/flat-in-sai-lotus-thane-west-mumbai-1658687",
+    "details": "Plot in Bhiwandi, Mumbai",
+    "link": "https://findauction.in/auction/debtsrecoverytribunal/plot-in-bhiwandi-mumbai-1632865",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "16 Jun 2026"
+        "value": "11 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -6060,24 +5789,24 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/hdfcbank/flat-in-sai-lotus-thane-west-mumbai-1658687",
-      "property_name": "Flat in Thane West, Mumbai",
-      "price": "40,10,00010% Drop from44,50,000",
-      "auction_date": "16 Jun 2026",
+      "property_url": "https://findauction.in/auction/debtsrecoverytribunal/plot-in-bhiwandi-mumbai-1632865",
+      "property_name": "Plot in Bhiwandi, Mumbai",
+      "price": "47,22,000Re auction - Same Price",
+      "auction_date": "11 Jun 2026",
       "city": "Thane",
-      "raw_text": "Flat in Thane West, Mumbai \ud83c\udfe2 Sai Lotus HDFC Bank 40,10,000 10% Drop from 44,50,000 16 Jun 2026 434 Sq Ft Physical Possession View Auction"
+      "raw_text": "Plot in Bhiwandi, Mumbai Debts Recovery Tribunal 47,22,000 Re auction - Same Price 11 Jun 2026 1430 Sq Mtrs View Auction"
     },
-    "property_type": "Flat",
+    "property_type": "Plot",
     "land_type": ""
   },
   {
-    "details": "Flat in Dombivli East, Mumbai",
-    "link": "https://findauction.in/auction/bajajhousingfinance/flat-in-casa-rio-gold-dombivli-east-mumbai-1658356",
+    "details": "2 Flats in Thane West, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/2-flats-in-jog-tower-thane-west-mumbai-1639902",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "12 Jun 2026"
+        "value": "11 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -6085,14 +5814,14 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/bajajhousingfinance/flat-in-casa-rio-gold-dombivli-east-mumbai-1658356",
-      "property_name": "Flat in Dombivli East, Mumbai",
-      "price": "25,23,000",
-      "auction_date": "12 Jun 2026",
+      "property_url": "https://findauction.in/auction/icicibank/2-flats-in-jog-tower-thane-west-mumbai-1639902",
+      "property_name": "2 Flats in Thane West, Mumbai",
+      "price": "1,36,60,000",
+      "auction_date": "11 Jun 2026",
       "city": "Thane",
-      "raw_text": "Flat in Dombivli East, Mumbai \ud83c\udfe2 Casa Rio Gold Bajaj Housing Finance Limited 25,23,000 12 Jun 2026 EMD 2,52,300 Physical Possession View Auction"
+      "raw_text": "2 Flats in Thane West, Mumbai \ud83c\udfe2 Jog Tower ICICI Bank 1,36,60,000 11 Jun 2026 736 Sq Ft Physical Possession View Auction"
     },
-    "property_type": "Flat",
+    "property_type": "Other",
     "land_type": ""
   },
   {
@@ -6319,56 +6048,6 @@
     },
     "property_type": "Land",
     "land_type": "Other"
-  },
-  {
-    "details": "Plot in Sangola, Solapur",
-    "link": "https://findauction.in/auction/canarabank/plot-in-sangola-solapur-1658587",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Solapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/plot-in-sangola-solapur-1658587",
-      "property_name": "Plot in Sangola, Solapur",
-      "price": "93,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Solapur",
-      "raw_text": "Plot in Sangola, Solapur Canara Bank 93,00,000 17 Jun 2026 EMD 9,30,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "House in Malshiras, Solapur",
-    "link": "https://findauction.in/auction/icicihfc/house-in-malshiras-solapur-1658022",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "29 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Solapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicihfc/house-in-malshiras-solapur-1658022",
-      "property_name": "House in Malshiras, Solapur",
-      "price": "45,67,500",
-      "auction_date": "29 Jun 2026",
-      "city": "Solapur",
-      "raw_text": "House in Malshiras, Solapur ICICI Home Finance Company 45,67,500 29 Jun 2026 EMD 4,56,750 Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
   },
   {
     "details": "Flat in Vasant Vihar, Solapur",
@@ -7196,6 +6875,56 @@
     "land_type": ""
   },
   {
+    "details": "Plot in Sangola, Solapur",
+    "link": "https://findauction.in/auction/canarabank/plot-in-sangola-solapur-1658587",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "17 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Solapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/plot-in-sangola-solapur-1658587",
+      "property_name": "Plot in Sangola, Solapur",
+      "price": "93,00,000",
+      "auction_date": "17 Jun 2026",
+      "city": "Solapur",
+      "raw_text": "Plot in Sangola, Solapur Canara Bank 93,00,000 17 Jun 2026 EMD 9,30,000 Symbolic Possession View Auction"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "House in Malshiras, Solapur",
+    "link": "https://findauction.in/auction/icicihfc/house-in-malshiras-solapur-1658022",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "29 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Solapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/icicihfc/house-in-malshiras-solapur-1658022",
+      "property_name": "House in Malshiras, Solapur",
+      "price": "45,67,500",
+      "auction_date": "29 Jun 2026",
+      "city": "Solapur",
+      "raw_text": "House in Malshiras, Solapur ICICI Home Finance Company 45,67,500 29 Jun 2026 EMD 4,56,750 Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
     "details": "House in Karmala, Solapur",
     "link": "https://findauction.in/auction/unionbankofindia/house-in-karmala-solapur-1656251",
     "photos": "",
@@ -7544,156 +7273,6 @@
     },
     "property_type": "Flat",
     "land_type": ""
-  },
-  {
-    "details": "Plant & Machinery in Khandala, Satara",
-    "link": "https://findauction.in/auction/canarabank/plant-and-machinery-in-khandala-satara-1658619",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Satara",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/plant-and-machinery-in-khandala-satara-1658619",
-      "property_name": "Plant & Machinery in Khandala, Satara",
-      "price": "1,85,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Satara",
-      "raw_text": "Plant & Machinery in Khandala, Satara Canara Bank 1,85,00,000 17 Jun 2026 EMD 18,50,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Bhuinj, Satara",
-    "link": "https://findauction.in/auction/canarabank/flat-in-bhuinj-satara-1658643",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Satara",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-bhuinj-satara-1658643",
-      "property_name": "Flat in Bhuinj, Satara",
-      "price": "17,70,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Satara",
-      "raw_text": "Flat in Bhuinj, Satara Canara Bank 17,70,000 17 Jun 2026 428.62 Sq Ft Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Karad, Satara",
-    "link": "https://findauction.in/auction/canarabank/flat-in-karad-satara-1658642",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Satara",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/flat-in-karad-satara-1658642",
-      "property_name": "Flat in Karad, Satara",
-      "price": "14,25,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Satara",
-      "raw_text": "Flat in Karad, Satara Canara Bank 14,25,000 17 Jun 2026 150.15 Sq Mtrs Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Bungalow in Phaltan, Satara",
-    "link": "https://findauction.in/auction/canarabank/bungalow-in-phaltan-satara-1658636",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Satara",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/bungalow-in-phaltan-satara-1658636",
-      "property_name": "Bungalow in Phaltan, Satara",
-      "price": "14,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Satara",
-      "raw_text": "Bungalow in Phaltan, Satara Canara Bank 14,00,000 17 Jun 2026 EMD 1,40,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Bungalow",
-    "land_type": ""
-  },
-  {
-    "details": "Office in Khandala, Satara",
-    "link": "https://findauction.in/auction/canarabank/office-in-khandala-satara-1658627",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Satara",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/office-in-khandala-satara-1658627",
-      "property_name": "Office in Khandala, Satara",
-      "price": "1,80,00,000",
-      "auction_date": "17 Jun 2026",
-      "city": "Satara",
-      "raw_text": "Office in Khandala, Satara Canara Bank 1,80,00,000 17 Jun 2026 EMD 18,00,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Commercial",
-    "land_type": ""
-  },
-  {
-    "details": "Land & Building in Mahagaon, Satara",
-    "link": "https://findauction.in/auction/bankofmaharashtra/land-and-building-in-mahagaon-satara-1658557",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "16 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Satara",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/bankofmaharashtra/land-and-building-in-mahagaon-satara-1658557",
-      "property_name": "Land & Building in Mahagaon, Satara",
-      "price": "9,23,00,000",
-      "auction_date": "16 Jun 2026",
-      "city": "Satara",
-      "raw_text": "Land & Building in Mahagaon, Satara Bank of Maharashtra 9,23,00,000 16 Jun 2026 Symbolic Possession View Auction"
-    },
-    "property_type": "Land",
-    "land_type": "Other"
   },
   {
     "details": "Plant And Machinery in Chitali, Satara",
@@ -8096,6 +7675,31 @@
     "land_type": ""
   },
   {
+    "details": "Plant & Machinery in Khandala, Satara",
+    "link": "https://findauction.in/auction/canarabank/plant-and-machinery-in-khandala-satara-1658619",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "17 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Satara",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/plant-and-machinery-in-khandala-satara-1658619",
+      "property_name": "Plant & Machinery in Khandala, Satara",
+      "price": "1,85,00,000",
+      "auction_date": "17 Jun 2026",
+      "city": "Satara",
+      "raw_text": "Plant & Machinery in Khandala, Satara Canara Bank 1,85,00,000 17 Jun 2026 EMD 18,50,000 Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
     "details": "Land in Karad, Satara",
     "link": "https://findauction.in/auction/bankofmaharashtra/land-in-karad-satara-1655734",
     "photos": "",
@@ -8346,6 +7950,131 @@
     "land_type": ""
   },
   {
+    "details": "Flat in Chimanpura Peth, Satara",
+    "link": "https://findauction.in/auction/idbibank/flat-in-saket-apartment-chimanpura-peth-satara-1647973",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "20 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Satara",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/idbibank/flat-in-saket-apartment-chimanpura-peth-satara-1647973",
+      "property_name": "Flat in Chimanpura Peth, Satara",
+      "price": "25,00,000",
+      "auction_date": "20 Jun 2026",
+      "city": "Satara",
+      "raw_text": "Flat in Chimanpura Peth, Satara \ud83c\udfe2 Saket Apartment IDBI Bank 25,00,000 20 Jun 2026 681.183 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Mangalwar Peth, Satara",
+    "link": "https://findauction.in/auction/saraswatbank/flat-in-shri-sai-vihar-appartment-mangalwar-peth-satara-1642857",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "12 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Satara",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/saraswatbank/flat-in-shri-sai-vihar-appartment-mangalwar-peth-satara-1642857",
+      "property_name": "Flat in Mangalwar Peth, Satara",
+      "price": "25,90,000",
+      "auction_date": "12 Jun 2026",
+      "city": "Satara",
+      "raw_text": "Flat in Mangalwar Peth, Satara \ud83c\udfe2 Shri Sai Vihar Appartment Saraswat Bank 25,90,000 12 Jun 2026 624 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Bhuinj, Satara",
+    "link": "https://findauction.in/auction/canarabank/flat-in-bhuinj-satara-1658643",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "17 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Satara",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/flat-in-bhuinj-satara-1658643",
+      "property_name": "Flat in Bhuinj, Satara",
+      "price": "17,70,000",
+      "auction_date": "17 Jun 2026",
+      "city": "Satara",
+      "raw_text": "Flat in Bhuinj, Satara Canara Bank 17,70,000 17 Jun 2026 428.62 Sq Ft Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Karad, Satara",
+    "link": "https://findauction.in/auction/canarabank/flat-in-karad-satara-1658642",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "17 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Satara",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/flat-in-karad-satara-1658642",
+      "property_name": "Flat in Karad, Satara",
+      "price": "14,25,000",
+      "auction_date": "17 Jun 2026",
+      "city": "Satara",
+      "raw_text": "Flat in Karad, Satara Canara Bank 14,25,000 17 Jun 2026 150.15 Sq Mtrs Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Bungalow in Phaltan, Satara",
+    "link": "https://findauction.in/auction/canarabank/bungalow-in-phaltan-satara-1658636",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "17 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Satara",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/bungalow-in-phaltan-satara-1658636",
+      "property_name": "Bungalow in Phaltan, Satara",
+      "price": "14,00,000",
+      "auction_date": "17 Jun 2026",
+      "city": "Satara",
+      "raw_text": "Bungalow in Phaltan, Satara Canara Bank 14,00,000 17 Jun 2026 EMD 1,40,000 Symbolic Possession View Auction"
+    },
+    "property_type": "Bungalow",
+    "land_type": ""
+  },
+  {
     "details": "Bungalow in Lanja, Ratnagiri",
     "link": "https://findauction.in/auction/pnbindia/bungalow-in-lanja-ratnagiri-1660313",
     "photos": "",
@@ -8368,31 +8097,6 @@
       "raw_text": "Bungalow in Lanja, Ratnagiri Punjab National Bank 92,89,000 Re auction - Same Price 16 Jun 2026 EMD 9,28,900 Physical Possession View Auction"
     },
     "property_type": "Bungalow",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Chiplun, Ratnagiri",
-    "link": "https://findauction.in/auction/unionbankofindia/flat-in-chiplun-ratnagiri-1658438",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ratnagiri",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/unionbankofindia/flat-in-chiplun-ratnagiri-1658438",
-      "property_name": "Flat in Chiplun, Ratnagiri",
-      "price": "16,32,500",
-      "auction_date": "12 Jun 2026",
-      "city": "Ratnagiri",
-      "raw_text": "Flat in Chiplun, Ratnagiri Union Bank of India 16,32,500 12 Jun 2026 66.43 Sq Mtrs Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -9018,6 +8722,31 @@
       "raw_text": "Property in Watad, Ratnagiri Bank of Maharashtra 96,00,000 05 Jun 2026 51.28 Sq Mtrs Symbolic Possession View Auction"
     },
     "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Chiplun, Ratnagiri",
+    "link": "https://findauction.in/auction/unionbankofindia/flat-in-chiplun-ratnagiri-1658438",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "12 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ratnagiri",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/unionbankofindia/flat-in-chiplun-ratnagiri-1658438",
+      "property_name": "Flat in Chiplun, Ratnagiri",
+      "price": "16,32,500",
+      "auction_date": "12 Jun 2026",
+      "city": "Ratnagiri",
+      "raw_text": "Flat in Chiplun, Ratnagiri Union Bank of India 16,32,500 12 Jun 2026 66.43 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -11971,106 +11700,6 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Kalyan West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/shop-in-hari-heights-kalyan-west-mumbai-1658815",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "16 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kalyan",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/shop-in-hari-heights-kalyan-west-mumbai-1658815",
-      "property_name": "Shop in Kalyan West, Mumbai",
-      "price": "57,50,00010% Drop from64,00,000",
-      "auction_date": "16 Jun 2026",
-      "city": "Kalyan",
-      "raw_text": "Shop in Kalyan West, Mumbai \ud83c\udfe2 Hari Heights ICICI Bank 57,50,000 10% Drop from 64,00,000 16 Jun 2026 670 Sq Ft Physical Possession View Auction"
-    },
-    "property_type": "Commercial",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Dombivli East, Mumbai",
-    "link": "https://findauction.in/auction/bajajhousingfinance/flat-in-casa-rio-gold-dombivli-east-mumbai-1658356",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kalyan",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/bajajhousingfinance/flat-in-casa-rio-gold-dombivli-east-mumbai-1658356",
-      "property_name": "Flat in Dombivli East, Mumbai",
-      "price": "25,23,000",
-      "auction_date": "12 Jun 2026",
-      "city": "Kalyan",
-      "raw_text": "Flat in Dombivli East, Mumbai \ud83c\udfe2 Casa Rio Gold Bajaj Housing Finance Limited 25,23,000 12 Jun 2026 EMD 2,52,300 Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Dombivli East, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-casa-marvella-dombivli-east-mumbai-1658135",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "16 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kalyan",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-casa-marvella-dombivli-east-mumbai-1658135",
-      "property_name": "Flat in Dombivli East, Mumbai",
-      "price": "36,00,00013% Drop from41,50,000",
-      "auction_date": "16 Jun 2026",
-      "city": "Kalyan",
-      "raw_text": "Flat in Dombivli East, Mumbai \ud83c\udfe2 Casa Marvella ICICI Bank 36,00,000 13% Drop from 41,50,000 16 Jun 2026 528 Sq Ft Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Dombivli East, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-versatile-valley-dombivli-east-mumbai-1658134",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "16 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kalyan",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-versatile-valley-dombivli-east-mumbai-1658134",
-      "property_name": "Flat in Dombivli East, Mumbai",
-      "price": "38,50,00010% Drop from43,00,000",
-      "auction_date": "16 Jun 2026",
-      "city": "Kalyan",
-      "raw_text": "Flat in Dombivli East, Mumbai \ud83c\udfe2 Versatile Valley ICICI Bank 38,50,000 10% Drop from 43,00,000 16 Jun 2026 55.76 Sq Mtrs Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Kalyan West, Mumbai",
     "link": "https://findauction.in/auction/debtsrecoverytribunal/flat-in-kutir-kesri-chs-kalyan-west-mumbai-1622490",
     "photos": "",
@@ -12571,6 +12200,31 @@
     "land_type": ""
   },
   {
+    "details": "Shop in Kalyan West, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/shop-in-hari-heights-kalyan-west-mumbai-1658815",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "16 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kalyan",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/icicibank/shop-in-hari-heights-kalyan-west-mumbai-1658815",
+      "property_name": "Shop in Kalyan West, Mumbai",
+      "price": "57,50,00010% Drop from64,00,000",
+      "auction_date": "16 Jun 2026",
+      "city": "Kalyan",
+      "raw_text": "Shop in Kalyan West, Mumbai \ud83c\udfe2 Hari Heights ICICI Bank 57,50,000 10% Drop from 64,00,000 16 Jun 2026 670 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Commercial",
+    "land_type": ""
+  },
+  {
     "details": "Flat in Kalyan, Mumbai",
     "link": "https://findauction.in/auction/axisbank/flat-in-rukmini-chs-kalyan-mumbai-1657267",
     "photos": "",
@@ -12847,6 +12501,81 @@
   },
   {
     "details": "Flat in Bhiwandi, Mumbai",
+    "link": "https://findauction.in/auction/canarabank/flat-in-bhiwandi-mumbai-1651802",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kalyan",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/flat-in-bhiwandi-mumbai-1651802",
+      "property_name": "Flat in Bhiwandi, Mumbai",
+      "price": "28,30,000",
+      "auction_date": "09 Jun 2026",
+      "city": "Kalyan",
+      "raw_text": "Flat in Bhiwandi, Mumbai Canara Bank 28,30,000 09 Jun 2026 90.61 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Kalyan West, Mumbai",
+    "link": "https://findauction.in/auction/debtsrecoverytribunal/flat-in-shree-murti-building-kalyan-west-mumbai-1605854",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "04 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kalyan",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/debtsrecoverytribunal/flat-in-shree-murti-building-kalyan-west-mumbai-1605854",
+      "property_name": "Flat in Kalyan West, Mumbai",
+      "price": "53,82,000",
+      "auction_date": "04 Jun 2026",
+      "city": "Kalyan",
+      "raw_text": "Flat in Kalyan West, Mumbai \ud83c\udfe2 Shree Murti Building Debts Recovery Tribunal 53,82,000 04 Jun 2026 EMD 5,38,200 View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Kalyan West, Mumbai",
+    "link": "https://findauction.in/auction/dcbbank/flat-in-sarvoday-patwardhan-baug-kalyan-west-mumbai-1657203",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kalyan",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/dcbbank/flat-in-sarvoday-patwardhan-baug-kalyan-west-mumbai-1657203",
+      "property_name": "Flat in Kalyan West, Mumbai",
+      "price": "39,00,00018% Drop from47,76,030",
+      "auction_date": "10 Jun 2026",
+      "city": "Kalyan",
+      "raw_text": "Flat in Kalyan West, Mumbai \ud83c\udfe2 Sarvoday Patwardhan Baug DCB Bank 39,00,000 18% Drop from 47,76,030 10 Jun 2026 531.125 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Bhiwandi, Mumbai",
     "link": "https://findauction.in/auction/pnbindia/flat-in-dattatray-residency-bhiwandi-mumbai-1660340",
     "photos": "",
     "important_dates": [
@@ -13043,81 +12772,6 @@
       "raw_text": "Flat in Bhiwandi, Mumbai \ud83c\udfe2 Santosh Apartment Motilal Oswal Home Finance Ltd 5,04,854 18 Jun 2026 23.42 Sq Mtrs View Auction"
     },
     "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Bhiwandi, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-bashiruddin-chs-bhiwandi-mumbai-1658491",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "16 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Bhiwandi",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-bashiruddin-chs-bhiwandi-mumbai-1658491",
-      "property_name": "Flat in Bhiwandi, Mumbai",
-      "price": "35,00,00011% Drop from39,50,000",
-      "auction_date": "16 Jun 2026",
-      "city": "Bhiwandi",
-      "raw_text": "Flat in Bhiwandi, Mumbai \ud83c\udfe2 Bashiruddin Chs ICICI Bank 35,00,000 11% Drop from 39,50,000 16 Jun 2026 869.17 Sq Ft Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Bhiwandi, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-adarsh-neelkanth-bhiwandi-mumbai-1658136",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "16 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Bhiwandi",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-adarsh-neelkanth-bhiwandi-mumbai-1658136",
-      "property_name": "Flat in Bhiwandi, Mumbai",
-      "price": "24,00,000",
-      "auction_date": "16 Jun 2026",
-      "city": "Bhiwandi",
-      "raw_text": "Flat in Bhiwandi, Mumbai \ud83c\udfe2 Adarsh Neelkanth ICICI Bank 24,00,000 16 Jun 2026 44.14 Sq Mtrs Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "House in Bhiwandi, Mumbai",
-    "link": "https://findauction.in/auction/unionbankofindia/house-in-bhiwandi-mumbai-1658465",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "12 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Bhiwandi",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/unionbankofindia/house-in-bhiwandi-mumbai-1658465",
-      "property_name": "House in Bhiwandi, Mumbai",
-      "price": "1,93,00,000",
-      "auction_date": "12 Jun 2026",
-      "city": "Bhiwandi",
-      "raw_text": "House in Bhiwandi, Mumbai Union Bank of India 1,93,00,000 12 Jun 2026 EMD 19,30,000 Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
     "land_type": ""
   },
   {
@@ -13966,6 +13620,81 @@
       "auction_date": "05 Jun 2026",
       "city": "Bhiwandi",
       "raw_text": "Flat in Bhiwandi, Mumbai \ud83c\udfe2 Om CHS State Bank of India 24,24,000 Re auction - Same Price 05 Jun 2026 680 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Bhiwandi, Mumbai",
+    "link": "https://findauction.in/auction/homefirstindia/flat-in-bhiwandi-mumbai-1640417",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Bhiwandi",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/homefirstindia/flat-in-bhiwandi-mumbai-1640417",
+      "property_name": "Flat in Bhiwandi, Mumbai",
+      "price": "17,83,800",
+      "auction_date": "10 Jun 2026",
+      "city": "Bhiwandi",
+      "raw_text": "Flat in Bhiwandi, Mumbai HomeFirst Finance 17,83,800 10 Jun 2026 EMD 1,78,380 Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Land & Building in Bhiwandi, Mumbai",
+    "link": "https://findauction.in/auction/pnbindia/land-and-building-in-bhiwandi-mumbai-1638078",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "08 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Bhiwandi",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/pnbindia/land-and-building-in-bhiwandi-mumbai-1638078",
+      "property_name": "Land & Building in Bhiwandi, Mumbai",
+      "price": "84,50,000",
+      "auction_date": "08 Jun 2026",
+      "city": "Bhiwandi",
+      "raw_text": "Land & Building in Bhiwandi, Mumbai Punjab National Bank 84,50,000 08 Jun 2026 367.88 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Land",
+    "land_type": "Other"
+  },
+  {
+    "details": "Flat in Bhiwandi, Mumbai",
+    "link": "https://findauction.in/auction/dcbbank/flat-in-salma-apartment-bhiwandi-mumbai-1630114",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "02 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Bhiwandi",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/dcbbank/flat-in-salma-apartment-bhiwandi-mumbai-1630114",
+      "property_name": "Flat in Bhiwandi, Mumbai",
+      "price": "32,20,800",
+      "auction_date": "02 Jun 2026",
+      "city": "Bhiwandi",
+      "raw_text": "Flat in Bhiwandi, Mumbai \ud83c\udfe2 Salma Apartment DCB Bank 32,20,800 02 Jun 2026 732 Sq Ft Physical Possession View Auction"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -15146,56 +14875,6 @@
     "land_type": ""
   },
   {
-    "details": "Industrial Shed in Newasa, Ahmednagar",
-    "link": "https://findauction.in/auction/indianbank/industrial-shed-in-newasa-ahmednagar-1658275",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "05 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ahmednagar",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/indianbank/industrial-shed-in-newasa-ahmednagar-1658275",
-      "property_name": "Industrial Shed in Newasa, Ahmednagar",
-      "price": "39,75,000",
-      "auction_date": "05 Jun 2026",
-      "city": "Ahmednagar",
-      "raw_text": "Industrial Shed in Newasa, Ahmednagar Indian Bank 39,75,000 05 Jun 2026 EMD 3,97,500 Symbolic Possession View Auction"
-    },
-    "property_type": "Industrial",
-    "land_type": ""
-  },
-  {
-    "details": "Individual House in Newasa, Ahmednagar",
-    "link": "https://findauction.in/auction/indianbank/individual-house-in-newasa-ahmednagar-1658274",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "05 Jun 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ahmednagar",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/indianbank/individual-house-in-newasa-ahmednagar-1658274",
-      "property_name": "Individual House in Newasa, Ahmednagar",
-      "price": "24,62,000",
-      "auction_date": "05 Jun 2026",
-      "city": "Ahmednagar",
-      "raw_text": "Individual House in Newasa, Ahmednagar Indian Bank 24,62,000 05 Jun 2026 EMD 2,46,200 Symbolic Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
     "details": "Plant And Machinery in Rahuri, Ahmednagar",
     "link": "https://findauction.in/auction/bankofbaroda/plant-and-machinery-in-rahuri-ahmednagar-1649230",
     "photos": "",
@@ -15796,6 +15475,31 @@
     "land_type": ""
   },
   {
+    "details": "Industrial Shed in Newasa, Ahmednagar",
+    "link": "https://findauction.in/auction/indianbank/industrial-shed-in-newasa-ahmednagar-1658275",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "05 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ahmednagar",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/indianbank/industrial-shed-in-newasa-ahmednagar-1658275",
+      "property_name": "Industrial Shed in Newasa, Ahmednagar",
+      "price": "39,75,000",
+      "auction_date": "05 Jun 2026",
+      "city": "Ahmednagar",
+      "raw_text": "Industrial Shed in Newasa, Ahmednagar Indian Bank 39,75,000 05 Jun 2026 EMD 3,97,500 Symbolic Possession View Auction"
+    },
+    "property_type": "Industrial",
+    "land_type": ""
+  },
+  {
     "details": "Individual House in Shirdi, Ahmednagar",
     "link": "https://findauction.in/auction/canarabank/individual-house-in-shirdi-ahmednagar-1656569",
     "photos": "",
@@ -15943,6 +15647,31 @@
       "raw_text": "Plot in Deolali Pravara, Ahmednagar Central Bank of India 75,96,000 26 Jun 2026 EMD 7,59,600 View Auction"
     },
     "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Individual House in Newasa, Ahmednagar",
+    "link": "https://findauction.in/auction/indianbank/individual-house-in-newasa-ahmednagar-1658274",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "05 Jun 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ahmednagar",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/indianbank/individual-house-in-newasa-ahmednagar-1658274",
+      "property_name": "Individual House in Newasa, Ahmednagar",
+      "price": "24,62,000",
+      "auction_date": "05 Jun 2026",
+      "city": "Ahmednagar",
+      "raw_text": "Individual House in Newasa, Ahmednagar Indian Bank 24,62,000 05 Jun 2026 EMD 2,46,200 Symbolic Possession View Auction"
+    },
+    "property_type": "Other",
     "land_type": ""
   },
   {
@@ -17382,7 +17111,7 @@
   },
   {
     "details": "Mallasandiram village and Arasakuppam village to the extent of 21.207 Acres",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=hNX8fhfPLBKU%2Bza00iF%2FKw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=vjmNoWqDNa%2Fod%2BrmPooIcA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17390,7 +17119,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=hNX8fhfPLBKU%2Bza00iF%2FKw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=vjmNoWqDNa%2Fod%2BrmPooIcA%3D%3D",
       "property_name": "Mallasandiram village and Arasakuppam village to the extent of 21.207 Acres",
       "price": "",
       "listing_id": "OLCHNMAXWORTHELLAIYUR",
