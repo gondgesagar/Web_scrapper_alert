@@ -6,24 +6,19 @@ Fetching Maharashtra pincodes (attempt 3/3)...
 Warning: failed to fetch Maharashtra pincodes after 3 attempts: HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))
 Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
-  [DEBUG] Captured 10 items from: https://baanknet.com/eauction-psb/api/property-listing-data/1?page=0&size=10
+  [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.
   [DEBUG] Paginating https://baanknet.com/eauction-psb/api/property-listing-data/1
   [WARN] BAANKNET pagination failed at page 0: APIRequestContext.post: unable to verify the first certificate
 Call log:
 → POST https://baanknet.com/eauction-psb/api/property-listing-data/1?page=0&size=50
   -   user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/130.0.6723.31 Safari/537.36
-  -   accept: application/json, text/plain, */*
+  -   accept: */*
   -   accept-encoding: gzip,deflate,br
-  -   sec-ch-ua-platform: "Linux"
-  -   referer: https://baanknet.com/property-listing
-  -   sec-ch-ua: "Chromium";v="130", "HeadlessChrome";v="130", "Not?A_Brand";v="99"
-  -   content-type: application/json
-  -   sec-ch-ua-mobile: ?0
-  -   content-length: 105
-  -   cookie: JSESSIONID=4e429732-faaa-43d1-b72c-d820f8c81ffb; language=en; languageId=1; _ga=GA1.1.721873877.1779947025; _ga_SZ8S2EHDZY=GS2.1.s1779947025$o1$g0$t1779947025$j60$l0$h0; XSRF-TOKEN=fbe1a0f9-3007-4802-9a69-26a19c60a747
+  -   Content-Type: application/json
+  -   content-length: 15
 
-  [INFO] BAANKNET total unique items: 10
-  baanknet: 10 raw items
+  [WARN] No baanknet payloads captured.
+  baanknet: 0 raw items
 Fetching eAuctions India...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/bhiwandi
@@ -73,32 +68,8 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/solapur page 1: 15 cards
   findauction/solapur page 2: 15 cards
   findauction/solapur page 3: 15 cards
-  findauction/satara page 1: 15 cards
-  findauction/satara page 2: 15 cards
-  findauction/satara page 3: 15 cards
-  findauction/ratnagiri page 1: 15 cards
-  findauction/ratnagiri page 2: 15 cards
-  findauction/ratnagiri page 3: 15 cards
-  findauction/raigad page 1: 15 cards
-  findauction/raigad page 2: 15 cards
-  findauction/raigad page 3: 15 cards
-  findauction/latur page 1: 15 cards
-  findauction/latur page 2: 15 cards
-  findauction/latur page 3: 15 cards
-  findauction/kalyan page 1: 15 cards
-  findauction/kalyan page 2: 15 cards
-  findauction/kalyan page 3: 15 cards
-  findauction/bhiwandi page 1: 15 cards
-  findauction/bhiwandi page 2: 15 cards
-  findauction/bhiwandi page 3: 15 cards
-  findauction/sindhudurg page 1: 15 cards
-  findauction/sindhudurg page 2: 15 cards
-  findauction/sindhudurg page 3: 15 cards
-  findauction/ahmednagar page 1: 15 cards
-  findauction/ahmednagar page 2: 15 cards
-  findauction/ahmednagar page 3: 15 cards
-  findauction: 638 total listings
-  findauction: 638 items
+  findauction: 278 total listings
+  findauction: 278 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: 10 schemes
@@ -109,11 +80,11 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 12 listings
   mstc: 12 items
-Combined raw items from all sources: 700
-Processing stats: 693 total items, 693 new, -235 duplicates skipped
+Combined raw items from all sources: 330
+Processing stats: 330 total items, 330 new, -97 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 458 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 157/693 items remain
-Saved 7 pincodes to cache.
-NEW_AUCTIONS_COUNT=157
-Wrote 693 items to data/property_listings.json
+Saved state with 233 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 69/330 items remain
+Saved 0 pincodes to cache.
+NEW_AUCTIONS_COUNT=69
+Wrote 330 items to data/property_listings.json
