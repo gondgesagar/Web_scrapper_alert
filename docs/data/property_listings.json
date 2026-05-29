@@ -1,5 +1,276 @@
 [
   {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "28-05-2026 04:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "23-06-2026 10:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "24-06-2026 04:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "24-06-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "27-05-2026 14:02:16"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "24-06-2026 09:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/285391",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/27/285391/585802_compressed.jpg",
+    "source": "baanknet",
+    "city": "Vasai Virar",
+    "raw": {
+      "propertyId": "285391",
+      "projectName": "YASHWANT VIVA TOWNSHIP",
+      "price": 3780000.0,
+      "pricePerSeqFit": 10000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/27/285391/585802_compressed.jpg",
+      "postedOn": "27-05-2026",
+      "developerName": "SHARP REALTORS",
+      "owenershipType": "Co-op Society",
+      "bankName": "State Bank of India",
+      "summaryDesc": null,
+      "city": "Vasai Virar",
+      "cityID": "5242",
+      "stateID": 21,
+      "localities": "NALLASOPARA EAST",
+      "noOfBedRoom": 1,
+      "carpetArea": 378.0,
+      "builtupArea": 474.0,
+      "furnishedStatus": "Unfurnished",
+      "floorNo": 7,
+      "totalNoOfFloors": 7,
+      "facing": "North-East",
+      "amenities": [
+        "Vaastu Compliance",
+        "Lift",
+        "Park",
+        "Kids play area"
+      ],
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "401209",
+      "bankPropertyId": "SBIN41918771080",
+      "availablePhotosCount": 25,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": 80.0,
+      "isLoanAvailable": true,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "G-703, BLDG. NO.2, DURVAS YASHWANT CHSL, YASHWANT VIVA TOWNSHIP, NALLASOPARA EAST, DIST PALGHAR 401209",
+      "statename": "Maharashtra",
+      "districtname": "Palghar",
+      "inspectionStartDateTime": "28-05-2026 04:30:00",
+      "inspectionEndDateTime": "23-06-2026 10:30:00",
+      "auctionStartDateTime": "24-06-2026 04:30:00",
+      "auctionEndDateTime": "24-06-2026 10:30:00",
+      "emdStartDateTime": "27-05-2026 14:02:16",
+      "emdEndDateTime": "24-06-2026 09:30:00",
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "27-05-2026 06:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "27-05-2026 12:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "26-05-2026 05:03:37"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "26-05-2026 09:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/285042",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/285042/585150_compressed.jpg",
+    "source": "baanknet",
+    "city": "Akola",
+    "raw": {
+      "propertyId": "285042",
+      "projectName": null,
+      "price": 2748500.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/285042/585150_compressed.jpg",
+      "postedOn": "26-05-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Central Bank of India",
+      "summaryDesc": null,
+      "city": "Akola",
+      "cityID": "4861",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 498.45,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "444002",
+      "bankPropertyId": "CBIN5778518443RLT",
+      "availablePhotosCount": 13,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "SHEDULE OF PLOT PROPERTY\r\nAll the part and parcel of Plot No. 16, admeasuring 4600.00 Sq. Ft i.e. 427.50 Sq. Mtr. out of Field Survey No. 8/1 (As per computerizes 7/12 extract file Survey No. 8/1/16/A) situated at Mouje Khadki Bu., Tq and Dist. Akola. Within Municipal Corporation Akola. The area of the said plot is and the boundaries of the said plot are as under.\r\nBoundaries: \r\nEast : Layout Plot No. 17\r\nWest : 09 Meter Layout Road\r\nNorth : 09 Meter Layout Road\r\nSouth : Open Space\r\nDESCRIPTION OF FLAT\r\nName of the Property Owner: Mr. Chandrakant Ravindra Damodar.\r\nAll the part and parcel of Flat No. F-204 on Second Floor, having built up area 70.95 Sq. Mtr, Super built up area 85.14 Sq. Mt., with carpet area 56.76 Sq. Mt. in the apartment known as \u201cRADHA KRUSHNA HEIGHTS\u201d consisting of One Drawing Room, Two bed rooms, Passage, One Kitchen, Two W.C + Bath and Balconies measuring total super built up area of Flat 85.14 Sq. Mtr. Along with a proportionate undivided share of land 29.98 Sq. Mt. and which is bounded by:\r\nBoundaries:\r\nEast : Flat No. F203\r\nWest : Marginal Distance \u2013 Layout Road\r\nNorth : Staircase \u2013 Flat No. F201\r\nSouth : Marginal Distance",
+      "statename": "Maharashtra",
+      "districtname": "Akola",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "27-05-2026 06:30:00",
+      "auctionEndDateTime": "27-05-2026 12:30:00",
+      "emdStartDateTime": "26-05-2026 05:03:37",
+      "emdEndDateTime": "26-05-2026 09:30:00",
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No 443, 3rd floor, B Wing, ORM CHSL, 136-138, Orchard Corporate Park, Orchard Road Royal Palm , Aarey Milk Colony, Goregaon East, Mumbai 400065",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "22-06-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "22-06-2026 09:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "26-05-2026 04:56:29"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "22-06-2026 09:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/251847",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/251847/585177_compressed.jpg",
+    "source": "baanknet",
+    "city": "Mumbai",
+    "raw": {
+      "propertyId": "251847",
+      "projectName": null,
+      "price": 2270000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/251847/585177_compressed.jpg",
+      "postedOn": "26-05-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Maharashtra",
+      "summaryDesc": "Flat No 443, 3rd floor, B Wing, ORM CHSL, 136-138, Orchard Corporate Park, Orchard Road Royal Palm , Aarey Milk Colony, Goregaon East, Mumbai 400065",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 287.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "400065",
+      "bankPropertyId": "MAHBINDALYADAV",
+      "availablePhotosCount": 12,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No 443, 3rd floor, B Wing, ORM CHSL, 136-138, Orchard Corporate Park, Orchard Road Royal Palm , Aarey Milk Colony, Goregaon East, Mumbai 400065",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "22-06-2026 05:30:00",
+      "auctionEndDateTime": "22-06-2026 09:30:00",
+      "emdStartDateTime": "26-05-2026 04:56:29",
+      "emdEndDateTime": "22-06-2026 09:30:00",
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
     "details": "Flat in Hinjewadi, Pune",
     "link": "https://findauction.in/auction/icicibank/flat-in-xrbia-hinjewadi-pune-1661341",
     "photos": "",
@@ -1250,13 +1521,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-nano-estates-ambernath-west-mumbai-1649619",
+    "details": "Flat in Umroli East, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "09 Jun 2026"
+        "value": "04 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1264,12 +1535,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-nano-estates-ambernath-west-mumbai-1649619",
-      "property_name": "Flat in Ambernath West, Mumbai",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
+      "property_name": "Flat in Umroli East, Mumbai",
       "price": "11,00,000",
-      "auction_date": "09 Jun 2026",
+      "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath West, Mumbai \ud83c\udfe2 Mohan Nano Estates ICICI Bank 11,00,000 09 Jun 2026 18.71 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Umroli East, Mumbai \ud83c\udfe2 Sai Yashodhan ICICI Bank 11,00,000 04 Jun 2026 EMD 1,10,000 Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1950,8 +2221,8 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Umroli East, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
+    "details": "1 Rk Flat in Kamothe, Panvel",
+    "link": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
     "photos": "",
     "important_dates": [
       {
@@ -1964,12 +2235,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
-      "property_name": "Flat in Umroli East, Mumbai",
-      "price": "11,00,000",
+      "property_url": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
+      "property_name": "1 Rk Flat in Kamothe, Panvel",
+      "price": "25,50,000",
       "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Umroli East, Mumbai \ud83c\udfe2 Sai Yashodhan ICICI Bank 11,00,000 04 Jun 2026 EMD 1,10,000 Physical Possession View Auction Promoted"
+      "raw_text": "1 Rk Flat in Kamothe, Panvel \ud83c\udfe2 Siddhi Apartment Tyger Home Finance 25,50,000 04 Jun 2026 235 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2075,13 +2346,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-nano-estates-ambernath-west-mumbai-1649619",
+    "details": "Flat in Dombivli East, Mumbai",
+    "link": "https://findauction.in/auction/hindujahousingfinance/flat-in-mayuresh-darshan-dombivli-east-mumbai-1632971",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "09 Jun 2026"
+        "value": "10 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -2089,12 +2360,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-nano-estates-ambernath-west-mumbai-1649619",
-      "property_name": "Flat in Ambernath West, Mumbai",
-      "price": "11,00,000",
-      "auction_date": "09 Jun 2026",
+      "property_url": "https://findauction.in/auction/hindujahousingfinance/flat-in-mayuresh-darshan-dombivli-east-mumbai-1632971",
+      "property_name": "Flat in Dombivli East, Mumbai",
+      "price": "23,50,000",
+      "auction_date": "10 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath West, Mumbai \ud83c\udfe2 Mohan Nano Estates ICICI Bank 11,00,000 09 Jun 2026 18.71 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Dombivli East, Mumbai \ud83c\udfe2 Mayuresh Darshan Hinduja Housing Finance 23,50,000 10 Jun 2026 500 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -17111,7 +17382,7 @@
   },
   {
     "details": "Mallasandiram village and Arasakuppam village to the extent of 21.207 Acres",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=O82WbbZsy8Era8555VT22Q%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ek%2FbVRkZSBTSC1yCTLxPVA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17119,7 +17390,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=O82WbbZsy8Era8555VT22Q%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ek%2FbVRkZSBTSC1yCTLxPVA%3D%3D",
       "property_name": "Mallasandiram village and Arasakuppam village to the extent of 21.207 Acres",
       "price": "",
       "listing_id": "OLCHNMAXWORTHELLAIYUR",
