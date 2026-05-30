@@ -1,5 +1,344 @@
 [
   {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "30-05-2026 04:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "18-06-2026 11:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "19-06-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "19-06-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "29-05-2026 10:19:54"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "18-06-2026 18:29:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/284220",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/14/284220/580507_compressed.jpg",
+    "source": "baanknet",
+    "city": "Pune",
+    "raw": {
+      "propertyId": "284220",
+      "projectName": null,
+      "price": 56153000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "4",
+      "propertySubType": "Bungalow",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/14/284220/580507_compressed.jpg",
+      "postedOn": "29-05-2026",
+      "developerName": null,
+      "owenershipType": "Co-op Society",
+      "bankName": "Indian Bank",
+      "summaryDesc": null,
+      "city": "Pune",
+      "cityID": "5286",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 2507.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "411001",
+      "bankPropertyId": "IDIB323976381206",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Bungalow No. 6. Shree Guruprasad Krupa, Valentina Co Op Housing Society, FP No. 322, S No. 31/1A+31/1B/1, North Main Road, Koregaon Park, Pune \u2013 411001 with land area \u2013 3626 Sq. ft. and build up area \u2013 2507 Sq. ft. in the name of Narendra A Korde and Mrs. Vaidehi N Korde",
+      "statename": "Maharashtra",
+      "districtname": "Pune",
+      "inspectionStartDateTime": "30-05-2026 04:30:00",
+      "inspectionEndDateTime": "18-06-2026 11:30:00",
+      "auctionStartDateTime": "19-06-2026 05:30:00",
+      "auctionEndDateTime": "19-06-2026 10:30:00",
+      "emdStartDateTime": "29-05-2026 10:19:54",
+      "emdEndDateTime": "18-06-2026 18:29:00",
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Bungalow",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/285424",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/29/285424/586476_compressed.jpg",
+    "source": "baanknet",
+    "city": "Pimpri Chinchwad",
+    "raw": {
+      "propertyId": "285424",
+      "projectName": null,
+      "price": 3500000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/29/285424/586476_compressed.jpg",
+      "postedOn": "29-05-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Baroda",
+      "summaryDesc": null,
+      "city": "Pimpri Chinchwad",
+      "cityID": "5284",
+      "stateID": 21,
+      "localities": "Pune",
+      "noOfBedRoom": null,
+      "carpetArea": 40.51,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "411015",
+      "bankPropertyId": "BARB60432026001",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat no 201, Shree Sai Moti Angan Co-op Hsg Soc Ltd.Munjoba Vasti, Dhanori, Pune-411015",
+      "statename": "Maharashtra",
+      "districtname": "Pune",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat 101, First Floor, Sumit Pramukh Enclave Co-op Housing Society ltd., CTS 379, 379/1 to 53, admeasuring 880 Sq ft, Bachhani Nagar Road, Malad East, Mumbai, 400097 (Maharashtra) Owned by Mr. Pahelaj Satyapal Badlani",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/285666",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/29/285666/586270_compressed.jpg",
+    "source": "baanknet",
+    "city": "Mumbai",
+    "raw": {
+      "propertyId": "285666",
+      "projectName": "Sumit Pramukh Enclave Co-op Housing Society ltd.",
+      "price": 18200000.0,
+      "pricePerSeqFit": 20682.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/29/285666/586270_compressed.jpg",
+      "postedOn": "29-05-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Flat 101, First Floor, Sumit Pramukh Enclave Co-op Housing Society ltd., CTS 379, 379/1 to 53, admeasuring 880 Sq ft, Bachhani Nagar Road, Malad East, Mumbai, 400097 (Maharashtra) Owned by Mr. Pahelaj Satyapal Badlani",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": "Bachhani Nagar Road, Malad East, Mumbai, 400097",
+      "noOfBedRoom": 3,
+      "carpetArea": 880.0,
+      "builtupArea": 1056.0,
+      "furnishedStatus": "Unfurnished",
+      "floorNo": 1,
+      "totalNoOfFloors": 13,
+      "facing": "West",
+      "amenities": [
+        "Reserved Parking",
+        "Park"
+      ],
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 72.51175,
+        "lat": 19.1111
+      },
+      "pincode": "400097",
+      "bankPropertyId": "SBINRENEXMALAD",
+      "availablePhotosCount": 22,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": false,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat 101, First Floor, Sumit Pramukh Enclave Co-op Housing Society ltd., CTS 379, 379/1 to 53, Bachhani Nagar Road, Malad East, Mumbai, 400097 (Maharashtra)",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": 1,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "28-05-2026 04:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "23-06-2026 10:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "24-06-2026 04:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "24-06-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "27-05-2026 14:02:16"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "24-06-2026 09:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/285391",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/27/285391/585802_compressed.jpg",
+    "source": "baanknet",
+    "city": "Vasai Virar",
+    "raw": {
+      "propertyId": "285391",
+      "projectName": "YASHWANT VIVA TOWNSHIP",
+      "price": 3780000.0,
+      "pricePerSeqFit": 10000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/27/285391/585802_compressed.jpg",
+      "postedOn": "27-05-2026",
+      "developerName": "SHARP REALTORS",
+      "owenershipType": "Co-op Society",
+      "bankName": "State Bank of India",
+      "summaryDesc": null,
+      "city": "Vasai Virar",
+      "cityID": "5242",
+      "stateID": 21,
+      "localities": "NALLASOPARA EAST",
+      "noOfBedRoom": 1,
+      "carpetArea": 378.0,
+      "builtupArea": 474.0,
+      "furnishedStatus": "Unfurnished",
+      "floorNo": 7,
+      "totalNoOfFloors": 7,
+      "facing": "North-East",
+      "amenities": [
+        "Vaastu Compliance",
+        "Lift",
+        "Park",
+        "Kids play area"
+      ],
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "401209",
+      "bankPropertyId": "SBIN41918771080",
+      "availablePhotosCount": 25,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": 80.0,
+      "isLoanAvailable": true,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "G-703, BLDG. NO.2, DURVAS YASHWANT CHSL, YASHWANT VIVA TOWNSHIP, NALLASOPARA EAST, DIST PALGHAR 401209",
+      "statename": "Maharashtra",
+      "districtname": "Palghar",
+      "inspectionStartDateTime": "28-05-2026 04:30:00",
+      "inspectionEndDateTime": "23-06-2026 10:30:00",
+      "auctionStartDateTime": "24-06-2026 04:30:00",
+      "auctionEndDateTime": "24-06-2026 10:30:00",
+      "emdStartDateTime": "27-05-2026 14:02:16",
+      "emdEndDateTime": "24-06-2026 09:30:00",
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
     "details": "Flat in Ambegaon Budruk, Pune",
     "link": "https://findauction.in/auction/norrnarccapital/flat-in-tcg-panorama-ambegaon-budruk-pune-1662340",
     "photos": "",
@@ -1250,13 +1589,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-harmony-ambernath-mumbai-1661413",
+    "details": "Flat in Dombivli East, Mumbai",
+    "link": "https://findauction.in/auction/hindujahousingfinance/flat-in-mayuresh-darshan-dombivli-east-mumbai-1632971",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "17 Jun 2026"
+        "value": "10 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1264,12 +1603,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-harmony-ambernath-mumbai-1661413",
-      "property_name": "Flat in Ambernath, Mumbai",
-      "price": "14,85,000",
-      "auction_date": "17 Jun 2026",
+      "property_url": "https://findauction.in/auction/hindujahousingfinance/flat-in-mayuresh-darshan-dombivli-east-mumbai-1632971",
+      "property_name": "Flat in Dombivli East, Mumbai",
+      "price": "23,50,000",
+      "auction_date": "10 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Jp Harmony Tyger Home Finance 14,85,000 17 Jun 2026 460 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Dombivli East, Mumbai \ud83c\udfe2 Mayuresh Darshan Hinduja Housing Finance 23,50,000 10 Jun 2026 500 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1525,13 +1864,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-harmony-ambernath-mumbai-1661413",
+    "details": "1 Rk Flat in Kamothe, Panvel",
+    "link": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "17 Jun 2026"
+        "value": "04 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1539,12 +1878,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-harmony-ambernath-mumbai-1661413",
-      "property_name": "Flat in Ambernath, Mumbai",
-      "price": "14,85,000",
-      "auction_date": "17 Jun 2026",
+      "property_url": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
+      "property_name": "1 Rk Flat in Kamothe, Panvel",
+      "price": "25,50,000",
+      "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Jp Harmony Tyger Home Finance 14,85,000 17 Jun 2026 460 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "1 Rk Flat in Kamothe, Panvel \ud83c\udfe2 Siddhi Apartment Tyger Home Finance 25,50,000 04 Jun 2026 235 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1650,13 +1989,13 @@
     "land_type": ""
   },
   {
-    "details": "1 Rk Flat in Kamothe, Panvel",
-    "link": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
+    "details": "Flat in Ambernath, Mumbai",
+    "link": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1661414",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "04 Jun 2026"
+        "value": "17 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1664,12 +2003,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
-      "property_name": "1 Rk Flat in Kamothe, Panvel",
-      "price": "25,50,000",
-      "auction_date": "04 Jun 2026",
+      "property_url": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1661414",
+      "property_name": "Flat in Ambernath, Mumbai",
+      "price": "16,65,000",
+      "auction_date": "17 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "1 Rk Flat in Kamothe, Panvel \ud83c\udfe2 Siddhi Apartment Tyger Home Finance 25,50,000 04 Jun 2026 235 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Jp Regency Tyger Home Finance 16,65,000 17 Jun 2026 29.809 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1950,13 +2289,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-nano-estates-ambernath-west-mumbai-1649619",
+    "details": "1 Rk Flat in Kamothe, Panvel",
+    "link": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "09 Jun 2026"
+        "value": "04 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1964,12 +2303,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-nano-estates-ambernath-west-mumbai-1649619",
-      "property_name": "Flat in Ambernath West, Mumbai",
-      "price": "11,00,000",
-      "auction_date": "09 Jun 2026",
+      "property_url": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
+      "property_name": "1 Rk Flat in Kamothe, Panvel",
+      "price": "25,50,000",
+      "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath West, Mumbai \ud83c\udfe2 Mohan Nano Estates ICICI Bank 11,00,000 09 Jun 2026 18.71 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "1 Rk Flat in Kamothe, Panvel \ud83c\udfe2 Siddhi Apartment Tyger Home Finance 25,50,000 04 Jun 2026 235 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2075,13 +2414,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Umroli East, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1627967",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "04 Jun 2026"
+        "value": "05 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -2089,12 +2428,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-yashodhan-umroli-east-mumbai-1646879",
-      "property_name": "Flat in Umroli East, Mumbai",
-      "price": "11,00,000",
-      "auction_date": "04 Jun 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1627967",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
+      "auction_date": "05 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Umroli East, Mumbai \ud83c\udfe2 Sai Yashodhan ICICI Bank 11,00,000 04 Jun 2026 EMD 1,10,000 Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 05 Jun 2026 589 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -17111,7 +17450,7 @@
   },
   {
     "details": "Mallasandiram village and Arasakuppam village to the extent of 21.207 Acres",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=nJp%2FgfI7OZkwVWqyQa1%2Bew%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=EhxK5jfGdAW9AktJwb2MXA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17119,7 +17458,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=nJp%2FgfI7OZkwVWqyQa1%2Bew%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=EhxK5jfGdAW9AktJwb2MXA%3D%3D",
       "property_name": "Mallasandiram village and Arasakuppam village to the extent of 21.207 Acres",
       "price": "",
       "listing_id": "OLCHNMAXWORTHELLAIYUR",
