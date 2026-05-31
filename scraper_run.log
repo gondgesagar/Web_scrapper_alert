@@ -60,14 +60,14 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/kolhapur page 2: 15 cards
   findauction/kolhapur page 3: 15 cards
   findauction/nashik page 1: 15 cards
+  findauction/nashik page 2: 15 cards
   findauction/solapur page 1: 15 cards
+  findauction/satara page 1: 15 cards
   findauction/ratnagiri page 1: 15 cards
+  findauction/raigad page 1: 15 cards
   findauction/latur page 1: 15 cards
   findauction/latur page 2: 15 cards
   findauction/latur page 3: 15 cards
-  findauction/sindhudurg page 1: 15 cards
-  findauction/sindhudurg page 2: 15 cards
-  findauction/sindhudurg page 3: 15 cards
   findauction: 275 total listings
   findauction: 275 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
@@ -81,9 +81,9 @@ Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 12 listings
   mstc: 12 items
 Combined raw items from all sources: 327
-Processing stats: 327 total items, 327 new, -70 duplicates skipped
+Processing stats: 327 total items, 327 new, -60 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 257 total tracked items to .state/state.json
+Saved state with 267 total tracked items to .state/state.json
 Applied property-types filter: plots, land, farm hous, bunglow — 96/327 items remain
 Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=96
