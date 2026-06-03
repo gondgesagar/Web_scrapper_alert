@@ -1,5 +1,91 @@
 [
   {
+    "emd_cost": null,
+    "details": "Flat No- 604 6th Floor, Golden Heights CHSL, Plot No 34 & 35, Sector -20, Koparkhairane Tal and Dist. Thane Navi Mumbai 400709",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "09-06-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "09-06-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "03-06-2026 06:04:03"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "09-06-2026 10:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/235974",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/02/235974/587858_compressed.jpg",
+    "source": "baanknet",
+    "city": "Navi Mumbai",
+    "raw": {
+      "propertyId": "235974",
+      "projectName": null,
+      "price": 10630000.0,
+      "pricePerSeqFit": 18500.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/02/235974/587858_compressed.jpg",
+      "postedOn": "03-06-2026",
+      "developerName": null,
+      "owenershipType": "Others",
+      "bankName": "Bank of India",
+      "summaryDesc": "Flat No- 604 6th Floor, Golden Heights CHSL, Plot No 34 & 35, Sector -20, Koparkhairane Tal and Dist. Thane Navi Mumbai 400709",
+      "city": "Navi Mumbai",
+      "cityID": "5461",
+      "stateID": 21,
+      "localities": "NAVI MUMBAI",
+      "noOfBedRoom": null,
+      "carpetArea": 569.0,
+      "builtupArea": 715.0,
+      "furnishedStatus": "Semi-Furnished",
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "West",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "400709",
+      "bankPropertyId": "BKIDNMZARB026",
+      "availablePhotosCount": 16,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No- 604 6th Floor, Golden Heights CHSL, Plot No 34 & 35, Sector -20, Koparkhairane Tal and Dist. Thane Navi Mumbai 400709",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "09-06-2026 05:30:00",
+      "auctionEndDateTime": "09-06-2026 11:30:00",
+      "emdStartDateTime": "03-06-2026 06:04:03",
+      "emdEndDateTime": "09-06-2026 10:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
     "details": "Flat in Shikrapur, Pune",
     "link": "https://findauction.in/auction/canarabank/flat-in-s-s-plaza-shikrapur-pune-1666158",
     "photos": "",
@@ -1250,13 +1336,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Andheri West, Mumbai",
-    "link": "https://findauction.in/auction/sbi/flat-in-platinum-tower-andheri-west-mumbai-1662395",
+    "details": "1 Rk Flat in Kamothe, Panvel",
+    "link": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "16 Jun 2026"
+        "value": "04 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1264,12 +1350,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/sbi/flat-in-platinum-tower-andheri-west-mumbai-1662395",
-      "property_name": "Flat in Andheri West, Mumbai",
-      "price": "1,98,00,000",
-      "auction_date": "16 Jun 2026",
+      "property_url": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
+      "property_name": "1 Rk Flat in Kamothe, Panvel",
+      "price": "25,50,000",
+      "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Andheri West, Mumbai \ud83c\udfe2 Platinum Tower State Bank of India 1,98,00,000 16 Jun 2026 580 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "1 Rk Flat in Kamothe, Panvel \ud83c\udfe2 Siddhi Apartment Tyger Home Finance 25,50,000 04 Jun 2026 235 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1950,13 +2036,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Virar West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-rustomjee-evershine-global-city-and-society-virar-west-mumbai-1659757",
+    "details": "1 Rk Flat in Kamothe, Panvel",
+    "link": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "17 Jun 2026"
+        "value": "04 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1964,12 +2050,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-rustomjee-evershine-global-city-and-society-virar-west-mumbai-1659757",
-      "property_name": "Flat in Virar West, Mumbai",
-      "price": "38,50,000",
-      "auction_date": "17 Jun 2026",
+      "property_url": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
+      "property_name": "1 Rk Flat in Kamothe, Panvel",
+      "price": "25,50,000",
+      "auction_date": "04 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Virar West, Mumbai \ud83c\udfe2 Rustomjee Evershine Global City And Society ICICI Bank 38,50,000 17 Jun 2026 56.11 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "1 Rk Flat in Kamothe, Panvel \ud83c\udfe2 Siddhi Apartment Tyger Home Finance 25,50,000 04 Jun 2026 235 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2075,13 +2161,13 @@
     "land_type": ""
   },
   {
-    "details": "1 Rk Flat in Kamothe, Panvel",
-    "link": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1627967",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "04 Jun 2026"
+        "value": "05 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -2089,12 +2175,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tygerhomefinance/1-rk-flat-in-siddhi-apartment-kamothe-panvel-1629799",
-      "property_name": "1 Rk Flat in Kamothe, Panvel",
-      "price": "25,50,000",
-      "auction_date": "04 Jun 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1627967",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
+      "auction_date": "05 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "1 Rk Flat in Kamothe, Panvel \ud83c\udfe2 Siddhi Apartment Tyger Home Finance 25,50,000 04 Jun 2026 235 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 05 Jun 2026 589 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
