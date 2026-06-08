@@ -16,7 +16,7 @@ Call log:
   -   content-type: application/json
   -   sec-ch-ua-mobile: ?0
   -   content-length: 105
-  -   cookie: JSESSIONID=b7ec83dd-c62f-46a7-be9d-d1fcfe37f405; language=en; languageId=1; _ga=GA1.1.1042852574.1780884343; _ga_SZ8S2EHDZY=GS2.1.s1780884342$o1$g0$t1780884342$j60$l0$h0; XSRF-TOKEN=358542ff-9481-4057-bfb3-76159db46ef6
+  -   cookie: JSESSIONID=e9b26786-a546-450d-86c8-5d10748ca6dc; language=en; languageId=1; _ga=GA1.1.934920985.1780901810; _ga_SZ8S2EHDZY=GS2.1.s1780901809$o1$g0$t1780901809$j60$l0$h0; XSRF-TOKEN=228852b9-6095-4748-8f23-025710add70a
 
   [INFO] BAANKNET total unique items: 10
   baanknet: 10 raw items
@@ -106,10 +106,10 @@ Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 11 listings
   mstc: 11 items
 Combined raw items from all sources: 702
-Processing stats: 694 total items, 694 new, -229 duplicates skipped
+Processing stats: 693 total items, 693 new, -229 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 465 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 188/694 items remain
-Saved 5 pincodes to cache.
-NEW_AUCTIONS_COUNT=188
-Wrote 694 items to data/property_listings.json
+Saved state with 464 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 187/693 items remain
+Saved 9 pincodes to cache.
+NEW_AUCTIONS_COUNT=187
+Wrote 693 items to data/property_listings.json
