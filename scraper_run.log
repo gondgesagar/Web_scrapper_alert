@@ -16,7 +16,7 @@ Call log:
   -   content-type: application/json
   -   sec-ch-ua-mobile: ?0
   -   content-length: 105
-  -   cookie: JSESSIONID=b4a68d38-9dee-4b82-999f-62f34c959d89; language=en; languageId=1; _ga=GA1.1.746418620.1781037188; _ga_SZ8S2EHDZY=GS2.1.s1781037187$o1$g0$t1781037187$j60$l0$h0; XSRF-TOKEN=f4ff326e-0940-48d5-810f-fdb466de41e0
+  -   cookie: JSESSIONID=f4d71da5-6714-46ac-b049-3e31f3499183; language=en; languageId=1; _ga=GA1.1.1420311465.1781042962; _ga_SZ8S2EHDZY=GS2.1.s1781042962$o1$g0$t1781042962$j60$l0$h0; XSRF-TOKEN=74e7c074-f474-46f0-b33a-0310d3d88e98
 
   [INFO] BAANKNET total unique items: 10
   baanknet: 10 raw items
@@ -96,20 +96,20 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 643 total listings
   findauction: 643 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
-  mhada/Mumbai: no tender table found
-  mhada/Pune: no tender table found
-  mhada/Nashik: no tender table found
-  mhada/Konkan Shops: no tender table found
-  mhada: 0 total listings
-  mhada: 0 items
+  mhada/Mumbai: 10 schemes
+  mhada/Pune: 10 schemes
+  mhada/Nashik: 10 schemes
+  mhada/Konkan Shops: 10 schemes
+  mhada: 40 total listings
+  mhada: 40 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 11 listings
   mstc: 11 items
-Combined raw items from all sources: 664
-Processing stats: 659 total items, 659 new, -219 duplicates skipped
+Combined raw items from all sources: 704
+Processing stats: 699 total items, 699 new, -238 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 440 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 141/659 items remain
+Saved state with 461 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 161/699 items remain
 Saved 5 pincodes to cache.
-NEW_AUCTIONS_COUNT=141
-Wrote 659 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=161
+Wrote 699 items to data/property_listings.json
