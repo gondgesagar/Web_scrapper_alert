@@ -1,5 +1,175 @@
 [
   {
+    "emd_cost": null,
+    "details": "Row House No. C-1 of \u201cGabhara-C\u201d building with built up area 112.903 Sq. Mtrs., on Plot No. 41 to 47, Survey No. 85, PH No 31, Mouza-Sumthana, Tah-Bhadrawati, Dist.-Chandrapur.\r\n\r\nBoundaries are as under: \r\nEast \u2013 Row House No. C-2,                   West \u2013 9 Mtr. Layout Road, \r\nNorth \u2013 Survey No. 84,                          South \u2013 9 Mtr. Layout Road",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/217036",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/08/21/217036/415251_compressed.jpg",
+    "source": "baanknet",
+    "city": "Bhadravati MIDC",
+    "raw": {
+      "propertyId": "217036",
+      "projectName": "GABHARA-C  DEUL CONSTRUCTION",
+      "price": 2781000.0,
+      "pricePerSeqFit": 1200.0,
+      "propertySubTypeId": "2",
+      "propertySubType": "Individual House",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/08/21/217036/415251_compressed.jpg",
+      "postedOn": "12-06-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Row House No. C-1 of \u201cGabhara-C\u201d building with built up area 112.903 Sq. Mtrs., on Plot No. 41 to 47, Survey No. 85, PH No 31, Mouza-Sumthana, Tah-Bhadrawati, Dist.-Chandrapur.\r\n\r\nBoundaries are as under: \r\nEast \u2013 Row House No. C-2,                   West \u2013 9 Mtr. Layout Road, \r\nNorth \u2013 Survey No. 84,                          South \u2013 9 Mtr. Layout Road",
+      "city": "Bhadravati MIDC",
+      "cityID": "4934",
+      "stateID": 21,
+      "localities": "Row House No. C-1 of \u201cGabhara-C\u201d , Mouza-Sumthana, Tah-Bhadrawati, Dist.-Chandrapur.",
+      "noOfBedRoom": null,
+      "carpetArea": 113.0,
+      "builtupArea": 118.0,
+      "furnishedStatus": null,
+      "floorNo": 2,
+      "totalNoOfFloors": 2,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 79.145694,
+        "lat": 20.095673
+      },
+      "pincode": "442902",
+      "bankPropertyId": "SBIN200017320549",
+      "availablePhotosCount": 25,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Row House No. C-1 of \u201cGabhara-C\u201d building with built up area 112.903 Sq. Mtrs., on Plot No. 41 to 47, Survey No. 85, PH No 31, Mouza-Sumthana, Tah-Bhadrawati, Dist.-Chandrapur.\r\n\r\nBoundaries are as under: \r\nEast \u2013 Row House No. C-2,                   West \u2013 9 Mtr. Layout Road, \r\nNorth \u2013 Survey No. 84,                          South \u2013 9 Mtr. Layout Road",
+      "statename": "Maharashtra",
+      "districtname": "Chandrapur",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Plot No 83/5-B, Apartment No SP-II-101, 1st Floor of \"SPRINGDALE-II\" Apartment  bearing City Survey No 2430/3, Sheet No 37 of Mouza Jaripatka, situated at Raj Nagar, Nagpur. Property is owned by Mr. Haider Hussain Ali Panjwani & Mr. Ahmed Haider Bhai Panjwani.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "23-06-2026 04:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "23-06-2026 11:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "25-06-2026 04:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "25-06-2026 11:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "12-06-2026 08:18:56"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "25-06-2026 11:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/287267",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/05/287267/257683_compressed.jpg",
+    "source": "baanknet",
+    "city": "Nagpur",
+    "raw": {
+      "propertyId": "287267",
+      "projectName": "SPRINGDALE-II Apartment",
+      "price": 14232000.0,
+      "pricePerSeqFit": 8000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/05/287267/257683_compressed.jpg",
+      "postedOn": "12-06-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of India",
+      "summaryDesc": "Plot No 83/5-B, Apartment No SP-II-101, 1st Floor of \"SPRINGDALE-II\" Apartment  bearing City Survey No 2430/3, Sheet No 37 of Mouza Jaripatka, situated at Raj Nagar, Nagpur. Property is owned by Mr. Haider Hussain Ali Panjwani & Mr. Ahmed Haider Bhai Panjwani.",
+      "city": "Nagpur",
+      "cityID": "5138",
+      "stateID": 21,
+      "localities": "Jaripatka",
+      "noOfBedRoom": null,
+      "carpetArea": 1898.65,
+      "builtupArea": 1899.0,
+      "furnishedStatus": "Semi-Furnished",
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "South",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": {
+        "lon": 79.07506,
+        "lat": 21.17378
+      },
+      "pincode": "440014",
+      "bankPropertyId": "BKIDHAIDER",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Plot No 83/5-B, Apartment No SP-II-101, 1st Floor of \"SPRINGDALE-II\" Apartment  bearing City Survey No 2430/3, Sheet No 37 of Mouza Jaripatka, situated at Raj Nagar, Nagpur. Property is owned by Mr. Haider Hussain Ali Panjwani & Mr. Ahmed Haider Bhai Panjwani.",
+      "statename": "Maharashtra",
+      "districtname": "Nagpur",
+      "inspectionStartDateTime": "23-06-2026 04:30:00",
+      "inspectionEndDateTime": "23-06-2026 11:30:00",
+      "auctionStartDateTime": "25-06-2026 04:30:00",
+      "auctionEndDateTime": "25-06-2026 11:30:00",
+      "emdStartDateTime": "12-06-2026 08:18:56",
+      "emdEndDateTime": "25-06-2026 11:30:00",
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
     "details": "Flat in Ambegaon Budruk, Pune",
     "link": "https://findauction.in/auction/unionbankofindia/flat-in-ambegaon-budruk-pune-1679265",
     "photos": "",
@@ -125,13 +295,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Dhanori, Pune",
-    "link": "https://findauction.in/auction/utkarshsmallfinancebank/shop-in-celestino-dhanori-pune-1669976",
+    "details": "Flat in Wanawadi, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1659536",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "23 Jun 2026"
+        "value": "17 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -139,14 +309,14 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/utkarshsmallfinancebank/shop-in-celestino-dhanori-pune-1669976",
-      "property_name": "Shop in Dhanori, Pune",
-      "price": "1,20,00,000",
-      "auction_date": "23 Jun 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1659536",
+      "property_name": "Flat in Wanawadi, Pune",
+      "price": "95,00,000",
+      "auction_date": "17 Jun 2026",
       "city": "Pune",
-      "raw_text": "Shop in Dhanori, Pune \ud83c\udfe2 Celestino Utkarsh Small Finance Bank 1,20,00,000 23 Jun 2026 EMD 12,00,000 Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Wanawadi, Pune \ud83c\udfe2 Arihant Elite ICICI Bank 95,00,000 17 Jun 2026 99.30 Sq Mtrs Physical Possession View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -400,13 +570,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Pimpri Chinchwad, Pune",
-    "link": "https://findauction.in/auction/icicibank/flat-in-aksha-amulyam-pimpri-chinchwad-pune-1647851",
+    "details": "Flat in Wanawadi, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1659536",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "19 Jun 2026"
+        "value": "17 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -414,12 +584,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-aksha-amulyam-pimpri-chinchwad-pune-1647851",
-      "property_name": "Flat in Pimpri Chinchwad, Pune",
-      "price": "41,50,000",
-      "auction_date": "19 Jun 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1659536",
+      "property_name": "Flat in Wanawadi, Pune",
+      "price": "95,00,000",
+      "auction_date": "17 Jun 2026",
       "city": "Pune",
-      "raw_text": "Flat in Pimpri Chinchwad, Pune \ud83c\udfe2 Aksha Amulyam ICICI Bank 41,50,000 19 Jun 2026 524 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Wanawadi, Pune \ud83c\udfe2 Arihant Elite ICICI Bank 95,00,000 17 Jun 2026 99.30 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -950,13 +1120,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Dhanori, Pune",
-    "link": "https://findauction.in/auction/utkarshsmallfinancebank/shop-in-celestino-dhanori-pune-1669976",
+    "details": "Flat in Pimpri Chinchwad, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-aksha-amulyam-pimpri-chinchwad-pune-1647851",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "23 Jun 2026"
+        "value": "19 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -964,14 +1134,14 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/utkarshsmallfinancebank/shop-in-celestino-dhanori-pune-1669976",
-      "property_name": "Shop in Dhanori, Pune",
-      "price": "1,20,00,000",
-      "auction_date": "23 Jun 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-aksha-amulyam-pimpri-chinchwad-pune-1647851",
+      "property_name": "Flat in Pimpri Chinchwad, Pune",
+      "price": "41,50,000",
+      "auction_date": "19 Jun 2026",
       "city": "Pune",
-      "raw_text": "Shop in Dhanori, Pune \ud83c\udfe2 Celestino Utkarsh Small Finance Bank 1,20,00,000 23 Jun 2026 EMD 12,00,000 Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Pimpri Chinchwad, Pune \ud83c\udfe2 Aksha Amulyam ICICI Bank 41,50,000 19 Jun 2026 524 Sq Ft Physical Possession View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -1375,13 +1545,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Vasai East, Mumbai",
-    "link": "https://findauction.in/auction/yesbank/flat-in-vishwa-nagri-complex-vasai-east-mumbai-1660355",
+    "details": "Flat in Thane West, Mumbai",
+    "link": "https://findauction.in/auction/yesbank/flat-in-panchpakhadi-hill-view-thane-west-mumbai-1645335",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "30 Jun 2026"
+        "value": "16 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1389,12 +1559,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/yesbank/flat-in-vishwa-nagri-complex-vasai-east-mumbai-1660355",
-      "property_name": "Flat in Vasai East, Mumbai",
-      "price": "17,73,270",
-      "auction_date": "30 Jun 2026",
+      "property_url": "https://findauction.in/auction/yesbank/flat-in-panchpakhadi-hill-view-thane-west-mumbai-1645335",
+      "property_name": "Flat in Thane West, Mumbai",
+      "price": "87,80,000",
+      "auction_date": "16 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Vasai East, Mumbai \ud83c\udfe2 Vishwa Nagri Complex Yes Bank 17,73,270 30 Jun 2026 22.63 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Thane West, Mumbai \ud83c\udfe2 Panchpakhadi Hill View Yes Bank 87,80,000 16 Jun 2026 712 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1650,13 +1820,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Malad West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-sai-samarth-chs-malad-west-mumbai-1654948",
+    "details": "Flat in Nallasopara West, Mumbai",
+    "link": "https://findauction.in/auction/tchfl/flat-in-sai-kalp-apartment-nallasopara-west-mumbai-1665799",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "29 Jun 2026"
+        "value": "19 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1664,12 +1834,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-samarth-chs-malad-west-mumbai-1654948",
-      "property_name": "Flat in Malad West, Mumbai",
-      "price": "1,02,30,000",
-      "auction_date": "29 Jun 2026",
+      "property_url": "https://findauction.in/auction/tchfl/flat-in-sai-kalp-apartment-nallasopara-west-mumbai-1665799",
+      "property_name": "Flat in Nallasopara West, Mumbai",
+      "price": "26,00,000",
+      "auction_date": "19 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Malad West, Mumbai \ud83c\udfe2 Sai Samarth CHS ICICI Bank 1,02,30,000 29 Jun 2026 444 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Nallasopara West, Mumbai \ud83c\udfe2 Sai Kalp Apartment Tata Capital Housing Finance 26,00,000 19 Jun 2026 44.33 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1775,13 +1945,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1661414",
+    "details": "Flat in Vasai East, Mumbai",
+    "link": "https://findauction.in/auction/yesbank/flat-in-vishwa-nagri-complex-vasai-east-mumbai-1660355",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "17 Jun 2026"
+        "value": "30 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1789,12 +1959,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1661414",
-      "property_name": "Flat in Ambernath, Mumbai",
-      "price": "16,65,000",
-      "auction_date": "17 Jun 2026",
+      "property_url": "https://findauction.in/auction/yesbank/flat-in-vishwa-nagri-complex-vasai-east-mumbai-1660355",
+      "property_name": "Flat in Vasai East, Mumbai",
+      "price": "17,73,270",
+      "auction_date": "30 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Jp Regency Tyger Home Finance 16,65,000 17 Jun 2026 29.809 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Vasai East, Mumbai \ud83c\udfe2 Vishwa Nagri Complex Yes Bank 17,73,270 30 Jun 2026 22.63 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2075,13 +2245,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1661414",
+    "details": "Flat in Vasai East, Mumbai",
+    "link": "https://findauction.in/auction/yesbank/flat-in-vishwa-nagri-complex-vasai-east-mumbai-1660355",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "17 Jun 2026"
+        "value": "30 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -2089,12 +2259,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tygerhomefinance/flat-in-jp-regency-ambernath-mumbai-1661414",
-      "property_name": "Flat in Ambernath, Mumbai",
-      "price": "16,65,000",
-      "auction_date": "17 Jun 2026",
+      "property_url": "https://findauction.in/auction/yesbank/flat-in-vishwa-nagri-complex-vasai-east-mumbai-1660355",
+      "property_name": "Flat in Vasai East, Mumbai",
+      "price": "17,73,270",
+      "auction_date": "30 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Jp Regency Tyger Home Finance 16,65,000 17 Jun 2026 29.809 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Vasai East, Mumbai \ud83c\udfe2 Vishwa Nagri Complex Yes Bank 17,73,270 30 Jun 2026 22.63 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2200,13 +2370,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Nallasopara West, Mumbai",
-    "link": "https://findauction.in/auction/tchfl/flat-in-sai-kalp-apartment-nallasopara-west-mumbai-1665799",
+    "details": "Flat in Malad West, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-sai-samarth-chs-malad-west-mumbai-1654948",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "19 Jun 2026"
+        "value": "29 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -2214,12 +2384,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tchfl/flat-in-sai-kalp-apartment-nallasopara-west-mumbai-1665799",
-      "property_name": "Flat in Nallasopara West, Mumbai",
-      "price": "26,00,000",
-      "auction_date": "19 Jun 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-samarth-chs-malad-west-mumbai-1654948",
+      "property_name": "Flat in Malad West, Mumbai",
+      "price": "1,02,30,000",
+      "auction_date": "29 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Nallasopara West, Mumbai \ud83c\udfe2 Sai Kalp Apartment Tata Capital Housing Finance 26,00,000 19 Jun 2026 44.33 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Malad West, Mumbai \ud83c\udfe2 Sai Samarth CHS ICICI Bank 1,02,30,000 29 Jun 2026 444 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
