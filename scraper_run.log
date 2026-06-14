@@ -16,7 +16,7 @@ Call log:
   -   content-type: application/json
   -   sec-ch-ua-mobile: ?0
   -   content-length: 105
-  -   cookie: JSESSIONID=d90c83b9-461e-4dfd-a13f-7a839c234913; language=en; languageId=1; _ga=GA1.1.337692239.1781394359; _ga_SZ8S2EHDZY=GS2.1.s1781394359$o1$g0$t1781394359$j60$l0$h0; XSRF-TOKEN=b92b0dfe-94cb-4e91-a765-d63a0607adee
+  -   cookie: JSESSIONID=cc169e01-530d-4cb0-b17a-712fc9188268; language=en; languageId=1; _ga=GA1.1.45159145.1781402526; XSRF-TOKEN=447bddb4-6e7c-4118-b100-355812463a7e; _ga_SZ8S2EHDZY=GS2.1.s1781402526$o1$g0$t1781402526$j60$l0$h0
 
   [INFO] BAANKNET total unique items: 10
   baanknet: 10 raw items
@@ -51,50 +51,8 @@ Fetching BankAuctions.in...
   bankauctions: unexpected API response
   bankauctions: 0 items
 Fetching FindAuction.in (Maharashtra cities)...
-  findauction/pune page 1: 16 cards
-  findauction/pune page 2: 17 cards
-  findauction/pune page 3: 17 cards
-  findauction/mumbai page 1: 16 cards
-  findauction/mumbai page 2: 17 cards
-  findauction/mumbai page 3: 17 cards
-  findauction/kolhapur page 1: 15 cards
-  findauction/kolhapur page 2: 15 cards
-  findauction/kolhapur page 3: 15 cards
-  findauction/nashik page 1: 15 cards
-  findauction/nashik page 2: 15 cards
-  findauction/nashik page 3: 15 cards
-  findauction/mumbai+thane page 1: 16 cards
-  findauction/mumbai+thane page 2: 16 cards
-  findauction/mumbai+thane page 3: 16 cards
-  findauction/solapur page 1: 15 cards
-  findauction/solapur page 2: 15 cards
-  findauction/solapur page 3: 15 cards
-  findauction/satara page 1: 15 cards
-  findauction/satara page 2: 15 cards
-  findauction/satara page 3: 15 cards
-  findauction/ratnagiri page 1: 15 cards
-  findauction/ratnagiri page 2: 15 cards
-  findauction/ratnagiri page 3: 15 cards
-  findauction/raigad page 1: 15 cards
-  findauction/raigad page 2: 15 cards
-  findauction/raigad page 3: 15 cards
-  findauction/latur page 1: 15 cards
-  findauction/latur page 2: 15 cards
-  findauction/latur page 3: 15 cards
-  findauction/kalyan page 1: 15 cards
-  findauction/kalyan page 2: 15 cards
-  findauction/kalyan page 3: 15 cards
-  findauction/bhiwandi page 1: 15 cards
-  findauction/bhiwandi page 2: 15 cards
-  findauction/bhiwandi page 3: 15 cards
-  findauction/sindhudurg page 1: 15 cards
-  findauction/sindhudurg page 2: 15 cards
-  findauction/sindhudurg page 3: 15 cards
-  findauction/ahmednagar page 1: 15 cards
-  findauction/ahmednagar page 2: 15 cards
-  findauction/ahmednagar page 3: 15 cards
-  findauction: 643 total listings
-  findauction: 643 items
+  findauction: 0 total listings
+  findauction: 0 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: 10 schemes
@@ -105,11 +63,11 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 11 listings
   mstc: 11 items
-Combined raw items from all sources: 704
-Processing stats: 696 total items, 696 new, -253 duplicates skipped
+Combined raw items from all sources: 61
+Processing stats: 53 total items, 53 new, -18 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 443 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 153/696 items remain
+Saved state with 35 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 11/53 items remain
 Saved 7 pincodes to cache.
-NEW_AUCTIONS_COUNT=153
-Wrote 696 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=11
+Wrote 53 items to data/property_listings.json
