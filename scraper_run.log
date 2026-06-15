@@ -16,7 +16,7 @@ Call log:
   -   content-type: application/json
   -   sec-ch-ua-mobile: ?0
   -   content-length: 105
-  -   cookie: JSESSIONID=15dfbeb5-ba5d-4228-9b0e-b924668cfc95; language=en; languageId=1; _ga=GA1.1.630915621.1781530424; _ga_SZ8S2EHDZY=GS2.1.s1781530424$o1$g0$t1781530424$j60$l0$h0; XSRF-TOKEN=73d04e3d-cb4b-42da-a677-bfee1f418425
+  -   cookie: JSESSIONID=9dd5477d-071a-4c6b-bc97-b707120a733a; language=en; languageId=1; _ga=GA1.1.549749017.1781547040; _ga_SZ8S2EHDZY=GS2.1.s1781547040$o1$g0$t1781547040$j60$l0$h0; XSRF-TOKEN=20d286cc-1159-463f-bbcf-883bf1687b90
 
   [INFO] BAANKNET total unique items: 10
   baanknet: 10 raw items
@@ -96,20 +96,20 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 643 total listings
   findauction: 643 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
-  mhada/Mumbai: 10 schemes
-  mhada/Pune: 10 schemes
-  mhada/Nashik: 10 schemes
-  mhada/Konkan Shops: 10 schemes
-  mhada: 40 total listings
-  mhada: 40 items
+  mhada/Mumbai: no tender table found
+  mhada/Pune: no tender table found
+  mhada/Nashik: no tender table found
+  mhada/Konkan Shops: no tender table found
+  mhada: 0 total listings
+  mhada: 0 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 11 listings
   mstc: 11 items
-Combined raw items from all sources: 704
-Processing stats: 699 total items, 699 new, -232 duplicates skipped
+Combined raw items from all sources: 664
+Processing stats: 660 total items, 660 new, -214 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 467 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 175/699 items remain
-Saved 5 pincodes to cache.
-NEW_AUCTIONS_COUNT=175
-Wrote 699 items to data/property_listings.json
+Saved state with 446 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 166/660 items remain
+Saved 4 pincodes to cache.
+NEW_AUCTIONS_COUNT=166
+Wrote 660 items to data/property_listings.json
