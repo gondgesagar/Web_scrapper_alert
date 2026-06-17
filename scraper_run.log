@@ -52,23 +52,44 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/mumbai page 1: 16 cards
   findauction/mumbai page 2: 17 cards
   findauction/mumbai page 3: 17 cards
+  findauction/kolhapur page 1: 15 cards
+  findauction/kolhapur page 2: 15 cards
+  findauction/kolhapur page 3: 15 cards
   findauction/nashik page 1: 15 cards
   findauction/nashik page 2: 15 cards
   findauction/nashik page 3: 15 cards
   findauction/mumbai+thane page 1: 15 cards
+  findauction/mumbai+thane page 2: 15 cards
+  findauction/mumbai+thane page 3: 15 cards
   findauction/solapur page 1: 15 cards
+  findauction/solapur page 2: 15 cards
+  findauction/solapur page 3: 15 cards
+  findauction/satara page 1: 15 cards
+  findauction/satara page 2: 15 cards
+  findauction/satara page 3: 15 cards
+  findauction/ratnagiri page 1: 15 cards
+  findauction/ratnagiri page 2: 15 cards
+  findauction/ratnagiri page 3: 15 cards
   findauction/raigad page 1: 15 cards
+  findauction/raigad page 2: 15 cards
+  findauction/raigad page 3: 15 cards
   findauction/latur page 1: 15 cards
   findauction/latur page 2: 15 cards
   findauction/latur page 3: 15 cards
   findauction/kalyan page 1: 15 cards
   findauction/kalyan page 2: 15 cards
+  findauction/kalyan page 3: 15 cards
+  findauction/bhiwandi page 1: 15 cards
+  findauction/bhiwandi page 2: 15 cards
+  findauction/bhiwandi page 3: 15 cards
   findauction/sindhudurg page 1: 15 cards
   findauction/sindhudurg page 2: 15 cards
   findauction/sindhudurg page 3: 15 cards
   findauction/ahmednagar page 1: 15 cards
-  findauction: 325 total listings
-  findauction: 325 items
+  findauction/ahmednagar page 2: 15 cards
+  findauction/ahmednagar page 3: 15 cards
+  findauction: 640 total listings
+  findauction: 640 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: no tender table found
   mhada/Pune: no tender table found
@@ -77,14 +98,13 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada: 0 total listings
   mhada: 0 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
-  mstc/npa: 0 listings
-  mstc: no NPA listings (IBAPI bank auctions may be suspended)
-  mstc: 0 items
-Combined raw items from all sources: 325
-Processing stats: 325 total items, 325 new, -109 duplicates skipped
+  mstc/npa: 11 listings
+  mstc: 11 items
+Combined raw items from all sources: 651
+Processing stats: 651 total items, 651 new, -221 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 216 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 68/325 items remain
+Saved state with 430 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 149/651 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=68
-Wrote 325 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=149
+Wrote 651 items to data/property_listings.json
