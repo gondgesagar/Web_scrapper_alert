@@ -19,13 +19,19 @@ Fetching eAuctions India...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/bhiwandi
 Scraping https://www.eauctionsindia.com/city/kolhapur...
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/kolhapur
+Warning: Failed to fetch https://www.eauctionsindia.com/city/kolhapur: Page.goto: Navigation to "https://www.eauctionsindia.com/city/kolhapur" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+navigating to "https://www.eauctionsindia.com/city/kolhapur", waiting until "networkidle"
+
 Scraping https://www.eauctionsindia.com/city/kalyan...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/kalyan
 Scraping https://www.eauctionsindia.com/city/latur...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/latur
 Scraping https://www.eauctionsindia.com/city/mumbai...
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/mumbai
+Warning: Failed to fetch https://www.eauctionsindia.com/city/mumbai: Page.goto: net::ERR_TIMED_OUT at https://www.eauctionsindia.com/city/mumbai
+Call log:
+navigating to "https://www.eauctionsindia.com/city/mumbai", waiting until "networkidle"
+
 Scraping https://www.eauctionsindia.com/city/sindhudurg...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/sindhudurg
 Scraping https://www.eauctionsindia.com/city/solapur...
@@ -33,11 +39,20 @@ Scraping https://www.eauctionsindia.com/city/solapur...
 Scraping https://www.eauctionsindia.com/city/thane...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/thane
 Scraping https://www.eauctionsindia.com/city/satara...
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/satara
+Warning: Failed to fetch https://www.eauctionsindia.com/city/satara: Page.goto: Timeout 90000ms exceeded.
+Call log:
+navigating to "https://www.eauctionsindia.com/city/satara", waiting until "networkidle"
+
 Scraping https://www.eauctionsindia.com/city/ratnagiri...
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/ratnagiri
+Warning: Failed to fetch https://www.eauctionsindia.com/city/ratnagiri: Page.goto: net::ERR_TIMED_OUT at https://www.eauctionsindia.com/city/ratnagiri
+Call log:
+navigating to "https://www.eauctionsindia.com/city/ratnagiri", waiting until "networkidle"
+
 Scraping https://www.eauctionsindia.com/city/raigad...
-  Extracted 0 properties so far from https://www.eauctionsindia.com/city/raigad
+Warning: Failed to fetch https://www.eauctionsindia.com/city/raigad: Page.goto: Navigation to "https://www.eauctionsindia.com/city/raigad" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+navigating to "https://www.eauctionsindia.com/city/raigad", waiting until "networkidle"
+
 Scraping https://www.eauctionsindia.com/city/pune...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/pune
 Total eauctionsindia properties fetched: 0
@@ -93,18 +108,18 @@ Fetching FindAuction.in (Maharashtra cities)...
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: 10 schemes
-  mhada/Nashik: 10 schemes
-  mhada/Konkan Shops: 10 schemes
-  mhada: 40 total listings
-  mhada: 40 items
+  mhada/Nashik: no tender table found
+  mhada/Konkan Shops: no tender table found
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 11 listings
   mstc: 11 items
-Combined raw items from all sources: 691
-Processing stats: 691 total items, 691 new, -251 duplicates skipped
+Combined raw items from all sources: 671
+Processing stats: 671 total items, 671 new, -249 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 440 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 156/691 items remain
+Saved state with 422 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 156/671 items remain
 Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=156
-Wrote 691 items to data/property_listings.json
+Wrote 671 items to data/property_listings.json
