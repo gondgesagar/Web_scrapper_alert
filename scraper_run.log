@@ -16,7 +16,7 @@ Call log:
   -   content-type: application/json
   -   sec-ch-ua-mobile: ?0
   -   content-length: 105
-  -   cookie: JSESSIONID=6a5f532e-674e-4966-b17f-9083033f2e0e; language=en; languageId=1; _ga=GA1.1.782269102.1782193730; _ga_SZ8S2EHDZY=GS2.1.s1782193730$o1$g0$t1782193730$j60$l0$h0; XSRF-TOKEN=ce102449-8370-4652-8209-34dfe0e2f4b5
+  -   cookie: JSESSIONID=43bdec38-e26c-4d06-a45a-b31e1f94a0f3; language=en; languageId=1; _ga=GA1.1.2049333545.1782204578; _ga_SZ8S2EHDZY=GS2.1.s1782204577$o1$g0$t1782204577$j60$l0$h0; XSRF-TOKEN=9936eadb-28bf-4e84-969b-5daaa1dbf956
 
   [INFO] BAANKNET total unique items: 10
   baanknet: 10 raw items
@@ -97,19 +97,19 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 643 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
-  mhada/Pune: no tender table found
+  mhada/Pune: 10 schemes
   mhada/Nashik: no tender table found
-  mhada/Konkan Shops: 10 schemes
+  mhada/Konkan Shops: no tender table found
   mhada: 20 total listings
   mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 16 listings
   mstc: 16 items
 Combined raw items from all sources: 689
-Processing stats: 683 total items, 683 new, -241 duplicates skipped
+Processing stats: 684 total items, 684 new, -252 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 442 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 140/683 items remain
-Saved 6 pincodes to cache.
-NEW_AUCTIONS_COUNT=140
-Wrote 683 items to data/property_listings.json
+Saved state with 432 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 149/684 items remain
+Saved 5 pincodes to cache.
+NEW_AUCTIONS_COUNT=149
+Wrote 684 items to data/property_listings.json
