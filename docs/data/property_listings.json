@@ -1,76 +1,6 @@
 [
   {
     "emd_cost": null,
-    "details": "1 BHK AND 366 SQ FT",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/286616",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/16/286616/594414_compressed.jpg",
-    "source": "baanknet",
-    "city": "Mumbai",
-    "raw": {
-      "propertyId": "286616",
-      "projectName": "Platinum tower",
-      "price": 15500000.0,
-      "pricePerSeqFit": 38500.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/16/286616/594414_compressed.jpg",
-      "postedOn": "23-06-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": "1 BHK AND 366 SQ FT",
-      "city": "Mumbai",
-      "cityID": "5109",
-      "stateID": 21,
-      "localities": "D N NAGAR",
-      "noOfBedRoom": 1,
-      "carpetArea": 366.0,
-      "builtupArea": 403.0,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "400053",
-      "bankPropertyId": "SBIN77816685044",
-      "availablePhotosCount": 14,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": 75.0,
-      "isLoanAvailable": true,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No 1610, 16th Floor, Platinum Tower 7, Platinum Casa Divine, D. N Nagar Tirupati Co-op Hsg Soc Ltd, D. N Nagar, MHADA Layout, Andheri West Mumbai 400053",
-      "statename": "Maharashtra",
-      "districtname": "Mumbai Suburban",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
     "details": "1 BHK and 330 Sq. ft",
     "important_dates": [
       {
@@ -131,9 +61,79 @@
       "auctionEndDateTime": null,
       "emdStartDateTime": null,
       "emdEndDateTime": null,
-      "noOfCarParking": null,
       "drtlocation": null,
       "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "1 BHK AND 366 SQ FT",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/286616",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/16/286616/594414_compressed.jpg",
+    "source": "baanknet",
+    "city": "Mumbai",
+    "raw": {
+      "propertyId": "286616",
+      "projectName": "Platinum tower",
+      "price": 15500000.0,
+      "pricePerSeqFit": 38500.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/16/286616/594414_compressed.jpg",
+      "postedOn": "23-06-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "1 BHK AND 366 SQ FT",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": "D N NAGAR",
+      "noOfBedRoom": 1,
+      "carpetArea": 366.0,
+      "builtupArea": 403.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "400053",
+      "bankPropertyId": "SBIN77816685044",
+      "availablePhotosCount": 14,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": 75.0,
+      "isLoanAvailable": true,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No 1610, 16th Floor, Platinum Tower 7, Platinum Casa Divine, D. N Nagar Tirupati Co-op Hsg Soc Ltd, D. N Nagar, MHADA Layout, Andheri West Mumbai 400053",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
       "source": "baanknet"
     },
     "property_type": "Flat",
@@ -225,95 +225,9 @@
       "auctionEndDateTime": "23-07-2026 12:30:00",
       "emdStartDateTime": "23-06-2026 05:31:36",
       "emdEndDateTime": "23-07-2026 12:30:00",
-      "noOfCarParking": null,
       "drtlocation": null,
       "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No. A 304having area adm 382 sqr ft carpet area + terrace adm 102 sqr. Ft. situated on Third Floor in a building \u201c Pride Homes\u201d, Sr No 67, Hissa No 1+5/A/1 Rahatani, Pune",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "29-06-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "29-06-2026 10:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "23-06-2026 13:34:09"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "29-06-2026 09:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/287385",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/23/287385/597986_compressed.png",
-    "source": "baanknet",
-    "city": "Pimpri Chinchwad",
-    "raw": {
-      "propertyId": "287385",
-      "projectName": null,
-      "price": 3550000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/23/287385/597986_compressed.png",
-      "postedOn": "23-06-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "Flat No. A 304having area adm 382 sqr ft carpet area + terrace adm 102 sqr. Ft. situated on Third Floor in a building \u201c Pride Homes\u201d, Sr No 67, Hissa No 1+5/A/1 Rahatani, Pune",
-      "city": "Pimpri Chinchwad",
-      "cityID": "5284",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 382.0,
-      "builtupArea": 484.0,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "411017",
-      "bankPropertyId": "MAHBPRABHULINGHFB",
-      "availablePhotosCount": 26,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No. A 304having area adm 382 sqr ft carpet area + terrace adm 102 sqr. Ft. situated on Third Floor in a building \u201c Pride Homes\u201d, Sr No 67, Hissa No 1+5/A/1 Rahatani, Pune 411017",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "29-06-2026 05:30:00",
-      "auctionEndDateTime": "29-06-2026 10:30:00",
-      "emdStartDateTime": "23-06-2026 13:34:09",
-      "emdEndDateTime": "29-06-2026 09:30:00",
       "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
       "source": "baanknet"
     },
     "property_type": "Flat",
@@ -720,13 +634,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ghorpadi, Pune",
-    "link": "https://findauction.in/auction/acreindia/flat-in-shantai-ghorpadi-pune-1661992",
+    "details": "Shop in Dhanori, Pune",
+    "link": "https://findauction.in/auction/utkarshsmallfinancebank/shop-in-celestino-dhanori-pune-1669976",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "30 Jun 2026"
+        "value": "23 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -734,14 +648,14 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/acreindia/flat-in-shantai-ghorpadi-pune-1661992",
-      "property_name": "Flat in Ghorpadi, Pune",
-      "price": "21,20,000",
-      "auction_date": "30 Jun 2026",
+      "property_url": "https://findauction.in/auction/utkarshsmallfinancebank/shop-in-celestino-dhanori-pune-1669976",
+      "property_name": "Shop in Dhanori, Pune",
+      "price": "1,20,00,000",
+      "auction_date": "23 Jun 2026",
       "city": "Pune",
-      "raw_text": "Flat in Ghorpadi, Pune \ud83c\udfe2 Shantai Acre India Arc 21,20,000 30 Jun 2026 472 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Shop in Dhanori, Pune \ud83c\udfe2 Celestino Utkarsh Small Finance Bank 1,20,00,000 23 Jun 2026 EMD 12,00,000 Physical Possession View Auction Promoted"
     },
-    "property_type": "Flat",
+    "property_type": "Commercial",
     "land_type": ""
   },
   {
@@ -845,13 +759,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Dhanori, Pune",
-    "link": "https://findauction.in/auction/utkarshsmallfinancebank/shop-in-celestino-dhanori-pune-1669976",
+    "details": "Flat in Ghorpadi, Pune",
+    "link": "https://findauction.in/auction/acreindia/flat-in-shantai-ghorpadi-pune-1661992",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "23 Jun 2026"
+        "value": "30 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -859,14 +773,14 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/utkarshsmallfinancebank/shop-in-celestino-dhanori-pune-1669976",
-      "property_name": "Shop in Dhanori, Pune",
-      "price": "1,20,00,000",
-      "auction_date": "23 Jun 2026",
+      "property_url": "https://findauction.in/auction/acreindia/flat-in-shantai-ghorpadi-pune-1661992",
+      "property_name": "Flat in Ghorpadi, Pune",
+      "price": "21,20,000",
+      "auction_date": "30 Jun 2026",
       "city": "Pune",
-      "raw_text": "Shop in Dhanori, Pune \ud83c\udfe2 Celestino Utkarsh Small Finance Bank 1,20,00,000 23 Jun 2026 EMD 12,00,000 Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ghorpadi, Pune \ud83c\udfe2 Shantai Acre India Arc 21,20,000 30 Jun 2026 472 Sq Ft Physical Possession View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -1695,13 +1609,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/shop-in-khatunbi-apartment-ambernath-mumbai-1684879",
+    "details": "Flat in Dahisar East, Mumbai",
+    "link": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "07 Jul 2026"
+        "value": "29 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1709,12 +1623,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/shop-in-khatunbi-apartment-ambernath-mumbai-1684879",
-      "property_name": "Shop in Ambernath, Mumbai",
-      "price": "14,60,000",
-      "auction_date": "07 Jul 2026",
+      "property_url": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
+      "property_name": "Flat in Dahisar East, Mumbai",
+      "price": "1,32,00,000",
+      "auction_date": "29 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Shop in Ambernath, Mumbai \ud83c\udfe2 Khatunbi Apartment ICICI Bank 14,60,000 07 Jul 2026 180 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Dahisar East, Mumbai \ud83c\udfe2 Virani Tower State Bank of India 1,32,00,000 29 Jun 2026 920 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2095,13 +2009,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Dahisar East, Mumbai",
-    "link": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
+    "details": "Flat in Badlapur East, Mumbai",
+    "link": "https://findauction.in/auction/tchfl/flat-in-kalp-nisarg-badlapur-east-mumbai-1671967",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "29 Jun 2026"
+        "value": "24 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -2109,12 +2023,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
-      "property_name": "Flat in Dahisar East, Mumbai",
-      "price": "1,32,00,000",
-      "auction_date": "29 Jun 2026",
+      "property_url": "https://findauction.in/auction/tchfl/flat-in-kalp-nisarg-badlapur-east-mumbai-1671967",
+      "property_name": "Flat in Badlapur East, Mumbai",
+      "price": "25,00,000",
+      "auction_date": "24 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Dahisar East, Mumbai \ud83c\udfe2 Virani Tower State Bank of India 1,32,00,000 29 Jun 2026 920 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur East, Mumbai \ud83c\udfe2 Kalp Nisarg Tata Capital Housing Finance 25,00,000 24 Jun 2026 60.786 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2395,13 +2309,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Karanjade, Panvel",
-    "link": "https://findauction.in/auction/tchfl/flat-in-kd-kalash-chs-karanjade-panvel-1657241",
+    "details": "Shop in Ambernath, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/shop-in-khatunbi-apartment-ambernath-mumbai-1684879",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "29 Jun 2026"
+        "value": "07 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2409,12 +2323,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/tchfl/flat-in-kd-kalash-chs-karanjade-panvel-1657241",
-      "property_name": "Flat in Karanjade, Panvel",
-      "price": "49,60,000",
-      "auction_date": "29 Jun 2026",
+      "property_url": "https://findauction.in/auction/icicibank/shop-in-khatunbi-apartment-ambernath-mumbai-1684879",
+      "property_name": "Shop in Ambernath, Mumbai",
+      "price": "14,60,000",
+      "auction_date": "07 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Karanjade, Panvel \ud83c\udfe2 Kd Kalash CHS Tata Capital Housing Finance 49,60,000 29 Jun 2026 25.654 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Shop in Ambernath, Mumbai \ud83c\udfe2 Khatunbi Apartment ICICI Bank 14,60,000 07 Jul 2026 180 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2520,13 +2434,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Malad West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-sai-samarth-chs-malad-west-mumbai-1654948",
+    "details": "Flat in Badlapur East, Mumbai",
+    "link": "https://findauction.in/auction/tchfl/flat-in-kalp-nisarg-badlapur-east-mumbai-1671967",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "29 Jun 2026"
+        "value": "24 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -2534,12 +2448,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-samarth-chs-malad-west-mumbai-1654948",
-      "property_name": "Flat in Malad West, Mumbai",
-      "price": "1,02,30,000",
-      "auction_date": "29 Jun 2026",
+      "property_url": "https://findauction.in/auction/tchfl/flat-in-kalp-nisarg-badlapur-east-mumbai-1671967",
+      "property_name": "Flat in Badlapur East, Mumbai",
+      "price": "25,00,000",
+      "auction_date": "24 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Malad West, Mumbai \ud83c\udfe2 Sai Samarth CHS ICICI Bank 1,02,30,000 29 Jun 2026 444 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur East, Mumbai \ud83c\udfe2 Kalp Nisarg Tata Capital Housing Finance 25,00,000 24 Jun 2026 60.786 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -16976,7 +16890,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=CzyjVt7FsNTFS7YwhVubdw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=aJ4aPKaBfHzgJUPtIFGNxw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16984,7 +16898,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=CzyjVt7FsNTFS7YwhVubdw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=aJ4aPKaBfHzgJUPtIFGNxw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -16995,7 +16909,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=0yCNJY1V%2BWsOXEevOz%2FYsw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Om2U0zVe4fdzB%2F2r8Hm2Pg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17003,7 +16917,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=0yCNJY1V%2BWsOXEevOz%2FYsw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Om2U0zVe4fdzB%2F2r8Hm2Pg%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -17014,7 +16928,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=5CxUb0PoP4gY8xQXgG13rQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=s6edZGWWEAg8ITpT7kOL9g%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17022,7 +16936,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=5CxUb0PoP4gY8xQXgG13rQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=s6edZGWWEAg8ITpT7kOL9g%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
@@ -17033,7 +16947,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=iCemuwr9Mw9Nyowg51Hblw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=mHXQOfPOv5sXv3u07Z%2BcTQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17041,7 +16955,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=iCemuwr9Mw9Nyowg51Hblw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=mHXQOfPOv5sXv3u07Z%2BcTQ%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
       "price": "",
       "listing_id": "OLCHNMAXTANJOREMANGO",
@@ -17052,7 +16966,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=JjzW2mdaz113ib4ahYgK0w%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=0xD5v6S8VEWtX5OACDi1Mg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17060,7 +16974,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=JjzW2mdaz113ib4ahYgK0w%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=0xD5v6S8VEWtX5OACDi1Mg%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
       "price": "",
       "listing_id": "OLCHNMAXMADURAI",
