@@ -58,9 +58,9 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/nashik page 1: 15 cards
   findauction/nashik page 2: 15 cards
   findauction/nashik page 3: 15 cards
-  findauction/mumbai+thane page 1: 16 cards
-  findauction/mumbai+thane page 2: 16 cards
-  findauction/mumbai+thane page 3: 16 cards
+  findauction/mumbai+thane page 1: 15 cards
+  findauction/mumbai+thane page 2: 15 cards
+  findauction/mumbai+thane page 3: 15 cards
   findauction/solapur page 1: 15 cards
   findauction/solapur page 2: 15 cards
   findauction/solapur page 3: 15 cards
@@ -88,23 +88,23 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/ahmednagar page 1: 15 cards
   findauction/ahmednagar page 2: 15 cards
   findauction/ahmednagar page 3: 15 cards
-  findauction: 641 total listings
-  findauction: 641 items
+  findauction: 638 total listings
+  findauction: 638 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: no tender table found
-  mhada/Nashik: no tender table found
+  mhada/Nashik: 10 schemes
   mhada/Konkan Shops: no tender table found
-  mhada: 10 total listings
-  mhada: 10 items
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 16 listings
   mstc: 16 items
-Combined raw items from all sources: 667
-Processing stats: 667 total items, 667 new, -234 duplicates skipped
+Combined raw items from all sources: 674
+Processing stats: 674 total items, 674 new, -233 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 433 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 147/667 items remain
+Saved state with 441 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 150/674 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=147
-Wrote 667 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=150
+Wrote 674 items to data/property_listings.json
