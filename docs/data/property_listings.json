@@ -1,91 +1,5 @@
 [
   {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "29-06-2026 06:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "29-06-2026 12:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "25-06-2026 07:57:46"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "29-06-2026 04:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/287664",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/25/287664/598794_compressed.jpg",
-    "source": "baanknet",
-    "city": "Akola",
-    "raw": {
-      "propertyId": "287664",
-      "projectName": null,
-      "price": 2940000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/25/287664/598794_compressed.jpg",
-      "postedOn": "25-06-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Central Bank of India",
-      "summaryDesc": null,
-      "city": "Akola",
-      "cityID": "4861",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 66.91,
-      "builtupArea": 720.0,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "444001",
-      "bankPropertyId": "CBINSHIVANIBUWA26062026",
-      "availablePhotosCount": 15,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "2",
-      "unitOfMeasure": "sq meter",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Within Minucipal Corporation Akola Mauje Khadaki Bk. F.S. No. 33/1/B Lay out Plot No. 14, Gunthewari Plot Regularized vide Case No. 14/C/126/2004-05 decided on 22/2/2006 Converted for N.A. purpose by SDO vide case no. NAA-48/Akola/Khadaki Bk./71/2007-08 decided on 21/03/2008. Total Plot Admeasuring 4357.80 Sq. Ft. i.e. 405 Sq. Meters.\r\nBoundaries: \r\nEast \u2013 Layout Plot No. 15                                                          West - 06 Meters Wide Road\r\nNorth - Layout Plot No. 13                                                        South \u2013 Layout Road\r\nOn this Plot SHIVNERI TOWERS apartment building constructed as per commencement letter of AMC Akola vide case no 14/22/2013-14 dated 05/07/20l4\r\n\r\nDESCRIPTION OF FLAT\r\nSHIVNERI APARTMENT, Flat No 204 Situated on Second Floor of Building Built Up Area 720 Sq. Ft. 66.91 Sq. Meters, having Two Bedroom, One Hall, One Kitchen along with common facilities and undivided proportionate land share in plot land. Flat No 204 situated on Second Floor of apartment building, Bounded As:\r\nTo the East- Plot No l5                                                                                 To the West- Flat No 203\r\nTo the North- Plot No 13                                                                              To the South- Flat No 201",
-      "statename": "Maharashtra",
-      "districtname": "Akola",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "29-06-2026 06:30:00",
-      "auctionEndDateTime": "29-06-2026 12:30:00",
-      "emdStartDateTime": "25-06-2026 07:57:46",
-      "emdEndDateTime": "29-06-2026 04:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Plot in Lohegaon, Pune",
     "link": "https://findauction.in/auction/pegasusarc/plot-in-lohegaon-pune-1693701",
     "photos": "",
@@ -1686,13 +1600,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/shop-in-khatunbi-apartment-ambernath-mumbai-1684879",
+    "details": "Flat in Dahisar East, Mumbai",
+    "link": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "07 Jul 2026"
+        "value": "29 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -1700,12 +1614,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/shop-in-khatunbi-apartment-ambernath-mumbai-1684879",
-      "property_name": "Shop in Ambernath, Mumbai",
-      "price": "14,60,000",
-      "auction_date": "07 Jul 2026",
+      "property_url": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
+      "property_name": "Flat in Dahisar East, Mumbai",
+      "price": "1,32,00,000",
+      "auction_date": "29 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Shop in Ambernath, Mumbai \ud83c\udfe2 Khatunbi Apartment ICICI Bank 14,60,000 07 Jul 2026 180 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Dahisar East, Mumbai \ud83c\udfe2 Virani Tower State Bank of India 1,32,00,000 29 Jun 2026 920 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2111,13 +2025,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/shop-in-khatunbi-apartment-ambernath-mumbai-1684879",
+    "details": "Flat in Dahisar East, Mumbai",
+    "link": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "07 Jul 2026"
+        "value": "29 Jun 2026"
       }
     ],
     "emd_cost": "",
@@ -2125,12 +2039,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/shop-in-khatunbi-apartment-ambernath-mumbai-1684879",
-      "property_name": "Shop in Ambernath, Mumbai",
-      "price": "14,60,000",
-      "auction_date": "07 Jul 2026",
+      "property_url": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
+      "property_name": "Flat in Dahisar East, Mumbai",
+      "price": "1,32,00,000",
+      "auction_date": "29 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Shop in Ambernath, Mumbai \ud83c\udfe2 Khatunbi Apartment ICICI Bank 14,60,000 07 Jul 2026 180 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Dahisar East, Mumbai \ud83c\udfe2 Virani Tower State Bank of India 1,32,00,000 29 Jun 2026 920 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2236,8 +2150,8 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Dahisar East, Mumbai",
-    "link": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
+    "details": "Flat in Malad West, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-sai-samarth-chs-malad-west-mumbai-1654948",
     "photos": "",
     "important_dates": [
       {
@@ -2250,12 +2164,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/sbi/flat-in-virani-tower-dahisar-east-mumbai-1672989",
-      "property_name": "Flat in Dahisar East, Mumbai",
-      "price": "1,32,00,000",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-sai-samarth-chs-malad-west-mumbai-1654948",
+      "property_name": "Flat in Malad West, Mumbai",
+      "price": "1,02,30,000",
       "auction_date": "29 Jun 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Dahisar East, Mumbai \ud83c\udfe2 Virani Tower State Bank of India 1,32,00,000 29 Jun 2026 920 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Malad West, Mumbai \ud83c\udfe2 Sai Samarth CHS ICICI Bank 1,02,30,000 29 Jun 2026 444 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -16036,8 +15950,878 @@
     "land_type": ""
   },
   {
+    "details": "Majaswadi, Jogeshwari",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Majaswadi, Jogeshwari",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Siddharth Nagar, Goregaon (W)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Siddharth Nagar, Goregaon (W)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Chalisgaon road, Dhule (west side Hudinco Colony)",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Chalisgaon road, Dhule (west side Hudinco Colony)",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bhusaval.",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Bhusaval.",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bhusaval.",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Bhusaval.",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Vanjola road, Bhusaval,Jalgaon.",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Vanjola road, Bhusaval,Jalgaon.",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Paldhi, Dharangaon.",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Paldhi, Dharangaon.",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Chalisgaon.",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Chalisgaon.",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bhusaval.",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Bhusaval.",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Jamner road, Bhusaval Jalgaon.",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Jamner road, Bhusaval Jalgaon.",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Jamner road, Bhusaval Jalgaon.",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Jamner road, Bhusaval Jalgaon.",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Chalisgaon road, Dhule (west side Hudco Colony)",
+    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-09-23 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-08-20 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Nashik",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
+      "property_name": "Chalisgaon road, Dhule (west side Hudco Colony)",
+      "city": "Nashik",
+      "auction_date": "2025-09-23 17:00:00.0",
+      "emd_end_date": "2025-08-20 23:59:00.0",
+      "address": "MHADA Nashik"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B6_S5",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B6_S5",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B6_S4",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B6_S4",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B6_S2",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B6_S2",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B6_S1",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B6_S1",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S9",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S9",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S8",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S8",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S7",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S7",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S6",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S6",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S5",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S5",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S4",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S4",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=GPsKiwrWX6bcKcuzLwWHjg%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=FDnZTQ%2BC2gsOZeL4HunK1A%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16045,7 +16829,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=GPsKiwrWX6bcKcuzLwWHjg%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=FDnZTQ%2BC2gsOZeL4HunK1A%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -16056,7 +16840,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=QYiPM6ROGp8ok2D4V5zj9Q%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Z8KSTvFucZIu8SudYIxk2w%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16064,7 +16848,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=QYiPM6ROGp8ok2D4V5zj9Q%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Z8KSTvFucZIu8SudYIxk2w%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -16075,7 +16859,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=eduXnrwc7nryACCeahAbhw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2B0exB2DzqJ6Bh0eAG3jfYw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16083,7 +16867,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=eduXnrwc7nryACCeahAbhw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2B0exB2DzqJ6Bh0eAG3jfYw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
@@ -16094,7 +16878,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=PlOkOwvtd1BhNgReDTGbWQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=8WpexcQ2JysTHhE7kfaDFA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16102,7 +16886,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=PlOkOwvtd1BhNgReDTGbWQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=8WpexcQ2JysTHhE7kfaDFA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
       "price": "",
       "listing_id": "OLCHNMAXTANJOREMANGO",
@@ -16113,7 +16897,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=410UYtNvy8DndGTwiUrVeQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Zl1mj71SSwfm2BJr4GuySw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16121,7 +16905,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=410UYtNvy8DndGTwiUrVeQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Zl1mj71SSwfm2BJr4GuySw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
       "price": "",
       "listing_id": "OLCHNMAXMADURAI",
