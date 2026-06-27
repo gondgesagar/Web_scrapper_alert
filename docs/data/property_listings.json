@@ -1,5 +1,102 @@
 [
   {
+    "emd_cost": null,
+    "details": "Flat No. 08, on 2nd Floor, in Mahananda Apartment, on Plot No.12, Survey\r\nNo.301/A, Hissa No.13 Located in Upnagar, B/h. HoteL Saisaya, Opp. St. Xavier\r\nHigh school. Nashik - Pune Road, Deolali Shiwar, Tat. & Dist. Nashik.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "30-06-2026 18:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "01-07-2026 05:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "15-07-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "15-07-2026 10:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "26-06-2026 10:09:32"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "15-07-2026 08:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/90486",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/25/90486/599102_compressed.png",
+    "source": "baanknet",
+    "city": "Eklahare",
+    "raw": {
+      "propertyId": "90486",
+      "projectName": null,
+      "price": 2320000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/25/90486/599102_compressed.png",
+      "postedOn": "25-06-2026",
+      "developerName": null,
+      "owenershipType": "Any Other (Including Ownership Conferred by State Law)",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Flat No. 08, on 2nd Floor, in Mahananda Apartment, on Plot No.12, Survey\r\nNo.301/A, Hissa No.13 Located in Upnagar, B/h. HoteL Saisaya, Opp. St. Xavier\r\nHigh school. Nashik - Pune Road, Deolali Shiwar, Tat. & Dist. Nashik.",
+      "city": "Eklahare",
+      "cityID": "5193",
+      "stateID": 21,
+      "localities": "Upnagar, B/h. Hotel Saisaya, Opp. St. Xavier High School.",
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": {
+        "lon": 73.82121,
+        "lat": 19.96724
+      },
+      "pincode": "422006",
+      "bankPropertyId": "SBIN200005587874",
+      "availablePhotosCount": 20,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": false,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No. 08, on  2nd Floor, in Mahananda Apartment, Located \r\nin Upnagar, B/h. Hotel Saisaya, Opp. St. Xavier High School.  \r\nNashik Pune Road, on Plot No.12, Survey No.301/A, Hissa \r\nNo.13 of Deolali Shiwar, Nashik, Nashik.",
+      "statename": "Maharashtra",
+      "districtname": "Nashik",
+      "inspectionStartDateTime": "30-06-2026 18:30:00",
+      "inspectionEndDateTime": "01-07-2026 05:30:00",
+      "auctionStartDateTime": "15-07-2026 05:30:00",
+      "auctionEndDateTime": "15-07-2026 10:30:00",
+      "emdStartDateTime": "26-06-2026 10:09:32",
+      "emdEndDateTime": "15-07-2026 08:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
     "details": "Factory Premises in Ambegaon, Pune",
     "link": "https://findauction.in/auction/debtsrecoverytribunal/factory-premises-in-ambegaon-pune-1696480",
     "photos": "",
@@ -16115,588 +16212,8 @@
     "land_type": ""
   },
   {
-    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2026-06-24 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2026-06-22 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Pune",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
-      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
-      "city": "Pune",
-      "auction_date": "2026-06-24 17:00:00.0",
-      "emd_end_date": "2026-06-22 23:59:00.0",
-      "address": "MHADA Pune"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B6_S5",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B6_S5",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B6_S4",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B6_S4",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B6_S2",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B6_S2",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B6_S1",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B6_S1",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B5_S9",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B5_S9",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B5_S8",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B5_S8",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B5_S7",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B5_S7",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B5_S6",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B5_S6",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B5_S5",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B5_S5",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "CHITALSAR-MANPADA_B5_S4",
-    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-11-25 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-11-19 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Konkan Shops",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
-      "property_name": "CHITALSAR-MANPADA_B5_S4",
-      "city": "Konkan Shops",
-      "auction_date": "2025-11-25 17:00:00.0",
-      "emd_end_date": "2025-11-19 23:59:00.0",
-      "address": "MHADA Konkan Shops"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=TZXezWWmEWgHQD7z8fuAmg%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=eIDDIH1Se%2FCikbc2BXRtjQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16704,7 +16221,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=TZXezWWmEWgHQD7z8fuAmg%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=eIDDIH1Se%2FCikbc2BXRtjQ%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -16715,7 +16232,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=JClnU3p0aLdqpBKuFes%2FpQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=PlUorx6rpMBq5ELxdCs31A%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16723,7 +16240,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=JClnU3p0aLdqpBKuFes%2FpQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=PlUorx6rpMBq5ELxdCs31A%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -16734,7 +16251,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=RF0JPlOv40dYCPYw%2FjS6SQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=wP3%2FznjY2XZWUSi0BEqYnw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16742,7 +16259,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=RF0JPlOv40dYCPYw%2FjS6SQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=wP3%2FznjY2XZWUSi0BEqYnw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
@@ -16753,7 +16270,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=eggA9DU%2F7i8AUpfcc0VvJA%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Ss0hPxGpkk5oA8UI4b7Uzw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16761,7 +16278,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=eggA9DU%2F7i8AUpfcc0VvJA%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Ss0hPxGpkk5oA8UI4b7Uzw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
       "price": "",
       "listing_id": "OLCHNMAXTANJOREMANGO",
@@ -16772,7 +16289,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=fbVrQ%2BZq06Qqfj1IMIASgQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ftQY2pbmySxyMCF9Hq5EJg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16780,7 +16297,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=fbVrQ%2BZq06Qqfj1IMIASgQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ftQY2pbmySxyMCF9Hq5EJg%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
       "price": "",
       "listing_id": "OLCHNMAXMADURAI",
