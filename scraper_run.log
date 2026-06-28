@@ -16,7 +16,7 @@ Call log:
   -   content-type: application/json
   -   sec-ch-ua-mobile: ?0
   -   content-length: 105
-  -   cookie: JSESSIONID=270b2ff6-9e48-4552-aa08-c71ca55049ed; language=en; languageId=1; _ga=GA1.1.474376143.1782634387; _ga_SZ8S2EHDZY=GS2.1.s1782634387$o1$g0$t1782634387$j60$l0$h0; XSRF-TOKEN=bd734619-0085-4486-bdb5-e8e3ed88a663
+  -   cookie: JSESSIONID=5a94dea1-bafa-438e-a9ea-71637d7f09a6; language=en; languageId=1; _ga=GA1.1.2071010303.1782642836; _ga_SZ8S2EHDZY=GS2.1.s1782642835$o1$g0$t1782642835$j60$l0$h0; XSRF-TOKEN=95617da6-1302-4e84-9025-23b9bb16cbfb
 
   [INFO] BAANKNET total unique items: 10
   baanknet: 10 raw items
@@ -96,20 +96,20 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 633 total listings
   findauction: 633 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
-  mhada/Mumbai: no tender table found
-  mhada/Pune: no tender table found
+  mhada/Mumbai: 10 schemes
+  mhada/Pune: 10 schemes
   mhada/Nashik: no tender table found
-  mhada/Konkan Shops: no tender table found
-  mhada: 0 total listings
-  mhada: 0 items
+  mhada/Konkan Shops: 10 schemes
+  mhada: 30 total listings
+  mhada: 30 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 16 listings
   mstc: 16 items
-Combined raw items from all sources: 659
-Processing stats: 650 total items, 650 new, -228 duplicates skipped
+Combined raw items from all sources: 689
+Processing stats: 680 total items, 680 new, -243 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 422 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 132/650 items remain
+Saved state with 437 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 142/680 items remain
 Saved 8 pincodes to cache.
-NEW_AUCTIONS_COUNT=132
-Wrote 650 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=142
+Wrote 680 items to data/property_listings.json
