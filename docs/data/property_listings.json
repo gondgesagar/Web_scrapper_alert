@@ -1,188 +1,5 @@
 [
   {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "18-07-2026 06:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "18-07-2026 08:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "30-07-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "30-07-2026 10:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "29-06-2026 11:44:21"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "30-07-2026 09:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/287897",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/29/287897/599746_compressed.jpg",
-    "source": "baanknet",
-    "city": "Bhiwandi",
-    "raw": {
-      "propertyId": "287897",
-      "projectName": "Kalyan Aashiyana",
-      "price": 3200000.0,
-      "pricePerSeqFit": 10700.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/29/287897/599746_compressed.jpg",
-      "postedOn": "29-06-2026",
-      "developerName": null,
-      "owenershipType": "Co-op Society",
-      "bankName": "State Bank of India",
-      "summaryDesc": null,
-      "city": "Bhiwandi",
-      "cityID": "5448",
-      "stateID": 21,
-      "localities": "Bhiwandi",
-      "noOfBedRoom": 1,
-      "carpetArea": 333.0,
-      "builtupArea": 366.0,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "421311",
-      "bankPropertyId": "SBIN200072974989",
-      "availablePhotosCount": 22,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": false,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No. 406, 4th Floor, A Wing, Kalyan Aashiyana, Near Bakri Mandi, Kongaon, Kalyan (W), Taluka Bhiwandi, Dist. Thane - 421311",
-      "statename": "Maharashtra",
-      "districtname": "Thane",
-      "inspectionStartDateTime": "18-07-2026 06:30:00",
-      "inspectionEndDateTime": "18-07-2026 08:30:00",
-      "auctionStartDateTime": "30-07-2026 05:30:00",
-      "auctionEndDateTime": "30-07-2026 10:30:00",
-      "emdStartDateTime": "29-06-2026 11:44:21",
-      "emdEndDateTime": "30-07-2026 09:30:00",
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "2BHK residential unit on 3rd floor.\r\nBuilt up area -54.02 Sq.M.\r\nCarpet area -484.56 Sq.ft.",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "09-07-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "09-07-2026 11:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "29-06-2026 10:43:01"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "09-07-2026 11:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/288097",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/29/288097/599901_compressed.png",
-    "source": "baanknet",
-    "city": "Palghar",
-    "raw": {
-      "propertyId": "288097",
-      "projectName": null,
-      "price": 1650000.0,
-      "pricePerSeqFit": 4000.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/29/288097/599901_compressed.png",
-      "postedOn": "29-06-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of India",
-      "summaryDesc": "2BHK residential unit on 3rd floor.\r\nBuilt up area -54.02 Sq.M.\r\nCarpet area -484.56 Sq.ft.",
-      "city": "Palghar",
-      "cityID": "5234",
-      "stateID": 21,
-      "localities": "Palghar",
-      "noOfBedRoom": 2,
-      "carpetArea": 484.56,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": {
-        "lon": 72.7632,
-        "lat": 19.7014
-      },
-      "pincode": "401404",
-      "bankPropertyId": "BKIDMNZ0063ABDUL",
-      "availablePhotosCount": 22,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Flat No.305,Bldg No. C, Kanhaiya Medows, Mahim-Palghar Road, Nr. Tulip residency, Palghar (Surya Project Area), Palghar 401404",
-      "statename": "Maharashtra",
-      "districtname": "Palghar",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "09-07-2026 05:30:00",
-      "auctionEndDateTime": "09-07-2026 11:30:00",
-      "emdStartDateTime": "29-06-2026 10:43:01",
-      "emdEndDateTime": "09-07-2026 11:30:00",
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Dapodi, Pune",
     "link": "https://findauction.in/auction/icicihfc/flat-in-sai-puram-dapodi-pune-1698619",
     "photos": "",
@@ -1008,31 +825,6 @@
     "land_type": ""
   },
   {
-    "details": "House in Lonavala, Pune",
-    "link": "https://findauction.in/auction/sbi/house-in-manzil-e-maqsood-lonavala-pune-1681226",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "02 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Pune",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/sbi/house-in-manzil-e-maqsood-lonavala-pune-1681226",
-      "property_name": "House in Lonavala, Pune",
-      "price": "4,50,00,000",
-      "auction_date": "02 Jul 2026",
-      "city": "Pune",
-      "raw_text": "House in Lonavala, Pune \ud83c\udfe2 Manzil E Maqsood State Bank of India 4,50,00,000 02 Jul 2026 746 Sq Mtrs Physical Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Hinjewadi, Pune",
     "link": "https://findauction.in/auction/bankofindia/flat-in-hinjewadi-pune-1664179",
     "photos": "",
@@ -1381,6 +1173,31 @@
     },
     "property_type": "Flat",
     "land_type": ""
+  },
+  {
+    "details": "Land And Building in Khed Shivapur, Pune",
+    "link": "https://findauction.in/auction/bankofmaharashtra/land-and-building-in-khed-shivapur-pune-1685618",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Pune",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/bankofmaharashtra/land-and-building-in-khed-shivapur-pune-1685618",
+      "property_name": "Land And Building in Khed Shivapur, Pune",
+      "price": "6,28,18,000",
+      "auction_date": "27 Jul 2026",
+      "city": "Pune",
+      "raw_text": "Land And Building in Khed Shivapur, Pune Bank of Maharashtra 6,28,18,000 27 Jul 2026 420.12 Sq mtrs Physical Possession View Auction"
+    },
+    "property_type": "Land",
+    "land_type": "Other"
   },
   {
     "details": "Flat in Kharghar, Panvel",
@@ -2083,31 +1900,6 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Taloja, Mumbai",
-    "link": "https://findauction.in/auction/truhomefinance/flat-in-casa-marvella-taloja-mumbai-1698273",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Mumbai",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/truhomefinance/flat-in-casa-marvella-taloja-mumbai-1698273",
-      "property_name": "Flat in Taloja, Mumbai",
-      "price": "21,00,000",
-      "auction_date": "17 Jul 2026",
-      "city": "Mumbai",
-      "raw_text": "Flat in Taloja, Mumbai \ud83c\udfe2 Casa Marvella truhome finance 21,00,000 17 Jul 2026 540 Sq Ft Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Bungalow in Vasai East, Mumbai",
     "link": "https://findauction.in/auction/idbibank/bungalow-in-vasai-east-mumbai-1698268",
     "photos": "",
@@ -2505,6 +2297,31 @@
       "raw_text": "Flat in Neral, Mumbai \ud83c\udfe2 Nobel Residency Aditya Birla Housing Finance 19,46,400 04 Aug 2026 538 Sq Ft View Auction"
     },
     "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Furniture in Mumbai",
+    "link": "https://findauction.in/auction/liquidation/furniture-in-mumbai-1697922",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "29 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Mumbai",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/liquidation/furniture-in-mumbai-1697922",
+      "property_name": "Furniture in Mumbai",
+      "price": "1,31,489",
+      "auction_date": "29 Jul 2026",
+      "city": "Mumbai",
+      "raw_text": "Furniture in Mumbai Liquidation 1,31,489 29 Jul 2026 EMD 13,149 View Auction"
+    },
+    "property_type": "Other",
     "land_type": ""
   },
   {
@@ -3983,31 +3800,6 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Kamatwade, Nashik",
-    "link": "https://findauction.in/auction/janabank/flat-in-avani-residency-apartment-kamatwade-nashik-1664668",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/janabank/flat-in-avani-residency-apartment-kamatwade-nashik-1664668",
-      "property_name": "Flat in Kamatwade, Nashik",
-      "price": "20,74,000",
-      "auction_date": "03 Jul 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Kamatwade, Nashik \ud83c\udfe2 Avani Residency Apartment Jana Small Finance Bank 20,74,000 03 Jul 2026 73.42 Sq Mtrs View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Nashik Road, Nashik",
     "link": "https://findauction.in/auction/canarabank/flat-in-nashik-road-nashik-1687829",
     "photos": "",
@@ -4131,31 +3923,6 @@
     },
     "property_type": "Land",
     "land_type": "Other"
-  },
-  {
-    "details": "Flat in Makhamalabad, Nashik",
-    "link": "https://findauction.in/auction/janabank/flat-in-sai-dhandai-chs-makhamalabad-nashik-1664855",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "02 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/janabank/flat-in-sai-dhandai-chs-makhamalabad-nashik-1664855",
-      "property_name": "Flat in Makhamalabad, Nashik",
-      "price": "4,00,000",
-      "auction_date": "02 Jul 2026",
-      "city": "Nashik",
-      "raw_text": "Flat in Makhamalabad, Nashik \ud83c\udfe2 Sai Dhandai CHS Jana Small Finance Bank 4,00,000 02 Jul 2026 546 Sq Ft Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
   },
   {
     "details": "Industrial Land And Factory Building in Panchavati, Nashik",
@@ -4758,6 +4525,56 @@
     "land_type": ""
   },
   {
+    "details": "Shops in Saigram Nagar, Nashik",
+    "link": "https://findauction.in/auction/unionbankofindia/shops-in-bharat-apartment-saigram-nagar-nashik-1697467",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/unionbankofindia/shops-in-bharat-apartment-saigram-nagar-nashik-1697467",
+      "property_name": "Shops in Saigram Nagar, Nashik",
+      "price": "14,50,000Re auction - Same Price",
+      "auction_date": "14 Jul 2026",
+      "city": "Nashik",
+      "raw_text": "Shops in Saigram Nagar, Nashik \ud83c\udfe2 Bharat Apartment Union Bank of India 14,50,000 Re auction - Same Price 14 Jul 2026 20.45 Sq Mtrs Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Plot in Deolali, Nashik",
+    "link": "https://findauction.in/auction/unionbankofindia/plot-in-deolali-nashik-1697435",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/unionbankofindia/plot-in-deolali-nashik-1697435",
+      "property_name": "Plot in Deolali, Nashik",
+      "price": "72,60,000Re auction - Same Price",
+      "auction_date": "14 Jul 2026",
+      "city": "Nashik",
+      "raw_text": "Plot in Deolali, Nashik Union Bank of India 72,60,000 Re auction - Same Price 14 Jul 2026 EMD 7,26,000 Symbolic Possession View Auction"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
     "details": "Flat in Badlapur West, Mumbai",
     "link": "https://findauction.in/auction/pnbhousing/flat-in-golden-valley-badlapur-west-mumbai-1698378",
     "photos": "",
@@ -5008,31 +4825,6 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Thane West, Mumbai",
-    "link": "https://findauction.in/auction/axisbank/flat-in-dosti-west-country-thane-west-mumbai-1674165",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "02 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Thane",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/axisbank/flat-in-dosti-west-country-thane-west-mumbai-1674165",
-      "property_name": "Flat in Thane West, Mumbai",
-      "price": "74,77,14210% Drop from83,07,936",
-      "auction_date": "02 Jul 2026",
-      "city": "Thane",
-      "raw_text": "Flat in Thane West, Mumbai \ud83c\udfe2 Dosti West Country Axis Bank 74,77,142 10% Drop from 83,07,936 02 Jul 2026 EMD 7,47,715 Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Land And Building in Thane West, Mumbai",
     "link": "https://findauction.in/auction/sbi/land-and-building-in-thane-west-mumbai-1685215",
     "photos": "",
@@ -5078,6 +4870,31 @@
       "auction_date": "09 Jul 2026",
       "city": "Thane",
       "raw_text": "Flat in Thane West, Mumbai \ud83c\udfe2 Sheetal Forum CHS Jana Small Finance Bank 46,75,000 09 Jul 2026 51.11 Sq Mtrs View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Thane West, Mumbai",
+    "link": "https://findauction.in/auction/axisbank/flat-in-dosti-west-country-thane-west-mumbai-1674165",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "02 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Thane",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/axisbank/flat-in-dosti-west-country-thane-west-mumbai-1674165",
+      "property_name": "Flat in Thane West, Mumbai",
+      "price": "74,77,14210% Drop from83,07,936",
+      "auction_date": "02 Jul 2026",
+      "city": "Thane",
+      "raw_text": "Flat in Thane West, Mumbai \ud83c\udfe2 Dosti West Country Axis Bank 74,77,142 10% Drop from 83,07,936 02 Jul 2026 EMD 7,47,715 Physical Possession View Auction"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -5933,31 +5750,6 @@
     "land_type": ""
   },
   {
-    "details": "Plot in Solapur",
-    "link": "https://findauction.in/auction/mohfl/plot-in-solapur-1659546",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Solapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/mohfl/plot-in-solapur-1659546",
-      "property_name": "Plot in Solapur",
-      "price": "11,16,056",
-      "auction_date": "03 Jul 2026",
-      "city": "Solapur",
-      "raw_text": "Plot in Solapur Motilal Oswal Home Finance Ltd 11,16,056 03 Jul 2026 106.25 Sq Mtrs View Auction"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
     "details": "Plot in Kumthe, Solapur",
     "link": "https://findauction.in/auction/edelweissarc/plot-in-kumthe-solapur-1661036",
     "photos": "",
@@ -6483,31 +6275,6 @@
     "land_type": ""
   },
   {
-    "details": "Land And Building in Markadwadi, Solapur",
-    "link": "https://findauction.in/auction/mohfl/land-and-building-in-markadwadi-solapur-1659539",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Solapur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/mohfl/land-and-building-in-markadwadi-solapur-1659539",
-      "property_name": "Land And Building in Markadwadi, Solapur",
-      "price": "6,61,207",
-      "auction_date": "03 Jul 2026",
-      "city": "Solapur",
-      "raw_text": "Land And Building in Markadwadi, Solapur Motilal Oswal Home Finance Ltd 6,61,207 03 Jul 2026 1700 Sq Ft View Auction"
-    },
-    "property_type": "Land",
-    "land_type": "Other"
-  },
-  {
     "details": "Property in Mahud, Solapur",
     "link": "https://findauction.in/auction/equitasbank/property-in-mahud-solapur-1656089",
     "photos": "",
@@ -7003,6 +6770,56 @@
       "auction_date": "17 Jul 2026",
       "city": "Solapur",
       "raw_text": "Plot in Neware, Solapur India Shelter Finance Corporation 23,85,000 17 Jul 2026 5000 Sq Ft View Auction"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Property in Karmala, Solapur",
+    "link": "https://findauction.in/auction/pandharpururbancoopbank/property-in-karmala-solapur-1674958",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "13 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Solapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/pandharpururbancoopbank/property-in-karmala-solapur-1674958",
+      "property_name": "Property in Karmala, Solapur",
+      "price": "26,70,000",
+      "auction_date": "13 Jul 2026",
+      "city": "Solapur",
+      "raw_text": "Property in Karmala, Solapur pandharpur urban coop. bank 26,70,000 13 Jul 2026 EMD 2,67,000 View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Plot in Kegaon, Solapur",
+    "link": "https://findauction.in/auction/tygerhomefinance/plot-in-kegaon-solapur-1672777",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "14 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Solapur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/tygerhomefinance/plot-in-kegaon-solapur-1672777",
+      "property_name": "Plot in Kegaon, Solapur",
+      "price": "24,00,000",
+      "auction_date": "14 Jul 2026",
+      "city": "Solapur",
+      "raw_text": "Plot in Kegaon, Solapur Tyger Home Finance 24,00,000 14 Jul 2026 193.90 Sq Mtrs View Auction"
     },
     "property_type": "Plot",
     "land_type": ""
@@ -7558,31 +7375,6 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Karad, Satara",
-    "link": "https://findauction.in/auction/iob/flat-in-silver-garden-karad-satara-1664384",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Satara",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/iob/flat-in-silver-garden-karad-satara-1664384",
-      "property_name": "Flat in Karad, Satara",
-      "price": "31,02,000",
-      "auction_date": "03 Jul 2026",
-      "city": "Satara",
-      "raw_text": "Flat in Karad, Satara \ud83c\udfe2 Silver Garden Indian Overseas Bank 31,02,000 03 Jul 2026 960 Sq Ft Symbolic Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Property in Kudal, Satara",
     "link": "https://findauction.in/auction/aubank/property-in-kudal-satara-1664054",
     "photos": "",
@@ -8133,6 +7925,31 @@
     "land_type": ""
   },
   {
+    "details": "Vehicle Truck Tata ACE in Satara",
+    "link": "https://findauction.in/auction/bankofindia/vehicle-truck-tata-ace-in-satara-1689993",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Satara",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/bankofindia/vehicle-truck-tata-ace-in-satara-1689993",
+      "property_name": "Vehicle Truck Tata ACE in Satara",
+      "price": "3,56,000",
+      "auction_date": "09 Jul 2026",
+      "city": "Satara",
+      "raw_text": "Vehicle Truck Tata ACE in Satara Bank of India 3,56,000 09 Jul 2026 EMD 35,600 Physical Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
     "details": "House in Zadgaon, Ratnagiri",
     "link": "https://findauction.in/auction/pnbindia/house-in-zadgaon-ratnagiri-1698556",
     "photos": "",
@@ -8156,56 +7973,6 @@
     },
     "property_type": "Other",
     "land_type": ""
-  },
-  {
-    "details": "Machinery in Lote, Ratnagiri",
-    "link": "https://findauction.in/auction/canarabank/machinery-in-lote-ratnagiri-1675506",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ratnagiri",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/machinery-in-lote-ratnagiri-1675506",
-      "property_name": "Machinery in Lote, Ratnagiri",
-      "price": "1,60,74,000",
-      "auction_date": "03 Jul 2026",
-      "city": "Ratnagiri",
-      "raw_text": "Machinery in Lote, Ratnagiri Canara Bank 1,60,74,000 03 Jul 2026 EMD 16,07,400 Physical Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Land And Building in Khed, Ratnagiri",
-    "link": "https://findauction.in/auction/canarabank/land-and-building-in-khed-ratnagiri-1675505",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ratnagiri",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/canarabank/land-and-building-in-khed-ratnagiri-1675505",
-      "property_name": "Land And Building in Khed, Ratnagiri",
-      "price": "1,37,74,000",
-      "auction_date": "03 Jul 2026",
-      "city": "Ratnagiri",
-      "raw_text": "Land And Building in Khed, Ratnagiri Canara Bank 1,37,74,000 03 Jul 2026 4050 Sq Mtrs Physical Possession View Auction"
-    },
-    "property_type": "Land",
-    "land_type": "Other"
   },
   {
     "details": "Vehicle Tata Intra V10 in Ratnagiri",
@@ -8533,31 +8300,6 @@
     "land_type": ""
   },
   {
-    "details": "Plot in Chiplun, Ratnagiri",
-    "link": "https://findauction.in/auction/liquidation/plot-in-chiplun-ratnagiri-1686160",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ratnagiri",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/liquidation/plot-in-chiplun-ratnagiri-1686160",
-      "property_name": "Plot in Chiplun, Ratnagiri",
-      "price": "30,87,900",
-      "auction_date": "03 Jul 2026",
-      "city": "Ratnagiri",
-      "raw_text": "Plot in Chiplun, Ratnagiri Liquidation 30,87,900 03 Jul 2026 730 Sq Mtrs View Auction"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
     "details": "Vehicle Piaggio Ape City in Ratnagiri",
     "link": "https://findauction.in/auction/bankofindia/vehicle-piaggio-ape-city-in-ratnagiri-1686328",
     "photos": "",
@@ -8858,31 +8600,6 @@
     "land_type": ""
   },
   {
-    "details": "Plot in Govalkot, Ratnagiri",
-    "link": "https://findauction.in/auction/custodianofenemyproperty/plot-in-govalkot-ratnagiri-1686171",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ratnagiri",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/custodianofenemyproperty/plot-in-govalkot-ratnagiri-1686171",
-      "property_name": "Plot in Govalkot, Ratnagiri",
-      "price": "36,37,800",
-      "auction_date": "03 Jul 2026",
-      "city": "Ratnagiri",
-      "raw_text": "Plot in Govalkot, Ratnagiri custodian of enemy property 36,37,800 03 Jul 2026 860 Sq Mtrs View Auction"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Kherdi, Ratnagiri",
     "link": "https://findauction.in/auction/canarabank/flat-in-kunj-vihar-kherdi-ratnagiri-1685421",
     "photos": "",
@@ -8905,56 +8622,6 @@
       "raw_text": "Flat in Kherdi, Ratnagiri \ud83c\udfe2 Kunj Vihar Canara Bank 8,20,000 18 Jul 2026 310 Sq Ft View Auction"
     },
     "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Plot in Chiplun, Ratnagiri",
-    "link": "https://findauction.in/auction/liquidation/plot-in-chiplun-ratnagiri-1685277",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ratnagiri",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/liquidation/plot-in-chiplun-ratnagiri-1685277",
-      "property_name": "Plot in Chiplun, Ratnagiri",
-      "price": "14,58,974",
-      "auction_date": "03 Jul 2026",
-      "city": "Ratnagiri",
-      "raw_text": "Plot in Chiplun, Ratnagiri Liquidation 14,58,974 03 Jul 2026 282.20 Sq Mtrs View Auction"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "details": "Plot in Chiplun, Ratnagiri",
-    "link": "https://findauction.in/auction/liquidation/plot-in-chiplun-ratnagiri-1685273",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ratnagiri",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/liquidation/plot-in-chiplun-ratnagiri-1685273",
-      "property_name": "Plot in Chiplun, Ratnagiri",
-      "price": "30,87,900",
-      "auction_date": "03 Jul 2026",
-      "city": "Ratnagiri",
-      "raw_text": "Plot in Chiplun, Ratnagiri Liquidation 30,87,900 03 Jul 2026 730 Sq Mtrs View Auction"
-    },
-    "property_type": "Plot",
     "land_type": ""
   },
   {
@@ -9256,6 +8923,156 @@
     },
     "property_type": "Flat",
     "land_type": ""
+  },
+  {
+    "details": "Flat in Mandangad, Ratnagiri",
+    "link": "https://findauction.in/auction/bankofindia/flat-in-mandangad-ratnagiri-1686296",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ratnagiri",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/bankofindia/flat-in-mandangad-ratnagiri-1686296",
+      "property_name": "Flat in Mandangad, Ratnagiri",
+      "price": "11,80,000",
+      "auction_date": "09 Jul 2026",
+      "city": "Ratnagiri",
+      "raw_text": "Flat in Mandangad, Ratnagiri Bank of India 11,80,000 09 Jul 2026 650.00 Sq Ft Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Madhaliwadi, Ratnagiri",
+    "link": "https://findauction.in/auction/bankofindia/flat-in-madhaliwadi-ratnagiri-1686295",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ratnagiri",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/bankofindia/flat-in-madhaliwadi-ratnagiri-1686295",
+      "property_name": "Flat in Madhaliwadi, Ratnagiri",
+      "price": "12,30,000",
+      "auction_date": "09 Jul 2026",
+      "city": "Ratnagiri",
+      "raw_text": "Flat in Madhaliwadi, Ratnagiri Bank of India 12,30,000 09 Jul 2026 600 Sq Ft Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Rahatghar, Ratnagiri",
+    "link": "https://findauction.in/auction/bankofindia/flat-in-rahatghar-ratnagiri-1686293",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ratnagiri",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/bankofindia/flat-in-rahatghar-ratnagiri-1686293",
+      "property_name": "Flat in Rahatghar, Ratnagiri",
+      "price": "15,40,000",
+      "auction_date": "09 Jul 2026",
+      "city": "Ratnagiri",
+      "raw_text": "Flat in Rahatghar, Ratnagiri Bank of India 15,40,000 09 Jul 2026 546 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Golap, Ratnagiri",
+    "link": "https://findauction.in/auction/bankofindia/flat-in-golap-ratnagiri-1686287",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "09 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ratnagiri",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/bankofindia/flat-in-golap-ratnagiri-1686287",
+      "property_name": "Flat in Golap, Ratnagiri",
+      "price": "20,00,000",
+      "auction_date": "09 Jul 2026",
+      "city": "Ratnagiri",
+      "raw_text": "Flat in Golap, Ratnagiri Bank of India 20,00,000 09 Jul 2026 800 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Machinery in Lote, Ratnagiri",
+    "link": "https://findauction.in/auction/canarabank/machinery-in-lote-ratnagiri-1675506",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "03 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ratnagiri",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/machinery-in-lote-ratnagiri-1675506",
+      "property_name": "Machinery in Lote, Ratnagiri",
+      "price": "1,60,74,000",
+      "auction_date": "03 Jul 2026",
+      "city": "Ratnagiri",
+      "raw_text": "Machinery in Lote, Ratnagiri Canara Bank 1,60,74,000 03 Jul 2026 EMD 16,07,400 Physical Possession View Auction"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Land And Building in Khed, Ratnagiri",
+    "link": "https://findauction.in/auction/canarabank/land-and-building-in-khed-ratnagiri-1675505",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "03 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ratnagiri",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/canarabank/land-and-building-in-khed-ratnagiri-1675505",
+      "property_name": "Land And Building in Khed, Ratnagiri",
+      "price": "1,37,74,000",
+      "auction_date": "03 Jul 2026",
+      "city": "Ratnagiri",
+      "raw_text": "Land And Building in Khed, Ratnagiri Canara Bank 1,37,74,000 03 Jul 2026 4050 Sq Mtrs Physical Possession View Auction"
+    },
+    "property_type": "Land",
+    "land_type": "Other"
   },
   {
     "details": "Vehicles & Plant And Machinery in Nagothane, Raigad",
@@ -10383,31 +10200,6 @@
     "land_type": ""
   },
   {
-    "details": "House in Kanhari, Latur",
-    "link": "https://findauction.in/auction/janabank/house-in-kanhari-latur-1684703",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Latur",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/janabank/house-in-kanhari-latur-1684703",
-      "property_name": "House in Kanhari, Latur",
-      "price": "25,60,000",
-      "auction_date": "03 Jul 2026",
-      "city": "Latur",
-      "raw_text": "House in Kanhari, Latur Jana Small Finance Bank 25,60,000 03 Jul 2026 EMD 2,56,000 View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
     "details": "Plot in Nath Nagar, Latur",
     "link": "https://findauction.in/auction/hindujahousingfinance/plot-in-nath-nagar-latur-1697293",
     "photos": "",
@@ -10455,6 +10247,31 @@
       "raw_text": "Flat in Kasargaon, Latur \ud83c\udfe2 Venkatesha Apartment Bank of India 21,13,000 Re auction - Same Price 09 Jul 2026 85.59 Sq Mtrs Physical Possession View Auction"
     },
     "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "House in Kanhari, Latur",
+    "link": "https://findauction.in/auction/janabank/house-in-kanhari-latur-1684703",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "03 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Latur",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/janabank/house-in-kanhari-latur-1684703",
+      "property_name": "House in Kanhari, Latur",
+      "price": "25,60,000",
+      "auction_date": "03 Jul 2026",
+      "city": "Latur",
+      "raw_text": "House in Kanhari, Latur Jana Small Finance Bank 25,60,000 03 Jul 2026 EMD 2,56,000 View Auction"
+    },
+    "property_type": "Other",
     "land_type": ""
   },
   {
@@ -11533,31 +11350,6 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Taloja, Mumbai",
-    "link": "https://findauction.in/auction/truhomefinance/flat-in-casa-marvella-taloja-mumbai-1698273",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "17 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Kalyan",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/truhomefinance/flat-in-casa-marvella-taloja-mumbai-1698273",
-      "property_name": "Flat in Taloja, Mumbai",
-      "price": "21,00,000",
-      "auction_date": "17 Jul 2026",
-      "city": "Kalyan",
-      "raw_text": "Flat in Taloja, Mumbai \ud83c\udfe2 Casa Marvella truhome finance 21,00,000 17 Jul 2026 540 Sq Ft Physical Possession View Auction"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Kalyan, Mumbai",
     "link": "https://findauction.in/auction/abhfl/flat-in-kalyan-mumbai-1697933",
     "photos": "",
@@ -12608,13 +12400,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Dombivli East, Mumbai",
-    "link": "https://findauction.in/auction/orixleasingandfinancialservices/flat-in-omkar-heights-dombivli-east-mumbai-1685418",
+    "details": "Flat in Mumbra, Mumbai",
+    "link": "https://findauction.in/auction/axisbank/flat-in-bloomfield-ecovistas-mumbra-mumbai-1674175",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "03 Jul 2026"
+        "value": "15 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -12622,12 +12414,37 @@
     "city": "Kalyan",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/orixleasingandfinancialservices/flat-in-omkar-heights-dombivli-east-mumbai-1685418",
-      "property_name": "Flat in Dombivli East, Mumbai",
-      "price": "54,00,00010% Drop from60,00,000",
-      "auction_date": "03 Jul 2026",
+      "property_url": "https://findauction.in/auction/axisbank/flat-in-bloomfield-ecovistas-mumbra-mumbai-1674175",
+      "property_name": "Flat in Mumbra, Mumbai",
+      "price": "43,80,000",
+      "auction_date": "15 Jul 2026",
       "city": "Kalyan",
-      "raw_text": "Flat in Dombivli East, Mumbai \ud83c\udfe2 Omkar Heights orix leasing & financial services 54,00,000 10% Drop from 60,00,000 03 Jul 2026 711.05 Sq Ft Physical Possession View Auction"
+      "raw_text": "Flat in Mumbra, Mumbai \ud83c\udfe2 Bloomfield Ecovistas Axis Bank 43,80,000 15 Jul 2026 370.70 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Dombivli East, Mumbai",
+    "link": "https://findauction.in/auction/vastuhousingfinancecorporation/flat-in-shree-malhar-apartment-dombivli-east-mumbai-1668019",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "07 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Kalyan",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/vastuhousingfinancecorporation/flat-in-shree-malhar-apartment-dombivli-east-mumbai-1668019",
+      "property_name": "Flat in Dombivli East, Mumbai",
+      "price": "10,77,120",
+      "auction_date": "07 Jul 2026",
+      "city": "Kalyan",
+      "raw_text": "Flat in Dombivli East, Mumbai \ud83c\udfe2 Shree Malhar Apartment vastu housing finance corporation 10,77,120 07 Jul 2026 320 Sq Ft Symbolic Possession View Auction"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -15033,31 +14850,6 @@
     "land_type": "Other"
   },
   {
-    "details": "Agriculture Land in Pathardi, Ahmednagar",
-    "link": "https://findauction.in/auction/debtsrecoverytribunal/agriculture-land-in-pathardi-ahmednagar-1660129",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ahmednagar",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/debtsrecoverytribunal/agriculture-land-in-pathardi-ahmednagar-1660129",
-      "property_name": "Agriculture Land in Pathardi, Ahmednagar",
-      "price": "13,20,000",
-      "auction_date": "03 Jul 2026",
-      "city": "Ahmednagar",
-      "raw_text": "Agriculture Land in Pathardi, Ahmednagar Debts Recovery Tribunal 13,20,000 03 Jul 2026 EMD 1,32,000 View Auction"
-    },
-    "property_type": "Land",
-    "land_type": "Other"
-  },
-  {
     "details": "Bungalow in Nagardevale, Ahmednagar",
     "link": "https://findauction.in/auction/janabank/bungalow-in-nagardevale-ahmednagar-1666755",
     "photos": "",
@@ -15081,31 +14873,6 @@
     },
     "property_type": "Bungalow",
     "land_type": ""
-  },
-  {
-    "details": "Agricultural Land in Wasunde, Ahmednagar",
-    "link": "https://findauction.in/auction/debtsrecoverytribunal/agricultural-land-in-wasunde-ahmednagar-1663458",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "03 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Ahmednagar",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/debtsrecoverytribunal/agricultural-land-in-wasunde-ahmednagar-1663458",
-      "property_name": "Agricultural Land in Wasunde, Ahmednagar",
-      "price": "54,67,50012% Drop from61,96,500",
-      "auction_date": "03 Jul 2026",
-      "city": "Ahmednagar",
-      "raw_text": "Agricultural Land in Wasunde, Ahmednagar Debts Recovery Tribunal 54,67,500 12% Drop from 61,96,500 03 Jul 2026 EMD 5,46,750 View Auction"
-    },
-    "property_type": "Land",
-    "land_type": "Agriculture"
   },
   {
     "details": "House in Maliwada, Ahmednagar",
@@ -16008,8 +15775,638 @@
     "land_type": ""
   },
   {
+    "details": "Flat in Shrirampur, Ahmednagar",
+    "link": "https://findauction.in/auction/aubank/flat-in-shrirampur-ahmednagar-1691370",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "15 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ahmednagar",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/aubank/flat-in-shrirampur-ahmednagar-1691370",
+      "property_name": "Flat in Shrirampur, Ahmednagar",
+      "price": "11,00,00020% Drop from13,70,000",
+      "auction_date": "15 Jul 2026",
+      "city": "Ahmednagar",
+      "raw_text": "Flat in Shrirampur, Ahmednagar AU Small Finance Bank 11,00,000 20% Drop from 13,70,000 15 Jul 2026 44.08 Sq Mtrs View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Shrirampur, Ahmednagar",
+    "link": "https://findauction.in/auction/pnbindia/flat-in-happiness-apartment-shrirampur-ahmednagar-1690147",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "17 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Ahmednagar",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/pnbindia/flat-in-happiness-apartment-shrirampur-ahmednagar-1690147",
+      "property_name": "Flat in Shrirampur, Ahmednagar",
+      "price": "11,90,000",
+      "auction_date": "17 Jul 2026",
+      "city": "Ahmednagar",
+      "raw_text": "Flat in Shrirampur, Ahmednagar \ud83c\udfe2 Happiness Apartment Punjab National Bank 11,90,000 17 Jul 2026 30.70 Sq Mtrs Symbolic Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Majaswadi, Jogeshwari",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Majaswadi, Jogeshwari",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Siddharth Nagar, Goregaon (W)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Siddharth Nagar, Goregaon (W)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2024-06-27 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2024-06-06 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Mumbai",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
+      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
+      "city": "Mumbai",
+      "auction_date": "2024-06-27 17:00:00.0",
+      "emd_end_date": "2024-06-06 23:59:00.0",
+      "address": "MHADA Mumbai"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Shop, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+    "link": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2026-06-24 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2026-06-22 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Pune",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionPuneMhada/?0",
+      "property_name": "Pimpri Waghere PLOT B Office, Pimpri,Pune",
+      "city": "Pune",
+      "auction_date": "2026-06-24 17:00:00.0",
+      "emd_end_date": "2026-06-22 23:59:00.0",
+      "address": "MHADA Pune"
+    },
+    "property_type": "Plot",
+    "land_type": ""
+  },
+  {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=nCstMqOAlGayC8D0pNrS5Q%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=DzBT1RIyQ8uOZzFcgckpMA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16017,7 +16414,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=nCstMqOAlGayC8D0pNrS5Q%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=DzBT1RIyQ8uOZzFcgckpMA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -16028,7 +16425,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1wEymacq0apUJY47s9rhdw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ZUNVI87NYnaMHhRwa3xFKA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16036,7 +16433,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1wEymacq0apUJY47s9rhdw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ZUNVI87NYnaMHhRwa3xFKA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -16047,7 +16444,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=VZKqkfabw%2By3EoGJQLL90w%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=mIZuuBrxBAJZYKgOXWQYHg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16055,7 +16452,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=VZKqkfabw%2By3EoGJQLL90w%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=mIZuuBrxBAJZYKgOXWQYHg%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
@@ -16066,7 +16463,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=egiROjpd4vO8Tzooub2r0g%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=2zrQRCljL4PI3dEKoMa1og%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16074,7 +16471,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=egiROjpd4vO8Tzooub2r0g%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=2zrQRCljL4PI3dEKoMa1og%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
       "price": "",
       "listing_id": "OLCHNMAXTANJOREMANGO",
@@ -16085,7 +16482,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1f7bYYd%2BMe8VpYv2a8DGGw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=SMMwtdbTWmZ38fkRusVgrw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16093,7 +16490,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1f7bYYd%2BMe8VpYv2a8DGGw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=SMMwtdbTWmZ38fkRusVgrw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
       "price": "",
       "listing_id": "OLCHNMAXMADURAI",
