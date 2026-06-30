@@ -1,5 +1,328 @@
 [
   {
+    "emd_cost": null,
+    "details": "Flat",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/184148",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/01/184148/587252_compressed.jpg",
+    "source": "baanknet",
+    "city": "Mumbai",
+    "raw": {
+      "propertyId": "184148",
+      "projectName": null,
+      "price": 12603000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/01/184148/587252_compressed.jpg",
+      "postedOn": "30-06-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Punjab National Bank",
+      "summaryDesc": "Flat",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": "Fort",
+      "noOfBedRoom": null,
+      "carpetArea": 335.0,
+      "builtupArea": 402.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 72.836069,
+        "lat": 18.937924
+      },
+      "pincode": "400001",
+      "bankPropertyId": "PUNBCS6041MANOJ",
+      "availablePhotosCount": 10,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No. 3 & 4, 1st Floor, Building Name \"Vishnu Niwas\", CS No. 1285 of Fort Division, Rent Roll No. 638, Junction of Manordas Street & Dwarkadas Cross Lane, Opp. G.P.O. Fort, Mumbai - 400 001",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No. 401, 4th floor, in SHIV HEIGHTS Constructed on Convinient Shop, Mouza Suraburdi, Nagpur.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/270414",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/13/270414/523503_compressed.jpg",
+    "source": "baanknet",
+    "city": "Nagpur",
+    "raw": {
+      "propertyId": "270414",
+      "projectName": "SHIV HEIGHTS",
+      "price": 2900000.0,
+      "pricePerSeqFit": 3000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/13/270414/523503_compressed.jpg",
+      "postedOn": "30-06-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Flat No. 401, 4th floor, in SHIV HEIGHTS Constructed on Convinient Shop, Mouza Suraburdi, Nagpur.",
+      "city": "Nagpur",
+      "cityID": "5138",
+      "stateID": 21,
+      "localities": "Suraburdi Nagpur.",
+      "noOfBedRoom": null,
+      "carpetArea": 56.03,
+      "builtupArea": 96.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "North-East",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "440021",
+      "bankPropertyId": "SBIN200071298235",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "2",
+      "unitOfMeasure": "sq meter",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No. 401, 4th floor, in SHIV HEIGHTS Constructed on Convinient Shop, Mouza Suraburdi, Nagpur.",
+      "statename": "Maharashtra",
+      "districtname": "Nagpur",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No. B/401, 4th floor, B Wing, Viva Swaraganga, Hrishabh, Survey No.194, 361, 362, Bolinj Village, Vasai Taluk, Thane 400615",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "30-06-2026 06:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "30-06-2026 07:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "30-06-2026 08:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "30-06-2026 12:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "30-06-2026 05:49:08"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "30-06-2026 12:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/198628",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/30/198628/600197_compressed.jpg",
+    "source": "baanknet",
+    "city": "Thane",
+    "raw": {
+      "propertyId": "198628",
+      "projectName": null,
+      "price": 3450000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/30/198628/600197_compressed.jpg",
+      "postedOn": "30-06-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Baroda",
+      "summaryDesc": "Flat No. B/401, 4th floor, B Wing, Viva Swaraganga, Hrishabh, Survey No.194, 361, 362, Bolinj Village, Vasai Taluk, Thane 400615",
+      "city": "Thane",
+      "cityID": "5464",
+      "stateID": 21,
+      "localities": "THANE",
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "400615",
+      "bankPropertyId": "BARB061432024014",
+      "availablePhotosCount": 24,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No. B/401, 4th floor, B Wing, Viva Swaraganga, Hrishabh, Survey No.194, 361, 362, Bolinj Village, Vasai Taluk, Thane 400615",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": "30-06-2026 06:30:00",
+      "inspectionEndDateTime": "30-06-2026 07:30:00",
+      "auctionStartDateTime": "30-06-2026 08:30:00",
+      "auctionEndDateTime": "30-06-2026 12:30:00",
+      "emdStartDateTime": "30-06-2026 05:49:08",
+      "emdEndDateTime": "30-06-2026 12:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Apartment No.T BY 303 at Third  Floor, Bulding No .3, \u201cSuman Exotica\u201d Mouza Zingabai Talki. Tah  Dist. Nagpur",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "15-07-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "15-07-2026 09:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "30-06-2026 15:25:14"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "15-07-2026 08:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/120853",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/08/120853/590475_compressed.jpg",
+    "source": "baanknet",
+    "city": "Nagpur",
+    "raw": {
+      "propertyId": "120853",
+      "projectName": null,
+      "price": 2400000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": null,
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/08/120853/590475_compressed.jpg",
+      "postedOn": "30-06-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Maharashtra",
+      "summaryDesc": "Apartment No.T BY 303 at Third  Floor, Bulding No .3, \u201cSuman Exotica\u201d Mouza Zingabai Talki. Tah  Dist. Nagpur",
+      "city": "Nagpur",
+      "cityID": "5138",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": null,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "441111",
+      "bankPropertyId": "MAHB1452303",
+      "availablePhotosCount": 26,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": null,
+      "unitOfMeasure": null,
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": null,
+      "isPPVCRequest": true,
+      "address": "Apartment No T 303 Third  Floor Bld No 3 Suman Exotica Mouza Zingabai Talki Dist. Nagpur",
+      "statename": "Maharashtra",
+      "districtname": "Nagpur",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "15-07-2026 05:30:00",
+      "auctionEndDateTime": "15-07-2026 09:30:00",
+      "emdStartDateTime": "30-06-2026 15:25:14",
+      "emdEndDateTime": "15-07-2026 08:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
     "details": "Office in Moshi, Pune",
     "link": "https://findauction.in/auction/icicibank/office-in-moshi-pune-1699969",
     "photos": "",
@@ -15825,298 +16148,8 @@
     "land_type": ""
   },
   {
-    "details": "Majaswadi, Jogeshwari",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Majaswadi, Jogeshwari",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Siddharth Nagar, Goregaon (W)",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Siddharth Nagar, Goregaon (W)",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-    "link": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2024-06-27 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2024-06-06 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Mumbai",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionMumbaiMhada/?0",
-      "property_name": "Bldg. no.32, Shopping Complex, Bimbisar nagar, Goregaon (E)",
-      "city": "Mumbai",
-      "auction_date": "2024-06-27 17:00:00.0",
-      "emd_end_date": "2024-06-06 23:59:00.0",
-      "address": "MHADA Mumbai"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1NDp9TWm60Q5hke%2Bg%2BopSw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oTAGAHGG4DNV8ovjmYAHLA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16124,7 +16157,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1NDp9TWm60Q5hke%2Bg%2BopSw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oTAGAHGG4DNV8ovjmYAHLA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -16135,7 +16168,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=obJCRkRjztKrR%2BTYIxW%2FEQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=WJ6F1PGZx37CpkmJjY8QdA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16143,7 +16176,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=obJCRkRjztKrR%2BTYIxW%2FEQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=WJ6F1PGZx37CpkmJjY8QdA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -16154,7 +16187,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=MUDMsF%2BO%2BAd1QQUu0p0V%2Fw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=KPE8%2FyRAhs2gBFWD5KsZOw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16162,7 +16195,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=MUDMsF%2BO%2BAd1QQUu0p0V%2Fw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=KPE8%2FyRAhs2gBFWD5KsZOw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
@@ -16173,7 +16206,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=PUEL%2Fml%2FQuxGFwvqgr6HFw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=gp6qO4tS8NR3HOHl9mIXCw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16181,7 +16214,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=PUEL%2Fml%2FQuxGFwvqgr6HFw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=gp6qO4tS8NR3HOHl9mIXCw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
       "price": "",
       "listing_id": "OLCHNMAXTANJOREMANGO",
@@ -16192,7 +16225,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=IJeEszJBMIpLaTAKInBqUQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1%2Ffm5sjkX3JtQSug%2BUvmOA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16200,7 +16233,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=IJeEszJBMIpLaTAKInBqUQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1%2Ffm5sjkX3JtQSug%2BUvmOA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
       "price": "",
       "listing_id": "OLCHNMAXMADURAI",
