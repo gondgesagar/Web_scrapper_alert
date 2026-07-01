@@ -2,19 +2,24 @@ Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
-  [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.
+  [DEBUG] Captured 10 items from: https://baanknet.com/eauction-psb/api/property-listing-data/1?page=0&size=10
   [DEBUG] Paginating https://baanknet.com/eauction-psb/api/property-listing-data/1
   [WARN] BAANKNET pagination failed at page 0: APIRequestContext.post: unable to verify the first certificate
 Call log:
 → POST https://baanknet.com/eauction-psb/api/property-listing-data/1?page=0&size=50
   -   user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/130.0.6723.31 Safari/537.36
-  -   accept: */*
+  -   accept: application/json, text/plain, */*
   -   accept-encoding: gzip,deflate,br
-  -   Content-Type: application/json
-  -   content-length: 15
+  -   sec-ch-ua-platform: "Linux"
+  -   referer: https://baanknet.com/property-listing
+  -   sec-ch-ua: "Chromium";v="130", "HeadlessChrome";v="130", "Not?A_Brand";v="99"
+  -   content-type: application/json
+  -   sec-ch-ua-mobile: ?0
+  -   content-length: 105
+  -   cookie: JSESSIONID=5be0a8cc-17b7-4b0c-9b61-8a7c12bd35e6; language=en; languageId=1; _ga=GA1.1.1281608066.1782933430; _ga_SZ8S2EHDZY=GS2.1.s1782933430$o1$g0$t1782933430$j60$l0$h0; XSRF-TOKEN=cb8c0baa-bf96-4be6-b01d-12cbbc9b0d63
 
-  [WARN] No baanknet payloads captured.
-  baanknet: 0 raw items
+  [INFO] BAANKNET total unique items: 10
+  baanknet: 10 raw items
 Fetching eAuctions India...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/bhiwandi
@@ -100,11 +105,11 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 16 listings
   mstc: 16 items
-Combined raw items from all sources: 676
-Processing stats: 676 total items, 676 new, -248 duplicates skipped
+Combined raw items from all sources: 686
+Processing stats: 678 total items, 678 new, -248 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 428 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 152/676 items remain
-Saved 0 pincodes to cache.
+Saved state with 430 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 152/678 items remain
+Saved 8 pincodes to cache.
 NEW_AUCTIONS_COUNT=152
-Wrote 676 items to data/property_listings.json
+Wrote 678 items to data/property_listings.json
