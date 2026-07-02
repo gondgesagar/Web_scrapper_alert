@@ -1,221 +1,5 @@
 [
   {
-    "emd_cost": null,
-    "details": "Individual Residential House",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/249010",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2025/08/07/249010/402013_compressed.jpg",
-    "source": "baanknet",
-    "city": "Jalgaon",
-    "raw": {
-      "propertyId": "249010",
-      "projectName": "CHANDRASHEKHAR CHAVAN",
-      "price": 2700000.0,
-      "pricePerSeqFit": 3640.0,
-      "propertySubTypeId": "2",
-      "propertySubType": "Individual House",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2025/08/07/249010/402013_compressed.jpg",
-      "postedOn": "02-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": "Individual Residential House",
-      "city": "Jalgaon",
-      "cityID": "5044",
-      "stateID": 21,
-      "localities": "Hariom Nagar, Jalgaon",
-      "noOfBedRoom": 2,
-      "carpetArea": 119.0,
-      "builtupArea": 95.0,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": null,
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": {
-        "lon": 75.34496,
-        "lat": 21.0112
-      },
-      "pincode": "425001",
-      "bankPropertyId": "SBIN001295326104",
-      "availablePhotosCount": 12,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "2",
-      "unitOfMeasure": "sq meter",
-      "percentageOfLoan": null,
-      "isLoanAvailable": false,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Plot no. 25(P), Survey no. 26/1+2, Near Mohan Chitra Mandir, Hariom Nagar, Jalgaon",
-      "statename": "Maharashtra",
-      "districtname": "Jalgaon",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Residential",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "Residential Bungalow located at IB 7, Sai Kamal Residency, Ram Nagar Colony, Bavdhan, Pune 411021",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/288690",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/30/288690/600342_compressed.jpg",
-    "source": "baanknet",
-    "city": "Pune",
-    "raw": {
-      "propertyId": "288690",
-      "projectName": "NA",
-      "price": 42165000.0,
-      "pricePerSeqFit": 22908.0,
-      "propertySubTypeId": "2",
-      "propertySubType": "Individual House",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/30/288690/600342_compressed.jpg",
-      "postedOn": "02-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": "Residential Bungalow located at IB 7, Sai Kamal Residency, Ram Nagar Colony, Bavdhan, Pune 411021",
-      "city": "Pune",
-      "cityID": "5286",
-      "stateID": 21,
-      "localities": "Pune",
-      "noOfBedRoom": null,
-      "carpetArea": 1842.18,
-      "builtupArea": 2811.0,
-      "furnishedStatus": "Furnished",
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": {
-        "lon": 73.46377,
-        "lat": 18.313006
-      },
-      "pincode": "411021",
-      "bankPropertyId": "SBIN200024590381",
-      "availablePhotosCount": 26,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": false,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "Bungalow bearing No I- B- 7 (Ground plus First Floor plus Terrace) admeasuring 247.21 Square Metres constructed on Sub Plot No 11Out of Plot No 59, of Survey No 7+8 of Village Bhavdan Khurd Pune",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Bungalow",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "All that piece and parcel of property bearing Flat No.1904, admeasuring carpet area 74.26 sq. mtrs. on the 19th Floor, in Building No. 'E', Scheme Name \"MYSTIC\" Project named as \"MEGAPOLIS\", Land bearing Plot No.R-1/1, 1/2, 1/3, 1/4, in the Rajiv Gandhi Infotech Park Hinjewadi, within the Village limit of Maan, Taluka-Mulshi, District-Pune Property owned by Mrs. Priyanka Sharma and Mr. Kumar Rankesh",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/285766",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/25/285766/598814_compressed.png",
-    "source": "baanknet",
-    "city": "Pimpri Chinchwad",
-    "raw": {
-      "propertyId": "285766",
-      "projectName": "Megapolis",
-      "price": 6100000.0,
-      "pricePerSeqFit": 8200.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/25/285766/598814_compressed.png",
-      "postedOn": "01-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": "All that piece and parcel of property bearing Flat No.1904, admeasuring carpet area 74.26 sq. mtrs. on the 19th Floor, in Building No. 'E', Scheme Name \"MYSTIC\" Project named as \"MEGAPOLIS\", Land bearing Plot No.R-1/1, 1/2, 1/3, 1/4, in the Rajiv Gandhi Infotech Park Hinjewadi, within the Village limit of Maan, Taluka-Mulshi, District-Pune Property owned by Mrs. Priyanka Sharma and Mr. Kumar Rankesh",
-      "city": "Pimpri Chinchwad",
-      "cityID": "5284",
-      "stateID": 21,
-      "localities": "Mulshi District Pune",
-      "noOfBedRoom": null,
-      "carpetArea": 799.33,
-      "builtupArea": 879.0,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "South",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "411057",
-      "bankPropertyId": "SBIN0520261",
-      "availablePhotosCount": 24,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": 75.0,
-      "isLoanAvailable": true,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All that piece and parcel of property bearing Flat No.1904, admeasuring carpet area 74.26 sq. mtrs. on the 19th Floor, in Building No. 'E', Scheme Name \"MYSTIC\" Project named as \"MEGAPOLIS\", Land bearing Plot No.R-1/1, 1/2, 1/3, 1/4, in the Rajiv Gandhi Infotech Park Hinjewadi, within the Village limit of Maan, Taluka-Mulshi, District-Pune Property owned by Mrs. Priyanka Sharma and Mr. Kumar Rankesh",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Residential Unit in Shivajinagar, Pune",
     "link": "https://findauction.in/auction/landtfinance/residential-unit-in-aasmant-shivajinagar-pune-1701341",
     "photos": "",
@@ -1466,13 +1250,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
+    "details": "Flat in Wardoli, Panvel",
+    "link": "https://findauction.in/auction/icicibank/flat-in-wise-city-wardoli-panvel-1699515",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "06 Jul 2026"
+        "value": "21 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1480,12 +1264,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
-      "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "14,00,000",
-      "auction_date": "06 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-wise-city-wardoli-panvel-1699515",
+      "property_name": "Flat in Wardoli, Panvel",
+      "price": "40,00,000",
+      "auction_date": "21 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Vardhaman Regency CHS ICICI Bank 14,00,000 06 Jul 2026 37.13 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Wardoli, Panvel \ud83c\udfe2 Wise City ICICI Bank 40,00,000 21 Jul 2026 64.15 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1866,8 +1650,8 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Wardoli, Panvel",
-    "link": "https://findauction.in/auction/icicibank/flat-in-wise-city-wardoli-panvel-1699515",
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
     "photos": "",
     "important_dates": [
       {
@@ -1880,12 +1664,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-wise-city-wardoli-panvel-1699515",
-      "property_name": "Flat in Wardoli, Panvel",
-      "price": "40,00,000",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
       "auction_date": "21 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Wardoli, Panvel \ud83c\udfe2 Wise City ICICI Bank 40,00,000 21 Jul 2026 64.15 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2166,13 +1950,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Wardoli, Panvel",
-    "link": "https://findauction.in/auction/icicibank/flat-in-wise-city-wardoli-panvel-1699515",
+    "details": "Flat in Badlapur West, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "10 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2180,12 +1964,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-wise-city-wardoli-panvel-1699515",
-      "property_name": "Flat in Wardoli, Panvel",
-      "price": "40,00,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+      "property_name": "Flat in Badlapur West, Mumbai",
+      "price": "19,00,000",
+      "auction_date": "10 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Wardoli, Panvel \ud83c\udfe2 Wise City ICICI Bank 40,00,000 21 Jul 2026 64.15 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -4967,12 +4751,12 @@
   },
   {
     "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
+    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "06 Jul 2026"
+        "value": "10 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -4980,12 +4764,12 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
       "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "14,00,000",
-      "auction_date": "06 Jul 2026",
+      "price": "19,00,000",
+      "auction_date": "10 Jul 2026",
       "city": "Thane",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Vardhaman Regency CHS ICICI Bank 14,00,000 06 Jul 2026 37.13 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -16796,298 +16580,8 @@
     "land_type": ""
   },
   {
-    "details": "Chalisgaon road, Dhule (west side Hudinco Colony)",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Chalisgaon road, Dhule (west side Hudinco Colony)",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bhusaval.",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Bhusaval.",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bhusaval.",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Bhusaval.",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Vanjola road, Bhusaval,Jalgaon.",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Vanjola road, Bhusaval,Jalgaon.",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Paldhi, Dharangaon.",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Paldhi, Dharangaon.",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Chalisgaon.",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Chalisgaon.",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Bhusaval.",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Bhusaval.",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Jamner road, Bhusaval Jalgaon.",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Jamner road, Bhusaval Jalgaon.",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Jamner road, Bhusaval Jalgaon.",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Jamner road, Bhusaval Jalgaon.",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
-    "details": "Chalisgaon road, Dhule (west side Hudco Colony)",
-    "link": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "2025-09-23 17:00:00.0"
-      },
-      {
-        "key": "emd_end_date",
-        "value": "2025-08-20 23:59:00.0"
-      }
-    ],
-    "emd_cost": "",
-    "source": "mhada",
-    "city": "Nashik",
-    "raw": {
-      "source": "mhada",
-      "property_url": "https://eauction.mhada.gov.in/eAuctionNashikMhada/?0",
-      "property_name": "Chalisgaon road, Dhule (west side Hudco Colony)",
-      "city": "Nashik",
-      "auction_date": "2025-09-23 17:00:00.0",
-      "emd_end_date": "2025-08-20 23:59:00.0",
-      "address": "MHADA Nashik"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ot6tH9TxHuBMBo5xT%2Ft1ow%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=S8vlTwcjxm16ts0uyBldGA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17095,7 +16589,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ot6tH9TxHuBMBo5xT%2Ft1ow%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=S8vlTwcjxm16ts0uyBldGA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -17106,7 +16600,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=UEYQI2yWl9pUb6ZlaMu3kA%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=JJY4JoEBLtvBeLN74LUBTg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17114,7 +16608,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=UEYQI2yWl9pUb6ZlaMu3kA%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=JJY4JoEBLtvBeLN74LUBTg%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -17125,7 +16619,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=zRz5pQsYAa%2FN2QJ0lzwF3w%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Zzc0l%2B%2F7F99mtfLnrVZBuQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17133,7 +16627,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=zRz5pQsYAa%2FN2QJ0lzwF3w%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Zzc0l%2B%2F7F99mtfLnrVZBuQ%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
@@ -17144,7 +16638,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=D7IWeQe9ObSD%2BHDUbkkb2Q%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=uMdxt4yod3udzqiUbnrEfA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17152,7 +16646,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=D7IWeQe9ObSD%2BHDUbkkb2Q%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=uMdxt4yod3udzqiUbnrEfA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
       "price": "",
       "listing_id": "OLCHNMAXTANJOREMANGO",
@@ -17163,7 +16657,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=zOGNLT6ysUj1nL8CAsOpwg%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=G6pZofTR2gyZE0%2BnSazcBw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17171,7 +16665,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=zOGNLT6ysUj1nL8CAsOpwg%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=G6pZofTR2gyZE0%2BnSazcBw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
       "price": "",
       "listing_id": "OLCHNMAXMADURAI",
