@@ -1,5 +1,148 @@
 [
   {
+    "emd_cost": null,
+    "details": null,
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/282826",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/04/28/282826/575482_compressed.jpg",
+    "source": "baanknet",
+    "city": "Mira Bhayandar",
+    "raw": {
+      "propertyId": "282826",
+      "projectName": null,
+      "price": 5863000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/04/28/282826/575482_compressed.jpg",
+      "postedOn": "04-07-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Indian Overseas Bank",
+      "summaryDesc": null,
+      "city": "Mira Bhayandar",
+      "cityID": "5459",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": 1,
+      "carpetArea": 298.0,
+      "builtupArea": 390.0,
+      "furnishedStatus": null,
+      "floorNo": 34,
+      "totalNoOfFloors": 36,
+      "facing": "South",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "401107",
+      "bankPropertyId": "IOBA1978kamala",
+      "availablePhotosCount": 17,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No D-3408, 34th Floor, D Wing, admeasuring about 27.66 sq. mtrs. in the Building No-9 of the Real Estate Project known as J P North Aviva situated as Village Ghodbunder Taluka 401107",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/184148",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/06/01/184148/587252_compressed.jpg",
+    "source": "baanknet",
+    "city": "Mumbai",
+    "raw": {
+      "propertyId": "184148",
+      "projectName": null,
+      "price": 12603000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/06/01/184148/587252_compressed.jpg",
+      "postedOn": "04-07-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Punjab National Bank",
+      "summaryDesc": "Flat",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": "Fort",
+      "noOfBedRoom": null,
+      "carpetArea": 335.0,
+      "builtupArea": 402.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": {
+        "lon": 72.836069,
+        "lat": 18.937924
+      },
+      "pincode": "400001",
+      "bankPropertyId": "PUNBCS6041MANOJ",
+      "availablePhotosCount": 10,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No. 3 & 4, 1st Floor, Building Name \"Vishnu Niwas\", CS No. 1285 of Fort Division, Rent Roll No. 638, Junction of Manordas Street & Dwarkadas Cross Lane, Opp. G.P.O. Fort, Mumbai - 400 001",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "noOfCarParking": null,
+      "drtlocation": null,
+      "roname": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
     "details": "Flat in Narhe, Pune",
     "link": "https://findauction.in/auction/axisbank/flat-in-sun-universe-narhe-pune-1703063",
     "photos": "",
@@ -2075,13 +2218,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+    "details": "Flat in Ambernath, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "10 Jul 2026"
+        "value": "14 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2089,12 +2232,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
-      "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "19,00,000",
-      "auction_date": "10 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
+      "property_name": "Flat in Ambernath, Mumbai",
+      "price": "32,40,000",
+      "auction_date": "14 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Mohan Suburbia ICICI Bank 32,40,000 14 Jul 2026 47.70 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -16291,7 +16434,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=KQBFesqaJv9VEvgamswLjQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=VD2eiXZbV5cc%2FWFI%2Flh9ew%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16299,7 +16442,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=KQBFesqaJv9VEvgamswLjQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=VD2eiXZbV5cc%2FWFI%2Flh9ew%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -16310,7 +16453,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oYuiAQ%2FSdO2LtYFT%2F8RSzw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=fhBThN9dDw65Yc7R9%2F2khA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16318,7 +16461,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oYuiAQ%2FSdO2LtYFT%2F8RSzw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=fhBThN9dDw65Yc7R9%2F2khA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -16329,7 +16472,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=jv%2B1n5u5pFx5A9vS%2FeVCSw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=rdd46m5S5z3VVXr%2B4Lsyjw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16337,7 +16480,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=jv%2B1n5u5pFx5A9vS%2FeVCSw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=rdd46m5S5z3VVXr%2B4Lsyjw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
@@ -16348,7 +16491,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=iizZlGnc8%2Fw83GKEOWKj%2Bg%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=U4hN5hnCtxvYi4Ef1JKXEg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16356,7 +16499,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=iizZlGnc8%2Fw83GKEOWKj%2Bg%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=U4hN5hnCtxvYi4Ef1JKXEg%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
       "price": "",
       "listing_id": "OLCHNMAXTANJOREMANGO",
@@ -16367,7 +16510,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=QeEaH%2BtFOoGtMYzxRqSsOQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=HnYkP04oxBp1ADJiZRSaHQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16375,7 +16518,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=QeEaH%2BtFOoGtMYzxRqSsOQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=HnYkP04oxBp1ADJiZRSaHQ%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
       "price": "",
       "listing_id": "OLCHNMAXMADURAI",
