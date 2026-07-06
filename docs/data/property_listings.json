@@ -1,5 +1,419 @@
 [
   {
+    "emd_cost": null,
+    "details": "FLAT",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/254308",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/06/254308/603621_compressed.png",
+    "source": "baanknet",
+    "city": "Bhiwandi",
+    "raw": {
+      "propertyId": "254308",
+      "projectName": "ATLANTA EDEN WORLD",
+      "price": 2211000.0,
+      "pricePerSeqFit": 13000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/06/254308/603621_compressed.png",
+      "postedOn": "06-07-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of India",
+      "summaryDesc": "FLAT",
+      "city": "Bhiwandi",
+      "cityID": "5448",
+      "stateID": 21,
+      "localities": "BHIWANDI",
+      "noOfBedRoom": 2,
+      "carpetArea": 550.0,
+      "builtupArea": 716.0,
+      "furnishedStatus": "Unfurnished",
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "421302",
+      "bankPropertyId": "BKIDNMZARB53",
+      "availablePhotosCount": 20,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "FLAT NO 401 4TH FLOOR TOWER NO 14C ATLANTA EDEN WORLD SURVEY NO 69/1 (P), 67/4(P),  81(P) AND 83 NEAR ATLANDA EDENWORLD TOWER 2\r\nTEMGHAR BHIWANDI THANE 421302",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No 4, ground floor, Building No A, Sai Anand Plaza Complex, Ekta Safalya CHS Ltd. Azad Nagar No 2, L.B.S Marg, Pachpakhadi, Thane West, 400601. Area 560 Sq ft",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "20-07-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "20-07-2026 09:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "06-07-2026 05:41:14"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "20-07-2026 09:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/289236",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/06/289236/603331_compressed.jpg",
+    "source": "baanknet",
+    "city": "Thane",
+    "raw": {
+      "propertyId": "289236",
+      "projectName": null,
+      "price": 6300000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/06/289236/603331_compressed.jpg",
+      "postedOn": "06-07-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Maharashtra",
+      "summaryDesc": "Flat No 4, ground floor, Building No A, Sai Anand Plaza Complex, Ekta Safalya CHS Ltd. Azad Nagar No 2, L.B.S Marg, Pachpakhadi, Thane West, 400601. Area 560 Sq ft",
+      "city": "Thane",
+      "cityID": "5464",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 1.0,
+      "builtupArea": 560.0,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "400601",
+      "bankPropertyId": "MAHBeknathh",
+      "availablePhotosCount": 13,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No 4, ground floor, Building No A, Sai Anand Plaza Complex, Ekta Safalya CHS Ltd. Azad Nagar No 2, L.B.S Marg, Pachpakhadi, Thane West, 400601. Area 560 Sq ft",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "20-07-2026 05:30:00",
+      "auctionEndDateTime": "20-07-2026 09:30:00",
+      "emdStartDateTime": "06-07-2026 05:41:14",
+      "emdEndDateTime": "20-07-2026 09:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat no. 604 6th Floor A wing Matoshree Park, Survey no 2/3, 3/3 Village Jovelii, Taluka Ambernath Thane- 421501. Area 465 sq ft carpet.",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "20-07-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "20-07-2026 09:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "06-07-2026 05:41:36"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "20-07-2026 09:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/289258",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/06/289258/603372_compressed.jpg",
+    "source": "baanknet",
+    "city": "Ambarnath",
+    "raw": {
+      "propertyId": "289258",
+      "projectName": null,
+      "price": 2610000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/06/289258/603372_compressed.jpg",
+      "postedOn": "06-07-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Bank of Maharashtra",
+      "summaryDesc": "Flat no. 604 6th Floor A wing Matoshree Park, Survey no 2/3, 3/3 Village Jovelii, Taluka Ambernath Thane- 421501. Area 465 sq ft carpet.",
+      "city": "Ambarnath",
+      "cityID": "5443",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": null,
+      "carpetArea": 465.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": null,
+      "totalNoOfFloors": null,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "421501",
+      "bankPropertyId": "MAHBROSHANS",
+      "availablePhotosCount": 18,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat no. 604 6th Floor A wing Matoshree Park, Survey no 2/3, 3/3 Village Jovelii, Taluka Ambernath Thane- 421501. Area 465 sq ft carpet.",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "20-07-2026 05:30:00",
+      "auctionEndDateTime": "20-07-2026 09:30:00",
+      "emdStartDateTime": "06-07-2026 05:41:36",
+      "emdEndDateTime": "20-07-2026 09:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No 103, in old survey No 316, Hissa no 02, New Survey no 40, Hissa no 2, A wing, Medtiya Raviraj Residential complex, Mira Road (east)  - 401105",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "09-07-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "09-07-2026 09:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "06-07-2026 06:45:30"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "09-07-2026 09:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/119517",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/17/119517/526182_compressed.jpg",
+    "source": "baanknet",
+    "city": "Mira Bhayandar",
+    "raw": {
+      "propertyId": "119517",
+      "projectName": null,
+      "price": 7021000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/17/119517/526182_compressed.jpg",
+      "postedOn": "06-07-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Indian Overseas Bank",
+      "summaryDesc": "Flat No 103, in old survey No 316, Hissa no 02, New Survey no 40, Hissa no 2, A wing, Medtiya Raviraj Residential complex, Mira Road (east)  - 401105",
+      "city": "Mira Bhayandar",
+      "cityID": "5459",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": 2,
+      "carpetArea": 584.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": 1,
+      "totalNoOfFloors": 11,
+      "facing": "South-West",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "401105",
+      "bankPropertyId": "IOBA0973NISHA2",
+      "availablePhotosCount": 23,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "A - wing, building known as Medtiya Raviraj in the Medtiya Raviraj Residential Complex, Village- Goddeo , Taluka and District Thane",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "09-07-2026 05:30:00",
+      "auctionEndDateTime": "09-07-2026 09:30:00",
+      "emdStartDateTime": "06-07-2026 06:45:30",
+      "emdEndDateTime": "09-07-2026 09:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "Flat No 102, in old survey No 316, Hissa no 02, New Survey no 40, Hissa no 2, A wing, Medtiya Raviraj Residential complex, Mira Road (east) - 401105",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "09-07-2026 05:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "09-07-2026 09:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "06-07-2026 06:46:04"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "09-07-2026 09:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/112820",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/01/17/112820/526203_compressed.jpg",
+    "source": "baanknet",
+    "city": "Mira Bhayandar",
+    "raw": {
+      "propertyId": "112820",
+      "projectName": null,
+      "price": 7021000.0,
+      "pricePerSeqFit": null,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/01/17/112820/526203_compressed.jpg",
+      "postedOn": "06-07-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "Indian Overseas Bank",
+      "summaryDesc": "Flat No 102, in old survey No 316, Hissa no 02, New Survey no 40, Hissa no 2, A wing, Medtiya Raviraj Residential complex, Mira Road (east) - 401105",
+      "city": "Mira Bhayandar",
+      "cityID": "5459",
+      "stateID": 21,
+      "localities": null,
+      "noOfBedRoom": 2,
+      "carpetArea": 584.0,
+      "builtupArea": null,
+      "furnishedStatus": null,
+      "floorNo": 1,
+      "totalNoOfFloors": 11,
+      "facing": "East",
+      "amenities": null,
+      "isAuctioncreated": true,
+      "coordinate": null,
+      "pincode": "401105",
+      "bankPropertyId": "IOBA0973NISHARAJ",
+      "availablePhotosCount": 20,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "A - wing, building known as Medtiya Raviraj in the Medtiya Raviraj Residential Complex, Village- Goddeo , Taluka and District Thane",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": "09-07-2026 05:30:00",
+      "auctionEndDateTime": "09-07-2026 09:30:00",
+      "emdStartDateTime": "06-07-2026 06:46:04",
+      "emdEndDateTime": "09-07-2026 09:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": null,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
     "details": "Flat in Otur, Pune",
     "link": "https://findauction.in/auction/janatasahakaribank/flat-in-varad-residency-otur-pune-1707374",
     "photos": "",
@@ -1150,31 +1564,6 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Pen, Mumbai",
-    "link": "https://findauction.in/auction/grihumhousingfinance/shop-in-pen-mumbai-1707201",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "06 Aug 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Mumbai",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/grihumhousingfinance/shop-in-pen-mumbai-1707201",
-      "property_name": "Shop in Pen, Mumbai",
-      "price": "43,89,000",
-      "auction_date": "06 Aug 2026",
-      "city": "Mumbai",
-      "raw_text": "Shop in Pen, Mumbai Grihum Housing Finance 43,89,000 06 Aug 2026 200 Sq Ft Physical Possession View Auction"
-    },
-    "property_type": "Commercial",
-    "land_type": ""
-  },
-  {
     "details": "House in Murbad, Mumbai",
     "link": "https://findauction.in/auction/mintififinserve/house-in-murbad-mumbai-1707190",
     "photos": "",
@@ -1219,7 +1608,7 @@
       "price": "7,08,00,000Re auction - Same Price",
       "auction_date": "20 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Bungalow in Andheri East, Mumbai \ud83c\udfe2 Banoo Manor State Bank of India 7,08,00,000 Re auction - Same Price 20 Jul 2026 305.80 Sq Mtrs View Auction"
+      "raw_text": "Bungalow in Andheri East, Mumbai \ud83c\udfe2 Banoo Manor State Bank of India 7,08,00,000 Re auction - Same Price 20 Jul 2026 305.80 Sq Mtrs View Auction Promoted"
     },
     "property_type": "Bungalow",
     "land_type": ""
@@ -1250,31 +1639,6 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Powai, Andheri East",
-    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "21 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Mumbai",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
-      "property_name": "Flat in Powai, Andheri East",
-      "price": "2,05,00,000",
-      "auction_date": "21 Jul 2026",
-      "city": "Mumbai",
-      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "House in Vasai East, Mumbai",
     "link": "https://findauction.in/auction/canarabank/house-in-spring-field-vasai-east-mumbai-1707143",
     "photos": "",
@@ -1297,6 +1661,31 @@
       "raw_text": "House in Vasai East, Mumbai \ud83c\udfe2 Spring Field Canara Bank 31,82,000 07 Aug 2026 827 Sq Ft Symbolic Possession View Auction"
     },
     "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "21 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Mumbai",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
+      "auction_date": "21 Jul 2026",
+      "city": "Mumbai",
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
+    },
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -1525,13 +1914,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Powai, Andheri East",
-    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+    "details": "Land & Bungalow in Murbad, Mumbai",
+    "link": "https://findauction.in/auction/iob/land-and-bungalow-in-carino-casa-murbad-mumbai-1707106",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "23 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1539,14 +1928,39 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
-      "property_name": "Flat in Powai, Andheri East",
-      "price": "2,05,00,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/iob/land-and-bungalow-in-carino-casa-murbad-mumbai-1707106",
+      "property_name": "Land & Bungalow in Murbad, Mumbai",
+      "price": "7,05,83,000",
+      "auction_date": "23 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Land & Bungalow in Murbad, Mumbai \ud83c\udfe2 Carino Casa Indian Overseas Bank 7,05,83,000 23 Jul 2026 26396.68 Sq Mtrs Physical Possession View Auction"
     },
-    "property_type": "Flat",
+    "property_type": "Bungalow",
+    "land_type": ""
+  },
+  {
+    "details": "Bungalow in Andheri East, Mumbai",
+    "link": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "20 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Mumbai",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
+      "property_name": "Bungalow in Andheri East, Mumbai",
+      "price": "7,08,00,000",
+      "auction_date": "20 Jul 2026",
+      "city": "Mumbai",
+      "raw_text": "Bungalow in Andheri East, Mumbai \ud83c\udfe2 Banoo Manor State Bank of India 7,08,00,000 20 Jul 2026 305.80 Sq Mtrs View Auction Promoted"
+    },
+    "property_type": "Bungalow",
     "land_type": ""
   },
   {
@@ -1650,13 +2064,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "06 Jul 2026"
+        "value": "21 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1664,12 +2078,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
-      "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "14,00,000",
-      "auction_date": "06 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
+      "auction_date": "21 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Vardhaman Regency CHS ICICI Bank 14,00,000 06 Jul 2026 37.13 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1950,13 +2364,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
+    "details": "Flat in Badlapur West, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "14 Jul 2026"
+        "value": "10 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1964,37 +2378,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
-      "property_name": "Flat in Ambernath, Mumbai",
-      "price": "32,40,000",
-      "auction_date": "14 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+      "property_name": "Flat in Badlapur West, Mumbai",
+      "price": "19,00,000",
+      "auction_date": "10 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Mohan Suburbia ICICI Bank 32,40,000 14 Jul 2026 47.70 Sq Mtrs Physical Possession View Auction Promoted"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "details": "Flat in Badlapur East, Mumbai",
-    "link": "https://findauction.in/auction/tchfl/flat-in-vastu-hills-chs-badlapur-east-mumbai-1706861",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "11 Aug 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Mumbai",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/tchfl/flat-in-vastu-hills-chs-badlapur-east-mumbai-1706861",
-      "property_name": "Flat in Badlapur East, Mumbai",
-      "price": "26,21,700",
-      "auction_date": "11 Aug 2026",
-      "city": "Mumbai",
-      "raw_text": "Flat in Badlapur East, Mumbai \ud83c\udfe2 Vastu Hills CHS Tata Capital Housing Finance 26,21,700 11 Aug 2026 525 Sq Ft Physical Possession View Auction"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2075,31 +2464,6 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "10 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Mumbai",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
-      "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "19,00,000",
-      "auction_date": "10 Jul 2026",
-      "city": "Mumbai",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Vashi, Mumbai",
     "link": "https://findauction.in/auction/tjsbsahakaribank/flat-in-krishna-residency-vashi-mumbai-1706855",
     "photos": "",
@@ -2122,6 +2486,31 @@
       "raw_text": "Flat in Vashi, Mumbai \ud83c\udfe2 Krishna Residency tjsb sahakari bank 3,50,00,000 10% Drop from 3,87,00,000 28 Jul 2026 2150 Sq Ft Physical Possession View Auction"
     },
     "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Bungalow in Andheri East, Mumbai",
+    "link": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "20 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Mumbai",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
+      "property_name": "Bungalow in Andheri East, Mumbai",
+      "price": "7,08,00,000",
+      "auction_date": "20 Jul 2026",
+      "city": "Mumbai",
+      "raw_text": "Bungalow in Andheri East, Mumbai \ud83c\udfe2 Banoo Manor State Bank of India 7,08,00,000 20 Jul 2026 305.80 Sq Mtrs View Auction Promoted"
+    },
+    "property_type": "Bungalow",
     "land_type": ""
   },
   {
@@ -2370,6 +2759,31 @@
       "auction_date": "11 Aug 2026",
       "city": "Mumbai",
       "raw_text": "Flat in Badlapur East, Mumbai \ud83c\udfe2 Pathak Residency PNB Housing Finance 26,25,000 11 Aug 2026 371 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Badlapur West, Mumbai",
+    "link": "https://findauction.in/auction/pnbhousing/flat-in-shree-shulpani-badlapur-west-mumbai-1706799",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "11 Aug 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Mumbai",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/pnbhousing/flat-in-shree-shulpani-badlapur-west-mumbai-1706799",
+      "property_name": "Flat in Badlapur West, Mumbai",
+      "price": "25,26,000",
+      "auction_date": "11 Aug 2026",
+      "city": "Mumbai",
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Shree Shulpani PNB Housing Finance 25,26,000 11 Aug 2026 548 Sq Ft Physical Possession View Auction"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -3850,31 +4264,6 @@
     "land_type": ""
   },
   {
-    "details": "Row House in Pathardi, Nashik",
-    "link": "https://findauction.in/auction/truhomefinance/row-house-in-vighnaharta-row-houses-pathardi-nashik-1693730",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "10 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/truhomefinance/row-house-in-vighnaharta-row-houses-pathardi-nashik-1693730",
-      "property_name": "Row House in Pathardi, Nashik",
-      "price": "14,00,00044% Drop from25,13,200",
-      "auction_date": "10 Jul 2026",
-      "city": "Nashik",
-      "raw_text": "Row House in Pathardi, Nashik \ud83c\udfe2 Vighnaharta Row Houses truhome finance 14,00,000 44% Drop from 25,13,200 10 Jul 2026 30.48 Sq Mtrs Physical Possession View Auction"
-    },
-    "property_type": "Other",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Gangapur, Nashik",
     "link": "https://findauction.in/auction/axisbank/flat-in-sai-harsh-avenue-gangapur-nashik-1669904",
     "photos": "",
@@ -4075,31 +4464,6 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Dwarka, Nashik",
-    "link": "https://findauction.in/auction/centralbankofindia/shop-in-janaki-plaza-dwarka-nashik-1671539",
-    "photos": "",
-    "important_dates": [
-      {
-        "key": "auction_date",
-        "value": "10 Jul 2026"
-      }
-    ],
-    "emd_cost": "",
-    "source": "findauction",
-    "city": "Nashik",
-    "raw": {
-      "source": "findauction",
-      "property_url": "https://findauction.in/auction/centralbankofindia/shop-in-janaki-plaza-dwarka-nashik-1671539",
-      "property_name": "Shop in Dwarka, Nashik",
-      "price": "1,92,00,000",
-      "auction_date": "10 Jul 2026",
-      "city": "Nashik",
-      "raw_text": "Shop in Dwarka, Nashik \ud83c\udfe2 Janaki Plaza Central Bank of India 1,92,00,000 10 Jul 2026 2240 Sq Ft View Auction"
-    },
-    "property_type": "Commercial",
-    "land_type": ""
-  },
-  {
     "details": "Residential Row House in Jail Road, Nashik",
     "link": "https://findauction.in/auction/saraswatbank/residential-row-house-in-jail-road-nashik-1693157",
     "photos": "",
@@ -4247,6 +4611,56 @@
       "raw_text": "Plot in Kalwan, Nashik Bank of Maharashtra 35,43,000 30 Jul 2026 EMD 3,54,300 Physical Possession View Auction"
     },
     "property_type": "Plot",
+    "land_type": ""
+  },
+  {
+    "details": "Flat in Gangapur, Nashik",
+    "link": "https://findauction.in/auction/iiflhomefinance/flat-in-samrat-apna-ghar-gangapur-nashik-1689541",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "27 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/iiflhomefinance/flat-in-samrat-apna-ghar-gangapur-nashik-1689541",
+      "property_name": "Flat in Gangapur, Nashik",
+      "price": "42,75,000",
+      "auction_date": "27 Jul 2026",
+      "city": "Nashik",
+      "raw_text": "Flat in Gangapur, Nashik \ud83c\udfe2 Samrat Apna Ghar iifl home finance 42,75,000 27 Jul 2026 950 Sq Ft Physical Possession View Auction"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "details": "Row House in Pathardi, Nashik",
+    "link": "https://findauction.in/auction/truhomefinance/row-house-in-vighnaharta-row-houses-pathardi-nashik-1693730",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "10 Jul 2026"
+      }
+    ],
+    "emd_cost": "",
+    "source": "findauction",
+    "city": "Nashik",
+    "raw": {
+      "source": "findauction",
+      "property_url": "https://findauction.in/auction/truhomefinance/row-house-in-vighnaharta-row-houses-pathardi-nashik-1693730",
+      "property_name": "Row House in Pathardi, Nashik",
+      "price": "14,00,00044% Drop from25,13,200",
+      "auction_date": "10 Jul 2026",
+      "city": "Nashik",
+      "raw_text": "Row House in Pathardi, Nashik \ud83c\udfe2 Vighnaharta Row Houses truhome finance 14,00,000 44% Drop from 25,13,200 10 Jul 2026 30.48 Sq Mtrs Physical Possession View Auction"
+    },
+    "property_type": "Other",
     "land_type": ""
   },
   {
@@ -5026,12 +5440,12 @@
   },
   {
     "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
+    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "06 Jul 2026"
+        "value": "10 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -5039,12 +5453,12 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
       "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "14,00,000",
-      "auction_date": "06 Jul 2026",
+      "price": "19,00,000",
+      "auction_date": "10 Jul 2026",
       "city": "Thane",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Vardhaman Regency CHS ICICI Bank 14,00,000 06 Jul 2026 37.13 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -5151,12 +5565,12 @@
   },
   {
     "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+    "link": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "10 Jul 2026"
+        "value": "06 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -5164,12 +5578,12 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
       "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "19,00,000",
-      "auction_date": "10 Jul 2026",
+      "price": "14,00,000",
+      "auction_date": "06 Jul 2026",
       "city": "Thane",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Vardhaman Regency CHS ICICI Bank 14,00,000 06 Jul 2026 37.13 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -5451,12 +5865,12 @@
   },
   {
     "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
+    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "06 Jul 2026"
+        "value": "10 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -5464,12 +5878,12 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
       "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "14,00,000",
-      "auction_date": "06 Jul 2026",
+      "price": "19,00,000",
+      "auction_date": "10 Jul 2026",
       "city": "Thane",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Vardhaman Regency CHS ICICI Bank 14,00,000 06 Jul 2026 37.13 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -5576,12 +5990,12 @@
   },
   {
     "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+    "link": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "10 Jul 2026"
+        "value": "06 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -5589,12 +6003,12 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-vardhaman-regency-chs-badlapur-west-mumbai-1677716",
       "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "19,00,000",
-      "auction_date": "10 Jul 2026",
+      "price": "14,00,000",
+      "auction_date": "06 Jul 2026",
       "city": "Thane",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Vardhaman Regency CHS ICICI Bank 14,00,000 06 Jul 2026 37.13 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -16288,101 +16702,6 @@
     },
     "property_type": "Other",
     "land_type": ""
-  },
-  {
-    "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Q6qh%2FsfvhnkNokDRT9ZPlA%3D%3D",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "source": "mstc",
-    "city": "",
-    "raw": {
-      "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Q6qh%2FsfvhnkNokDRT9ZPlA%3D%3D",
-      "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-      "price": "",
-      "listing_id": "OLCHNMAXVADAMANAPAKKAM",
-      "address": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN"
-    },
-    "property_type": "Land",
-    "land_type": "Other"
-  },
-  {
-    "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oz%2BvrdEt%2FiYUAJqyG8pB5w%3D%3D",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "source": "mstc",
-    "city": "",
-    "raw": {
-      "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oz%2BvrdEt%2FiYUAJqyG8pB5w%3D%3D",
-      "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-      "price": "",
-      "listing_id": "OLCHNMAXVEDANTHANGAL",
-      "address": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR"
-    },
-    "property_type": "Land",
-    "land_type": "Other"
-  },
-  {
-    "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=3gQiChmA0%2FPL1ydmLOoUdw%3D%3D",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "source": "mstc",
-    "city": "",
-    "raw": {
-      "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=3gQiChmA0%2FPL1ydmLOoUdw%3D%3D",
-      "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-      "price": "",
-      "listing_id": "OLCHNMAXMELNALLI",
-      "address": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T"
-    },
-    "property_type": "Land",
-    "land_type": "Other"
-  },
-  {
-    "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=PaQ8B8hidn0lmrmBbtbCHg%3D%3D",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "source": "mstc",
-    "city": "",
-    "raw": {
-      "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=PaQ8B8hidn0lmrmBbtbCHg%3D%3D",
-      "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-      "price": "",
-      "listing_id": "OLCHNMAXTANJOREMANGO",
-      "address": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST"
-    },
-    "property_type": "Land",
-    "land_type": "Other"
-  },
-  {
-    "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=xfvj%2F62riHu2XlVrimIWyA%3D%3D",
-    "photos": "",
-    "important_dates": [],
-    "emd_cost": "",
-    "source": "mstc",
-    "city": "",
-    "raw": {
-      "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=xfvj%2F62riHu2XlVrimIWyA%3D%3D",
-      "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-      "price": "",
-      "listing_id": "OLCHNMAXMADURAI",
-      "address": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA"
-    },
-    "property_type": "Land",
-    "land_type": "Other"
   },
   {
     "details": "Property Bank Property ID:",
