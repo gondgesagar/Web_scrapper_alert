@@ -1,5 +1,177 @@
 [
   {
+    "emd_cost": null,
+    "details": "Flat No. 401, adm 1600 Sq. ft. of carpet area on the 4th floor together with four covered garages bearing Nos. 5,6,7 and 8 on the ground floor",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": false
+      }
+    ],
+    "link": "https://baanknet.com/view-property/226287",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/06/226287/603447_compressed.png",
+    "source": "baanknet",
+    "city": "Mumbai",
+    "raw": {
+      "propertyId": "226287",
+      "projectName": "DEVPOOJA CHS LTD",
+      "price": 135000000.0,
+      "pricePerSeqFit": 65000.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/06/226287/603447_compressed.png",
+      "postedOn": "07-07-2026",
+      "developerName": null,
+      "owenershipType": "Freehold",
+      "bankName": "State Bank of India",
+      "summaryDesc": "Flat No. 401, adm 1600 Sq. ft. of carpet area on the 4th floor together with four covered garages bearing Nos. 5,6,7 and 8 on the ground floor",
+      "city": "Mumbai",
+      "cityID": "5109",
+      "stateID": 21,
+      "localities": "Santacruz (West)",
+      "noOfBedRoom": 4,
+      "carpetArea": 1600.0,
+      "builtupArea": 1920.0,
+      "furnishedStatus": null,
+      "floorNo": 4,
+      "totalNoOfFloors": 9,
+      "facing": null,
+      "amenities": null,
+      "isAuctioncreated": false,
+      "coordinate": null,
+      "pincode": "400054",
+      "bankPropertyId": "SBIN77568635784",
+      "availablePhotosCount": 25,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No. 401, adm 1600 Sq. ft. of carpet area on the 4th floor together with four covered garages bearing Nos. 5,6,7 and 8 on the ground floor in the building known as \u201cDev Pooja\u201d Dev Pooja Co-operative Housing Society Limited, at North Avenue Road, Santacruz (West), Mumbai - 400054",
+      "statename": "Maharashtra",
+      "districtname": "Mumbai Suburban",
+      "inspectionStartDateTime": null,
+      "inspectionEndDateTime": null,
+      "auctionStartDateTime": null,
+      "auctionEndDateTime": null,
+      "emdStartDateTime": null,
+      "emdEndDateTime": null,
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": 4,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
+    "emd_cost": null,
+    "details": "1 BHK flat of 399 sq. Feet and terrace of 110 Sq feet at the 4th Floor",
+    "important_dates": [
+      {
+        "key": "isAuctioncreated",
+        "value": true
+      },
+      {
+        "key": "inspectionStartDateTime",
+        "value": "08-07-2026 06:30:00"
+      },
+      {
+        "key": "inspectionEndDateTime",
+        "value": "08-07-2026 10:30:00"
+      },
+      {
+        "key": "auctionStartDateTime",
+        "value": "13-07-2026 04:30:00"
+      },
+      {
+        "key": "auctionEndDateTime",
+        "value": "13-07-2026 12:30:00"
+      },
+      {
+        "key": "emdStartDateTime",
+        "value": "07-07-2026 06:01:18"
+      },
+      {
+        "key": "emdEndDateTime",
+        "value": "13-07-2026 12:30:00"
+      }
+    ],
+    "link": "https://baanknet.com/view-property/289145",
+    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/07/289145/604094_compressed.jpg",
+    "source": "baanknet",
+    "city": "Navi Mumbai",
+    "raw": {
+      "propertyId": "289145",
+      "projectName": "Satyaketu Complex Co-Operative Housing Society",
+      "price": 4518000.0,
+      "pricePerSeqFit": 9400.0,
+      "propertySubTypeId": "1",
+      "propertySubType": "Flat",
+      "propertyStatus": null,
+      "typeOfAsset": "Immovable",
+      "possessionType": "Physical",
+      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/07/289145/604094_compressed.jpg",
+      "postedOn": "07-07-2026",
+      "developerName": "Satyaketu",
+      "owenershipType": "Co-op Society",
+      "bankName": "Central Bank of India",
+      "summaryDesc": "1 BHK flat of 399 sq. Feet and terrace of 110 Sq feet at the 4th Floor",
+      "city": "Navi Mumbai",
+      "cityID": "5461",
+      "stateID": 21,
+      "localities": "Sector -35, Kamothe",
+      "noOfBedRoom": 1,
+      "carpetArea": 510.0,
+      "builtupArea": 533.0,
+      "furnishedStatus": "Semi-Furnished",
+      "floorNo": 4,
+      "totalNoOfFloors": 4,
+      "facing": "North",
+      "amenities": [
+        "Reserved Parking",
+        "Piped Gas",
+        "Park",
+        "Kids play area"
+      ],
+      "isAuctioncreated": true,
+      "coordinate": {
+        "lon": 73.0901,
+        "lat": 19.0225
+      },
+      "pincode": "410209",
+      "bankPropertyId": "CBIN1894616vinod",
+      "availablePhotosCount": 12,
+      "isPhotosAvailable": true,
+      "unitOfMeasureId": "1",
+      "unitOfMeasure": "sq feet",
+      "percentageOfLoan": null,
+      "isLoanAvailable": null,
+      "typeOfAction": "1",
+      "isPPVCRequest": true,
+      "address": "Flat No E-405, 4th Floor, Satyaketu Complex Co-operative Society , Sector -35, Opposite Kamothe Police Station, Taluka - Panvel, District - Raigad -410209",
+      "statename": "Maharashtra",
+      "districtname": "Thane",
+      "inspectionStartDateTime": "08-07-2026 06:30:00",
+      "inspectionEndDateTime": "08-07-2026 10:30:00",
+      "auctionStartDateTime": "13-07-2026 04:30:00",
+      "auctionEndDateTime": "13-07-2026 12:30:00",
+      "emdStartDateTime": "07-07-2026 06:01:18",
+      "emdEndDateTime": "13-07-2026 12:30:00",
+      "drtlocation": null,
+      "roname": null,
+      "noOfCarParking": 1,
+      "source": "baanknet"
+    },
+    "property_type": "Flat",
+    "land_type": ""
+  },
+  {
     "details": "Flat in Jalochi, Baramati",
     "link": "https://findauction.in/auction/hindujahousingfinance/flat-in-jalochi-baramati-1709688",
     "photos": "",
@@ -1250,13 +1422,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Powai, Andheri East",
-    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+    "details": "Flat in Ambernath, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "14 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1264,12 +1436,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
-      "property_name": "Flat in Powai, Andheri East",
-      "price": "2,05,00,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
+      "property_name": "Flat in Ambernath, Mumbai",
+      "price": "32,40,000",
+      "auction_date": "14 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Mohan Suburbia ICICI Bank 32,40,000 14 Jul 2026 47.70 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1950,13 +2122,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "10 Jul 2026"
+        "value": "21 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1964,12 +2136,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
-      "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "19,00,000",
-      "auction_date": "10 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
+      "auction_date": "21 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2075,13 +2247,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Powai, Andheri East",
-    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+    "details": "Flat in Ambernath, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "14 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2089,12 +2261,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
-      "property_name": "Flat in Powai, Andheri East",
-      "price": "2,05,00,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
+      "property_name": "Flat in Ambernath, Mumbai",
+      "price": "32,40,000",
+      "auction_date": "14 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Mohan Suburbia ICICI Bank 32,40,000 14 Jul 2026 47.70 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -16531,7 +16703,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=XAw2YhF8hsDzfku6KhJa%2Bw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=zVkmIPJpV55HeE6%2FHOP7xQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16539,7 +16711,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=XAw2YhF8hsDzfku6KhJa%2Bw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=zVkmIPJpV55HeE6%2FHOP7xQ%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -16550,7 +16722,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2BN34mWOZXBp1N3hMEfHtbA%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=9YoQD3e0kgtPXxExyaj3JQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16558,7 +16730,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2BN34mWOZXBp1N3hMEfHtbA%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=9YoQD3e0kgtPXxExyaj3JQ%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -16569,7 +16741,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=c%2FEHopD%2Bp%2Bmfw4WHzpEyBQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=X8Yvb%2Bu4mBbj4omB3J%2B7bw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16577,7 +16749,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=c%2FEHopD%2Bp%2Bmfw4WHzpEyBQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=X8Yvb%2Bu4mBbj4omB3J%2B7bw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
@@ -16588,7 +16760,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Y6u0xoRumkF351YYTD5P2w%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=NaDf1H8br%2BVkIQtZsgAndQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16596,7 +16768,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Y6u0xoRumkF351YYTD5P2w%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=NaDf1H8br%2BVkIQtZsgAndQ%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
       "price": "",
       "listing_id": "OLCHNMAXTANJOREMANGO",
@@ -16607,7 +16779,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=sX1CtG4mpSW8sFaMWfSM7Q%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oc35fix%2BvFoEPlEq%2B62tHA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -16615,7 +16787,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=sX1CtG4mpSW8sFaMWfSM7Q%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oc35fix%2BvFoEPlEq%2B62tHA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
       "price": "",
       "listing_id": "OLCHNMAXMADURAI",
