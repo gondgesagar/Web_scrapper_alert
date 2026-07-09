@@ -1,581 +1,5 @@
 [
   {
-    "emd_cost": null,
-    "details": null,
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "21-07-2026 04:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "21-07-2026 12:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "09-07-2026 08:07:07"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "21-07-2026 12:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/285042",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/285042/585150_compressed.jpg",
-    "source": "baanknet",
-    "city": "Akola",
-    "raw": {
-      "propertyId": "285042",
-      "projectName": null,
-      "price": 2450000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/05/26/285042/585150_compressed.jpg",
-      "postedOn": "09-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Central Bank of India",
-      "summaryDesc": null,
-      "city": "Akola",
-      "cityID": "4861",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 498.45,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": null,
-      "pincode": "444002",
-      "bankPropertyId": "CBIN5778518443RLT",
-      "availablePhotosCount": 13,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "2",
-      "unitOfMeasure": "sq meter",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "SHEDULE OF PLOT PROPERTY\r\nAll the part and parcel of Plot No. 16, admeasuring 4600.00 Sq. Ft i.e. 427.50 Sq. Mtr. out of Field Survey No. 8/1 (As per computerizes 7/12 extract file Survey No. 8/1/16/A) situated at Mouje Khadki Bu., Tq and Dist. Akola. Within Municipal Corporation Akola. The area of the said plot is and the boundaries of the said plot are as under.\r\nBoundaries: \r\nEast : Layout Plot No. 17\r\nWest : 09 Meter Layout Road\r\nNorth : 09 Meter Layout Road\r\nSouth : Open Space\r\nDESCRIPTION OF FLAT\r\nName of the Property Owner: Mr. Chandrakant Ravindra Damodar.\r\nAll the part and parcel of Flat No. F-204 on Second Floor, having built up area 70.95 Sq. Mtr, Super built up area 85.14 Sq. Mt., with carpet area 56.76 Sq. Mt. in the apartment known as \u201cRADHA KRUSHNA HEIGHTS\u201d consisting of One Drawing Room, Two bed rooms, Passage, One Kitchen, Two W.C + Bath and Balconies measuring total super built up area of Flat 85.14 Sq. Mtr. Along with a proportionate undivided share of land 29.98 Sq. Mt. and which is bounded by:\r\nBoundaries:\r\nEast : Flat No. F203\r\nWest : Marginal Distance \u2013 Layout Road\r\nNorth : Staircase \u2013 Flat No. F201\r\nSouth : Marginal Distance",
-      "statename": "Maharashtra",
-      "districtname": "Akola",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": "21-07-2026 04:30:00",
-      "auctionEndDateTime": "21-07-2026 12:30:00",
-      "emdStartDateTime": "09-07-2026 08:07:07",
-      "emdEndDateTime": "21-07-2026 12:30:00",
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No. 302 on the third floor of the building in the \u201cSairam Apartment\u201d out of Plot No. 2 & 3 of Gat No. 2045A/2",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/289689",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289689/605736_compressed.jpg",
-    "source": "baanknet",
-    "city": "Palus",
-    "raw": {
-      "propertyId": "289689",
-      "projectName": null,
-      "price": 2600000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289689/605736_compressed.jpg",
-      "postedOn": "09-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "Flat No. 302 on the third floor of the building in the \u201cSairam Apartment\u201d out of Plot No. 2 & 3 of Gat No. 2045A/2",
-      "city": "Palus",
-      "cityID": "5369",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 624.72,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "416310",
-      "bankPropertyId": "MAHBARBTAHIR",
-      "availablePhotosCount": 10,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All the Piece & Parcels of Residential Flat No. 302 on the third floor of the building in the \u201cSairam Apartment\u201d out of Plot No. 2 & 3 of Gat No. 2045A/2 jointly owned by Mr. Tahir Sikandar Nadaf & Mrs. Bebijan Sikandar Nadaf.",
-      "statename": "Maharashtra",
-      "districtname": "Sangli",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "All the Pieces & Parcel of Plot area adm 200 Sq mt having House Adm 318.65 Sq Mtrs constructed on S No 13 Hissa No 4B/1A/1B/1/1/2 in Building named \"Anand Niwas\" in Ajinkya Colony Vitthal Nagar off Pune Solapur Road Village Hadapsar Taluka Haveli District Pune",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/290003",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/290003/605758_compressed.jpg",
-    "source": "baanknet",
-    "city": "Pune",
-    "raw": {
-      "propertyId": "290003",
-      "projectName": null,
-      "price": 11752000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "2",
-      "propertySubType": "Individual House",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/290003/605758_compressed.jpg",
-      "postedOn": "09-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "All the Pieces & Parcel of Plot area adm 200 Sq mt having House Adm 318.65 Sq Mtrs constructed on S No 13 Hissa No 4B/1A/1B/1/1/2 in Building named \"Anand Niwas\" in Ajinkya Colony Vitthal Nagar off Pune Solapur Road Village Hadapsar Taluka Haveli District Pune",
-      "city": "Pune",
-      "cityID": "5286",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 245.11,
-      "builtupArea": 319.0,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "411028",
-      "bankPropertyId": "MAHBARBSHREEGANESH",
-      "availablePhotosCount": 26,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "2",
-      "unitOfMeasure": "sq meter",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All the Pieces & Parcel of Plot adm 200 Sq mt having House Adm 318.65 Sq Mtrs constructed on S No 13 Hissa No 4B/1A/1B/1/1/2 in Building named \"Anand Niwas\" in Ajinkya Colony Vitthal Nagar off Pune Solapur Road Village Hadapsar Taluka Haveli District Pune",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Plot",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No. 7 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A and Constructed on the property all that piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/289730",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289730/605610_compressed.jpg",
-    "source": "baanknet",
-    "city": "Pune",
-    "raw": {
-      "propertyId": "289730",
-      "projectName": null,
-      "price": 2915000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289730/605610_compressed.jpg",
-      "postedOn": "09-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "Flat No. 7 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A and Constructed on the property all that piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-      "city": "Pune",
-      "cityID": "5286",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 647.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "411041",
-      "bankPropertyId": "MAHBARBRAMESH4",
-      "availablePhotosCount": 23,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All that piece and parcel of property bearing Flat No. 7 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A admeasuring about area of the flat is  647 Sq. Ft. and Constructed on the property all that piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No. 6 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A aConstructed on the property all that piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/289728",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289728/605580_compressed.jpg",
-    "source": "baanknet",
-    "city": "Pune",
-    "raw": {
-      "propertyId": "289728",
-      "projectName": null,
-      "price": 2915000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289728/605580_compressed.jpg",
-      "postedOn": "09-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "Flat No. 6 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A aConstructed on the property all that piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-      "city": "Pune",
-      "cityID": "5286",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 647.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "411041",
-      "bankPropertyId": "MAHBARBRAMESH3",
-      "availablePhotosCount": 25,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All that piece and parcel of property bearing Flat No. 6 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A admeasuring about area of the flat is 647 Sq. Ft. and Constructed on the property all that piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No.5 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A Constructed on the property all that piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/289720",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289720/605559_compressed.jpg",
-    "source": "baanknet",
-    "city": "Pune",
-    "raw": {
-      "propertyId": "289720",
-      "projectName": null,
-      "price": 2845000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289720/605559_compressed.jpg",
-      "postedOn": "09-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "Flat No.5 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A Constructed on the property all that piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-      "city": "Pune",
-      "cityID": "5286",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 632.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "411041",
-      "bankPropertyId": "MAHBARBRAMESH2",
-      "availablePhotosCount": 24,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All that piece and parcel of property bearing Flat No.5 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A admeasuring about area of the flat is 632 Sq. Ft. and Constructed on the property all that piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No.1 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A Constructed on the property. All that Piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/289715",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289715/605532_compressed.jpg",
-    "source": "baanknet",
-    "city": "Pune",
-    "raw": {
-      "propertyId": "289715",
-      "projectName": null,
-      "price": 2875000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289715/605532_compressed.jpg",
-      "postedOn": "09-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "Flat No.1 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A Constructed on the property. All that Piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune",
-      "city": "Pune",
-      "cityID": "5286",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 638.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "411041",
-      "bankPropertyId": "MAHBARBRAMESH1",
-      "availablePhotosCount": 25,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All that piece and parcel of property bearing Flat no. 2 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A admeasuring about area of the flat is  638 Sq. Ft. and Constructed on the property. All that Piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "Flat No.1 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A  Constructed on the property. All that Piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/289708",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289708/605507_compressed.jpg",
-    "source": "baanknet",
-    "city": "Pune",
-    "raw": {
-      "propertyId": "289708",
-      "projectName": null,
-      "price": 2825000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/09/289708/605507_compressed.jpg",
-      "postedOn": "09-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Maharashtra",
-      "summaryDesc": "Flat No.1 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A  Constructed on the property. All that Piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune",
-      "city": "Pune",
-      "cityID": "5286",
-      "stateID": 21,
-      "localities": null,
-      "noOfBedRoom": null,
-      "carpetArea": 627.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "North",
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": null,
-      "pincode": "411041",
-      "bankPropertyId": "MAHBARBRAMESH",
-      "availablePhotosCount": 26,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "All that piece and parcel of property bearing Flat No.1 on the 2nd floor of the Building Known as \"Ranawade Patil Estate\" Wing - A admeasuring about area of the flat is 627 Sq. Ft. and Constructed on the property. All that Piece and parcel of the Land bearing S. No. 55/2/2, Narhe, Pune.",
-      "statename": "Maharashtra",
-      "districtname": "Pune",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Flat in Undri, Pune",
     "link": "https://findauction.in/auction/unionbankofindia/flat-in-bianca-building-undri-pune-1711290",
     "photos": "",
@@ -701,13 +125,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Mulshi, Pune",
-    "link": "https://findauction.in/auction/icicibank/flat-in-eknath-aaher-vaibha-mulshi-pune-1699967",
+    "details": "Flat in Mangalwar Peth, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-rajyog-apartment-mangalwar-peth-pune-1695166",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "15 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -715,12 +139,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-eknath-aaher-vaibha-mulshi-pune-1699967",
-      "property_name": "Flat in Mulshi, Pune",
-      "price": "12,00,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-rajyog-apartment-mangalwar-peth-pune-1695166",
+      "property_name": "Flat in Mangalwar Peth, Pune",
+      "price": "42,60,000",
+      "auction_date": "15 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Mulshi, Pune \ud83c\udfe2 Eknath Aaher Vaibha ICICI Bank 12,00,000 21 Jul 2026 525 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Mangalwar Peth, Pune \ud83c\udfe2 Rajyog Apartment ICICI Bank 42,60,000 15 Jul 2026 463 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -976,8 +400,8 @@
     "land_type": ""
   },
   {
-    "details": "Office in Baramati, Pune",
-    "link": "https://findauction.in/auction/icicibank/office-in-business-court-baramati-pune-1699961",
+    "details": "Office in Moshi, Pune",
+    "link": "https://findauction.in/auction/icicibank/office-in-moshi-pune-1699969",
     "photos": "",
     "important_dates": [
       {
@@ -990,12 +414,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/office-in-business-court-baramati-pune-1699961",
-      "property_name": "Office in Baramati, Pune",
-      "price": "87,50,000",
+      "property_url": "https://findauction.in/auction/icicibank/office-in-moshi-pune-1699969",
+      "property_name": "Office in Moshi, Pune",
+      "price": "30,00,000",
       "auction_date": "21 Jul 2026",
       "city": "Pune",
-      "raw_text": "Office in Baramati, Pune \ud83c\udfe2 Business Court ICICI Bank 87,50,000 21 Jul 2026 21.74 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Office in Moshi, Pune ICICI Bank 30,00,000 21 Jul 2026 36.13 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Commercial",
     "land_type": ""
@@ -1101,13 +525,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Lohegaon, Pune",
-    "link": "https://findauction.in/auction/icicibank/flat-in-nivasa-udaan-lohegaon-pune-1693725",
+    "details": "Flat in Ganj Peth, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-ganj-peth-pune-1703614",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "15 Jul 2026"
+        "value": "22 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1115,12 +539,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-nivasa-udaan-lohegaon-pune-1693725",
-      "property_name": "Flat in Lohegaon, Pune",
-      "price": "31,50,000",
-      "auction_date": "15 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-ganj-peth-pune-1703614",
+      "property_name": "Flat in Ganj Peth, Pune",
+      "price": "57,00,000",
+      "auction_date": "22 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Lohegaon, Pune \ud83c\udfe2 Nivasa Udaan ICICI Bank 31,50,000 15 Jul 2026 31.15 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ganj Peth, Pune ICICI Bank 57,00,000 22 Jul 2026 1200 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1401,13 +825,13 @@
     "land_type": "Other"
   },
   {
-    "details": "Flat in Rajgurunagar, Khed",
-    "link": "https://findauction.in/auction/icicibank/flat-in-shiv-sai-apartment-rajgurunagar-khed-1699952",
+    "details": "Flat in Ganj Peth, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-ganj-peth-pune-1703614",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "22 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1415,12 +839,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-shiv-sai-apartment-rajgurunagar-khed-1699952",
-      "property_name": "Flat in Rajgurunagar, Khed",
-      "price": "12,50,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-ganj-peth-pune-1703614",
+      "property_name": "Flat in Ganj Peth, Pune",
+      "price": "57,00,000",
+      "auction_date": "22 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Rajgurunagar, Khed \ud83c\udfe2 Shiv Sai Apartment ICICI Bank 12,50,000 21 Jul 2026 529 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ganj Peth, Pune ICICI Bank 57,00,000 22 Jul 2026 1200 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1526,13 +950,13 @@
     "land_type": ""
   },
   {
-    "details": "Office in Baramati, Pune",
-    "link": "https://findauction.in/auction/icicibank/office-in-business-court-baramati-pune-1699961",
+    "details": "Flat in Lohegaon, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-nivasa-udaan-lohegaon-pune-1693725",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "15 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1540,14 +964,14 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/office-in-business-court-baramati-pune-1699961",
-      "property_name": "Office in Baramati, Pune",
-      "price": "87,50,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-nivasa-udaan-lohegaon-pune-1693725",
+      "property_name": "Flat in Lohegaon, Pune",
+      "price": "31,50,000",
+      "auction_date": "15 Jul 2026",
       "city": "Pune",
-      "raw_text": "Office in Baramati, Pune \ud83c\udfe2 Business Court ICICI Bank 87,50,000 21 Jul 2026 21.74 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Lohegaon, Pune \ud83c\udfe2 Nivasa Udaan ICICI Bank 31,50,000 15 Jul 2026 31.15 Sq Mtrs Physical Possession View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -1951,13 +1375,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Thane West, Mumbai",
-    "link": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
+    "details": "Bungalow in Andheri East, Mumbai",
+    "link": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "27 Jul 2026"
+        "value": "20 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1965,14 +1389,14 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
-      "property_name": "Shop in Thane West, Mumbai",
-      "price": "4,83,00,000",
-      "auction_date": "27 Jul 2026",
+      "property_url": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
+      "property_name": "Bungalow in Andheri East, Mumbai",
+      "price": "7,08,00,000",
+      "auction_date": "20 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Shop in Thane West, Mumbai \ud83c\udfe2 Anmol Mansion Kotak Mahindra Bank 4,83,00,000 27 Jul 2026 1043 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Bungalow in Andheri East, Mumbai \ud83c\udfe2 Banoo Manor State Bank of India 7,08,00,000 20 Jul 2026 305.80 Sq Mtrs View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Bungalow",
     "land_type": ""
   },
   {
@@ -2226,13 +1650,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
+    "details": "Flat in Badlapur West, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "14 Jul 2026"
+        "value": "10 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2240,12 +1664,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
-      "property_name": "Flat in Ambernath, Mumbai",
-      "price": "32,40,000",
-      "auction_date": "14 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+      "property_name": "Flat in Badlapur West, Mumbai",
+      "price": "19,00,000",
+      "auction_date": "10 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Mohan Suburbia ICICI Bank 32,40,000 14 Jul 2026 47.70 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2651,13 +2075,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ghansoli, Mumbai",
-    "link": "https://findauction.in/auction/idfcfirstbank/flat-in-ghansoli-mumbai-1709852",
+    "details": "Flat in Badlapur West, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "28 Jul 2026"
+        "value": "10 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2665,12 +2089,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/idfcfirstbank/flat-in-ghansoli-mumbai-1709852",
-      "property_name": "Flat in Ghansoli, Mumbai",
-      "price": "48,67,128",
-      "auction_date": "28 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+      "property_name": "Flat in Badlapur West, Mumbai",
+      "price": "19,00,000",
+      "auction_date": "10 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ghansoli, Mumbai IDFC FIRST Bank 48,67,128 28 Jul 2026 23.890 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -6151,13 +5575,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Badlapur West, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+    "details": "Shop in Thane West, Mumbai",
+    "link": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "10 Jul 2026"
+        "value": "27 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -6165,14 +5589,14 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
-      "property_name": "Flat in Badlapur West, Mumbai",
-      "price": "19,00,000",
-      "auction_date": "10 Jul 2026",
+      "property_url": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
+      "property_name": "Shop in Thane West, Mumbai",
+      "price": "4,83,00,000",
+      "auction_date": "27 Jul 2026",
       "city": "Thane",
-      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Shop in Thane West, Mumbai \ud83c\udfe2 Anmol Mansion Kotak Mahindra Bank 4,83,00,000 27 Jul 2026 1043 Sq Ft Physical Possession View Auction Promoted"
     },
-    "property_type": "Flat",
+    "property_type": "Commercial",
     "land_type": ""
   },
   {
@@ -6276,13 +5700,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Thane West, Mumbai",
-    "link": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
+    "details": "Flat in Badlapur West, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "27 Jul 2026"
+        "value": "10 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -6290,14 +5714,14 @@
     "city": "Thane",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
-      "property_name": "Shop in Thane West, Mumbai",
-      "price": "4,83,00,000",
-      "auction_date": "27 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-aquamarine-badlapur-west-mumbai-1689522",
+      "property_name": "Flat in Badlapur West, Mumbai",
+      "price": "19,00,000",
+      "auction_date": "10 Jul 2026",
       "city": "Thane",
-      "raw_text": "Shop in Thane West, Mumbai \ud83c\udfe2 Anmol Mansion Kotak Mahindra Bank 4,83,00,000 27 Jul 2026 1043 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Badlapur West, Mumbai \ud83c\udfe2 Aquamarine ICICI Bank 19,00,000 10 Jul 2026 643 Sq Ft Physical Possession View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -17282,7 +16706,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=jWGDN7xJMWnR6Yf9uiDsWw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=MfERhLdwbhq%2BKdi5p1H9aw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17290,7 +16714,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=jWGDN7xJMWnR6Yf9uiDsWw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=MfERhLdwbhq%2BKdi5p1H9aw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -17301,7 +16725,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=s4KtUrE8J6F9qYEjl0YEHA%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=bpynvPxu1mk%2FZXPf7pixZw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17309,7 +16733,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=s4KtUrE8J6F9qYEjl0YEHA%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=bpynvPxu1mk%2FZXPf7pixZw%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -17320,7 +16744,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=LeT8E2FvK5tqoM4BqPc5gw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=XyWy5ViFjm%2F3Z8FDhlyzYQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17328,7 +16752,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=LeT8E2FvK5tqoM4BqPc5gw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=XyWy5ViFjm%2F3Z8FDhlyzYQ%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
@@ -17339,7 +16763,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2BDjwaT%2FptGtbC15k%2Fcqbcg%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=WyW53nVPydhmLuvwVqbrBA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17347,7 +16771,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2BDjwaT%2FptGtbC15k%2Fcqbcg%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=WyW53nVPydhmLuvwVqbrBA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 55.58 ACRES SITUATED AT SENGIPATTI VILLAGE BUDALUR TALUK THANJAVUR DIST",
       "price": "",
       "listing_id": "OLCHNMAXTANJOREMANGO",
@@ -17358,7 +16782,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=lQl6IIUhdtQkOtHGY%2Bfxng%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=DgyYSP2SMrW%2BGTSHXmcayA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17366,7 +16790,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=lQl6IIUhdtQkOtHGY%2Bfxng%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=DgyYSP2SMrW%2BGTSHXmcayA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 60.405 ACRES SITUATED AT NALLUR VILLAGE MADURAI SOUTH TALUK AND  ERUKKA",
       "price": "",
       "listing_id": "OLCHNMAXMADURAI",
