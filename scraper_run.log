@@ -2,24 +2,19 @@ Fetching Maharashtra pincodes (attempt 1/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
-  [DEBUG] Captured 10 items from: https://baanknet.com/eauction-psb/api/property-listing-data/1?page=0&size=10
+  [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.
   [DEBUG] Paginating https://baanknet.com/eauction-psb/api/property-listing-data/1
   [WARN] BAANKNET pagination failed at page 0: APIRequestContext.post: unable to verify the first certificate
 Call log:
 → POST https://baanknet.com/eauction-psb/api/property-listing-data/1?page=0&size=50
   -   user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/130.0.6723.31 Safari/537.36
-  -   accept: application/json, text/plain, */*
+  -   accept: */*
   -   accept-encoding: gzip,deflate,br
-  -   sec-ch-ua-platform: "Linux"
-  -   referer: https://baanknet.com/property-listing
-  -   sec-ch-ua: "Chromium";v="130", "HeadlessChrome";v="130", "Not?A_Brand";v="99"
-  -   content-type: application/json
-  -   sec-ch-ua-mobile: ?0
-  -   content-length: 105
-  -   cookie: JSESSIONID=f4585e2b-98f0-4b78-b614-1b0541c706ce; language=en; languageId=1; _ga=GA1.1.970847567.1783683350; _ga_SZ8S2EHDZY=GS2.1.s1783683350$o1$g0$t1783683350$j60$l0$h0; XSRF-TOKEN=6aa0276b-f170-458a-8c2e-fb02a16a2cb8
+  -   Content-Type: application/json
+  -   content-length: 15
 
-  [INFO] BAANKNET total unique items: 10
-  baanknet: 10 raw items
+  [WARN] No baanknet payloads captured.
+  baanknet: 0 raw items
 Fetching eAuctions India...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/bhiwandi
@@ -98,18 +93,18 @@ Fetching FindAuction.in (Maharashtra cities)...
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: 10 schemes
-  mhada/Nashik: no tender table found
+  mhada/Nashik: 10 schemes
   mhada/Konkan Shops: no tender table found
-  mhada: 20 total listings
-  mhada: 20 items
+  mhada: 30 total listings
+  mhada: 30 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 17 listings
   mstc: 17 items
 Combined raw items from all sources: 692
-Processing stats: 683 total items, 683 new, -220 duplicates skipped
+Processing stats: 692 total items, 692 new, -221 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 463 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 192/683 items remain
-Saved 9 pincodes to cache.
+Saved state with 471 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 192/692 items remain
+Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=192
-Wrote 683 items to data/property_listings.json
+Wrote 692 items to data/property_listings.json
