@@ -1,102 +1,5 @@
 [
   {
-    "emd_cost": null,
-    "details": "Its a residential flat having all basic amenities at nearby.",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "22-07-2026 09:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "22-07-2026 10:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "31-07-2026 08:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "31-07-2026 12:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "10-07-2026 11:53:02"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "31-07-2026 12:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/289652",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/10/289652/606251_compressed.png",
-    "source": "baanknet",
-    "city": "Vasai Virar",
-    "raw": {
-      "propertyId": "289652",
-      "projectName": null,
-      "price": 3410000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/10/289652/606251_compressed.png",
-      "postedOn": "10-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Bank of Baroda",
-      "summaryDesc": "Its a residential flat having all basic amenities at nearby.",
-      "city": "Vasai Virar",
-      "cityID": "5242",
-      "stateID": 21,
-      "localities": "VASAI WEST",
-      "noOfBedRoom": null,
-      "carpetArea": 450.0,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": "East",
-      "amenities": null,
-      "isAuctioncreated": true,
-      "coordinate": {
-        "lon": 78.4083,
-        "lat": 23.2481
-      },
-      "pincode": "401209",
-      "bankPropertyId": "BARBPOLYENTERPRISES",
-      "availablePhotosCount": 14,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "1",
-      "unitOfMeasure": "sq feet",
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "FLAT NO B 202 BUILDING NO 7 GOKUL AANGAN CHSL KRISHNA TOWNSHIP NEAR SURYA GARDEN VASAI WEST THANE 401209",
-      "statename": "Maharashtra",
-      "districtname": "Palghar",
-      "inspectionStartDateTime": "22-07-2026 09:30:00",
-      "inspectionEndDateTime": "22-07-2026 10:30:00",
-      "auctionStartDateTime": "31-07-2026 08:30:00",
-      "auctionEndDateTime": "31-07-2026 12:30:00",
-      "emdStartDateTime": "10-07-2026 11:53:02",
-      "emdEndDateTime": "31-07-2026 12:30:00",
-      "drtlocation": null,
-      "roname": null,
-      "noOfCarParking": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
     "details": "Plot in Lohegaon, Pune",
     "link": "https://findauction.in/auction/pegasusarc/plot-in-lohegaon-pune-1693701",
     "photos": "",
@@ -222,13 +125,13 @@
     "land_type": "Other"
   },
   {
-    "details": "Flat in Mulshi, Pune",
-    "link": "https://findauction.in/auction/icicibank/flat-in-eknath-aaher-vaibha-mulshi-pune-1699967",
+    "details": "Flat in Wanawadi, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1695416",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "17 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -236,12 +139,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-eknath-aaher-vaibha-mulshi-pune-1699967",
-      "property_name": "Flat in Mulshi, Pune",
-      "price": "12,00,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1695416",
+      "property_name": "Flat in Wanawadi, Pune",
+      "price": "1,00,00,000",
+      "auction_date": "17 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Mulshi, Pune \ud83c\udfe2 Eknath Aaher Vaibha ICICI Bank 12,00,000 21 Jul 2026 525 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Wanawadi, Pune \ud83c\udfe2 Arihant Elite ICICI Bank 1,00,00,000 17 Jul 2026 99.30 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -497,13 +400,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Rajgurunagar, Khed",
-    "link": "https://findauction.in/auction/icicibank/flat-in-shiv-sai-apartment-rajgurunagar-khed-1699952",
+    "details": "Flat in Ganj Peth, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-ganj-peth-pune-1703614",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "22 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -511,12 +414,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-shiv-sai-apartment-rajgurunagar-khed-1699952",
-      "property_name": "Flat in Rajgurunagar, Khed",
-      "price": "12,50,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-ganj-peth-pune-1703614",
+      "property_name": "Flat in Ganj Peth, Pune",
+      "price": "57,00,000",
+      "auction_date": "22 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Rajgurunagar, Khed \ud83c\udfe2 Shiv Sai Apartment ICICI Bank 12,50,000 21 Jul 2026 529 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ganj Peth, Pune ICICI Bank 57,00,000 22 Jul 2026 1200 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -622,13 +525,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Yewalewadi, Pune",
-    "link": "https://findauction.in/auction/icicibank/flat-in-vrindavan-regency-yewalewadi-pune-1699964",
+    "details": "Flat in Wanawadi, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1695416",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "17 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -636,12 +539,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-vrindavan-regency-yewalewadi-pune-1699964",
-      "property_name": "Flat in Yewalewadi, Pune",
-      "price": "24,80,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1695416",
+      "property_name": "Flat in Wanawadi, Pune",
+      "price": "1,00,00,000",
+      "auction_date": "17 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Yewalewadi, Pune \ud83c\udfe2 Vrindavan Regency ICICI Bank 24,80,000 21 Jul 2026 43.31 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Wanawadi, Pune \ud83c\udfe2 Arihant Elite ICICI Bank 1,00,00,000 17 Jul 2026 99.30 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -922,13 +825,13 @@
     "land_type": ""
   },
   {
-    "details": "Office in Baramati, Pune",
-    "link": "https://findauction.in/auction/icicibank/office-in-business-court-baramati-pune-1699961",
+    "details": "Flat in Lohegaon, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-nivasa-udaan-lohegaon-pune-1693725",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "21 Jul 2026"
+        "value": "15 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -936,14 +839,14 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/office-in-business-court-baramati-pune-1699961",
-      "property_name": "Office in Baramati, Pune",
-      "price": "87,50,000",
-      "auction_date": "21 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-nivasa-udaan-lohegaon-pune-1693725",
+      "property_name": "Flat in Lohegaon, Pune",
+      "price": "31,50,000",
+      "auction_date": "15 Jul 2026",
       "city": "Pune",
-      "raw_text": "Office in Baramati, Pune \ud83c\udfe2 Business Court ICICI Bank 87,50,000 21 Jul 2026 21.74 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Lohegaon, Pune \ud83c\udfe2 Nivasa Udaan ICICI Bank 31,50,000 15 Jul 2026 31.15 Sq Mtrs Physical Possession View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -1047,8 +950,8 @@
     "land_type": ""
   },
   {
-    "details": "Office in Moshi, Pune",
-    "link": "https://findauction.in/auction/icicibank/office-in-moshi-pune-1699969",
+    "details": "Office in Baramati, Pune",
+    "link": "https://findauction.in/auction/icicibank/office-in-business-court-baramati-pune-1699961",
     "photos": "",
     "important_dates": [
       {
@@ -1061,12 +964,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/office-in-moshi-pune-1699969",
-      "property_name": "Office in Moshi, Pune",
-      "price": "30,00,000",
+      "property_url": "https://findauction.in/auction/icicibank/office-in-business-court-baramati-pune-1699961",
+      "property_name": "Office in Baramati, Pune",
+      "price": "87,50,000",
       "auction_date": "21 Jul 2026",
       "city": "Pune",
-      "raw_text": "Office in Moshi, Pune ICICI Bank 30,00,000 21 Jul 2026 36.13 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Office in Baramati, Pune \ud83c\udfe2 Business Court ICICI Bank 87,50,000 21 Jul 2026 21.74 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Commercial",
     "land_type": ""
@@ -1472,13 +1375,13 @@
     "land_type": ""
   },
   {
-    "details": "Bungalow in Andheri East, Mumbai",
-    "link": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "20 Jul 2026"
+        "value": "21 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1486,14 +1389,14 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
-      "property_name": "Bungalow in Andheri East, Mumbai",
-      "price": "7,08,00,000",
-      "auction_date": "20 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
+      "auction_date": "21 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Bungalow in Andheri East, Mumbai \ud83c\udfe2 Banoo Manor State Bank of India 7,08,00,000 20 Jul 2026 305.80 Sq Mtrs View Auction Promoted"
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
     },
-    "property_type": "Bungalow",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -1747,13 +1650,13 @@
     "land_type": ""
   },
   {
-    "details": "Bungalow in Andheri East, Mumbai",
-    "link": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
+    "details": "Flat in Karjat, Mumbai",
+    "link": "https://findauction.in/auction/axisbank/flat-in-karjat-mumbai-1712206",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "20 Jul 2026"
+        "value": "28 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1761,14 +1664,14 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
-      "property_name": "Bungalow in Andheri East, Mumbai",
-      "price": "7,08,00,000",
-      "auction_date": "20 Jul 2026",
+      "property_url": "https://findauction.in/auction/axisbank/flat-in-karjat-mumbai-1712206",
+      "property_name": "Flat in Karjat, Mumbai",
+      "price": "9,25,000",
+      "auction_date": "28 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Bungalow in Andheri East, Mumbai \ud83c\udfe2 Banoo Manor State Bank of India 7,08,00,000 20 Jul 2026 305.80 Sq Mtrs View Auction Promoted"
+      "raw_text": "Flat in Karjat, Mumbai Axis Bank 9,25,000 28 Jul 2026 31.67 Sq Mtrs View Auction Promoted"
     },
-    "property_type": "Bungalow",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -1872,13 +1775,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Thane West, Mumbai",
-    "link": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
+    "details": "Bungalow in Andheri East, Mumbai",
+    "link": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "27 Jul 2026"
+        "value": "20 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1886,14 +1789,14 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
-      "property_name": "Shop in Thane West, Mumbai",
-      "price": "4,83,00,000",
-      "auction_date": "27 Jul 2026",
+      "property_url": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
+      "property_name": "Bungalow in Andheri East, Mumbai",
+      "price": "7,08,00,000",
+      "auction_date": "20 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Shop in Thane West, Mumbai \ud83c\udfe2 Anmol Mansion Kotak Mahindra Bank 4,83,00,000 27 Jul 2026 1043 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Bungalow in Andheri East, Mumbai \ud83c\udfe2 Banoo Manor State Bank of India 7,08,00,000 20 Jul 2026 305.80 Sq Mtrs View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Bungalow",
     "land_type": ""
   },
   {
@@ -2172,13 +2075,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ambernath, Mumbai",
-    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "14 Jul 2026"
+        "value": "21 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2186,12 +2089,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
-      "property_name": "Flat in Ambernath, Mumbai",
-      "price": "32,40,000",
-      "auction_date": "14 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
+      "auction_date": "21 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Mohan Suburbia ICICI Bank 32,40,000 14 Jul 2026 47.70 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2297,13 +2200,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Neral East, Mumbai",
-    "link": "https://findauction.in/auction/axisbank/flat-in-neral-east-mumbai-1712245",
+    "details": "Shop in Thane West, Mumbai",
+    "link": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "28 Jul 2026"
+        "value": "27 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2311,14 +2214,14 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/axisbank/flat-in-neral-east-mumbai-1712245",
-      "property_name": "Flat in Neral East, Mumbai",
-      "price": "10,00,000",
-      "auction_date": "28 Jul 2026",
+      "property_url": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
+      "property_name": "Shop in Thane West, Mumbai",
+      "price": "4,83,00,000",
+      "auction_date": "27 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Neral East, Mumbai Axis Bank 10,00,000 28 Jul 2026 31.29 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Shop in Thane West, Mumbai \ud83c\udfe2 Anmol Mansion Kotak Mahindra Bank 4,83,00,000 27 Jul 2026 1043 Sq Ft Physical Possession View Auction Promoted"
     },
-    "property_type": "Flat",
+    "property_type": "Commercial",
     "land_type": ""
   },
   {
@@ -16750,6 +16653,581 @@
     },
     "property_type": "Plot",
     "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B6_S5",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B6_S5",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B6_S4",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B6_S4",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B6_S2",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B6_S2",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B6_S1",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B6_S1",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S9",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S9",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S8",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S8",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S7",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S7",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S6",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S6",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S5",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S5",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "CHITALSAR-MANPADA_B5_S4",
+    "link": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+    "photos": "",
+    "important_dates": [
+      {
+        "key": "auction_date",
+        "value": "2025-11-25 17:00:00.0"
+      },
+      {
+        "key": "emd_end_date",
+        "value": "2025-11-19 23:59:00.0"
+      }
+    ],
+    "emd_cost": "",
+    "source": "mhada",
+    "city": "Konkan Shops",
+    "raw": {
+      "source": "mhada",
+      "property_url": "https://eauction.mhada.gov.in/eAuctionKonkanMhadaShops/?0",
+      "property_name": "CHITALSAR-MANPADA_B5_S4",
+      "city": "Konkan Shops",
+      "auction_date": "2025-11-25 17:00:00.0",
+      "emd_end_date": "2025-11-19 23:59:00.0",
+      "address": "MHADA Konkan Shops"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bimblitan, Sri Vijaya Puram, A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=sWUcA8pB%2F5h0ah2eJ6PIJg%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=sWUcA8pB%2F5h0ah2eJ6PIJg%3D%3D",
+      "property_name": "Bimblitan, Sri Vijaya Puram, A & N Islands",
+      "price": "",
+      "listing_id": "020",
+      "address": "Bimblitan, Sri Vijaya Puram, A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bimblitan, Sri Vijaya Puram, A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=bXiQY3DWt1c5w01Unin%2FfA%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=bXiQY3DWt1c5w01Unin%2FfA%3D%3D",
+      "property_name": "Bimblitan, Sri Vijaya Puram, A & N Islands",
+      "price": "",
+      "listing_id": "019",
+      "address": "Bimblitan, Sri Vijaya Puram, A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Near Axis Bank, Middle point, Sri Vijaya Puram, A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=LUl%2BrbzUXKir%2Fiy7dcggow%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=LUl%2BrbzUXKir%2Fiy7dcggow%3D%3D",
+      "property_name": "Near Axis Bank, Middle point, Sri Vijaya Puram, A & N Islands",
+      "price": "",
+      "listing_id": "018",
+      "address": "Near Axis Bank, Middle point, Sri Vijaya Puram, A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Aberdeen Bazar, Sri Vijaya Puram, A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2BSYLgcP7akfPzCzqLNUNEw%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2BSYLgcP7akfPzCzqLNUNEw%3D%3D",
+      "property_name": "Aberdeen Bazar, Sri Vijaya Puram, A & N Islands",
+      "price": "",
+      "listing_id": "017",
+      "address": "Aberdeen Bazar, Sri Vijaya Puram, A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "swaraj Dweep, Sri Vijaya puram, A &N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=0qAiQWBT7cxg7YzmHTLD5A%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=0qAiQWBT7cxg7YzmHTLD5A%3D%3D",
+      "property_name": "swaraj Dweep, Sri Vijaya puram, A &N Islands",
+      "price": "",
+      "listing_id": "016",
+      "address": "swaraj Dweep, Sri Vijaya puram, A &N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Prothrapur Village, Sri Vijaya Puram, A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=uC9NgH8dcqJORkCgmnzrCw%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=uC9NgH8dcqJORkCgmnzrCw%3D%3D",
+      "property_name": "Prothrapur Village, Sri Vijaya Puram, A & N Islands",
+      "price": "",
+      "listing_id": "014",
+      "address": "Prothrapur Village, Sri Vijaya Puram, A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Bimblitan, Sri Vijaya Puram, A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=qEBojncbkTYTp7KNs%2BxUEQ%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=qEBojncbkTYTp7KNs%2BxUEQ%3D%3D",
+      "property_name": "Bimblitan, Sri Vijaya Puram, A & N Islands",
+      "price": "",
+      "listing_id": "010",
+      "address": "Bimblitan, Sri Vijaya Puram, A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Hasmatabad, Wandoor, Sri Vijaya Puram, A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oTqCd5JwU19J5leczMP3BQ%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=oTqCd5JwU19J5leczMP3BQ%3D%3D",
+      "property_name": "Hasmatabad, Wandoor, Sri Vijaya Puram, A & N Islands",
+      "price": "",
+      "listing_id": "004",
+      "address": "Hasmatabad, Wandoor, Sri Vijaya Puram, A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Near Forest ChecKPost.\nBathu Basthi, Sri Vijaya Puram, A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=vHx1ZKzZxrCg2npABkSY7g%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=vHx1ZKzZxrCg2npABkSY7g%3D%3D",
+      "property_name": "Near Forest ChecKPost.\nBathu Basthi, Sri Vijaya Puram, A & N Islands",
+      "price": "",
+      "listing_id": "003",
+      "address": "Near Forest ChecKPost.\nBathu Basthi, Sri Vijaya Puram, A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Goindnagar-5, Swaraj Dweep",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=EVPcGp0O4RAfoBVvBYN3MQ%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=EVPcGp0O4RAfoBVvBYN3MQ%3D%3D",
+      "property_name": "Goindnagar-5, Swaraj Dweep",
+      "price": "",
+      "listing_id": "001",
+      "address": "Goindnagar-5, Swaraj Dweep"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "C/o Preeta Kumari, Jodakalan teyerabad, Sri Vijaya Puram,A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=jAivTuf3jYerYgRc%2BcuTow%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=jAivTuf3jYerYgRc%2BcuTow%3D%3D",
+      "property_name": "C/o Preeta Kumari, Jodakalan teyerabad, Sri Vijaya Puram,A & N Islands",
+      "price": "",
+      "listing_id": "006",
+      "address": "C/o Preeta Kumari, Jodakalan teyerabad, Sri Vijaya Puram,A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "Teylerbad, Sri Vijaya Puram, A & N Islands",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=qLuk1tkbczO8QLbY2EVSaA%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=qLuk1tkbczO8QLbY2EVSaA%3D%3D",
+      "property_name": "Teylerbad, Sri Vijaya Puram, A & N Islands",
+      "price": "",
+      "listing_id": "005",
+      "address": "Teylerbad, Sri Vijaya Puram, A & N Islands"
+    },
+    "property_type": "Other",
+    "land_type": ""
+  },
+  {
+    "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=dmB1GzGR3bBoGnr7rbKt3A%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=dmB1GzGR3bBoGnr7rbKt3A%3D%3D",
+      "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
+      "price": "",
+      "listing_id": "OLCHNMAXVADAMANAPAKKAM",
+      "address": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN"
+    },
+    "property_type": "Land",
+    "land_type": "Other"
+  },
+  {
+    "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=DBXdrt27hMaY6W2%2FTUcaMg%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=DBXdrt27hMaY6W2%2FTUcaMg%3D%3D",
+      "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
+      "price": "",
+      "listing_id": "OLCHNMAXVEDANTHANGAL",
+      "address": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR"
+    },
+    "property_type": "Land",
+    "land_type": "Other"
+  },
+  {
+    "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2BdT%2BY117EbcRZLI1AxqL%2BA%3D%3D",
+    "photos": "",
+    "important_dates": [],
+    "emd_cost": "",
+    "source": "mstc",
+    "city": "",
+    "raw": {
+      "source": "mstc",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2BdT%2BY117EbcRZLI1AxqL%2BA%3D%3D",
+      "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
+      "price": "",
+      "listing_id": "OLCHNMAXMELNALLI",
+      "address": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T"
+    },
+    "property_type": "Land",
+    "land_type": "Other"
   },
   {
     "details": "Property Bank Property ID:",
