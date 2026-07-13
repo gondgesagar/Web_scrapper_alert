@@ -1,9 +1,5 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
-Warning: failed to fetch Maharashtra pincodes (attempt 1): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7fd58073d210>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 1s...
-Fetching Maharashtra pincodes (attempt 2/3)...
-Warning: failed to fetch Maharashtra pincodes (attempt 2): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7fd580685fd0>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 2s...
-Fetching Maharashtra pincodes (attempt 3/3)...
-Warning: failed to fetch Maharashtra pincodes after 3 attempts: HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7fd58067a890>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)'))
+Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
   [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.
@@ -97,18 +93,18 @@ Fetching FindAuction.in (Maharashtra cities)...
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: no tender table found
-  mhada/Nashik: no tender table found
+  mhada/Nashik: 10 schemes
   mhada/Konkan Shops: no tender table found
-  mhada: 10 total listings
-  mhada: 10 items
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 26 listings
   mstc: 26 items
-Combined raw items from all sources: 679
-Processing stats: 679 total items, 679 new, -213 duplicates skipped
+Combined raw items from all sources: 689
+Processing stats: 689 total items, 689 new, -214 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 466 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 193/679 items remain
+Saved state with 475 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 193/689 items remain
 Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=193
-Wrote 679 items to data/property_listings.json
+Wrote 689 items to data/property_listings.json
