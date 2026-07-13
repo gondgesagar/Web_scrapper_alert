@@ -98,13 +98,13 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada: 20 total listings
   mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
-  mstc/npa: 26 listings
-  mstc: 26 items
-Combined raw items from all sources: 689
-Processing stats: 689 total items, 689 new, -245 duplicates skipped
+  mstc/npa: 11 listings
+  mstc: 11 items
+Combined raw items from all sources: 674
+Processing stats: 674 total items, 674 new, -247 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 444 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 181/689 items remain
+Saved state with 427 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 175/674 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=181
-Wrote 689 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=175
+Wrote 674 items to data/property_listings.json
