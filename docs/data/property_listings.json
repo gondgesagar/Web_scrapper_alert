@@ -85,9 +85,9 @@
       "auctionEndDateTime": "28-07-2026 11:30:00",
       "emdStartDateTime": "14-07-2026 07:58:39",
       "emdEndDateTime": "28-07-2026 10:30:00",
-      "noOfCarParking": null,
       "drtlocation": null,
       "roname": null,
+      "noOfCarParking": null,
       "source": "baanknet"
     },
     "property_type": "Other",
@@ -179,182 +179,9 @@
       "auctionEndDateTime": "21-07-2026 10:30:00",
       "emdStartDateTime": "14-07-2026 09:21:25",
       "emdEndDateTime": "21-07-2026 10:30:00",
-      "noOfCarParking": null,
       "drtlocation": null,
       "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "FLAT 2021RK, 400SQFT IN AQSARA APARTMENT NEAR AMEER VILLA  MALAV SHEKIN BUILDING, KHOPOLI LOWJEE, VILL-CHINCHAVALI SHEKIN, TAL KHALAPUR, RAIGAD",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": false
-      }
-    ],
-    "link": "https://baanknet.com/view-property/128479",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/10/128479/606716_compressed.png",
-    "source": "baanknet",
-    "city": "Karjat",
-    "raw": {
-      "propertyId": "128479",
-      "projectName": null,
-      "price": 682000.0,
-      "pricePerSeqFit": null,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/10/128479/606716_compressed.png",
-      "postedOn": "13-07-2026",
-      "developerName": null,
-      "owenershipType": "Freehold",
-      "bankName": "Central Bank of India",
-      "summaryDesc": "FLAT 2021RK, 400SQFT IN AQSARA APARTMENT NEAR AMEER VILLA  MALAV SHEKIN BUILDING, KHOPOLI LOWJEE, VILL-CHINCHAVALI SHEKIN, TAL KHALAPUR, RAIGAD",
-      "city": "Karjat",
-      "cityID": "5315",
-      "stateID": 21,
-      "localities": "LOWAJEE KHOPOLI",
-      "noOfBedRoom": null,
-      "carpetArea": null,
-      "builtupArea": null,
-      "furnishedStatus": null,
-      "floorNo": null,
-      "totalNoOfFloors": null,
-      "facing": null,
-      "amenities": null,
-      "isAuctioncreated": false,
-      "coordinate": {
-        "lon": 73.3284,
-        "lat": 18.8102
-      },
-      "pincode": "410203",
-      "bankPropertyId": "CBINTROKHAR100",
-      "availablePhotosCount": 15,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": null,
-      "unitOfMeasure": null,
-      "percentageOfLoan": null,
-      "isLoanAvailable": null,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "FLAT NO. 202, 2ND FLOOR, SURVEY NO.\u20131135, AQSARA APARTMENT, CHINCHVALI LOWAJEE, TALUKA\u2013KHALAPUR, DISTT.\u2013RAIGAD-410203",
-      "statename": "Maharashtra",
-      "districtname": "Raigad",
-      "inspectionStartDateTime": null,
-      "inspectionEndDateTime": null,
-      "auctionStartDateTime": null,
-      "auctionEndDateTime": null,
-      "emdStartDateTime": null,
-      "emdEndDateTime": null,
       "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
-      "source": "baanknet"
-    },
-    "property_type": "Flat",
-    "land_type": ""
-  },
-  {
-    "emd_cost": null,
-    "details": "2 BHK + 2 TOILETS",
-    "important_dates": [
-      {
-        "key": "isAuctioncreated",
-        "value": true
-      },
-      {
-        "key": "inspectionStartDateTime",
-        "value": "20-07-2026 05:30:00"
-      },
-      {
-        "key": "inspectionEndDateTime",
-        "value": "20-07-2026 10:30:00"
-      },
-      {
-        "key": "auctionStartDateTime",
-        "value": "23-07-2026 05:30:00"
-      },
-      {
-        "key": "auctionEndDateTime",
-        "value": "23-07-2026 10:30:00"
-      },
-      {
-        "key": "emdStartDateTime",
-        "value": "13-07-2026 06:08:23"
-      },
-      {
-        "key": "emdEndDateTime",
-        "value": "23-07-2026 04:30:00"
-      }
-    ],
-    "link": "https://baanknet.com/view-property/290197",
-    "photos": "https://d14q55p4nerl4m.cloudfront.net/Production/Application-Documents/Generic-Instance/Property/Images/2026/07/13/290197/607077_compressed.png",
-    "source": "baanknet",
-    "city": "Nagpur",
-    "raw": {
-      "propertyId": "290197",
-      "projectName": "CHERRY HEIGHTS",
-      "price": 5139000.0,
-      "pricePerSeqFit": 118988.0,
-      "propertySubTypeId": "1",
-      "propertySubType": "Flat",
-      "propertyStatus": null,
-      "typeOfAsset": "Immovable",
-      "possessionType": "Physical",
-      "photos": "Production/Application-Documents/Generic-Instance/Property/Images/2026/07/13/290197/607077_compressed.png",
-      "postedOn": "13-07-2026",
-      "developerName": "ANANDPALANDURKAR",
-      "owenershipType": "Freehold",
-      "bankName": "State Bank of India",
-      "summaryDesc": "2 BHK + 2 TOILETS",
-      "city": "Nagpur",
-      "cityID": "5138",
-      "stateID": 21,
-      "localities": "NAGPUR",
-      "noOfBedRoom": 2,
-      "carpetArea": 33.18,
-      "builtupArea": 43.0,
-      "furnishedStatus": "Unfurnished",
-      "floorNo": 4,
-      "totalNoOfFloors": 4,
-      "facing": "West",
-      "amenities": [
-        "Reserved Parking",
-        "Lift"
-      ],
-      "isAuctioncreated": true,
-      "coordinate": {
-        "lon": 79.013318,
-        "lat": 21.149839
-      },
-      "pincode": "440023",
-      "bankPropertyId": "SBIN200089400407",
-      "availablePhotosCount": 20,
-      "isPhotosAvailable": true,
-      "unitOfMeasureId": "2",
-      "unitOfMeasure": "sq meter",
-      "percentageOfLoan": null,
-      "isLoanAvailable": false,
-      "typeOfAction": "1",
-      "isPPVCRequest": true,
-      "address": "APARTMENT NO 401 FOURTH FLOOR CHERRY HEIGHTS PLOT NO N 19NEAR HIGHWAY GLORY AND POLARIES SCHOOL KAMALA NAGAR KACHIMET NAGPUR",
-      "statename": "Maharashtra",
-      "districtname": "Nagpur",
-      "inspectionStartDateTime": "20-07-2026 05:30:00",
-      "inspectionEndDateTime": "20-07-2026 10:30:00",
-      "auctionStartDateTime": "23-07-2026 05:30:00",
-      "auctionEndDateTime": "23-07-2026 10:30:00",
-      "emdStartDateTime": "13-07-2026 06:08:23",
-      "emdEndDateTime": "23-07-2026 04:30:00",
-      "noOfCarParking": null,
-      "drtlocation": null,
-      "roname": null,
       "source": "baanknet"
     },
     "property_type": "Flat",
@@ -486,13 +313,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Wanawadi, Pune",
-    "link": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1695416",
+    "details": "Office in Moshi, Pune",
+    "link": "https://findauction.in/auction/icicibank/office-in-moshi-pune-1699969",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "17 Jul 2026"
+        "value": "21 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -500,14 +327,14 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-arihant-elite-wanawadi-pune-1695416",
-      "property_name": "Flat in Wanawadi, Pune",
-      "price": "1,00,00,000",
-      "auction_date": "17 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/office-in-moshi-pune-1699969",
+      "property_name": "Office in Moshi, Pune",
+      "price": "30,00,000",
+      "auction_date": "21 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Wanawadi, Pune \ud83c\udfe2 Arihant Elite ICICI Bank 1,00,00,000 17 Jul 2026 99.30 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Office in Moshi, Pune ICICI Bank 30,00,000 21 Jul 2026 36.13 Sq Mtrs Physical Possession View Auction Promoted"
     },
-    "property_type": "Flat",
+    "property_type": "Commercial",
     "land_type": ""
   },
   {
@@ -761,8 +588,8 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Lohegaon, Pune",
-    "link": "https://findauction.in/auction/icicibank/flat-in-nivasa-udaan-lohegaon-pune-1693725",
+    "details": "Flat in Mangalwar Peth, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-rajyog-apartment-mangalwar-peth-pune-1695166",
     "photos": "",
     "important_dates": [
       {
@@ -775,12 +602,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-nivasa-udaan-lohegaon-pune-1693725",
-      "property_name": "Flat in Lohegaon, Pune",
-      "price": "31,50,000",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-rajyog-apartment-mangalwar-peth-pune-1695166",
+      "property_name": "Flat in Mangalwar Peth, Pune",
+      "price": "42,60,000",
       "auction_date": "15 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Lohegaon, Pune \ud83c\udfe2 Nivasa Udaan ICICI Bank 31,50,000 15 Jul 2026 31.15 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Mangalwar Peth, Pune \ud83c\udfe2 Rajyog Apartment ICICI Bank 42,60,000 15 Jul 2026 463 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1186,8 +1013,8 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Rajgurunagar, Khed",
-    "link": "https://findauction.in/auction/icicibank/flat-in-shiv-sai-apartment-rajgurunagar-khed-1699952",
+    "details": "Flat in Mulshi, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-eknath-aaher-vaibha-mulshi-pune-1699967",
     "photos": "",
     "important_dates": [
       {
@@ -1200,12 +1027,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-shiv-sai-apartment-rajgurunagar-khed-1699952",
-      "property_name": "Flat in Rajgurunagar, Khed",
-      "price": "12,50,000",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-eknath-aaher-vaibha-mulshi-pune-1699967",
+      "property_name": "Flat in Mulshi, Pune",
+      "price": "12,00,000",
       "auction_date": "21 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Rajgurunagar, Khed \ud83c\udfe2 Shiv Sai Apartment ICICI Bank 12,50,000 21 Jul 2026 529 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Mulshi, Pune \ud83c\udfe2 Eknath Aaher Vaibha ICICI Bank 12,00,000 21 Jul 2026 525 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1311,13 +1138,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Mangalwar Peth, Pune",
-    "link": "https://findauction.in/auction/icicibank/flat-in-rajyog-apartment-mangalwar-peth-pune-1695166",
+    "details": "Flat in Ganj Peth, Pune",
+    "link": "https://findauction.in/auction/icicibank/flat-in-ganj-peth-pune-1703614",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "15 Jul 2026"
+        "value": "22 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1325,12 +1152,12 @@
     "city": "Pune",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/icicibank/flat-in-rajyog-apartment-mangalwar-peth-pune-1695166",
-      "property_name": "Flat in Mangalwar Peth, Pune",
-      "price": "42,60,000",
-      "auction_date": "15 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-ganj-peth-pune-1703614",
+      "property_name": "Flat in Ganj Peth, Pune",
+      "price": "57,00,000",
+      "auction_date": "22 Jul 2026",
       "city": "Pune",
-      "raw_text": "Flat in Mangalwar Peth, Pune \ud83c\udfe2 Rajyog Apartment ICICI Bank 42,60,000 15 Jul 2026 463 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ganj Peth, Pune ICICI Bank 57,00,000 22 Jul 2026 1200 Sq Ft Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -1736,13 +1563,13 @@
     "land_type": "Other"
   },
   {
-    "details": "Shop in Thane West, Mumbai",
-    "link": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
+    "details": "Flat in Ambernath, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "27 Jul 2026"
+        "value": "14 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -1750,14 +1577,14 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
-      "property_name": "Shop in Thane West, Mumbai",
-      "price": "4,83,00,000",
-      "auction_date": "27 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
+      "property_name": "Flat in Ambernath, Mumbai",
+      "price": "32,40,000",
+      "auction_date": "14 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Shop in Thane West, Mumbai \ud83c\udfe2 Anmol Mansion Kotak Mahindra Bank 4,83,00,000 27 Jul 2026 1043 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Mohan Suburbia ICICI Bank 32,40,000 14 Jul 2026 47.70 Sq Mtrs Physical Possession View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -2011,13 +1838,13 @@
     "land_type": ""
   },
   {
-    "details": "Shop in Thane West, Mumbai",
-    "link": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
+    "details": "Flat in Powai, Andheri East",
+    "link": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "27 Jul 2026"
+        "value": "21 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2025,14 +1852,14 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/kotakbank/shop-in-anmol-mansion-thane-west-mumbai-1690149",
-      "property_name": "Shop in Thane West, Mumbai",
-      "price": "4,83,00,000",
-      "auction_date": "27 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-kanakia-future-city-powai-andheri-east-1699798",
+      "property_name": "Flat in Powai, Andheri East",
+      "price": "2,05,00,000",
+      "auction_date": "21 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Shop in Thane West, Mumbai \ud83c\udfe2 Anmol Mansion Kotak Mahindra Bank 4,83,00,000 27 Jul 2026 1043 Sq Ft Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Powai, Andheri East \ud83c\udfe2 Kanakia Future City ICICI Bank 2,05,00,000 21 Jul 2026 54.72 Sq Mtrs Physical Possession View Auction Promoted"
     },
-    "property_type": "Commercial",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -2136,13 +1963,13 @@
     "land_type": ""
   },
   {
-    "details": "Bungalow in Andheri East, Mumbai",
-    "link": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
+    "details": "Flat in Ghansoli, Mumbai",
+    "link": "https://findauction.in/auction/idfcfirstbank/flat-in-ghansoli-mumbai-1709852",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "20 Jul 2026"
+        "value": "28 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2150,14 +1977,14 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/sbi/bungalow-in-banoo-manor-andheri-east-mumbai-1707183",
-      "property_name": "Bungalow in Andheri East, Mumbai",
-      "price": "7,08,00,000",
-      "auction_date": "20 Jul 2026",
+      "property_url": "https://findauction.in/auction/idfcfirstbank/flat-in-ghansoli-mumbai-1709852",
+      "property_name": "Flat in Ghansoli, Mumbai",
+      "price": "48,67,128",
+      "auction_date": "28 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Bungalow in Andheri East, Mumbai \ud83c\udfe2 Banoo Manor State Bank of India 7,08,00,000 20 Jul 2026 305.80 Sq Mtrs View Auction Promoted"
+      "raw_text": "Flat in Ghansoli, Mumbai IDFC FIRST Bank 48,67,128 28 Jul 2026 23.890 Sq Mtrs Physical Possession View Auction Promoted"
     },
-    "property_type": "Bungalow",
+    "property_type": "Flat",
     "land_type": ""
   },
   {
@@ -2436,13 +2263,13 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Ghansoli, Mumbai",
-    "link": "https://findauction.in/auction/idfcfirstbank/flat-in-ghansoli-mumbai-1709852",
+    "details": "Flat in Ambernath, Mumbai",
+    "link": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
     "photos": "",
     "important_dates": [
       {
         "key": "auction_date",
-        "value": "28 Jul 2026"
+        "value": "14 Jul 2026"
       }
     ],
     "emd_cost": "",
@@ -2450,12 +2277,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/idfcfirstbank/flat-in-ghansoli-mumbai-1709852",
-      "property_name": "Flat in Ghansoli, Mumbai",
-      "price": "48,67,128",
-      "auction_date": "28 Jul 2026",
+      "property_url": "https://findauction.in/auction/icicibank/flat-in-mohan-suburbia-ambernath-mumbai-1667953",
+      "property_name": "Flat in Ambernath, Mumbai",
+      "price": "32,40,000",
+      "auction_date": "14 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Ghansoli, Mumbai IDFC FIRST Bank 48,67,128 28 Jul 2026 23.890 Sq Mtrs Physical Possession View Auction Promoted"
+      "raw_text": "Flat in Ambernath, Mumbai \ud83c\udfe2 Mohan Suburbia ICICI Bank 32,40,000 14 Jul 2026 47.70 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -2561,8 +2388,8 @@
     "land_type": ""
   },
   {
-    "details": "Flat in Karjat, Mumbai",
-    "link": "https://findauction.in/auction/axisbank/flat-in-karjat-mumbai-1712206",
+    "details": "Flat in Ghansoli, Mumbai",
+    "link": "https://findauction.in/auction/idfcfirstbank/flat-in-ghansoli-mumbai-1709852",
     "photos": "",
     "important_dates": [
       {
@@ -2575,12 +2402,12 @@
     "city": "Mumbai",
     "raw": {
       "source": "findauction",
-      "property_url": "https://findauction.in/auction/axisbank/flat-in-karjat-mumbai-1712206",
-      "property_name": "Flat in Karjat, Mumbai",
-      "price": "9,25,000",
+      "property_url": "https://findauction.in/auction/idfcfirstbank/flat-in-ghansoli-mumbai-1709852",
+      "property_name": "Flat in Ghansoli, Mumbai",
+      "price": "48,67,128",
       "auction_date": "28 Jul 2026",
       "city": "Mumbai",
-      "raw_text": "Flat in Karjat, Mumbai Axis Bank 9,25,000 28 Jul 2026 31.67 Sq Mtrs View Auction Promoted"
+      "raw_text": "Flat in Ghansoli, Mumbai IDFC FIRST Bank 48,67,128 28 Jul 2026 23.890 Sq Mtrs Physical Possession View Auction Promoted"
     },
     "property_type": "Flat",
     "land_type": ""
@@ -17017,7 +16844,7 @@
   },
   {
     "details": "Bimblitan, Sri Vijaya Puram, A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=q02MfU0CE2%2FdCtcQ4l0KHQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=RG0rFcsFC5hA2bOKkFLx4w%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17025,7 +16852,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=q02MfU0CE2%2FdCtcQ4l0KHQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=RG0rFcsFC5hA2bOKkFLx4w%3D%3D",
       "property_name": "Bimblitan, Sri Vijaya Puram, A & N Islands",
       "price": "",
       "listing_id": "020",
@@ -17036,7 +16863,7 @@
   },
   {
     "details": "Bimblitan, Sri Vijaya Puram, A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=6cYuc8A8wQpqeLmwK2MuYA%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=QUrSbCdLj%2B5H%2FvO4ZuoyLQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17044,7 +16871,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=6cYuc8A8wQpqeLmwK2MuYA%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=QUrSbCdLj%2B5H%2FvO4ZuoyLQ%3D%3D",
       "property_name": "Bimblitan, Sri Vijaya Puram, A & N Islands",
       "price": "",
       "listing_id": "019",
@@ -17055,7 +16882,7 @@
   },
   {
     "details": "Near Axis Bank, Middle point, Sri Vijaya Puram, A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=BVrlI8%2BQkUEWa2FLgZ6VBw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=eTvkZ43gfOLYaTlJz5vBlQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17063,7 +16890,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=BVrlI8%2BQkUEWa2FLgZ6VBw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=eTvkZ43gfOLYaTlJz5vBlQ%3D%3D",
       "property_name": "Near Axis Bank, Middle point, Sri Vijaya Puram, A & N Islands",
       "price": "",
       "listing_id": "018",
@@ -17074,7 +16901,7 @@
   },
   {
     "details": "Aberdeen Bazar, Sri Vijaya Puram, A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=nQNLwShq0L2eHnDgoWFykA%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2FF7tNnsTL9OuxOApMsJrOw%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17082,7 +16909,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=nQNLwShq0L2eHnDgoWFykA%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=%2FF7tNnsTL9OuxOApMsJrOw%3D%3D",
       "property_name": "Aberdeen Bazar, Sri Vijaya Puram, A & N Islands",
       "price": "",
       "listing_id": "017",
@@ -17093,7 +16920,7 @@
   },
   {
     "details": "swaraj Dweep, Sri Vijaya puram, A &N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=pWbfpUlqtdBKRI1Cm2f%2FjQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=y%2FUW%2B2tPTTwhFzSJs7x1Mg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17101,7 +16928,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=pWbfpUlqtdBKRI1Cm2f%2FjQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=y%2FUW%2B2tPTTwhFzSJs7x1Mg%3D%3D",
       "property_name": "swaraj Dweep, Sri Vijaya puram, A &N Islands",
       "price": "",
       "listing_id": "016",
@@ -17112,7 +16939,7 @@
   },
   {
     "details": "Prothrapur Village, Sri Vijaya Puram, A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=RWLwN9QRL7A7reOaL%2BK8Rg%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=SFUIgxNpLHZo9eUp5xxwgg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17120,7 +16947,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=RWLwN9QRL7A7reOaL%2BK8Rg%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=SFUIgxNpLHZo9eUp5xxwgg%3D%3D",
       "property_name": "Prothrapur Village, Sri Vijaya Puram, A & N Islands",
       "price": "",
       "listing_id": "014",
@@ -17131,7 +16958,7 @@
   },
   {
     "details": "Bimblitan, Sri Vijaya Puram, A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=m7KOAl14AwiU1sgVaPf9Sw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ET047AYZdkKrvqixnMWRLg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17139,7 +16966,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=m7KOAl14AwiU1sgVaPf9Sw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=ET047AYZdkKrvqixnMWRLg%3D%3D",
       "property_name": "Bimblitan, Sri Vijaya Puram, A & N Islands",
       "price": "",
       "listing_id": "010",
@@ -17150,7 +16977,7 @@
   },
   {
     "details": "Hasmatabad, Wandoor, Sri Vijaya Puram, A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=VREeBhjpvV8ItYRzr27H%2FA%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Nyp37Wey7S2%2BkkYuti0owQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17158,7 +16985,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=VREeBhjpvV8ItYRzr27H%2FA%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Nyp37Wey7S2%2BkkYuti0owQ%3D%3D",
       "property_name": "Hasmatabad, Wandoor, Sri Vijaya Puram, A & N Islands",
       "price": "",
       "listing_id": "004",
@@ -17169,7 +16996,7 @@
   },
   {
     "details": "Near Forest ChecKPost.\nBathu Basthi, Sri Vijaya Puram, A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=0mTaRpasJGZ%2F1KGPBgm83Q%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=h%2FqohCJSKkUKJMa99xBd2Q%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17177,7 +17004,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=0mTaRpasJGZ%2F1KGPBgm83Q%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=h%2FqohCJSKkUKJMa99xBd2Q%3D%3D",
       "property_name": "Near Forest ChecKPost.\nBathu Basthi, Sri Vijaya Puram, A & N Islands",
       "price": "",
       "listing_id": "003",
@@ -17188,7 +17015,7 @@
   },
   {
     "details": "Goindnagar-5, Swaraj Dweep",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=mgm1%2FtdctNQ8gizz8deLWQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=EhoBvkPJf0BLE097RgCccA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17196,7 +17023,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=mgm1%2FtdctNQ8gizz8deLWQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=EhoBvkPJf0BLE097RgCccA%3D%3D",
       "property_name": "Goindnagar-5, Swaraj Dweep",
       "price": "",
       "listing_id": "001",
@@ -17207,7 +17034,7 @@
   },
   {
     "details": "C/o Preeta Kumari, Jodakalan teyerabad, Sri Vijaya Puram,A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=7tDLVFNXG25Si%2B3pDtKALw%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=l7kc2tWYFemDzqwbzXxClA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17215,7 +17042,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=7tDLVFNXG25Si%2B3pDtKALw%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=l7kc2tWYFemDzqwbzXxClA%3D%3D",
       "property_name": "C/o Preeta Kumari, Jodakalan teyerabad, Sri Vijaya Puram,A & N Islands",
       "price": "",
       "listing_id": "006",
@@ -17226,7 +17053,7 @@
   },
   {
     "details": "Teylerbad, Sri Vijaya Puram, A & N Islands",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=WXuqpFQSjItojwLOa1i8Eg%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=W2bmjbl3WgrEgkE3CieH2Q%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17234,7 +17061,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=WXuqpFQSjItojwLOa1i8Eg%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=W2bmjbl3WgrEgkE3CieH2Q%3D%3D",
       "property_name": "Teylerbad, Sri Vijaya Puram, A & N Islands",
       "price": "",
       "listing_id": "005",
@@ -17245,7 +17072,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=BnzbpyyFXOJ5Uj9iIyhKnA%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1hpueI2i2jtIWOrnJAM8pg%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17253,7 +17080,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=BnzbpyyFXOJ5Uj9iIyhKnA%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1hpueI2i2jtIWOrnJAM8pg%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 28.49 ACRES SITUATED AT VADAMANAPAKKAM VILLAGE VEMBAKKAM TALUK TIRUVANN",
       "price": "",
       "listing_id": "OLCHNMAXVADAMANAPAKKAM",
@@ -17264,7 +17091,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Fo37OOq%2FBTOJqDRd1wN7xQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=5vtri9gQiFFKSkqgMJwcIQ%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17272,7 +17099,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=Fo37OOq%2FBTOJqDRd1wN7xQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=5vtri9gQiFFKSkqgMJwcIQ%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 61.81 ACRES SITUATED AT ANDAVAKKAM VEDANTHANGAL VEDAVAKKAM AND PASUMBUR",
       "price": "",
       "listing_id": "OLCHNMAXVEDANTHANGAL",
@@ -17283,7 +17110,7 @@
   },
   {
     "details": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
-    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=faf2FbGpfcC9Jqmmxip3gQ%3D%3D",
+    "link": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1h8fwxl4QwSu7PYuZmLfrA%3D%3D",
     "photos": "",
     "important_dates": [],
     "emd_cost": "",
@@ -17291,7 +17118,7 @@
     "city": "",
     "raw": {
       "source": "mstc",
-      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=faf2FbGpfcC9Jqmmxip3gQ%3D%3D",
+      "property_url": "https://www.mstcecommerce.com/auctionhome/npa/index.jsp?prop=1h8fwxl4QwSu7PYuZmLfrA%3D%3D",
       "property_name": "VACANT LAND TO THE EXTENT OF 84.855 ACRES SITUATED AT MELNALLI AND CHENNASAMUDRAM VILLAGES KALAVAI T",
       "price": "",
       "listing_id": "OLCHNMAXMELNALLI",
