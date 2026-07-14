@@ -16,7 +16,7 @@ Call log:
   -   content-type: application/json
   -   sec-ch-ua-mobile: ?0
   -   content-length: 105
-  -   cookie: JSESSIONID=67c9335d-9774-46dc-be70-86298362a16c; language=en; languageId=1; _ga=GA1.1.570499794.1784026727; _ga_SZ8S2EHDZY=GS2.1.s1784026726$o1$g0$t1784026726$j60$l0$h0; XSRF-TOKEN=1df52d5b-cbc0-4f8b-b3a5-1f528e322d88
+  -   cookie: JSESSIONID=2eacd6a3-e591-4bc6-8a9f-79be3e317736; language=en; languageId=1; _ga=GA1.1.1839374984.1784031004; _ga_SZ8S2EHDZY=GS2.1.s1784031004$o1$g0$t1784031004$j60$l0$h0; XSRF-TOKEN=4757f948-855d-48ca-acf6-b8ac4d315843
 
   [INFO] BAANKNET total unique items: 10
   baanknet: 10 raw items
@@ -96,20 +96,20 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 643 total listings
   findauction: 643 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
-  mhada/Mumbai: 10 schemes
-  mhada/Pune: 10 schemes
+  mhada/Mumbai: no tender table found
+  mhada/Pune: no tender table found
   mhada/Nashik: no tender table found
   mhada/Konkan Shops: no tender table found
-  mhada: 20 total listings
-  mhada: 20 items
+  mhada: 0 total listings
+  mhada: 0 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 26 listings
   mstc: 26 items
-Combined raw items from all sources: 699
-Processing stats: 691 total items, 691 new, -243 duplicates skipped
+Combined raw items from all sources: 679
+Processing stats: 672 total items, 672 new, -227 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 448 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 176/691 items remain
-Saved 7 pincodes to cache.
-NEW_AUCTIONS_COUNT=176
-Wrote 691 items to data/property_listings.json
+Saved state with 445 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 168/672 items remain
+Saved 6 pincodes to cache.
+NEW_AUCTIONS_COUNT=168
+Wrote 672 items to data/property_listings.json
