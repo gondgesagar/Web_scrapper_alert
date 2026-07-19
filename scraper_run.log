@@ -46,65 +46,79 @@ Fetching BankAuctions.in...
   bankauctions: unexpected API response
   bankauctions: 0 items
 Fetching FindAuction.in (Maharashtra cities)...
-  findauction/pune page 1: 16 cards
-  findauction/pune page 2: 17 cards
-  findauction/pune page 3: 17 cards
-  findauction/mumbai page 1: 16 cards
-  findauction/mumbai page 2: 17 cards
-  findauction/mumbai page 3: 17 cards
-  findauction/kolhapur page 1: 15 cards
-  findauction/kolhapur page 2: 15 cards
-  findauction/kolhapur page 3: 15 cards
-  findauction/nashik page 1: 15 cards
-  findauction/nashik page 2: 15 cards
-  findauction/nashik page 3: 15 cards
-  findauction/mumbai+thane page 1: 16 cards
-  findauction/mumbai+thane page 2: 16 cards
-  findauction/mumbai+thane page 3: 16 cards
-  findauction/solapur page 1: 15 cards
-  findauction/solapur page 2: 15 cards
-  findauction/solapur page 3: 15 cards
-  findauction/satara page 1: 15 cards
-  findauction/satara page 2: 15 cards
-  findauction/satara page 3: 15 cards
-  findauction/ratnagiri page 1: 15 cards
-  findauction/ratnagiri page 2: 15 cards
-  findauction/ratnagiri page 3: 15 cards
-  findauction/raigad page 1: 15 cards
-  findauction/raigad page 2: 15 cards
-  findauction/raigad page 3: 15 cards
-  findauction/latur page 1: 15 cards
-  findauction/latur page 2: 15 cards
-  findauction/latur page 3: 15 cards
-  findauction/kalyan page 1: 15 cards
-  findauction/kalyan page 2: 15 cards
-  findauction/kalyan page 3: 15 cards
-  findauction/bhiwandi page 1: 15 cards
-  findauction/bhiwandi page 2: 15 cards
-  findauction/bhiwandi page 3: 15 cards
-  findauction/sindhudurg page 1: 15 cards
-  findauction/sindhudurg page 2: 15 cards
-  findauction/sindhudurg page 3: 15 cards
-  findauction/ahmednagar page 1: 15 cards
-  findauction/ahmednagar page 2: 15 cards
-  findauction/ahmednagar page 3: 15 cards
-  findauction: 643 total listings
-  findauction: 643 items
+  findauction/pune page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/pune/all/all/1", waiting until "domcontentloaded"
+
+  findauction/mumbai page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/mumbai/all/all/1", waiting until "domcontentloaded"
+
+  findauction/kolhapur page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/kolhapur/all/all/1", waiting until "domcontentloaded"
+
+  findauction/nashik page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/nashik/all/all/1", waiting until "domcontentloaded"
+
+  findauction/mumbai+thane page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/mumbai+thane/all/all/1", waiting until "domcontentloaded"
+
+  findauction/solapur page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/solapur/all/all/1", waiting until "domcontentloaded"
+
+  findauction/satara page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/satara/all/all/1", waiting until "domcontentloaded"
+
+  findauction/ratnagiri page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/ratnagiri/all/all/1", waiting until "domcontentloaded"
+
+  findauction/raigad page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/raigad/all/all/1", waiting until "domcontentloaded"
+
+  findauction/latur page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/latur/all/all/1", waiting until "domcontentloaded"
+
+  findauction/kalyan page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/kalyan/all/all/1", waiting until "domcontentloaded"
+
+  findauction/bhiwandi page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/bhiwandi/all/all/1", waiting until "domcontentloaded"
+
+  findauction/sindhudurg page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/sindhudurg/all/all/1", waiting until "domcontentloaded"
+
+  findauction/ahmednagar page 1: Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://findauction.in/bank-property/ahmednagar/all/all/1", waiting until "domcontentloaded"
+
+  findauction: 0 total listings
+  findauction: 0 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: no tender table found
-  mhada/Nashik: 10 schemes
-  mhada/Konkan Shops: 10 schemes
-  mhada: 30 total listings
-  mhada: 30 items
+  mhada/Nashik: no tender table found
+  mhada/Konkan Shops: no tender table found
+  mhada: 10 total listings
+  mhada: 10 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 26 listings
   mstc: 26 items
-Combined raw items from all sources: 699
-Processing stats: 699 total items, 699 new, -244 duplicates skipped
+Combined raw items from all sources: 36
+Processing stats: 36 total items, 36 new, -9 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 455 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 173/699 items remain
+Saved state with 27 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 3/36 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=173
-Wrote 699 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=3
+Wrote 36 items to data/property_listings.json
