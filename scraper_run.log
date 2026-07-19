@@ -46,79 +46,23 @@ Fetching BankAuctions.in...
   bankauctions: unexpected API response
   bankauctions: 0 items
 Fetching FindAuction.in (Maharashtra cities)...
-  findauction/pune page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/pune/all/all/1", waiting until "domcontentloaded"
-
-  findauction/mumbai page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/mumbai/all/all/1", waiting until "domcontentloaded"
-
-  findauction/kolhapur page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/kolhapur/all/all/1", waiting until "domcontentloaded"
-
-  findauction/nashik page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/nashik/all/all/1", waiting until "domcontentloaded"
-
-  findauction/mumbai+thane page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/mumbai+thane/all/all/1", waiting until "domcontentloaded"
-
-  findauction/solapur page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/solapur/all/all/1", waiting until "domcontentloaded"
-
-  findauction/satara page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/satara/all/all/1", waiting until "domcontentloaded"
-
-  findauction/ratnagiri page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/ratnagiri/all/all/1", waiting until "domcontentloaded"
-
-  findauction/raigad page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/raigad/all/all/1", waiting until "domcontentloaded"
-
-  findauction/latur page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/latur/all/all/1", waiting until "domcontentloaded"
-
-  findauction/kalyan page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/kalyan/all/all/1", waiting until "domcontentloaded"
-
-  findauction/bhiwandi page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/bhiwandi/all/all/1", waiting until "domcontentloaded"
-
-  findauction/sindhudurg page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/sindhudurg/all/all/1", waiting until "domcontentloaded"
-
-  findauction/ahmednagar page 1: Page.goto: Timeout 60000ms exceeded.
-Call log:
-navigating to "https://findauction.in/bank-property/ahmednagar/all/all/1", waiting until "domcontentloaded"
-
   findauction: 0 total listings
   findauction: 0 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
-  mhada/Pune: no tender table found
+  mhada/Pune: 10 schemes
   mhada/Nashik: no tender table found
   mhada/Konkan Shops: no tender table found
-  mhada: 10 total listings
-  mhada: 10 items
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 26 listings
   mstc: 26 items
-Combined raw items from all sources: 36
-Processing stats: 36 total items, 36 new, -9 duplicates skipped
+Combined raw items from all sources: 46
+Processing stats: 46 total items, 46 new, -17 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 27 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 3/36 items remain
+Saved state with 29 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 13/46 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=3
-Wrote 36 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=13
+Wrote 46 items to data/property_listings.json
