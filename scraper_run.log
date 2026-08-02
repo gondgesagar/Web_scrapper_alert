@@ -1,19 +1,15 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
-Fetched and saved 0 Maharashtra pincodes.
+Warning: failed to fetch Maharashtra pincodes (attempt 1): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f79dc718050>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 1s...
+Fetching Maharashtra pincodes (attempt 2/3)...
+Warning: failed to fetch Maharashtra pincodes (attempt 2): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f79dbf96150>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 2s...
+Fetching Maharashtra pincodes (attempt 3/3)...
+Warning: failed to fetch Maharashtra pincodes after 3 attempts: HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f79dbe9ecd0>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)'))
 Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
-  [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.
-  [DEBUG] Paginating https://baanknet.com/eauction-psb/api/property-listing-data/1
-  [WARN] BAANKNET pagination failed at page 0: APIRequestContext.post: unable to verify the first certificate
+  [ERROR] baanknet failed: Page.goto: Timeout 90000ms exceeded.
 Call log:
-→ POST https://baanknet.com/eauction-psb/api/property-listing-data/1?page=0&size=50
-  -   user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/130.0.6723.31 Safari/537.36
-  -   accept: */*
-  -   accept-encoding: gzip,deflate,br
-  -   Content-Type: application/json
-  -   content-length: 15
+navigating to "https://baanknet.com/property-listing", waiting until "networkidle"
 
-  [WARN] No baanknet payloads captured.
   baanknet: 0 raw items
 Fetching eAuctions India...
 Scraping https://www.eauctionsindia.com/city/bhiwandi...
@@ -92,19 +88,19 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 651 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
-  mhada/Pune: no tender table found
+  mhada/Pune: 10 schemes
   mhada/Nashik: no tender table found
   mhada/Konkan Shops: no tender table found
-  mhada: 10 total listings
-  mhada: 10 items
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 23 listings
   mstc: 23 items
-Combined raw items from all sources: 684
-Processing stats: 684 total items, 684 new, -231 duplicates skipped
+Combined raw items from all sources: 694
+Processing stats: 694 total items, 694 new, -242 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 453 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 157/684 items remain
+Saved state with 452 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 168/694 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=157
-Wrote 684 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=168
+Wrote 694 items to data/property_listings.json
