@@ -43,7 +43,7 @@ Scraping https://www.eauctionsindia.com/city/pune...
 Total eauctionsindia properties fetched: 0
   eauctionsindia: 0 items
 Fetching BankAuctions.in...
-  bankauctions: fetch failed: 403 Client Error: Forbidden for url: https://bankauctions.in/
+  bankauctions: unexpected API response
   bankauctions: 0 items
 Fetching FindAuction.in (Maharashtra cities)...
   findauction/pune page 1: 16 cards
@@ -92,19 +92,19 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 648 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
-  mhada/Pune: no tender table found
-  mhada/Nashik: no tender table found
+  mhada/Pune: 10 schemes
+  mhada/Nashik: 10 schemes
   mhada/Konkan Shops: no tender table found
-  mhada: 10 total listings
-  mhada: 10 items
+  mhada: 30 total listings
+  mhada: 30 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 23 listings
   mstc: 23 items
-Combined raw items from all sources: 681
-Processing stats: 681 total items, 681 new, -243 duplicates skipped
+Combined raw items from all sources: 701
+Processing stats: 701 total items, 701 new, -252 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 438 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 177/681 items remain
+Saved state with 449 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 187/701 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=177
-Wrote 681 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=187
+Wrote 701 items to data/property_listings.json
