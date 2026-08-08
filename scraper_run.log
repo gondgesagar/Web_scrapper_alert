@@ -4,15 +4,7 @@ Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
   [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.
   [DEBUG] Paginating https://baanknet.com/eauction-psb/api/property-listing-data/1
-  [WARN] BAANKNET pagination failed at page 0: APIRequestContext.post: unable to verify the first certificate
-Call log:
-→ POST https://baanknet.com/eauction-psb/api/property-listing-data/1?page=0&size=50
-  -   user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/130.0.6723.31 Safari/537.36
-  -   accept: */*
-  -   accept-encoding: gzip,deflate,br
-  -   Content-Type: application/json
-  -   content-length: 15
-
+  [WARN] BAANKNET page 0 returned HTTP 404
   [WARN] No baanknet payloads captured.
   baanknet: 0 raw items
 Fetching eAuctions India...
@@ -94,17 +86,17 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: no tender table found
   mhada/Nashik: no tender table found
-  mhada/Konkan Shops: no tender table found
-  mhada: 10 total listings
-  mhada: 10 items
+  mhada/Konkan Shops: 10 schemes
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 23 listings
   mstc: 23 items
-Combined raw items from all sources: 681
-Processing stats: 681 total items, 681 new, -260 duplicates skipped
+Combined raw items from all sources: 691
+Processing stats: 691 total items, 691 new, -246 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 421 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 172/681 items remain
+Saved state with 445 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 177/691 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=172
-Wrote 681 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=177
+Wrote 691 items to data/property_listings.json
