@@ -65,28 +65,23 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/raigad page 1: 15 cards
   findauction/raigad page 2: 15 cards
   findauction/raigad page 3: 15 cards
-  findauction/latur page 1: Page.goto: net::ERR_CONNECTION_REFUSED at https://findauction.in/bank-property/latur/all/all/1
-Call log:
-navigating to "https://findauction.in/bank-property/latur/all/all/1", waiting until "domcontentloaded"
-
-  findauction/kalyan page 1: Page.goto: net::ERR_CONNECTION_REFUSED at https://findauction.in/bank-property/kalyan/all/all/1
-Call log:
-navigating to "https://findauction.in/bank-property/kalyan/all/all/1", waiting until "domcontentloaded"
-
-  findauction/bhiwandi page 1: Page.goto: net::ERR_CONNECTION_REFUSED at https://findauction.in/bank-property/bhiwandi/all/all/1
-Call log:
-navigating to "https://findauction.in/bank-property/bhiwandi/all/all/1", waiting until "domcontentloaded"
-
-  findauction/sindhudurg page 1: Page.goto: net::ERR_CONNECTION_REFUSED at https://findauction.in/bank-property/sindhudurg/all/all/1
-Call log:
-navigating to "https://findauction.in/bank-property/sindhudurg/all/all/1", waiting until "domcontentloaded"
-
-  findauction/ahmednagar page 1: Page.goto: net::ERR_CONNECTION_REFUSED at https://findauction.in/bank-property/ahmednagar/all/all/1
-Call log:
-navigating to "https://findauction.in/bank-property/ahmednagar/all/all/1", waiting until "domcontentloaded"
-
-  findauction: 420 total listings
-  findauction: 420 items
+  findauction/latur page 1: 15 cards
+  findauction/latur page 2: 15 cards
+  findauction/latur page 3: 15 cards
+  findauction/kalyan page 1: 16 cards
+  findauction/kalyan page 2: 16 cards
+  findauction/kalyan page 3: 16 cards
+  findauction/bhiwandi page 1: 15 cards
+  findauction/bhiwandi page 2: 15 cards
+  findauction/bhiwandi page 3: 15 cards
+  findauction/sindhudurg page 1: 15 cards
+  findauction/sindhudurg page 2: 15 cards
+  findauction/sindhudurg page 3: 15 cards
+  findauction/ahmednagar page 1: 15 cards
+  findauction/ahmednagar page 2: 15 cards
+  findauction/ahmednagar page 3: 15 cards
+  findauction: 648 total listings
+  findauction: 648 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: no tender table found
@@ -97,11 +92,11 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 23 listings
   mstc: 23 items
-Combined raw items from all sources: 473
-Processing stats: 473 total items, 473 new, -125 duplicates skipped
+Combined raw items from all sources: 701
+Processing stats: 701 total items, 701 new, -251 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 348 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 102/473 items remain
+Saved state with 450 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 177/701 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=102
-Wrote 473 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=177
+Wrote 701 items to data/property_listings.json
