@@ -1,4 +1,6 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
+Warning: failed to fetch Maharashtra pincodes (attempt 1): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f3da545d8d0>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 1s...
+Fetching Maharashtra pincodes (attempt 2/3)...
 Fetched and saved 0 Maharashtra pincodes.
 Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
@@ -85,18 +87,18 @@ Fetching FindAuction.in (Maharashtra cities)...
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: no tender table found
-  mhada/Nashik: 10 schemes
+  mhada/Nashik: no tender table found
   mhada/Konkan Shops: no tender table found
-  mhada: 20 total listings
-  mhada: 20 items
+  mhada: 10 total listings
+  mhada: 10 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 19 listings
   mstc: 19 items
-Combined raw items from all sources: 682
-Processing stats: 682 total items, 682 new, -232 duplicates skipped
+Combined raw items from all sources: 672
+Processing stats: 672 total items, 672 new, -229 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 450 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 178/682 items remain
+Saved state with 443 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 178/672 items remain
 Saved 0 pincodes to cache.
 NEW_AUCTIONS_COUNT=178
-Wrote 682 items to data/property_listings.json
+Wrote 672 items to data/property_listings.json
