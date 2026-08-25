@@ -38,8 +38,50 @@ Fetching BankAuctions.in...
   bankauctions: unexpected API response
   bankauctions: 0 items
 Fetching FindAuction.in (Maharashtra cities)...
-  findauction: 0 total listings
-  findauction: 0 items
+  findauction/pune page 1: 16 cards
+  findauction/pune page 2: 17 cards
+  findauction/pune page 3: 17 cards
+  findauction/mumbai page 1: 16 cards
+  findauction/mumbai page 2: 17 cards
+  findauction/mumbai page 3: 17 cards
+  findauction/kolhapur page 1: 15 cards
+  findauction/kolhapur page 2: 15 cards
+  findauction/kolhapur page 3: 15 cards
+  findauction/nashik page 1: 15 cards
+  findauction/nashik page 2: 15 cards
+  findauction/nashik page 3: 15 cards
+  findauction/mumbai+thane page 1: 16 cards
+  findauction/mumbai+thane page 2: 16 cards
+  findauction/mumbai+thane page 3: 16 cards
+  findauction/solapur page 1: 15 cards
+  findauction/solapur page 2: 15 cards
+  findauction/solapur page 3: 15 cards
+  findauction/satara page 1: 15 cards
+  findauction/satara page 2: 15 cards
+  findauction/satara page 3: 15 cards
+  findauction/ratnagiri page 1: 15 cards
+  findauction/ratnagiri page 2: 15 cards
+  findauction/ratnagiri page 3: 15 cards
+  findauction/raigad page 1: 15 cards
+  findauction/raigad page 2: 15 cards
+  findauction/raigad page 3: 15 cards
+  findauction/latur page 1: 15 cards
+  findauction/latur page 2: 15 cards
+  findauction/latur page 3: 15 cards
+  findauction/kalyan page 1: 15 cards
+  findauction/kalyan page 2: 15 cards
+  findauction/kalyan page 3: 15 cards
+  findauction/bhiwandi page 1: 15 cards
+  findauction/bhiwandi page 2: 15 cards
+  findauction/bhiwandi page 3: 15 cards
+  findauction/sindhudurg page 1: 15 cards
+  findauction/sindhudurg page 2: 15 cards
+  findauction/sindhudurg page 3: 15 cards
+  findauction/ahmednagar page 1: 15 cards
+  findauction/ahmednagar page 2: 15 cards
+  findauction/ahmednagar page 3: 15 cards
+  findauction: 643 total listings
+  findauction: 643 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: no tender table found
@@ -50,12 +92,11 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 19 listings
   mstc: 19 items
-Combined raw items from all sources: 49
-Processing stats: 49 total items, 49 new, -12 duplicates skipped
+Combined raw items from all sources: 692
+Processing stats: 692 total items, 692 new, -223 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 37 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 0/49 items remain
-No new auctions found; skipping email.
+Saved state with 469 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 184/692 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=0
-Wrote 49 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=184
+Wrote 692 items to data/property_listings.json
