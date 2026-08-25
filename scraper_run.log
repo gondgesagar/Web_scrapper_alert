@@ -1,5 +1,9 @@
 Fetching Maharashtra pincodes (attempt 1/3)...
-Fetched and saved 0 Maharashtra pincodes.
+Warning: failed to fetch Maharashtra pincodes (attempt 1): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f9838011010>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 1s...
+Fetching Maharashtra pincodes (attempt 2/3)...
+Warning: failed to fetch Maharashtra pincodes (attempt 2): HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f9838012e90>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)')). Retrying in 2s...
+Fetching Maharashtra pincodes (attempt 3/3)...
+Warning: failed to fetch Maharashtra pincodes after 3 attempts: HTTPSConnectionPool(host='api.postalpincode.in', port=443): Max retries exceeded with url: /state/Maharashtra (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.postalpincode.in', port=443) at 0x7f9837fc3890>, 'Connection to api.postalpincode.in timed out. (connect timeout=30)'))
 Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
   [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.
@@ -83,20 +87,20 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 643 total listings
   findauction: 643 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
-  mhada/Mumbai: no tender table found
-  mhada/Pune: no tender table found
+  mhada/Mumbai: 10 schemes
+  mhada/Pune: 10 schemes
   mhada/Nashik: no tender table found
   mhada/Konkan Shops: no tender table found
-  mhada: 0 total listings
-  mhada: 0 items
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 19 listings
   mstc: 19 items
-Combined raw items from all sources: 662
-Processing stats: 662 total items, 662 new, -213 duplicates skipped
+Combined raw items from all sources: 682
+Processing stats: 682 total items, 682 new, -229 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 449 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 183/662 items remain
+Saved state with 453 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 194/682 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=183
-Wrote 662 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=194
+Wrote 682 items to data/property_listings.json
