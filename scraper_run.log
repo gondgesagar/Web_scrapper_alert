@@ -4,7 +4,7 @@ Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
   [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.
   [DEBUG] Paginating https://baanknet.com/eauction-psb/api/property-listing-data/1
-  [WARN] BAANKNET page 0 returned HTTP 403
+  [WARN] BAANKNET page 0 returned HTTP 405
   [WARN] No baanknet payloads captured.
   baanknet: 0 raw items
 Fetching eAuctions India...
@@ -84,19 +84,19 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 648 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
-  mhada/Pune: no tender table found
+  mhada/Pune: 10 schemes
   mhada/Nashik: no tender table found
   mhada/Konkan Shops: no tender table found
-  mhada: 10 total listings
-  mhada: 10 items
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 21 listings
   mstc: 21 items
-Combined raw items from all sources: 679
-Processing stats: 679 total items, 679 new, -222 duplicates skipped
+Combined raw items from all sources: 689
+Processing stats: 689 total items, 689 new, -219 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 457 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 159/679 items remain
+Saved state with 470 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 183/689 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=159
-Wrote 679 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=183
+Wrote 689 items to data/property_listings.json
