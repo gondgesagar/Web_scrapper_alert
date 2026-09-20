@@ -13,10 +13,7 @@ Scraping https://www.eauctionsindia.com/city/bhiwandi...
 Scraping https://www.eauctionsindia.com/city/kolhapur...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/kolhapur
 Scraping https://www.eauctionsindia.com/city/kalyan...
-Warning: Failed to fetch https://www.eauctionsindia.com/city/kalyan: Page.goto: Navigation to "https://www.eauctionsindia.com/city/kalyan" is interrupted by another navigation to "chrome-error://chromewebdata/"
-Call log:
-navigating to "https://www.eauctionsindia.com/city/kalyan", waiting until "networkidle"
-
+  Extracted 0 properties so far from https://www.eauctionsindia.com/city/kalyan
 Scraping https://www.eauctionsindia.com/city/latur...
   Extracted 0 properties so far from https://www.eauctionsindia.com/city/latur
 Scraping https://www.eauctionsindia.com/city/mumbai...
@@ -87,19 +84,19 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 648 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
-  mhada/Pune: 10 schemes
+  mhada/Pune: no tender table found
   mhada/Nashik: no tender table found
   mhada/Konkan Shops: no tender table found
-  mhada: 20 total listings
-  mhada: 20 items
+  mhada: 10 total listings
+  mhada: 10 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 19 listings
   mstc: 19 items
-Combined raw items from all sources: 687
-Processing stats: 687 total items, 687 new, -229 duplicates skipped
+Combined raw items from all sources: 677
+Processing stats: 677 total items, 677 new, -225 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 458 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 162/687 items remain
+Saved state with 452 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 152/677 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=162
-Wrote 687 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=152
+Wrote 677 items to data/property_listings.json
