@@ -84,19 +84,19 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 648 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
-  mhada/Pune: no tender table found
-  mhada/Nashik: 10 schemes
-  mhada/Konkan Shops: 10 schemes
-  mhada: 30 total listings
-  mhada: 30 items
+  mhada/Pune: 10 schemes
+  mhada/Nashik: no tender table found
+  mhada/Konkan Shops: no tender table found
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 18 listings
   mstc: 18 items
-Combined raw items from all sources: 696
-Processing stats: 696 total items, 696 new, -234 duplicates skipped
+Combined raw items from all sources: 686
+Processing stats: 686 total items, 686 new, -232 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 462 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 137/696 items remain
+Saved state with 454 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 146/686 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=137
-Wrote 696 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=146
+Wrote 686 items to data/property_listings.json
