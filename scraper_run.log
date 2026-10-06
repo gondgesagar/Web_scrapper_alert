@@ -93,10 +93,10 @@ Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 11 listings
   mstc: 11 items
 Combined raw items from all sources: 679
-Processing stats: 679 total items, 679 new, -265 duplicates skipped
+Processing stats: 679 total items, 679 new, -264 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 414 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 149/679 items remain
+Saved state with 415 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 154/679 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=149
+NEW_AUCTIONS_COUNT=154
 Wrote 679 items to data/property_listings.json
