@@ -4,15 +4,7 @@ Fetching BAANKNET (https://baanknet.com/property-listing)...
   [DEBUG] Loading https://baanknet.com/property-listing...
   [WARN] No BAANKNET POST captured; using default endpoint with Maharashtra filter.
   [DEBUG] Paginating https://baanknet.com/eauction-psb/api/property-listing-data/1
-  [WARN] BAANKNET pagination failed at page 0: APIRequestContext.post: unable to verify the first certificate
-Call log:
-→ POST https://baanknet.com/eauction-psb/api/property-listing-data/1?page=0&size=50
-  -   user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/130.0.6723.31 Safari/537.36
-  -   accept: */*
-  -   accept-encoding: gzip,deflate,br
-  -   Content-Type: application/json
-  -   content-length: 15
-
+  [WARN] BAANKNET page 0 returned HTTP 403
   [WARN] No baanknet payloads captured.
   baanknet: 0 raw items
 Fetching eAuctions India...
@@ -92,19 +84,19 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction: 648 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
-  mhada/Pune: 10 schemes
+  mhada/Pune: no tender table found
   mhada/Nashik: no tender table found
   mhada/Konkan Shops: no tender table found
-  mhada: 20 total listings
-  mhada: 20 items
+  mhada: 10 total listings
+  mhada: 10 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 11 listings
   mstc: 11 items
-Combined raw items from all sources: 679
-Processing stats: 679 total items, 679 new, -255 duplicates skipped
+Combined raw items from all sources: 669
+Processing stats: 669 total items, 669 new, -241 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 424 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 143/679 items remain
+Saved state with 428 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 137/669 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=143
-Wrote 679 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=137
+Wrote 669 items to data/property_listings.json
