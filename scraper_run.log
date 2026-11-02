@@ -51,8 +51,8 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/nashik page 2: 15 cards
   findauction/nashik page 3: 15 cards
   findauction/mumbai+thane page 1: 16 cards
-  findauction/mumbai+thane page 2: 16 cards
-  findauction/mumbai+thane page 3: 16 cards
+  findauction/mumbai+thane page 2: 17 cards
+  findauction/mumbai+thane page 3: 17 cards
   findauction/solapur page 1: 15 cards
   findauction/solapur page 2: 15 cards
   findauction/solapur page 3: 15 cards
@@ -68,9 +68,9 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/latur page 1: 15 cards
   findauction/latur page 2: 15 cards
   findauction/latur page 3: 15 cards
-  findauction/kalyan page 1: 15 cards
-  findauction/kalyan page 2: 15 cards
-  findauction/kalyan page 3: 15 cards
+  findauction/kalyan page 1: 16 cards
+  findauction/kalyan page 2: 17 cards
+  findauction/kalyan page 3: 17 cards
   findauction/bhiwandi page 1: 15 cards
   findauction/bhiwandi page 2: 15 cards
   findauction/bhiwandi page 3: 15 cards
@@ -80,23 +80,23 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/ahmednagar page 1: 15 cards
   findauction/ahmednagar page 2: 15 cards
   findauction/ahmednagar page 3: 15 cards
-  findauction: 643 total listings
-  findauction: 643 items
+  findauction: 650 total listings
+  findauction: 650 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
-  mhada/Pune: no tender table found
+  mhada/Pune: 10 schemes
   mhada/Nashik: no tender table found
   mhada/Konkan Shops: no tender table found
-  mhada: 10 total listings
-  mhada: 10 items
+  mhada: 20 total listings
+  mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
   mstc/npa: 11 listings
   mstc: 11 items
-Combined raw items from all sources: 664
-Processing stats: 664 total items, 664 new, -203 duplicates skipped
+Combined raw items from all sources: 681
+Processing stats: 681 total items, 681 new, -257 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 461 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 171/664 items remain
+Saved state with 424 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 161/681 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=171
-Wrote 664 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=161
+Wrote 681 items to data/property_listings.json
