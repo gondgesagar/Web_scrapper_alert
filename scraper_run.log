@@ -38,9 +38,9 @@ Fetching BankAuctions.in...
   bankauctions: unexpected API response
   bankauctions: 0 items
 Fetching FindAuction.in (Maharashtra cities)...
-  findauction/pune page 1: 15 cards
-  findauction/pune page 2: 15 cards
-  findauction/pune page 3: 15 cards
+  findauction/pune page 1: 16 cards
+  findauction/pune page 2: 16 cards
+  findauction/pune page 3: 16 cards
   findauction/mumbai page 1: 16 cards
   findauction/mumbai page 2: 17 cards
   findauction/mumbai page 3: 17 cards
@@ -80,8 +80,8 @@ Fetching FindAuction.in (Maharashtra cities)...
   findauction/ahmednagar page 1: 15 cards
   findauction/ahmednagar page 2: 15 cards
   findauction/ahmednagar page 3: 15 cards
-  findauction: 635 total listings
-  findauction: 635 items
+  findauction: 638 total listings
+  findauction: 638 items
 Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada/Mumbai: 10 schemes
   mhada/Pune: 10 schemes
@@ -90,13 +90,13 @@ Fetching MHADA eAuction (https://eauction.mhada.gov.in/)...
   mhada: 20 total listings
   mhada: 20 items
 Fetching MSTC / IBAPI (https://www.mstcecommerce.com/auctionhome/ibapi/)...
-  mstc/npa: 13 listings
-  mstc: 13 items
-Combined raw items from all sources: 668
-Processing stats: 668 total items, 668 new, -225 duplicates skipped
+  mstc/npa: 12 listings
+  mstc: 12 items
+Combined raw items from all sources: 670
+Processing stats: 670 total items, 670 new, -240 duplicates skipped
 Wrote copy of results to docs/data/property_listings.json
-Saved state with 443 total tracked items to .state/state.json
-Applied property-types filter: plots, land, farm hous, bunglow — 147/668 items remain
+Saved state with 430 total tracked items to .state/state.json
+Applied property-types filter: plots, land, farm hous, bunglow — 145/670 items remain
 Saved 0 pincodes to cache.
-NEW_AUCTIONS_COUNT=147
-Wrote 668 items to data/property_listings.json
+NEW_AUCTIONS_COUNT=145
+Wrote 670 items to data/property_listings.json
